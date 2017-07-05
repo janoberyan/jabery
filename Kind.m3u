@@ -1,0 +1,48 @@
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_AJAIL" tvg-logo="" group-title="19- Enfant Arabic",AR_AJAIL
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/335.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_AlJazeera Kids" tvg-logo="" group-title="19- Enfant Arabic",AR_AlJazeera Kids
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/334.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Baraeem" tvg-logo="" group-title="19- Enfant Arabic",AR_Baraeem
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/333.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_CN_Arabia" tvg-logo="" group-title="19- Enfant Arabic",AR_CN_Arabia
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/331.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Semsem" tvg-logo="" group-title="19- Enfant Arabic",AR_Semsem
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/329.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Jeem_TV" tvg-logo="" group-title="19- Enfant Arabic",AR_Jeem_TV
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/330.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Space Toon" tvg-logo="" group-title="19- Enfant Arabic",AR_Space Toon
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/328.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Toyour_Baby" tvg-logo="" group-title="19- Enfant Arabic",AR_Toyour_Baby
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/327.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Toyour_ElJannah" tvg-logo="" group-title="19- Enfant Arabic",AR_Toyour_ElJannah
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/326.ts
+#EXTINF:-1,SpacetoonAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1047.m3u8
+#EXTINF:-1,Hod Hod TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1048.m3u8
+#EXTINF:-1,Baraem Kids EuropeAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1049.m3u8
+#EXTINF:-1,Toyor Al JanahAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1050.m3u8
+#EXTINF:-1,Jeem KidsAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1051.m3u8
+#EXTINF:-1,KarameeshAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1052.m3u8
+#EXTINF:-1,AjyalAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1253.m3u8
+#EXTINF:-1,Cartoon NetworkAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1270.m3u8
+#EXTINF:-1,Toyor BabyAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2224.m3u8
+#EXTINF:-1,Sem SemAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1207.m3u8
+
