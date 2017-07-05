@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,Al OulaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/936.m3u8
+#EXTINF:-1,Al Oula InterAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/939.m3u8
+#EXTINF:-1,2M MarocAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/937.m3u8
+#EXTINF:-1,ArriadiaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/940.m3u8
+#EXTINF:-1,ArrabiaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/938.m3u8
+#EXTINF:-1,Al MaghribiaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/941.m3u8
+#EXTINF:-1,AssadissaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/942.m3u8
+#EXTINF:-1,AssabiaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/3299.m3u8
+#EXTINF:-1,TamazightAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/944.m3u8
+#EXTINF:-1,Medi 1 TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/943.m3u8
+#EXTINF:-1,AR: Tele Maroc
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/3303.m3u8
+#EXTINF:-1,Al Oula HDAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2189.m3u8
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_Tele-Maroc" tvg-logo="" group-title="14- Maroc",MA_Tele-Maroc
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/384.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_Medi-1-TV" tvg-logo="" group-title="14- Maroc",MA_Medi-1-TV
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/388.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_Al-Aoula-Inter" tvg-logo="" group-title="14- Maroc",MA_Al-Aoula-Inter
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/385.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_2M-Monde" tvg-logo="" group-title="14- Maroc",MA_2M-Monde
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/386.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_Arriadia" tvg-logo="" group-title="14- Maroc",MA_Arriadia
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/390.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_Arrabia" tvg-logo="" group-title="14- Maroc",MA_Arrabia
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/391.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_Al-Maghribia" tvg-logo="" group-title="14- Maroc",MA_Al-Maghribia
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/387.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_Assadisa" tvg-logo="" group-title="14- Maroc",MA_Assadisa
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/392.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_Tamazight" tvg-logo="" group-title="14- Maroc",MA_Tamazight
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/389.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="MA_SUD24-TV" tvg-logo="" group-title="14- Maroc",MA_SUD24-TV
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/393.ts
