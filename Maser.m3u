@@ -1,0 +1,218 @@
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Alhayat_1" tvg-logo="" group-title="16- Egypt",AR_Alhayat_1
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/251.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Alhayat_2" tvg-logo="" group-title="16- Egypt",AR_Alhayat_2
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/252.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Cinema" tvg-logo="" group-title="16- Egypt",AR_Rotana_Cinema
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/232.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Aflam" tvg-logo="" group-title="16- Egypt",AR_Rotana_Aflam
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/233.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Music" tvg-logo="" group-title="16- Egypt",AR_Rotana_Music
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/237.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_classic" tvg-logo="" group-title="16- Egypt",AR_Rotana_classic
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/234.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Massrya" tvg-logo="" group-title="16- Egypt",AR_Rotana_Massrya
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/235.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Khaliji" tvg-logo="" group-title="16- Egypt",AR_Rotana_Khaliji
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/236.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Clip" tvg-logo="" group-title="16- Egypt",AR_Rotana_Clip
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/238.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Drama" tvg-logo="" group-title="16- Egypt",AR_Melody_Drama
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/219.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Hits" tvg-logo="" group-title="16- Egypt",AR_Melody_Hits
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/218.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Aflam" tvg-logo="" group-title="16- Egypt",AR_Melody_Aflam
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/221.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Classic" tvg-logo="" group-title="16- Egypt",AR_Melody_Classic
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/220.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/231.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_Cinema" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_Cinema
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/229.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_Drama" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_Drama
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/228.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_One" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_One
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/227.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_Al_Youm" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_Al_Youm
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/230.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Film" tvg-logo="" group-title="16- Egypt",AR_Panorama_Film
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/239.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Comedy" tvg-logo="" group-title="16- Egypt",AR_Panorama_Comedy
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/242.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Drama" tvg-logo="" group-title="16- Egypt",AR_Panorama_Drama
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/241.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Drama _2" tvg-logo="" group-title="16- Egypt",AR_Panorama_Drama _2
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/240.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Sport" tvg-logo="" group-title="16- Egypt",AR_Nile_Sport
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/243.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_News" tvg-logo="" group-title="16- Egypt",AR_Nile_News
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/244.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Life" tvg-logo="" group-title="16- Egypt",AR_Nile_Life
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/245.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_family" tvg-logo="" group-title="16- Egypt",AR_Nile_family
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/246.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Drama" tvg-logo="" group-title="16- Egypt",AR_Nile_Drama
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/247.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Culture" tvg-logo="" group-title="16- Egypt",AR_Nile_Culture
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/248.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Comedie" tvg-logo="" group-title="16- Egypt",AR_Nile_Comedie
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/249.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Cinema" tvg-logo="" group-title="16- Egypt",AR_Nile_Cinema
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/250.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Dream_1" tvg-logo="" group-title="16- Egypt",AR_Dream_1
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/253.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Dream_2" tvg-logo="" group-title="16- Egypt",AR_Dream_2
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/254.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC" tvg-logo="" group-title="16- Egypt",AR_CBC
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/226.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_2" tvg-logo="" group-title="16- Egypt",AR_CBC_2
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/225.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Extra" tvg-logo="" group-title="16- Egypt",AR_CBC_Extra
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/223.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Drama" tvg-logo="" group-title="16- Egypt",AR_CBC_Drama
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/224.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Sofra" tvg-logo="" group-title="16- Egypt",AR_CBC_Sofra
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/222.ts
+
+#EXTINF:-1,EscAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1058.m3u8
+#EXTINF:-1,CbcAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1059.m3u8
+#EXTINF:-1,Cbc SofraAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1063.m3u8
+#EXTINF:-1,Cbc ExtraAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1062.m3u8
+#EXTINF:-1,MekameleenAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1064.m3u8
+#EXTINF:-1,Al Hayat MusalsalatAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1066.m3u8
+#EXTINF:-1,Nile CinemaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1067.m3u8
+#EXTINF:-1,Nile DramaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1068.m3u8
+#EXTINF:-1,Nile FamilyAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1069.m3u8
+#EXTINF:-1,Nile ComedyAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1070.m3u8
+#EXTINF:-1,Nile NewsAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1071.m3u8
+#EXTINF:-1,Nile LifeAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1072.m3u8
+#EXTINF:-1,Nile CultureAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2123.m3u8
+#EXTINF:-1,Nile SportAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1073.m3u8
+#EXTINF:-1,Al AskandriaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1074.m3u8
+#EXTINF:-1,Al KaheraAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1075.m3u8
+#EXTINF:-1,Al Kahera Wel NesAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1076.m3u8
+#EXTINF:-1,Sada el Balad HDAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1077.m3u8
+#EXTINF:-1,Sada El Balad DramaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1078.m3u8
+#EXTINF:-1,Dream 2Ar
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1079.m3u8
+#EXTINF:-1,TenAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1080.m3u8
+#EXTINF:-1,Al Nahar OneAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1081.m3u8
+#EXTINF:-1,Al Nahar DramaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1085.m3u8
+#EXTINF:-1,Al Nahar SportAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1087.m3u8
+#EXTINF:-1,Al Nahar CinemaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1083.m3u8
+#EXTINF:-1,Al Nahar NoorAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1086.m3u8
+#EXTINF:-1,Al Nahar AlyoumAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1084.m3u8
+#EXTINF:-1,Al Hiwar EttounsiAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1088.m3u8
+#EXTINF:-1,MehwarAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1089.m3u8
+#EXTINF:-1,Star Cinema 1Ar
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1090.m3u8
+#EXTINF:-1,Star Cinema 2Ar
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1091.m3u8
+#EXTINF:-1,Tok Tok CinemaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1093.m3u8
+#EXTINF:-1,Cairo CinemaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1094.m3u8
+#EXTINF:-1,Cairo DramaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1095.m3u8
+#EXTINF:-1,Panorama FilmAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1096.m3u8
+#EXTINF:-1,Time CinemaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1097.m3u8
+#EXTINF:-1,Time FilmAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1098.m3u8
+#EXTINF:-1,Misra El Zera3eyaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1101.m3u8
+#EXTINF:-1,Cinema ProAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1102.m3u8
+#EXTINF:-1,CimaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1103.m3u8
+#EXTINF:-1,Al Ghad Al ArbiyaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1104.m3u8
+#EXTINF:-1,NoursatAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1105.m3u8
+#EXTINF:-1,Afrah TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1106.m3u8
+#EXTINF:-1,AnnAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1107.m3u8
+#EXTINF:-1,Aghani AghaniAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1108.m3u8
+#EXTINF:-1,Halaba TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1110.m3u8
+#EXTINF:-1,Miracle TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1111.m3u8
+#EXTINF:-1,Heya TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1114.m3u8
+#EXTINF:-1,El SharqAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1115.m3u8
+#EXTINF:-1,Al InsenAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1116.m3u8
+#EXTINF:-1,Al Karma TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1117.m3u8
+#EXTINF:-1,Al Asrar TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1118.m3u8
+#EXTINF:-1,Naba TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1119.m3u8
