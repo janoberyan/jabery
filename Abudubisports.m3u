@@ -1,0 +1,27 @@
+
+#EXTINF:-1,Abu Dhabi Sport 1 HDAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1286.m3u8
+#EXTINF:-1,Abu Dhabi Sport 2 HDAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1859.m3u8
+#EXTINF:-1,Osn Abu Dhabi Sports 2 HDAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1674.m3u8
+#EXTINF:-1,Osn Abu Dhabi Sports 3 HDAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1675.m3u8
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-1HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-1HD
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/41.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-2HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-2HD
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/42.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-3HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-3HD
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/43.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-4HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-4HD
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/44.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-5HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-5HD
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/45.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-6HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-6HD
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/46.ts
