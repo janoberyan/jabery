@@ -1,0 +1,101 @@
+#EXTINF:-1,Al SharqiyaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1127.m3u8
+#EXTINF:-1,Al Forat IraqiAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1169.m3u8
+#EXTINF:-1,Al IraqiaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1170.m3u8
+#EXTINF:-1,Hona BaghdadAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1171.m3u8
+#EXTINF:-1,Baghdad TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1172.m3u8
+#EXTINF:-1,Al BasiraAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1174.m3u8
+#EXTINF:-1,AlhurraAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1177.m3u8
+#EXTINF:-1,Al Sharqia NewsAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2203.m3u8
+#EXTINF:-1,Al Sharqia News HDAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1178.m3u8
+#EXTINF:-1,Karbala TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1183.m3u8
+#EXTINF:-1,Al SumariaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1184.m3u8
+#EXTINF:-1,Al MalakootAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1185.m3u8
+#EXTINF:-1,Abalfadhl Allabas TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1186.m3u8
+#EXTINF:-1,MassayaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1187.m3u8
+#EXTINF:-1,Al AwhadAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1189.m3u8
+#EXTINF:-1,Al Sahraa AlabelAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1190.m3u8
+#EXTINF:-1,Zweina BaladnaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1191.m3u8
+#EXTINF:-1,Al AmakenAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1192.m3u8
+#EXTINF:-1,Al Nada TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1193.m3u8
+#EXTINF:-1,Al DiyarAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1195.m3u8
+#EXTINF:-1,Al QanatAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1196.m3u8
+#EXTINF:-1,Dijlah TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2672.m3u8
+#EXTINF:-1,Al Iraqia NewsAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2972.m3u8
+#EXTINF:-1,Iraqi EducationAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2194.m3u8
+#EXTINF:-1,Al RasheedAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1137.m3u8
+#EXTINF:-1,Al ArabyAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1168.m3u8
+#EXTINF:-1,Al Forat IraqiAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1169.m3u8
+#EXTINF:-1,Anb TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2220.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sharqiya.jpg" group-title="IRAQ" ,AlSharqiya
+rtmp://ns8.indexforce.com/home/mystream
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sharqia%20news.jpg" group-title="IRAQ" ,AlsharqiyaNews
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sumaria.jpg" group-title="IRAQ" group-title="IRAQ" ,Alsumaria
+http://216.66.42.38:7777/Alsumaria_Med.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.alqurtasnews.com/NewsImages/NB-186164-636087828264798947.jpg" group-title="IRAQ" ,Hounabaghdad
+https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.alqurtasnews.com/NewsImages/NB-186164-636087828264798947.jpg" group-title="IRAQ" ,Hounabaghdad backup
+http://216.66.42.38:7777/HonaBagdad_Med.m3u8
+#EXTINF:-1 tvg-logo="http://www.dijlah.tv/templates/defaultNew/images/logo-sticky@2x.png" group-title="IRAQ" ,Dejlah
+rtmp://91.134.145.75:1935/Dijlah?speed=1
+
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20iraqiya.jpg" group-title="IRAQ" group-title="IRAQ" ,AlIraqiya
+http://216.66.42.38:7777/AlIraqiya_Med.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rasheed.jpg" group-title="IRAQ" ,AL Rasheed TV
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qow80muqnGQ/default.jpg" group-title="IRAQ" ,NRT Arabiya
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-sSWMDncpXjo/AAAAAAAAAAI/AAAAAAAAAAA/9cs5oMO3hMI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="IRAQ" ,Asia TV
+rtmp://178.63.55.18:1935/live/myStream
+
+#EXTINF:-1 tvg-logo="http://www.livetvswatch.com/uploads/afaq-tv-live-from-iraq.png" group-title="IRAQ" ,afaqtv
+http://212.18.231.213:1935/afaqtv/afaqtv_source/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qow80muqnGQ/default.jpg" group-title="IRAQ" ,NRT Arabiya
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iraqi-website.com/wp-content/uploads/2016/11/photo-2.jpg" group-title="IRAQ" ,Hadath Iraq TV
+http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.msrawytop.com/wp-content/uploads/2014/09/214.jpg" group-title="IRAQ" ,Anb iraq
+http://185.27.116.54:1935/live/anb.stream_360p/chunklist_w163760174.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20forat.jpg" group-title="IRAQ" ,alforat
+http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/09/%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1.png" group-title="IRAQ" ,ishtar TV
+http://avenuewtv1.srfms.com:2039/live/ishtar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.assyriantv.net/wp-content/uploads/2016/08/logo.png" group-title="IRAQ" ,Assyria TV
+mms://66.242.170.200/AssyriaSat
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20hurra%20iraq.jpg" group-title="IRAQ" ,alhura
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
