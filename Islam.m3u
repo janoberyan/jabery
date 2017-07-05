@@ -1,0 +1,66 @@
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Majd" tvg-logo="" group-title="20- Islam",AR_Al_Majd
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/316.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Majd_Quran" tvg-logo="" group-title="20- Islam",AR_Al_Majd_Quran
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/318.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Majd_Hadith" tvg-logo="" group-title="20- Islam",AR_Al_Majd_Hadith
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/317.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alnas" tvg-logo="" group-title="20- Islam",AR_Alnas
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/315.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alrahma" tvg-logo="" group-title="20- Islam",AR_Alrahma
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/314.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alresalah" tvg-logo="" group-title="20- Islam",AR_Alresalah
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/319.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Mekke" tvg-logo="" group-title="20- Islam",AR_Mekke
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/322.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Wesal_1" tvg-logo="" group-title="20- Islam",AR_Wesal_1
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/324.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Roya" tvg-logo="" group-title="20- Islam",AR_Roya
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/323.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_IQRAA" tvg-logo="" group-title="20- Islam",AR_IQRAA
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/320.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_alfajer_tv" tvg-logo="" group-title="20- Islam",AR_alfajer_tv
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/321.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Ahl_Al_Quran" tvg-logo="" group-title="20- Islam",AR_Ahl_Al_Quran
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/325.ts
+#EXTINF:-1,IqraaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1023.m3u8
+#EXTINF:-1,Saudi QuranAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1024.m3u8
+#EXTINF:-1,Resalat Al IslamAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1026.m3u8
+#EXTINF:-1,Al RahmaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1027.m3u8
+#EXTINF:-1,Al Majd 1 Ar
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1029.m3u8
+#EXTINF:-1,Al Majd 2Ar
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1028.m3u8
+#EXTINF:-1,Al Majd 3Ar
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2118.m3u8
+#EXTINF:-1,Al Majd 4Ar
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2119.m3u8
+#EXTINF:-1,Al Majd Kids HDAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1863.m3u8
+#EXTINF:-1,Al ResalaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1030.m3u8
+#EXTINF:-1,Mecca TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1031.m3u8
+#EXTINF:-1,JannahAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1032.m3u8
+#EXTINF:-1,Al OmahAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1033.m3u8
+#EXTINF:-1,Mta Muslim TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1034.m3u8
+#EXTINF:-1,Mta InternationalAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1035.m3u8
