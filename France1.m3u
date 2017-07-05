@@ -1,0 +1,249 @@
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TF1" tvg-logo="" group-title="06- TNT France",FR_TF1
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/470.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_M6" tvg-logo="" group-title="06- TNT France",FR_M6
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/471.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_O" tvg-logo="" group-title="06- TNT France",FR_FRANCE_O
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/472.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_2" tvg-logo="" group-title="06- TNT France",FR_FRANCE_2
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/473.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_3" tvg-logo="" group-title="06- TNT France",FR_FRANCE_3
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/474.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_4" tvg-logo="" group-title="06- TNT France",FR_FRANCE_4
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/475.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FR_FRANCE_5" tvg-logo="" group-title="06- TNT France",FR_FRANCE_5
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/476.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ACTION" tvg-logo="" group-title="07- Canal+Cinema",FR_ACTION
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/450.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/455.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL CINEMA" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL CINEMA
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/454.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL SERIES" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL SERIES
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/451.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL FAMILY" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL FAMILY
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/452.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL DECALE" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL DECALE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/453.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_COMEDIE" tvg-logo="" group-title="07- Canal+Cinema",FR_COMEDIE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/464.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_PREMIER" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_PREMIER
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/456.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_FRISSON" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_FRISSON
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/459.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_EMOTION" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_EMOTION
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/461.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_CLASSIC" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_CLASSIC
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/463.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_POLAR" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_POLAR
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/457.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_CLUB" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_CLUB
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/462.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_FAMIZ" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_FAMIZ
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/460.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_FX" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_FX
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/458.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OCS_CHOC" tvg-logo="" group-title="07- Canal+Cinema",FR_OCS_CHOC
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/468.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OCS_GEANT" tvg-logo="" group-title="07- Canal+Cinema",FR_OCS_GEANT
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/466.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OCS_MAX" tvg-logo="" group-title="07- Canal+Cinema",FR_OCS_MAX
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/465.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OCS_CITY" tvg-logo="" group-title="07- Canal+Cinema",FR_OCS_CITY
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/467.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TCM_CINEMA" tvg-logo="" group-title="07- Canal+Cinema",FR_TCM_CINEMA
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/469.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_1" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_1
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/394.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_2" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_2
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/395.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_3" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_3
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/396.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_4" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_4
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/397.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_5" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_5
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/398.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_1" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_1
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/399.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_2" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_2
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/400.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_3" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_3
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/401.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_4" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_4
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/402.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_5" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_5
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/403.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ANIMAUX" tvg-logo="" group-title="08- Canal+Culture",FR_ANIMAUX
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/439.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISCOVRY" tvg-logo="" group-title="08- Canal+Culture",FR_DISCOVRY
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/437.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISCOVRY-SCI" tvg-logo="" group-title="08- Canal+Culture",FR_DISCOVRY-SCI
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/438.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_NAT-GEO-WILD" tvg-logo="" group-title="08- Canal+Culture",FR_NAT-GEO-WILD
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/436.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_NATIONAL-GEO" tvg-logo="" group-title="08- Canal+Culture",FR_NATIONAL-GEO
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/435.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_PLANETE" tvg-logo="" group-title="08- Canal+Culture",FR_PLANETE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/446.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_PLANETE-CI" tvg-logo="" group-title="08- Canal+Culture",FR_PLANETE-CI
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/444.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_PLANETE-AE" tvg-logo="" group-title="08- Canal+Culture",FR_PLANETE-AE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/445.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_RMC_DECOUVERTE" tvg-logo="" group-title="08- Canal+Culture",FR_RMC_DECOUVERTE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/447.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_SCIENCE_VIE" tvg-logo="" group-title="08- Canal+Culture",FR_SCIENCE_VIE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/448.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_SEASON" tvg-logo="" group-title="08- Canal+Culture",FR_SEASON
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/443.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TOUT_LHISTOIRE" tvg-logo="" group-title="08- Canal+Culture",FR_TOUT_LHISTOIRE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/449.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TREK" tvg-logo="" group-title="08- Canal+Culture",FR_TREK
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/442.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_USHUAIA_TV" tvg-logo="" group-title="08- Canal+Culture",FR_USHUAIA_TV
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/440.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CHASSE_PECHE" tvg-logo="" group-title="08- Canal+Culture",FR_CHASSE_PECHE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/441.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TIJI" tvg-logo="" group-title="09- Canal+Enfants",FR_TIJI
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/423.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_BOING" tvg-logo="" group-title="09- Canal+Enfants",FR_BOING
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/424.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_BOOMERANG." tvg-logo="" group-title="09- Canal+Enfants",FR_BOOMERANG.
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/434.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_J" tvg-logo="" group-title="09- Canal+Enfants",FR_CANAL_J
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/421.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISNEY_CHANNEL" tvg-logo="" group-title="09- Canal+Enfants",FR_DISNEY_CHANNEL
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/432.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISNEY_CINEMA" tvg-logo="" group-title="09- Canal+Enfants",FR_DISNEY_CINEMA
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/431.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISNEY_JUNIOR" tvg-logo="" group-title="09- Canal+Enfants",FR_DISNEY_JUNIOR
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/430.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISNEY_XD" tvg-logo="" group-title="09- Canal+Enfants",FR_DISNEY_XD
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/429.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_GULLI" tvg-logo="" group-title="09- Canal+Enfants",FR_GULLI
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/428.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_MANGAS" tvg-logo="" group-title="09- Canal+Enfants",FR_MANGAS
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/427.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_NICKELODEON" tvg-logo="" group-title="09- Canal+Enfants",FR_NICKELODEON
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/426.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_NICKELODEON_JUNIOR" tvg-logo="" group-title="09- Canal+Enfants",FR_NICKELODEON_JUNIOR
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/425.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_PIWI" tvg-logo="" group-title="09- Canal+Enfants",FR_PIWI
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/418.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TELETOON" tvg-logo="" group-title="09- Canal+Enfants",FR_TELETOON
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/419.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ZOUZOUS" tvg-logo="" group-title="09- Canal+Enfants",FR_ZOUZOUS
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/422.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CARTON_NET" tvg-logo="" group-title="09- Canal+Enfants",FR_CARTON_NET
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/420.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL SPORT" tvg-logo="" group-title="10- Canal+Sports",FR_CANAL SPORT
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/408.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_EQUIDAI_LIVE" tvg-logo="" group-title="10- Canal+Sports",FR_EQUIDAI_LIVE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/415.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_EUROSPORT_1" tvg-logo="" group-title="10- Canal+Sports",FR_EUROSPORT_1
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/412.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_EUROSPORT_2" tvg-logo="" group-title="10- Canal+Sports",FR_EUROSPORT_2
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/413.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FOOT 24" tvg-logo="" group-title="10- Canal+Sports",FR_FOOT 24
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/409.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_GOLF" tvg-logo="" group-title="10- Canal+Sports",FR_GOLF
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/414.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_INFOSPORT" tvg-logo="" group-title="10- Canal+Sports",FR_INFOSPORT
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/410.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_L'EQUIPE_21" tvg-logo="" group-title="10- Canal+Sports",FR_L'EQUIPE_21
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/411.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OL_TV" tvg-logo="" group-title="10- Canal+Sports",FR_OL_TV
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/417.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OM_TV" tvg-logo="" group-title="10- Canal+Sports",FR_OM_TV
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/416.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_24" tvg-logo="" group-title="11- Canal+Info",FR_FRANCE_24
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/404.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_EURONEWS." tvg-logo="" group-title="11- Canal+Info",FR_EURONEWS.
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/433.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_LCI" tvg-logo="" group-title="11- Canal+Info",FR_LCI
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/407.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_BFM" tvg-logo="" group-title="11- Canal+Info",FR_BFM
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/406.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ITELE" tvg-logo="" group-title="11- Canal+Info",FR_ITELE
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/405.ts
