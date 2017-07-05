@@ -1,0 +1,58 @@
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Tunesia_1" tvg-logo="" group-title="17- Tunisie",TN_Tunesia_1
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/347.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Tunesia_2" tvg-logo="" group-title="17- Tunisie",TN_Tunesia_2
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/348.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Tonesna" tvg-logo="" group-title="17- Tunisie",TN_Tonesna
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/352.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TU_Hannibal" tvg-logo="" group-title="17- Tunisie",TU_Hannibal
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/350.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Zitouna" tvg-logo="" group-title="17- Tunisie",TN_Zitouna
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/351.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Telvaza" tvg-logo="" group-title="17- Tunisie",TN_Telvaza
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/353.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Nessma" tvg-logo="" group-title="17- Tunisie",TN_Nessma
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/354.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_El-Hiwar_Ettounsi" tvg-logo="" group-title="17- Tunisie",TN_El-Hiwar_Ettounsi
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/349.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Attasiaa" tvg-logo="" group-title="17- Tunisie",TN_Attasiaa
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/355.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Al-Janoubia" tvg-logo="" group-title="17- Tunisie",TN_Al-Janoubia
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/356.ts
+
+#EXTINF:-1,M TunisiaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/996.m3u8
+#EXTINF:-1,TunisnaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/997.m3u8
+#EXTINF:-1,HannibalAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/998.m3u8
+#EXTINF:-1,Attasia TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/999.m3u8
+#EXTINF:-1,Zitouna HedayaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1002.m3u8
+#EXTINF:-1,Al JanoubiaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1003.m3u8
+#EXTINF:-1,Tunesie TelevisionAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1004.m3u8
+#EXTINF:-1,Tunisia National 1Ar
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1005.m3u8
+#EXTINF:-1,Tunisia National 2Ar
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1006.m3u8
+#EXTINF:-1,Nessma TVAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2039.m3u8
+#EXTINF:-1,Al Hiwar EttounsiAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1088.m3u8
+#EXTINF:-1,First TunisiaAr
+http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2125.m3u8
+
+
+
