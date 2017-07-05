@@ -1,0 +1,65 @@
+
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,ANIMUX-FR
+http://78.129.237.5:25461/live/acid/aido/789.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,CANAL CINEMA-FR
+http://78.129.237.5:25461/live/acid/aido/791.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,CANAL DECALE-FR
+http://78.129.237.5:25461/live/acid/aido/792.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,CANAL FAMILY-FR
+http://78.129.237.5:25461/live/acid/aido/794.ts
+
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,CANAL SERIES-FR
+http://78.129.237.5:25461/live/acid/aido/795.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,CHASSE E PECHE-FR
+http://78.129.237.5:25461/live/acid/aido/807.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,CINE CLASSIC-FR
+http://78.129.237.5:25461/live/acid/aido/809.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,CINE FAMIZ-FR
+http://78.129.237.5:25461/live/acid/aido/810.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,CINE FX-FR
+http://78.129.237.5:25461/live/acid/aido/811.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,CINE POLAR-FR
+http://78.129.237.5:25461/live/acid/aido/812.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,DISCOVERY SCIENCE-FR
+http://78.129.237.5:25461/live/acid/aido/814.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,DISCOVERY-FR
+http://78.129.237.5:25461/live/acid/aido/813.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,FRANCE 2-FR
+http://78.129.237.5:25461/live/acid/aido/817.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,FRANCE 3-FR
+http://78.129.237.5:25461/live/acid/aido/818.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,FRANCE 5-FR
+http://78.129.237.5:25461/live/acid/aido/819.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,NAT GEO CHANNEL-FR
+http://78.129.237.5:25461/live/acid/aido/824.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,NAT GEO WILD-FR
+http://78.129.237.5:25461/live/acid/aido/825.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,NRJ12-FR
+http://78.129.237.5:25461/live/acid/aido/827.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,PLANETE PLUS CI-FR
+http://78.129.237.5:25461/live/acid/aido/832.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,PLANETE PLUS-FR
+http://78.129.237.5:25461/live/acid/aido/831.ts
+#EXTVLCOPT:http-user-agent=eco
+#EXTINF:-1,W9 HD-FR
+http://78.129.237.5:25461/live/acid/aido/862.ts
