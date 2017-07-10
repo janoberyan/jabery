@@ -1,28 +1,37 @@
-#EXTM3U
-#EXTINF:-1,Al OulaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/936.m3u8
-#EXTINF:-1,Al Oula InterAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/939.m3u8
-#EXTINF:-1,2M MarocAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/937.m3u8
-#EXTINF:-1,ArriadiaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/940.m3u8
-#EXTINF:-1,ArrabiaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/938.m3u8
-#EXTINF:-1,Al MaghribiaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/941.m3u8
-#EXTINF:-1,AssadissaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/942.m3u8
-#EXTINF:-1,AssabiaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/3299.m3u8
-#EXTINF:-1,TamazightAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/944.m3u8
-#EXTINF:-1,Medi 1 TVAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/943.m3u8
-#EXTINF:-1,AR: Tele Maroc
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/3303.m3u8
-#EXTINF:-1,Al Oula HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2189.m3u8
+
+
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlAoula Inter
+http://185.2.83.139:6204/live/ara/ARA/45.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlAoula Inter plusL
+http://185.2.83.139:6204/live/ara/ARA/186.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1 tvg-ID="" tvg-name="Melody Classic" tvg-logo="" group-title="ARABIC1",2M Maroc
+http://185.2.83.139:6204/live/ara/ARA/289.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Arrabiaa
+http://185.2.83.139:6204/live/ara/ARA/188.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Arriadia
+http://185.2.83.139:6204/live/ara/ARA/187.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Almagarbia
+http://185.2.83.139:6204/live/ara/ARA/373.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlMaghribia
+http://185.2.83.139:6204/live/ara/ARA/54.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Assadissa
+http://185.2.83.139:6204/live/ara/ARA/189.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Tamazight
+http://185.2.83.139:6204/live/ara/ARA/53.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Medi1
+http://185.2.83.139:6204/live/ara/ARA/288.ts
+
+
 #EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="19" tvg-name="MA_Tele-Maroc" tvg-logo="" group-title="14- Maroc",MA_Tele-Maroc
 http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/384.ts
