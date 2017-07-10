@@ -1,52 +1,59 @@
-#EXTINF:-1,Abu Dhabi Sport 1 HD .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1286.m3u8
-#EXTINF:-1,Abu Dhabi Sport 2 HD .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1859.m3u8
-#EXTINF:-1,Osn Abu Dhabi Sports 2 HD .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1674.m3u8
-#EXTINF:-1,Osn Abu Dhabi Sports 3 HD .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1675.m3u8
-#EXTINF:-1,Bein Sport News HD .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/960.m3u8
-#EXTINF:-1,Mbc Pro Sports 1 .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2054.m3u8
-#EXTINF:-1,Mbc Pro Sports 2 .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2055.m3u8
-#EXTINF:-1,Mbc Pro Sports 3 .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2056.m3u8
-#EXTINF:-1,Mbc Pro Sports 4 .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2120.m3u8
-#EXTINF:-1,Dmc Sports .arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2964.m3u8
-#EXTINF:-1,Yas Sport HD .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2190.m3u8
-#EXTINF:-1,Nile Sport .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1073.m3u8
-#EXTINF:-1,Ontv Sport .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2154.m3u8
-#EXTINF:-1,Ktv Sport .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1291.m3u8
-#EXTINF:-1,Dubai Sport 1 .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1280.m3u8
-#EXTINF:-1,Dubai Sport 3 .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1281.m3u8
-#EXTINF:-1,Dubai Sport 4 .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1282.m3u8
-#EXTINF:-1,Dubai Racing 1 HD .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1283.m3u8
-#EXTINF:-1,Dubai Racing 2 .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1284.m3u8
-#EXTINF:-1,Dubai Racing 3 .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1285.m3u8
-#EXTINF:-1,Neelain Sport .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1263.m3u8
-#EXTINF:-1,Al Nahar Sport .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1087.m3u8
-#EXTINF:-1,Saudi Sport .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1250.m3u8
-#EXTINF:-1,Modern Sport .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1245.m3u8
-#EXTINF:-1,Palastine Sport .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2139.m3u8
-#EXTINF:-1,Jordan Sport .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1225.m3u8
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC SPORT1
+http://185.2.83.139:6204/live/ara/ARA/11.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC SPORT2
+http://185.2.83.139:6204/live/ara/ARA/12.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC SPORT3
+http://185.2.83.139:6204/live/ara/ARA/13.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlNahSport
+http://185.2.83.139:6204/live/ara/ARA/314.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Dubai Sport1
+http://185.2.83.139:6204/live/ara/ARA/294.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Dubai Sport3
+http://185.2.83.139:6204/live/ara/ARA/27.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Dubai Sport4
+http://185.2.83.139:6204/live/ara/ARA/229.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Iraqia Sport
+http://185.2.83.139:6204/live/ara/ARA/88.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Jordan Sport
+http://185.2.83.139:6204/live/ara/ARA/117.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Nile Sport
+http://185.2.83.139:6204/live/ara/ARA/69.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Pelastin Sport
+http://185.2.83.139:6204/live/ara/ARA/406.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Saudi Sport
+http://185.2.83.139:6204/live/ara/ARA/108.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Sudan Sport
+http://185.2.83.139:6204/live/ara/ARA/176.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,YAS Sports
+http://185.2.83.139:6204/live/ara/ARA/23.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Kwait Sport HD
+http://185.2.83.139:6204/live/ara/ARA/444.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Oman Sport HD
+http://185.2.83.139:6204/live/ara/ARA/448.ts
+
+
+
+
+
+
+
+
+
+
+
