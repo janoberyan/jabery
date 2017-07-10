@@ -1,65 +1,65 @@
 
-#EXTVLCOPT:http-user-agent=alo
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,ANIMUX-FR
-http://173.212.206.199:25461/live/pakis/chnlss/789.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/789.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,CANAL CINEMA-FR
-http://173.212.206.199:25461/live/pakis/chnlss/791.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/791.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,CANAL DECALE-FR
-http://173.212.206.199:25461/live/pakis/chnlss/792.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/792.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,CANAL FAMILY-FR
-http://173.212.206.199:25461/live/pakis/chnlss/794.ts
+http://173.212.206.199:25461/live/acid0/aido0/794.ts
 
-#EXTVLCOPT:http-user-agent=alo
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,CANAL SERIES-FR
-http://173.212.206.199:25461/live/pakis/chnlss/795.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/795.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,CHASSE E PECHE-FR
-http://173.212.206.199:25461/live/pakis/chnlss/807.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/807.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,CINE CLASSIC-FR
-http://173.212.206.199:25461/live/pakis/chnlss/809.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/809.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,CINE FAMIZ-FR
-http://173.212.206.199:25461/live/pakis/chnlss/810.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/810.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,CINE FX-FR
-http://173.212.206.199:25461/live/pakis/chnlss/811.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/811.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,CINE POLAR-FR
-http://173.212.206.199:25461/live/pakis/chnlss/812.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/812.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,DISCOVERY SCIENCE-FR
-http://173.212.206.199:25461/live/pakis/chnlss/814.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/814.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,DISCOVERY-FR
-http://173.212.206.199:25461/live/pakis/chnlss/813.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/813.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,FRANCE 2-FR
-http://173.212.206.199:25461/live/pakis/chnlss/817.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/817.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,FRANCE 3-FR
-http://173.212.206.199:25461/live/pakis/chnlss/818.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/818.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,FRANCE 5-FR
-http://173.212.206.199:25461/live/pakis/chnlss/819.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/819.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,NAT GEO CHANNEL-FR
-http://173.212.206.199:25461/live/pakis/chnlss/824.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/824.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,NAT GEO WILD-FR
-http://173.212.206.199:25461/live/pakis/chnlss/825.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/825.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,NRJ12-FR
-http://173.212.206.199:25461/live/pakis/chnlss/827.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/827.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,PLANETE PLUS CI-FR
-http://173.212.206.199:25461/live/pakis/chnlss/832.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/832.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,PLANETE PLUS-FR
-http://173.212.206.199:25461/live/pakis/chnlss/831.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/831.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,W9 HD-FR
-http://173.212.206.199:25461/live/pakis/chnlss/862.ts
+http://173.212.206.199:25461/live/acid0/aido0/862.ts
