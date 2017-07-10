@@ -1,37 +1,31 @@
-#EXTINF:-1,Canal AlgerieAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/979.m3u8
-#EXTINF:-1,A3 AlgerieAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/981.m3u8
-#EXTINF:-1,El DjazairiaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/982.m3u8
-#EXTINF:-1,Chourouk TV HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/983.m3u8
-#EXTINF:-1,Chourouk NewsAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/984.m3u8
-#EXTINF:-1,Dzair News AlgerieAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/986.m3u8
-#EXTINF:-1,Beur TVAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/988.m3u8
-#EXTINF:-1,Ennahar AlgerieAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/989.m3u8
-#EXTINF:-1,Dzair JannahAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/991.m3u8
-#EXTINF:-1,DzairAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/980.m3u8
-#EXTINF:-1,Numedia News AlgerieAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/993.m3u8
-#EXTINF:-1,TV CoranAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/994.m3u8
-#EXTINF:-1,TV TamazichtAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/995.m3u8
-#EXTINF:-1,Algerie 3Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1246.m3u8
-#EXTINF:-1,En TV AlgerieAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1255.m3u8
-#EXTINF:-1,Kbc AlgerieAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1260.m3u8
-#EXTINF:-1,El Haddaf AlgerieAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1264.m3u8
+
+
+
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,CanAlAlgeria
+http://185.2.83.139:6204/live/ara/ARA/160.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,El Djazairia TV
+http://185.2.83.139:6204/live/ara/ARA/63.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Echorouk Benna TV
+http://185.2.83.139:6204/live/ara/ARA/319.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Echorouk News
+http://185.2.83.139:6204/live/ara/ARA/156.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Echorouk TV
+http://185.2.83.139:6204/live/ara/ARA/44.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Dzair News
+http://185.2.83.139:6204/live/ara/ARA/73.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Dzair TV
+http://185.2.83.139:6204/live/ara/ARA/212.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Beur
+http://185.2.83.139:6204/live/ara/ARA/317.ts
+
 
 #EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="19" tvg-name="DZ_Echorouk_TV." tvg-logo="" group-title="15- Algerie",DZ_Echorouk_TV.
