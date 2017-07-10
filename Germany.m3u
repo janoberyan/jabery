@@ -1,13 +1,5 @@
 
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,AXN HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/526.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BOOMERANG-DE
-http://173.212.206.199:25461/live/acid0/aido0/527.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,CARTOON NETWORK-DE
-http://173.212.206.199:25461/live/acid0/aido0/528.ts
+
 #EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,DISCOVERY HD-DE
 http://173.212.206.199:25461/live/acid0/aido0/529.ts
@@ -17,12 +9,6 @@ http://173.212.206.199:25461/live/acid0/aido0/530.ts
 #EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,DISNEY CINEMAGIC-DE
 http://173.212.206.199:25461/live/acid0/aido0/531.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,DISNEY JUNIOR-DE
-http://173.212.206.199:25461/live/acid0/aido0/532.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,DISNEY XD-DE
-http://173.212.206.199:25461/live/acid0/aido0/533.ts
 #EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,DMAX-DE
 http://173.212.206.199:25461/live/acid0/aido0/534.ts
