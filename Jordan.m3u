@@ -1,41 +1,22 @@
 
-
-
-#EXTINF:-1,Al Quds .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1206.m3u8
-#EXTINF:-1,Sem Sem .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1207.m3u8
-#EXTINF:-1,Hona Al Quds .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1208.m3u8
-#EXTINF:-1,Ahel Al Quran .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1209.m3u8
-#EXTINF:-1,Jordan TV .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1221.m3u8
-#EXTINF:-1,Jordan Sama .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1224.m3u8
-#EXTINF:-1,Jordan Now .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1223.m3u8
-#EXTINF:-1,Jordan Manaseer .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1230.m3u8
-#EXTINF:-1,Jordan Jood .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1228.m3u8
-#EXTINF:-1,Jordan Amen .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1229.m3u8
-#EXTINF:-1,Jordan Wast Albalad .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1231.m3u8
-#EXTINF:-1,Jordan Ain .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1222.m3u8
-#EXTINF:-1,Noor Jordan .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1232.m3u8
-#EXTINF:-1,Palastine Today .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2140.m3u8
-#EXTINF:-1,Palastine News .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2138.m3u8
-#EXTINF:-1,Palastine Live .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2137.m3u8
-#EXTINF:-1,Palastine .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2136.m3u8
-#EXTINF:-1,Musawa .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2135.m3u8
-#EXTINF:-1,Falastiniah .Arab
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2132.m3u8
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Jordan
+http://185.2.83.139:6204/live/ara/ARA/115.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Jordan Sport
+http://185.2.83.139:6204/live/ara/ARA/117.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Palestine
+http://185.2.83.139:6204/live/ara/ARA/55.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Palestine Live
+http://185.2.83.139:6204/live/ara/ARA/165.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Palestine News
+http://185.2.83.139:6204/live/ara/ARA/401.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Musawa
+http://185.2.83.139:6204/live/ara/ARA/164.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlFalastiniah
+http://185.2.83.139:6204/live/ara/ARA/96.ts
