@@ -1,14 +1,21 @@
-#EXTINF:-1,RotanaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/953.m3u8
-#EXTINF:-1,Rotana ClipAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/954.m3u8
-#EXTINF:-1,Rotana CinemaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/955.m3u8
-#EXTINF:-1,Rotana Cinema ksaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/956.m3u8
-#EXTINF:-1,Rotana ClassicAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/957.m3u8
-#EXTINF:-1,Rotana MasriyaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/958.m3u8
-#EXTINF:-1,Rotana KhalijiahAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/959.m3u8
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Rotana Clip
+http://185.2.83.139:6204/live/ara/ARA/18.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Rotana Aflam
+http://185.2.83.139:6204/live/ara/ARA/15.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Rotana Cinema
+http://185.2.83.139:6204/live/ara/ARA/16.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Rotana Classic
+http://185.2.83.139:6204/live/ara/ARA/17.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Rotana Khaliji
+http://185.2.83.139:6204/live/ara/ARA/19.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Rotana Masriya
+http://185.2.83.139:6204/live/ara/ARA/20.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Rotana Music
+http://185.2.83.139:6204/live/ara/ARA/21.ts
