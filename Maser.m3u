@@ -1,3 +1,198 @@
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,CBC Drama
+http://185.2.83.139:6204/live/ara/ARA/247.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,CBC Extra
+http://185.2.83.139:6204/live/ara/ARA/256.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,CBC Sofra
+http://185.2.83.139:6204/live/ara/ARA/257.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,CBC TV
+http://185.2.83.139:6204/live/ara/ARA/249.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,CBC2
+http://185.2.83.139:6204/live/ara/ARA/248.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Mekameleen
+http://185.2.83.139:6204/live/ara/ARA/65.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Melody Classic
+http://185.2.83.139:6204/live/ara/ARA/49.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Moga Cinema
+http://185.2.83.139:6204/live/ara/ARA/40.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Moga Comedy
+http://185.2.83.139:6204/live/ara/ARA/91.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Alhayat
+http://185.2.83.139:6204/live/ara/ARA/246.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Alhayat Masr
+http://185.2.83.139:6204/live/ara/ARA/394.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlHayat Muslsalat
+http://185.2.83.139:6204/live/ara/ARA/313.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Alhayat we Alnas
+http://185.2.83.139:6204/live/ara/ARA/47.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Alhayat2
+http://185.2.83.139:6204/live/ara/ARA/245.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Nile Cinema
+http://185.2.83.139:6204/live/ara/ARA/243.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Nile Comedy
+http://185.2.83.139:6204/live/ara/ARA/242.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Nile Culture
+http://185.2.83.139:6204/live/ara/ARA/240.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Nile Drama
+http://185.2.83.139:6204/live/ara/ARA/241.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Nile Family
+http://185.2.83.139:6204/live/ara/ARA/71.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Nile Life
+http://185.2.83.139:6204/live/ara/ARA/239.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Nile News
+http://185.2.83.139:6204/live/ara/ARA/70.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Nile Sport
+http://185.2.83.139:6204/live/ara/ARA/69.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Alkahera WAlNas
+http://185.2.83.139:6204/live/ara/ARA/149.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Alkahera WAlNas2
+http://185.2.83.139:6204/live/ara/ARA/144.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Sada ElBalad
+http://185.2.83.139:6204/live/ara/ARA/287.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Sada Elbalad Drama
+http://185.2.83.139:6204/live/ara/ARA/145.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Sada Elbalad Plus
+http://185.2.83.139:6204/live/ara/ARA/148.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Dream2
+http://185.2.83.139:6204/live/ara/ARA/67.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Ten
+http://185.2.83.139:6204/live/ara/ARA/146.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlNahar
+http://185.2.83.139:6204/live/ara/ARA/244.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlnahAlyoum
+http://185.2.83.139:6204/live/ara/ARA/142.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlNahCinema
+http://185.2.83.139:6204/live/ara/ARA/143.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlNahDrama
+http://185.2.83.139:6204/live/ara/ARA/251.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlNahIraq TV
+http://185.2.83.139:6204/live/ara/ARA/393.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlNahNoor
+http://185.2.83.139:6204/live/ara/ARA/310.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlNahOne
+http://185.2.83.139:6204/live/ara/ARA/409.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlNahSport
+http://185.2.83.139:6204/live/ara/ARA/314.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cairo Aflam
+http://185.2.83.139:6204/live/ara/ARA/78.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cairo Cinema
+http://185.2.83.139:6204/live/ara/ARA/250.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cairo Cinema2
+http://185.2.83.139:6204/live/ara/ARA/72.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cairo Comedy
+http://185.2.83.139:6204/live/ara/ARA/76.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cairo Drama
+http://185.2.83.139:6204/live/ara/ARA/290.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cairo Flim
+http://185.2.83.139:6204/live/ara/ARA/33.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cairo Musalsalat
+http://185.2.83.139:6204/live/ara/ARA/75.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cairo One TV
+http://185.2.83.139:6204/live/ara/ARA/300.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cairo Zaman
+http://185.2.83.139:6204/live/ara/ARA/77.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Panorama Drama
+http://185.2.83.139:6204/live/ara/ARA/84.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Panorama Drama2
+http://185.2.83.139:6204/live/ara/ARA/86.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Panorama Film
+http://185.2.83.139:6204/live/ara/ARA/94.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Panorama Food
+http://185.2.83.139:6204/live/ara/ARA/85.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Time Comedy
+http://185.2.83.139:6204/live/ara/ARA/432.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Time Film
+http://185.2.83.139:6204/live/ara/ARA/434.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Time Taxi
+http://185.2.83.139:6204/live/ara/ARA/433.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,TokTok Aflam
+http://185.2.83.139:6204/live/ara/ARA/426.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,TokTok Cima
+http://185.2.83.139:6204/live/ara/ARA/425.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Cima
+http://185.2.83.139:6204/live/ara/ARA/252.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Noursat
+http://185.2.83.139:6204/live/ara/ARA/130.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Aghani Aghani
+http://185.2.83.139:6204/live/ara/ARA/292.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Hayat Tv Christian
+http://185.2.83.139:6204/live/ara/ARA/170.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Heya
+http://185.2.83.139:6204/live/ara/ARA/211.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlKarma
+http://185.2.83.139:6204/live/ara/ARA/354.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,AlKarma Me Plus
+http://185.2.83.139:6204/live/ara/ARA/364.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Naba TV
+http://185.2.83.139:6204/live/ara/ARA/336.ts
+
+
+
+
+
+
 #EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AR_Alhayat_1" tvg-logo="" group-title="16- Egypt",AR_Alhayat_1
 http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/251.ts
@@ -109,110 +304,3 @@ http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/224.ts
 #EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Sofra" tvg-logo="" group-title="16- Egypt",AR_CBC_Sofra
 http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/222.ts
-
-#EXTINF:-1,EscAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1058.m3u8
-#EXTINF:-1,CbcAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1059.m3u8
-#EXTINF:-1,Cbc SofraAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1063.m3u8
-#EXTINF:-1,Cbc ExtraAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1062.m3u8
-#EXTINF:-1,MekameleenAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1064.m3u8
-#EXTINF:-1,Al Hayat MusalsalatAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1066.m3u8
-#EXTINF:-1,Nile CinemaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1067.m3u8
-#EXTINF:-1,Nile DramaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1068.m3u8
-#EXTINF:-1,Nile FamilyAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1069.m3u8
-#EXTINF:-1,Nile ComedyAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1070.m3u8
-#EXTINF:-1,Nile NewsAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1071.m3u8
-#EXTINF:-1,Nile LifeAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1072.m3u8
-#EXTINF:-1,Nile CultureAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2123.m3u8
-#EXTINF:-1,Nile SportAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1073.m3u8
-#EXTINF:-1,Al AskandriaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1074.m3u8
-#EXTINF:-1,Al KaheraAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1075.m3u8
-#EXTINF:-1,Al Kahera Wel NesAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1076.m3u8
-#EXTINF:-1,Sada el Balad HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1077.m3u8
-#EXTINF:-1,Sada El Balad DramaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1078.m3u8
-#EXTINF:-1,Dream 2Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1079.m3u8
-#EXTINF:-1,TenAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1080.m3u8
-#EXTINF:-1,Al Nahar OneAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1081.m3u8
-#EXTINF:-1,Al Nahar DramaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1085.m3u8
-#EXTINF:-1,Al Nahar SportAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1087.m3u8
-#EXTINF:-1,Al Nahar CinemaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1083.m3u8
-#EXTINF:-1,Al Nahar NoorAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1086.m3u8
-#EXTINF:-1,Al Nahar AlyoumAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1084.m3u8
-#EXTINF:-1,Al Hiwar EttounsiAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1088.m3u8
-#EXTINF:-1,MehwarAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1089.m3u8
-#EXTINF:-1,Star Cinema 1Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1090.m3u8
-#EXTINF:-1,Star Cinema 2Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1091.m3u8
-#EXTINF:-1,Tok Tok CinemaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1093.m3u8
-#EXTINF:-1,Cairo CinemaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1094.m3u8
-#EXTINF:-1,Cairo DramaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1095.m3u8
-#EXTINF:-1,Panorama FilmAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1096.m3u8
-#EXTINF:-1,Time CinemaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1097.m3u8
-#EXTINF:-1,Time FilmAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1098.m3u8
-#EXTINF:-1,Misra El Zera3eyaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1101.m3u8
-#EXTINF:-1,Cinema ProAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1102.m3u8
-#EXTINF:-1,CimaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1103.m3u8
-#EXTINF:-1,Al Ghad Al ArbiyaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1104.m3u8
-#EXTINF:-1,NoursatAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1105.m3u8
-#EXTINF:-1,Afrah TVAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1106.m3u8
-#EXTINF:-1,AnnAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1107.m3u8
-#EXTINF:-1,Aghani AghaniAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1108.m3u8
-#EXTINF:-1,Halaba TVAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1110.m3u8
-#EXTINF:-1,Miracle TVAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1111.m3u8
-#EXTINF:-1,Heya TVAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1114.m3u8
-#EXTINF:-1,El SharqAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1115.m3u8
-#EXTINF:-1,Al InsenAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1116.m3u8
-#EXTINF:-1,Al Karma TVAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1117.m3u8
-#EXTINF:-1,Al Asrar TVAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1118.m3u8
-#EXTINF:-1,Naba TVAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1119.m3u8
