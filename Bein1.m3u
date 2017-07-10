@@ -1,37 +1,39 @@
-
-#EXTVLCOPT:http-user-agent=alo
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 1 HD SP-AR
-http://173.212.206.199:25461/live/pakis/chnlss/144.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/144.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 2 HD SP-AR
-http://173.212.206.199:25461/live/pakis/chnlss/145.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/145.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 3 HD SP-AR
-http://173.212.206.199:25461/live/pakis/chnlss/146.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/146.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 4 HD SP-AR
-http://173.212.206.199:25461/live/pakis/chnlss/147.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/147.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 5 HD SP-AR
-http://173.212.206.199:25461/live/pakis/chnlss/148.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/148.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 6 HD SP-AR
-http://173.212.206.199:25461/live/pakis/chnlss/149.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/149.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 7 HD SP-AR
-http://173.212.206.199:25461/live/pakis/chnlss/150.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/150.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 8 HD SP-AR
-http://173.212.206.199:25461/live/pakis/chnlss/151.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/151.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 9 HD SP-AR
-http://173.212.206.199:25461/live/pakis/chnlss/152.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/152.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 10 HD-SP
-http://173.212.206.199:25461/live/pakis/chnlss/153.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/153.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 11 HD-SP
-http://173.212.206.199:25461/live/pakis/chnlss/154.ts
-#EXTVLCOPT:http-user-agent=alo
+http://173.212.206.199:25461/live/acid0/aido0/154.ts
+#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,BEIN SPORTS 12 HD-SP
-http://173.212.206.199:25461/live/pakis/chnlss/155.ts
+http://173.212.206.199:25461/live/acid0/aido0/155.ts
+
+
+
