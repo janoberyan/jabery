@@ -1,24 +1,24 @@
-#EXTINF:-1,Abu Dhabi Al Emarat HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2192.m3u8
-#EXTINF:-1,Abu Dhabi TV HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1862.m3u8
-#EXTINF:-1,Abu Dhabi Drama HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1861.m3u8
-#EXTINF:-1,Abu Dhabi Ngc HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1860.m3u8
-#EXTINF:-1,Noor DubaiAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1272.m3u8
-#EXTINF:-1,Sama Dubai HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1273.m3u8
-#EXTINF:-1,Dubai OneAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1274.m3u8
-#EXTINF:-1,Dubai ZamanAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1275.m3u8
-#EXTINF:-1,Dubai Al OulaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1277.m3u8
-#EXTINF:-1,Dubai Al Oula HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1278.m3u8
-
-
-
-
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Abu Dhabi
+http://185.2.83.139:6204/live/ara/ARA/270.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Abu Dhabi Drama
+http://185.2.83.139:6204/live/ara/ARA/269.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Abu Dhabi Elmarat
+http://185.2.83.139:6204/live/ara/ARA/231.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Abu Dhabi Nat Geo
+http://185.2.83.139:6204/live/ara/ARA/230.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Dubai TV
+http://185.2.83.139:6204/live/ara/ARA/268.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Dubai Zaman
+http://185.2.83.139:6204/live/ara/ARA/141.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Sama Dubai
+http://185.2.83.139:6204/live/ara/ARA/26.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Noor Dubai
+http://185.2.83.139:6204/live/ara/ARA/234.ts
