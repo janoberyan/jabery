@@ -1,50 +1,53 @@
-#EXTINF:-1,Mbc 1 HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1679.m3u8
-#EXTINF:-1,Mbc 2 HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1680.m3u8
-#EXTINF:-1,Mbc 3 HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1681.m3u8
-#EXTINF:-1,Mbc 4 HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1682.m3u8
-#EXTINF:-1,Mbc Action HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2052.m3u8
-#EXTINF:-1,Mbc Max HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2051.m3u8
-#EXTINF:-1,Mbc Drama+ HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2053.m3u8
-#EXTINF:-1,AR: Mbc Pro Sports 1
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2054.m3u8
-#EXTINF:-1,AR: Mbc Pro Sports 2
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2055.m3u8
-#EXTINF:-1,AR: Mbc Pro Sports 3
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2056.m3u8
-#EXTINF:-1,AR: Mbc Pro Sports 4
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2120.m3u8
-#EXTINF:-1,Mbc Variety HDAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/2959.m3u8
-#EXTINF:-1,Mbc Masr 1Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/104.m3u8
-#EXTINF:-1,Mbc Masr 2Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/103.m3u8
-#EXTINF:-1,Mbc 1Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/945.m3u8
-#EXTINF:-1,Mbc 2Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/946.m3u8
-#EXTINF:-1,Mbc 3Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/947.m3u8
-#EXTINF:-1,Mbc 4Ar
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/948.m3u8
-#EXTINF:-1,Mbc ActionAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/951.m3u8
-#EXTINF:-1,Mbc BollywoodAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/952.m3u8
-#EXTINF:-1,Mbc DramaAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/949.m3u8
-#EXTINF:-1,Mbc MaxAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/950.m3u8
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC1
+http://185.2.83.139:6204/live/ara/ARA/1.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC2
+http://185.2.83.139:6204/live/ara/ARA/2.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC3
+http://185.2.83.139:6204/live/ara/ARA/3.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC4
+http://185.2.83.139:6204/live/ara/ARA/4.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC Action
+http://185.2.83.139:6204/live/ara/ARA/7.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC Bollywood
+http://185.2.83.139:6204/live/ara/ARA/10.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC Drama
+http://185.2.83.139:6204/live/ara/ARA/8.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC MASR
+http://185.2.83.139:6204/live/ara/ARA/6.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC Masr2
+http://185.2.83.139:6204/live/ara/ARA/9.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC MAX
+http://185.2.83.139:6204/live/ara/ARA/5.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC SPORT1
+http://185.2.83.139:6204/live/ara/ARA/11.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC SPORT2
+http://185.2.83.139:6204/live/ara/ARA/12.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC SPORT3
+http://185.2.83.139:6204/live/ara/ARA/13.ts
 
 
-EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_1" tvg-logo="" group-title="12- MBC",AR_MBC_1
 http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/260.ts
 #EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
@@ -113,3 +116,23 @@ http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/275.ts
 #EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_PRO_SPORT_4_HD" tvg-logo="" group-title="12- MBC",AR_MBC_PRO_SPORT_4_HD
 http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/277.ts
+#EXTINF:-1,MBC Drama
+http://176.31.226.149:25461/live/testest/testest/352.ts
+#EXTINF:-1,newmyhd:MBC_ACTION_HD
+http://176.31.226.149:25461/live/testest/testest/361.ts
+#EXTINF:-1,newmyhd:MBC_DRAMA _HD
+http://176.31.226.149:25461/live/testest/testest/360.ts
+#EXTINF:-1,newmyhd:MBC_DRAMA_HD
+http://176.31.226.149:25461/live/testest/testest/359.ts
+#EXTINF:-1,newmyhd:MBC_HD_1
+http://176.31.226.149:25461/live/testest/testest/358.ts
+#EXTINF:-1,newmyhd:MBC_HD_2
+http://176.31.226.149:25461/live/testest/testest/357.ts
+#EXTINF:-1,newmyhd:MBC_HD_3
+http://176.31.226.149:25461/live/testest/testest/356.ts
+#EXTINF:-1,newmyhd:MBC_HD_4
+http://176.31.226.149:25461/live/testest/testest/355.ts
+#EXTINF:-1,newmyhd:MBC_MAX_HD
+http://176.31.226.149:25461/live/testest/testest/354.ts
+#EXTINF:-1,newmyhd:MBC_VnewmyhdIETY_HD
+http://176.31.226.149:25461/live/testest/testest/353.ts
