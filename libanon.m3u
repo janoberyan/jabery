@@ -1,12 +1,21 @@
-#EXTINF:-1,Lbc Sat LibanonAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1039.m3u8
-#EXTINF:-1,LdcAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1040.m3u8
-#EXTINF:-1,OtvAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1041.m3u8
-#EXTINF:-1,Mtv LebanonAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1042.m3u8
-#EXTINF:-1,FutureAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1043.m3u8
-#EXTINF:-1,Alaan TV LebanonAr
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1044.m3u8
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,LBC Sat
+http://185.2.83.139:6204/live/ara/ARA/263.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,LDC
+http://185.2.83.139:6204/live/ara/ARA/233.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MTV Lebanon
+http://185.2.83.139:6204/live/ara/ARA/254.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Lebanon TV
+http://185.2.83.139:6204/live/ara/ARA/209.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,OTV
+http://185.2.83.139:6204/live/ara/ARA/135.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Future TV
+http://185.2.83.139:6204/live/ara/ARA/265.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,Alaan TV
+http://185.2.83.139:6204/live/ara/ARA/283.ts
