@@ -1,147 +1,98 @@
-#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,3E-UK
-http://173.212.206.199:25461/live/acid0/aido0/591.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/591.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,4E-UK
-http://173.212.206.199:25461/live/acid0/aido0/592.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/592.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,5 STAR-UK
-http://173.212.206.199:25461/live/acid0/aido0/593.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/593.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ALIBI-UK
-http://173.212.206.199:25461/live/acid0/aido0/594.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BABY TV KIDS-UK
-http://173.212.206.199:25461/live/acid0/aido0/595.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/594.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,KDZ-BABY TV/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/595.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,BBC 1-UK
-http://173.212.206.199:25461/live/acid0/aido0/596.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/596.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,BBC 2-UK
-http://173.212.206.199:25461/live/acid0/aido0/597.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/597.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,BBC 3-UK
-http://173.212.206.199:25461/live/acid0/aido0/598.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/598.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,BBC 4-UK
-http://173.212.206.199:25461/live/acid0/aido0/599.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/599.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,BBC NEWS-UK
-http://173.212.206.199:25461/live/acid0/aido0/600.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/600.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,BLOOMBERG-UK
-http://173.212.206.199:25461/live/acid0/aido0/601.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/601.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CARTOON NETWORK-UK
-http://173.212.206.199:25461/live/acid0/aido0/602.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/602.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CBS ACTION-UK
-http://173.212.206.199:25461/live/acid0/aido0/603.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/603.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CBS DRAMA-UK
-http://173.212.206.199:25461/live/acid0/aido0/604.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/604.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CBS REALITY-UK
-http://173.212.206.199:25461/live/acid0/aido0/605.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/605.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CHANNEL 4-UK
-http://173.212.206.199:25461/live/acid0/aido0/607.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/607.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CHANNEL 5-UK
-http://173.212.206.199:25461/live/acid0/aido0/606.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/606.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CNBC-UK
-http://173.212.206.199:25461/live/acid0/aido0/608.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/608.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CNN EUROPE-UK
-http://173.212.206.199:25461/live/acid0/aido0/609.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/609.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,COMEDY CENTRAL-UK
-http://173.212.206.199:25461/live/acid0/aido0/610.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/610.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DAVE-UK
-http://173.212.206.199:25461/live/acid0/aido0/611.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/611.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DISCOVERY HISTORY-UK
-http://173.212.206.199:25461/live/acid0/aido0/613.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/613.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DISCOVERY SCIENCE-UK
-http://173.212.206.199:25461/live/acid0/aido0/614.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/614.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DISCOVERY-UK
-http://173.212.206.199:25461/live/acid0/aido0/612.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,DISNEY CHANNEL-UK
-http://173.212.206.199:25461/live/acid0/aido0/616.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,DISNEY JR-UK
-http://173.212.206.199:25461/live/acid0/aido0/617.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,DISNEY XD-UK
-http://173.212.206.199:25461/live/acid0/aido0/618.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/612.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,KDZ-DISNEY CHANNEL/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/616.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,KDZ-DISNEY JR/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/617.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,KDZ-DISNEY XD/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/618.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,FILM 4-UK
-http://173.212.206.199:25461/live/acid0/aido0/619.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/619.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,GOLD-UK
-http://173.212.206.199:25461/live/acid0/aido0/620.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/620.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ITV 2-UK
-http://173.212.206.199:25461/live/acid0/aido0/622.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/622.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ITV 3-UK
-http://173.212.206.199:25461/live/acid0/aido0/623.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/623.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ITV 4-UK
-http://173.212.206.199:25461/live/acid0/aido0/624.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/624.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ITV-UK
-http://173.212.206.199:25461/live/acid0/aido0/621.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/621.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,MAGIC-UK
-http://173.212.206.199:25461/live/acid0/aido0/625.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/625.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,MORE 4-UK
-http://173.212.206.199:25461/live/acid0/aido0/626.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/626.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,MTV BASE-UK
-http://173.212.206.199:25461/live/acid0/aido0/627.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/627.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,MTV DANCE-UK
-http://173.212.206.199:25461/live/acid0/aido0/629.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/629.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,MTV MUSIC-UK
-http://173.212.206.199:25461/live/acid0/aido0/631.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/631.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,NAT GEO CHANNEL-UK
-http://173.212.206.199:25461/live/acid0/aido0/633.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/633.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,NAT GEO WILD-UK
-http://173.212.206.199:25461/live/acid0/aido0/632.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,NICK JR TOO-UK
-http://173.212.206.199:25461/live/acid0/aido0/635.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,NICK JR-UK
-http://173.212.206.199:25461/live/acid0/aido0/634.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,NICKELODEON-UK
-http://173.212.206.199:25461/live/acid0/aido0/637.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,NICKTOONS-UK
-http://173.212.206.199:25461/live/acid0/aido0/636.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/632.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,KDZ-NICK JR TOO/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/635.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,KDZ-NICK JR/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/634.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,KDZ-NICKELODEON/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/637.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,KDZ-NICKTOONS/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/636.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,PICK TV-UK
-http://173.212.206.199:25461/live/acid0/aido0/638.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/638.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,QUEST-UK
-http://173.212.206.199:25461/live/acid0/aido0/639.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/639.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RT NEWS-UK
-http://173.212.206.199:25461/live/acid0/aido0/640.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/640.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RTE 1-UK
-http://173.212.206.199:25461/live/acid0/aido0/641.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/641.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RTE 2-UK
-http://173.212.206.199:25461/live/acid0/aido0/642.ts
+httphost://$http-raw=http://173.212.206.199:25461/1/2/642.m3u8$http-refferer=http://173.212.206.199:25461/
