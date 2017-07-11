@@ -1,0 +1,137 @@
+
+
+#EXTINF:-1,SP-SKY SPORT 1 HD/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/226.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORT 1 HD ITALIA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/232.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS 1/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/192.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS 2/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/194.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS 3/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/196.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS 4/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/198.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS 5/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/200.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS F1/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/189.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS BOX OFFICE/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/187.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS MIX/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/186.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS NEWS/DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/253.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SPORTS NEWS HD/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/188.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKY SUPER CALCIO HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/231.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKYNET SPORTS 1/US
+httphost://$http-raw=http://173.212.206.199:25461/1/2/211.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKYNET SPORTS 2/US
+httphost://$http-raw=http://173.212.206.199:25461/1/2/212.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKYNET SPORTS 3/US
+httphost://$http-raw=http://173.212.206.199:25461/1/2/213.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKYNET SPORTS 4/US
+httphost://$http-raw=http://173.212.206.199:25461/1/2/214.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKYNET SPORTS 5/US
+httphost://$http-raw=http://173.212.206.199:25461/1/2/215.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKYNET SPORTS 6/US
+httphost://$http-raw=http://173.212.206.199:25461/1/2/217.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SKYNET SPORTS HD/US
+httphost://$http-raw=http://173.212.206.199:25461/1/2/216.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 1 HD/FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/156.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 2 HD/FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/157.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,EURO SPORTS 1 HD SP-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/535.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,EURO SPORTS 2 HD SP-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/536.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-EURO SPORT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/279.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-EUROSPORTS 1 HD/DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/254.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-EURO SPORTS 2 HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/280.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-EUROSPORT 2 XTRA HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/277.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-EUROSPORT NEWS
+httphost://$http-raw=http://173.212.206.199:25461/1/2/276.m3u8$http-refferer=http://173.212.206.199:25461/
+
+
+#EXTINF:-1,SP-BT SPORTS 1 HD/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/201.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BT SPORTS 2 HD/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/202.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BT SPORTS 3 HD/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/204.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BT SPORTS ESPN/UK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/203.m3u8$http-refferer=http://173.212.206.199:25461/
+
+#EXTINF:-1,SKY SPORT 1 HD SP-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/574.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SKY SPORT 2 HD SP-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/575.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SKY SPORTS NEWS HD SP-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/576.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SKY BUNDESLIGA 2HD SP-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/856.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 3 HD/FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/158.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,FOX SPORTS NEWS-AUS
+httphost://$http-raw=http://173.212.206.199:25461/1/2/874.m3u8$http-refferer=http://173.212.206.199:25461
+
+#EXTINF:-1,SP-ARENA SPORTS 1
+httphost://$http-raw=http://173.212.206.199:25461/1/2/266.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-ARENA SPORTS 2
+httphost://$http-raw=http://173.212.206.199:25461/1/2/267.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-ARENA SPORTS 3
+httphost://$http-raw=http://173.212.206.199:25461/1/2/268.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-ARENA SPORTS 4
+httphost://$http-raw=http://173.212.206.199:25461/1/2/269.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-ASTRO SUPERSPORTS 1/MY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/255.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-ASTRO SUPERSPORTS 2/MY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/256.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-ASTRO SUPERSPORTS 3/MY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/257.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-ASTRO SUPERSPORTS 4/MY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/258.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-FOX SPORTS 1
+httphost://$http-raw=http://173.212.206.199:25461/1/2/250.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-FOX SPORTS 1/NL
+httphost://$http-raw=http://173.212.206.199:25461/1/2/260.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-FOX SPORTS 2
+httphost://$http-raw=http://173.212.206.199:25461/1/2/251.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-FOX SPORTS 2/NL
+httphost://$http-raw=http://173.212.206.199:25461/1/2/261.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-FOX SPORTS 3/NL
+httphost://$http-raw=http://173.212.206.199:25461/1/2/262.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-FOX SPORTS 4/NL
+httphost://$http-raw=http://173.212.206.199:25461/1/2/263.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-FOX SPORTS 5/NL
+httphost://$http-raw=http://173.212.206.199:25461/1/2/264.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-FOX SPORTS 6/NL
+httphost://$http-raw=http://173.212.206.199:25461/1/2/265.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-NBA/US
+httphost://$http-raw=http://173.212.206.199:25461/1/2/248.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-NBC SPORTS/US
+httphost://$http-raw=http://173.212.206.199:25461/1/2/249.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SPORTSNET 360/CAN
+httphost://$http-raw=http://173.212.206.199:25461/1/2/247.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SPORTSNET ONE/CAN
+httphost://$http-raw=http://173.212.206.199:25461/1/2/244.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SPORTSNET ONTARIO/CAN
+httphost://$http-raw=http://173.212.206.199:25461/1/2/246.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SPORTSNET WEST/CAN
+httphost://$http-raw=http://173.212.206.199:25461/1/2/245.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-SPORTSNET WOLRD/CAN
+httphost://$http-raw=http://173.212.206.199:25461/1/2/243.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-VIASAT FOOTBALL
+httphost://$http-raw=http://173.212.206.199:25461/1/2/242.m3u8$http-refferer=http://173.212.206.199:25461/
+
+#EXTINF:-1,SP-DD SPORTS
+httphost://$http-raw=http://173.212.206.199:25461/1/2/225.m3u8$http-refferer=http://173.212.206.199:25461/
+
+
