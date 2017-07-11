@@ -1,7 +1,5 @@
-#EXTINF:-1,SP-BEIN SPORTS GLOBAL
-httphost://$http-raw=http://173.212.206.199:25461/1/2/143.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS NEWS
-httphost://$http-raw=http://173.212.206.199:25461/1/2/142.m3u8$http-refferer=http://173.212.206.199:25461/
+
+
 #EXTINF:-1,SP-BEIN SPORTS 1 HD/FR
 httphost://$http-raw=http://173.212.206.199:25461/1/2/156.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SP-BEIN SPORTS 2 HD/FR
