@@ -1,39 +1,32 @@
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 1 HD SP-AR
-http://173.212.206.199:25461/live/acid0/aido0/144.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 2 HD SP-AR
-http://173.212.206.199:25461/live/acid0/aido0/145.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 3 HD SP-AR
-http://173.212.206.199:25461/live/acid0/aido0/146.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 4 HD SP-AR
-http://173.212.206.199:25461/live/acid0/aido0/147.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 5 HD SP-AR
-http://173.212.206.199:25461/live/acid0/aido0/148.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 6 HD SP-AR
-http://173.212.206.199:25461/live/acid0/aido0/149.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 7 HD SP-AR
-http://173.212.206.199:25461/live/acid0/aido0/150.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 8 HD SP-AR
-http://173.212.206.199:25461/live/acid0/aido0/151.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 9 HD SP-AR
-http://173.212.206.199:25461/live/acid0/aido0/152.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 10 HD-SP
-http://173.212.206.199:25461/live/acid0/aido0/153.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 11 HD-SP
-http://173.212.206.199:25461/live/acid0/aido0/154.ts
-#EXTVLCOPT:http-user-agent=000
-#EXTINF:-1,BEIN SPORTS 12 HD-SP
-http://173.212.206.199:25461/live/acid0/aido0/155.ts
-
-
-
+#EXTINF:-1,SP-BEIN SPORTS GLOBAL
+httphost://$http-raw=http://173.212.206.199:25461/1/2/143.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS NEWS
+httphost://$http-raw=http://173.212.206.199:25461/1/2/142.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 1 HD/FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/156.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 2 HD/FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/157.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 1 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/144.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 2 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/145.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 3 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/146.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 4 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/147.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 5 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/148.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 6 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/149.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 7 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/150.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 8 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/151.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 9 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/152.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 10 HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/153.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 11 HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/154.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 12 HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/155.m3u8$http-refferer=http://173.212.206.199:25461/
