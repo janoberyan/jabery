@@ -1,65 +1,64 @@
-
-#EXTVLCOPT:http-user-agent=000
 #EXTINF:-1,ANIMUX-FR
-http://173.212.206.199:25461/live/acid0/aido0/789.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/789.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SP-BEIN SPORTS 3 HD/FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/158.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CANAL CINEMA-FR
-http://173.212.206.199:25461/live/acid0/aido0/791.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/791.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CANAL DECALE-FR
-http://173.212.206.199:25461/live/acid0/aido0/792.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/792.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CANAL FAMILY-FR
-http://173.212.206.199:25461/live/acid0/aido0/794.ts
-
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/794.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV1-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/796.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV2-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/797.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV3-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/799.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV4-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/800.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV5-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/801.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV6-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/802.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV7-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/803.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV8-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/804.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV9-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/805.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANAL PPV10-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/798.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CANAL SERIES-FR
-http://173.212.206.199:25461/live/acid0/aido0/795.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/795.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CHASSE E PECHE-FR
-http://173.212.206.199:25461/live/acid0/aido0/807.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/807.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CINE CLASSIC-FR
-http://173.212.206.199:25461/live/acid0/aido0/809.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/809.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CINE FAMIZ-FR
-http://173.212.206.199:25461/live/acid0/aido0/810.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/810.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CINE FX-FR
-http://173.212.206.199:25461/live/acid0/aido0/811.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/811.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,CINE POLAR-FR
-http://173.212.206.199:25461/live/acid0/aido0/812.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/812.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DISCOVERY SCIENCE-FR
-http://173.212.206.199:25461/live/acid0/aido0/814.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/814.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DISCOVERY-FR
-http://173.212.206.199:25461/live/acid0/aido0/813.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/813.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,FRANCE 2-FR
-http://173.212.206.199:25461/live/acid0/aido0/817.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/817.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,FRANCE 3-FR
-http://173.212.206.199:25461/live/acid0/aido0/818.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/818.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,FRANCE 5-FR
-http://173.212.206.199:25461/live/acid0/aido0/819.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/819.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,NAT GEO CHANNEL-FR
-http://173.212.206.199:25461/live/acid0/aido0/824.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/824.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,NAT GEO WILD-FR
-http://173.212.206.199:25461/live/acid0/aido0/825.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/825.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,NRJ12-FR
-http://173.212.206.199:25461/live/acid0/aido0/827.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/827.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,PLANETE PLUS CI-FR
-http://173.212.206.199:25461/live/acid0/aido0/832.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/832.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,PLANETE PLUS-FR
-http://173.212.206.199:25461/live/acid0/aido0/831.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/831.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,W9 HD-FR
-http://173.212.206.199:25461/live/acid0/aido0/862.ts
+httphost://$http-raw=http://173.212.206.199:25461/1/2/862.m3u8$http-refferer=http://173.212.206.199:25461/
