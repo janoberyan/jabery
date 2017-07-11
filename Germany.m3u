@@ -1,210 +1,150 @@
-
-
-#EXTVLCOPT:http-user-agent=000
+#EXTINF:-1,AXN HD-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/526.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,BOOMERANG-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/527.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CARTOON NETWORK-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/528.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DISCOVERY HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/529.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/529.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DISNEY CHANNEL-DE
-http://173.212.206.199:25461/live/acid0/aido0/530.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/530.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DISNEY CINEMAGIC-DE
-http://173.212.206.199:25461/live/acid0/aido0/531.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/531.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,DISNEY JUNIOR-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/532.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,DISNEY XD-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/533.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DMAX-DE
-http://173.212.206.199:25461/live/acid0/aido0/534.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/534.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,EURO SPORTS 1 HD SP-DE
-http://173.212.206.199:25461/live/acid0/aido0/535.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/535.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,EURO SPORTS 2 HD SP-DE
-http://173.212.206.199:25461/live/acid0/aido0/536.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/536.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,FOX HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/537.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/537.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,HISTORY HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/538.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/538.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,KABEL EINS-DE
-http://173.212.206.199:25461/live/acid0/aido0/539.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/539.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,KIKA-DE
-http://173.212.206.199:25461/live/acid0/aido0/540.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/540.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,KINO WELT HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/541.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/541.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,NAT GEO CHANNEL HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/543.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/543.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,NAT GEO WILD HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/544.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/544.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,PRO 7-DE
-http://173.212.206.199:25461/live/acid0/aido0/545.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/545.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,PRO SIEBEN MAXX HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/546.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/546.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ROMANCE TV-DE
-http://173.212.206.199:25461/live/acid0/aido0/547.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/547.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RTL 2 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/548.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/548.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RTL CRIME HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/549.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/549.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RTL HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/550.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/550.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RTL LIVING HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/551.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/551.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RTL NITRO HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/552.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/552.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RTL PASSION HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/553.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/553.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,RTL PLUS HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/554.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/554.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SAT.1 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/555.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/555.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SIXX HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/556.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/556.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY ATLANTIC HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/577.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/577.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY BUNDESLIGA HD SP-DE
-http://173.212.206.199:25461/live/acid0/aido0/558.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/558.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY CINEMA 24 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/559.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/559.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY CINEMA ACTION HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/557.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/557.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY CINEMA COMEDY HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/563.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/563.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY CINEMA EMOTION HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/560.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/560.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY CINEMA FAMILY HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/561.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/561.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY CINEMA HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/562.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/562.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY CINEMA HITS HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/565.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/565.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,13th STREET HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/564.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/564.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY KIRIMI-DE
-http://173.212.206.199:25461/live/acid0/aido0/542.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/542.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SELECT 1 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/566.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/566.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SELECT 2 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/567.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/567.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SELECT 3 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/568.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/568.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SELECT 4 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/569.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/569.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SELECT 5 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/570.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/570.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SELECT 6 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/571.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/571.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SELECT 7 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/572.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/572.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SELECT 8 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/573.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/573.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SPORT 1 HD SP-DE
-http://173.212.206.199:25461/live/acid0/aido0/574.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/574.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY SPORT 2 HD SP-DE
-http://173.212.206.199:25461/live/acid0/aido0/575.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/575.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SKY SPORTS NEWS HD SP-DE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/576.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SONY CHANNEL HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/579.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/579.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SPIEGEL TV-DE
-http://173.212.206.199:25461/live/acid0/aido0/580.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/580.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SPORT 1 HD SP-DE
-http://173.212.206.199:25461/live/acid0/aido0/581.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/581.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SUPER RTL HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/582.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/582.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SYFY HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/578.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/578.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,TLC HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/583.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/583.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,TNT COMEDY HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/584.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/584.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,TNT FILM HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/585.ts
-#EXTVLCOPT:http-user-agent=000
-
+httphost://$http-raw=http://173.212.206.199:25461/1/2/585.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,TNT SERIES HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/586.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/586.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,UNIVERSAL CHANNEL HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/587.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/587.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,VOX HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/588.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/588.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ZDF HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/589.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/589.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ZEE ONE HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/590.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/590.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,DELUX MUSIC-DE
-http://173.212.206.199:25461/live/acid0/aido0/788.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/788.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,EURO NEWS-DE
-http://173.212.206.199:25461/live/acid0/aido0/816.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/816.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,N24 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/823.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/823.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,NTVHD-DE
-http://173.212.206.199:25461/live/acid0/aido0/828.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/828.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ORF 2 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/830.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/830.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,ORF EINS HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/829.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/829.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY 3D-DE
-http://173.212.206.199:25461/live/acid0/aido0/852.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/852.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY ACTION-DE
-http://173.212.206.199:25461/live/acid0/aido0/853.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/853.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY BUNDESLIGA 2HD SP-DE
-http://173.212.206.199:25461/live/acid0/aido0/856.ts
-#EXTVLCOPT:http-user-agent=000
+httphost://$http-raw=http://173.212.206.199:25461/1/2/856.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTINF:-1,SKY CINEMA 1 HD-DE
-http://173.212.206.199:25461/live/acid0/aido0/857.ts
+httphost://$http-raw=http://173.212.206.199:25461/1/2/857.m3u8$http-refferer=http://173.212.206.199:25461/
