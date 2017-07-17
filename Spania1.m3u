@@ -1,32 +1,82 @@
-#EXTINF:-1,24 H-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/447.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,40 TV-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/449.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,A&E-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/450.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,AMC HD-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/451.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,ANTENA 3 HD-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/448.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,AXN HD-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/452.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,AXN WHITE HD-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/453.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,BABY TV-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/454.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,BARCA TV-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/455.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,BEIN SPORT Ñ HD-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/456.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,BOING-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/457.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,CALLE 13-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/458.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,CANAL ACCION HD-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/461.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,CANAL COCINA-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/460.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,CANAL COMEDIA HD-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/462.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,CANAL+ DEPORTES 2-ES
-httphost://$http-raw=http://173.212.206.199:25461/1/2/459.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,ES: TV3
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3310.ts
+#EXTINF:-1,ES: SYFY
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3278.ts
+#EXTINF:-1,ES: RTV Ceuta
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3312.ts
+#EXTINF:-1,ES: RT Spain
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3313.ts
+#EXTINF:-1,ES: Real Madrid Tv
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3314.ts
+#EXTINF:-1,ES: PLAYBOY TV
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3304.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3280.ts
+#EXTINF:-1,ES: NAT GEOGRAPH
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3281.ts
+#EXTINF:-1,ES: MOVISTAR GP HD
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3315.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3285.ts
+#EXTINF:-1,ES: Hollywood
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3287.ts
+#EXTINF:-1,ES: HISTORIA
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3288.ts
+#EXTINF:-1,ES: Fox Life
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3299.ts
+#EXTINF:-1,ES: Fox
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3298.ts
+#EXTINF:-1,ES: EUROSPORT HD
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3289.ts
+#EXTINF:-1,ES: DISNEY XD
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3282.ts
+#EXTINF:-1,ES: DISNEY JR
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3290.ts
+#EXTINF:-1,ES: DISCOVERY
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3295.ts
+#EXTINF:-1,ES: DCINE ESPA¹OL
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3296.ts
+#EXTINF:-1,ES: CRIMEN INVES
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3297.ts
+#EXTINF:-1,ES: COSMO
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3300.ts
+#EXTINF:-1,ES: CAZA Y PESCA
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3301.ts
+#EXTINF:-1,ES: CANAL SUR A.
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3302.ts
+#EXTINF:-1,ES: CANAL ODISEA
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3303.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3305.ts
+#EXTINF:-1,ES: CALLE 13
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3306.ts
+#EXTINF:-1,ES: C TOROS HD
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3291.ts
+#EXTINF:-1,ES: C DEPORTES HD
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3325.ts
+#EXTINF:-1,ES: C DCINE
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3322.ts
+#EXTINF:-1,ES: C COMEDIA HD
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3323.ts
+#EXTINF:-1,ES: C ACCION HD
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3324.ts
+#EXTINF:-1,ES: C  GOLF
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3307.ts
+#EXTINF:-1,ES: Boing
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3283.ts
+#EXTINF:-1,ES: BEIN SPORT HD
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3293.ts
+#EXTINF:-1,ES: AXN White
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3277.ts
+#EXTINF:-1,ES: AXN
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3276.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3294.ts
+#EXTINF:-1,ES: Alfa TV
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3316.ts
+#EXTINF:-1,ES: A&E
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3308.ts
+#EXTINF:-1,ES: 24 HORAS
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3309.ts
+#EXTINF:-1,ES: #0
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3275.ts
