@@ -1,4 +1,78 @@
 
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn musalsalat
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/2066.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn movies hd
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/2834.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn movies kids
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/2829.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn movies thriller
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/2833.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn movies action
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/3249.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn movies first
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/3248.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn movies action +2
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/3250.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn alyoum
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/2832.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn animal planet
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/3257.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn discovery hd
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/3255.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn discovery idx
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/3251.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn nat geo wild
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/3252.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn yahala
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/2703.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn yahala cinema
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/2643.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn yahala first
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/2620.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,osn yahala fisrt +2
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/2702.ts
+
+
+
+
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+#EXTINF:-1,osn yahalahd
+http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/244.ts
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+#EXTINF:-1,OSN YAHALA Shabab
+http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/211.ts
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+#EXTINF:-1,OSN YAHALA HD
+http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/212.ts
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+#EXTINF:-1,OSN YAHALA drama
+http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/213.ts
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+#EXTINF:-1,OSN SERIES ARABIC
+http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/217.ts
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+#EXTINF:-1,OSN SeeVii Shamiya
+http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/177.ts
+
+
+
+
 #EXTVLCOPT:http-user-agent=Lavf/55.19.104
 #EXTINF:-1,OSN Ondemand sc-fi
 http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/223.ts
@@ -89,132 +163,4 @@ http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/14.ts
 #EXTVLCOPT:http-user-agent=Lavf/55.19.104
 #EXTINF:-1,osn alyoum
 http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/246.ts
-
-
-
-
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_1_HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Movies_1_HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/307.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_2_HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Movies_2_HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/308.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_3_HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Movies_3_HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/309.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_4_HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Movies_4_HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/310.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Series-HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Series-HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/311.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein-FX" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein-FX
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/312.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein-FOX-ACTION" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein-FOX-ACTION
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/313.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Cinema_1HD." tvg-logo="" group-title="05- OSN",AR_OSN_Cinema_1HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/299.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Cinema_2HD." tvg-logo="" group-title="05- OSN",AR_OSN_Cinema_2HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/300.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Officebox_1HD." tvg-logo="" group-title="05- OSN",AR_OSN_Officebox_1HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/289.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Officebox_2HD." tvg-logo="" group-title="05- OSN",AR_OSN_Officebox_2HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/290.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Officebox_3HD." tvg-logo="" group-title="05- OSN",AR_OSN_Officebox_3HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/291.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/294.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_2_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_2_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/295.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Premiere." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Premiere.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/292.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Premiere_2." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Premiere_2.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/293.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Action_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Action_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/296.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Action_2_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Action_2_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/297.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Comedy_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Comedy_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/298.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Kids" tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Kids
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/287.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Ondemand_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Ondemand_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/305.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Ondemend_Extra_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Ondemend_Extra_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/306.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Yahala_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Yahala_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/301.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Yahala_Cinema_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Yahala_Cinema_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/304.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Yahala_Shabab_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Yahala_Shabab_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/302.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Yahala_Drama_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Yahala_Drama_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/303.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Alsafwa" tvg-logo="" group-title="05- OSN",AR_OSN_Alsafwa
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/288.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_SeeVii-Drama HD" tvg-logo="" group-title="05- OSN",AR_SeeVii-Drama HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/280.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_SeeVii-Shamia." tvg-logo="" group-title="05- OSN",AR_SeeVii-Shamia.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/278.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_SeeVii-Premiere-HD" tvg-logo="" group-title="05- OSN",AR_SeeVii-Premiere-HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/279.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR-SeeVii-Beelink" tvg-logo="" group-title="05- OSN",AR-SeeVii-Beelink
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/281.ts
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1,osn yahalahd
-http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/244.ts
-#EXTVLCOPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1,OSN YAHALA Shabab
-http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/211.ts
-#EXTVLCOPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1,OSN YAHALA HD
-http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/212.ts
-#EXTVLCOPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1,OSN YAHALA drama
-http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/213.ts
-#EXTVLCOPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1,OSN SERIES ARABIC
-http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/217.ts
-#EXTVLCOPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1,OSN SeeVii Shamiya
-http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/177.ts
-#EXTINF:-1 tvg-logo="http://seevii.selevision.com/stb/item//tv_live1/1121.png" group-title="second list",seevii duc
-http://selevision9888-i.akamaihd.net/hls/live/219304/98887/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.seevii.com/stb/item//tv_live1/1120.png" group-title="second list",seevii shamiya
-http://selevision9895-i.akamaihd.net/hls/live/219372/98955/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.seevii.com/stb/item//tv_live1/1120.png" group-title="second list",seevii aloula
-http://selevision9879-i.akamaihd.net/hls/live/219138/98790/master.m3u8
-#EXTINF:-1 tvg-logo="http://seevii.selevision.com/stb/item//tv_live1/1132.png",seevii drama
-http://selevision9879-i.akamaihd.net/hls/live/219143/98795/master.m3u8
 
