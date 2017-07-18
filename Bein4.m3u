@@ -1,28 +1,31 @@
-#EXTINF:-1,AR: Bein Sport News HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/960.m3u8
-#EXTINF:-1,AR: Bein Sport HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/961.m3u8
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1454.m3u8
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1455.m3u8
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1456.m3u8
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1457.m3u8
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1458.m3u8
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1467.m3u8
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1459.m3u8
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1460.m3u8
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1461.m3u8
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/1462.m3u8
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/972.m3u8
-#EXTINF:-1,AR: Bein Sport 12 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v3/Vq0H5ksVFU/973.m3u8
+
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 1 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/661.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 2 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/662.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 3 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/663.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 4 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/664.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 5 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/665.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 6 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/666.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 7 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/667.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 8 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/668.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 9 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/669.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 10 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/670.ts
