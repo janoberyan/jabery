@@ -1,25 +1,24 @@
-#EXTM3U
-#EXTINF:-1,Bein Sport 1 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2233.ts
-#EXTINF:-1,Bein Sport 2 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2234.ts
-#EXTINF:-1,Bein Sport 3 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2235.ts
-#EXTINF:-1,Bein Sport 4 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2236.ts
-#EXTINF:-1,Bein Sport 5 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2237.ts
-#EXTINF:-1,Bein Sport 6 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2238.ts
-#EXTINF:-1,Bein Sport 7 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2239.ts
-#EXTINF:-1,Bein Sport 8 HD
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2240.ts
-#EXTINF:-1,Bein Sport 9 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2241.ts
-#EXTINF:-1,Bein Sport 10 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2242.ts
-#EXTINF:-1,Bein Sport 11 HD
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2243.ts
-#EXTINF:-1,Bein Sport 12 HD 
-http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2244.ts
+#EXTINF:-1,AR:BEIN_SPORTS_1HD steamfull
+http://176.31.226.149:25461/live/testest/testest/339.ts
+#EXTINF:-1,AR:BEIN_SPORTS_2HD steamfull
+http://176.31.226.149:25461/live/testest/testest/338.ts
+#EXTINF:-1,AR:BEIN_SPORTS_3HD steamfull
+http://176.31.226.149:25461/live/testest/testest/337.ts
+#EXTINF:-1,AR:BEIN_SPORTS_4HD steamfull
+http://176.31.226.149:25461/live/testest/testest/336.ts
+#EXTINF:-1,bein10HD
+http://176.31.226.149:25461/live/testest/testest/345.ts
+#EXTINF:-1,Bein11HD
+http://176.31.226.149:25461/live/testest/testest/344.ts
+#EXTINF:-1,bein12HD
+http://176.31.226.149:25461/live/testest/testest/343.ts
+#EXTINF:-1,bein5hd
+http://176.31.226.149:25461/live/testest/testest/335.ts
+#EXTINF:-1,bein6hd
+http://176.31.226.149:25461/live/testest/testest/334.ts
+#EXTINF:-1,bein7HD
+http://176.31.226.149:25461/live/testest/testest/342.ts
+#EXTINF:-1,Bein8HD
+http://176.31.226.149:25461/live/testest/testest/341.ts
+#EXTINF:-1,Bein9HD
+http://176.31.226.149:25461/live/testest/testest/340.ts
