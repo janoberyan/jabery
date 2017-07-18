@@ -1,4 +1,50 @@
 
+
+
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC1
+http://185.2.83.139:6204/live/ara/ARA/1.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC2
+http://185.2.83.139:6204/live/ara/ARA/2.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC3
+http://185.2.83.139:6204/live/ara/ARA/3.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC4
+http://185.2.83.139:6204/live/ara/ARA/4.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC Action
+http://185.2.83.139:6204/live/ara/ARA/7.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC Bollywood
+http://185.2.83.139:6204/live/ara/ARA/10.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC Drama
+http://185.2.83.139:6204/live/ara/ARA/8.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC MASR
+http://185.2.83.139:6204/live/ara/ARA/6.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC Masr2
+http://185.2.83.139:6204/live/ara/ARA/9.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC MAX
+http://185.2.83.139:6204/live/ara/ARA/5.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC SPORT1
+http://185.2.83.139:6204/live/ara/ARA/11.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC SPORT2
+http://185.2.83.139:6204/live/ara/ARA/12.ts
+#EXTVLCOPT:http-user-agent=true
+#EXTINF:-1,MBC SPORT3
+http://185.2.83.139:6204/live/ara/ARA/13.ts
+
+
+
+
+
 #EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
 #EXTINF:-1,AR: MBC 1
 http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/1040.ts
