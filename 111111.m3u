@@ -1,6 +1,9 @@
-#EXTVLCOPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1,Zee Living
-http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/163.ts
-#EXTVLCOPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1,Zee Alwan
-http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/164.ts
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
+#EXTINF:-1,MY-HD-Fox Movies Family
+http://51.254.197.48:6204/live/kingo/ON20/529.ts
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
+#EXTINF:-1,MY-HD-Fox Action Movies
+http://51.254.197.48:6204/live/kingo/ON20/525.ts
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
+#EXTINF:-1,MY-HD-Fix Foxi
+http://51.254.197.48:6204/live/kingo/ON20/521.ts
