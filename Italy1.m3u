@@ -1,117 +1,73 @@
 
-#EXTINF:-1,IT,----------{ITALIA GENERALE}-----------
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/7624.ts
-#EXTINF:-1,IT,—————{ITALIA SPORTS}-----------
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/7627.ts
-#EXTINF:-1,IT,—————{ITALIA CINEMA}-----------
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/7626.ts
-#EXTINF:-1,IT |, SKY CINEMA PASSION
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1933.ts
-#EXTINF:-1,IT |, SKY CINEMA HITS
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1934.ts
-#EXTINF:-1,IT |, SKY CINEMA MAX PLUS
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1935.ts
-#EXTINF:-1,IT |, SKY CINEMA FAMILY
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1936.ts
-#EXTINF:-1,IT |, SKY CINEMA COMEDY
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1937.ts
-#EXTINF:-1,IT |, SKY CINEMA CLASSIC
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1938.ts
-#EXTINF:-1,IT |, SKY CINEMA 1
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1932.ts
-#EXTINF:-1,IT |, SKY CINEMA 24
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1939.ts
-#EXTINF:-1,IT |, SKY ATLANTIC
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1941.ts
-#EXTINF:-1,IT |, SKY CINEMA PASSION HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4962.ts
-#EXTINF:-1,IT |, SKY CINEMA MAX HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4960.ts
-#EXTINF:-1,IT |,  SKY CINEMA FAMILY HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4961.ts
-#EXTINF:-1,IT,—————{MEDIASET}-----------
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/7630.ts
-#EXTINF:-1,IT |, MEDIASET ITALIA 2
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4935.ts
-#EXTINF:-1,IT |, PREMIUM ENERGY HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5287.ts
-#EXTINF:-1,IT |, PREMIUM EMOTION HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5288.ts
-#EXTINF:-1,IT |,  PREMIUM CALCIO 3
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5457.ts
-#EXTINF:-1,IT |, PREMIUM SPORT
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1944.ts
-#EXTINF:-1,IT |, PREMIUM EUROSPORT 2
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1946.ts
-#EXTINF:-1,IT |, PREMIUM EURO SPORT1
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1947.ts
-#EXTINF:-1,IT |, PREMIUM CRIME HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5280.ts
-#EXTINF:-1,IT |, PREMIUM CRIME 24 HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5281.ts
-#EXTINF:-1,IT |, PREMIUM COMEDY HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5289.ts
-#EXTINF:-1,IT |, PREMIUM CINEMA HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5282.ts
-#EXTINF:-1,IT |, PREMIUM CINEMA 24 HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5284.ts
-#EXTINF:-1,IT |, PREMIUMT CINEMA 2 HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5283.ts
-#EXTINF:-1,IT |, PREMIUM ACTION HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5285.ts
-#EXTINF:-1,IT |, PREMIUM ACTION 24 HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5286.ts
-#EXTINF:-1,IT |, PREMIUM STORIES HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5290.ts
-#EXTINF:-1,IT |, PREMIUM JOI HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/5291.ts
-#EXTINF:-1,IT |, PREMIUM JOI
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1945.ts
-#EXTINF:-1,IT,—————{INFANTS}-----------
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/7625.ts
-#EXTINF:-1,IT |,  DISNEY XD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4944.ts
-#EXTINF:-1,IT |,  CARTOONITO
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4943.ts
-#EXTINF:-1,IT |,  CARTOON NETWORK
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4942.ts
-#EXTINF:-1,IT,—————{ITALIA CULTURE}-----------
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/7628.ts
-#EXTINF:-1,IT |, NET GEO PEOPLE HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4974.ts
-#EXTINF:-1,IT |, DISCOVERY TRAVEL & LIVING HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4971.ts
-#EXTINF:-1,IT |, DISCOVERY SCIENCE HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4970.ts
-#EXTINF:-1,IT |, DISCOVERY CHANNEL HD
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4969.ts
-#EXTINF:-1,IT |, ANIMAL PLANET
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/4975.ts
-#EXTINF:-1,IT,—————{ITALIA PPV}-----------
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/7629.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 1
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1931.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 2
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1923.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 3
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1922.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA  4
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1921.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 5
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1920.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 6
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1919.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 7
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1918.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 8
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1917.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 9
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1916.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 10
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1930.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 11
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1929.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 12
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1928.ts
-#EXTINF:-1,IT |, SKY PRIMAFILA 13
-http://smarttv.ddns.net:8000/live/live:albi1987/hisidRdwuwGDSSRTKQSCC/1927.ts
+#EXTINF:-1,IT-AXN HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/790.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-BOING
+httphost://$http-raw=http://173.212.206.199:25461/1/2/863.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CANALE 5-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/793.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-CARTOON NETWORK
+httphost://$http-raw=http://173.212.206.199:25461/1/2/806.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,CIELO-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/808.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,DISNEY JR-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/815.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,LA5-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/820.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,LA7-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/821.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-MEDIASAT EXTRA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/822.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,NICKELODEON-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/826.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,PREMIUM ACTION 24-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/833.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,PREMIUM CINEMA 2 HD-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/834.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,PREMIUM EMOTION-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/835.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,PREMIUM JOI-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/836.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,RAI 1-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/838.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,RAI 2-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/839.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RAI 4
+httphost://$http-raw=http://173.212.206.199:25461/1/2/840.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RAI 5
+httphost://$http-raw=http://173.212.206.199:25461/1/2/841.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RAI GULP
+httphost://$http-raw=http://173.212.206.199:25461/1/2/842.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RAI MOVIE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/843.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RAI NEWS 24
+httphost://$http-raw=http://173.212.206.199:25461/1/2/844.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RAI PREMIUM
+httphost://$http-raw=http://173.212.206.199:25461/1/2/845.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RAI SCUOLA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/846.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RAI STORIA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/847.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RAI YOYO
+httphost://$http-raw=http://173.212.206.199:25461/1/2/848.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RETE 4
+httphost://$http-raw=http://173.212.206.199:25461/1/2/849.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RSI LA1 HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/850.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-RSI LA2 HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/851.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,SKY ATLANTIC 1HD-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/855.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-SKY ATLANTIC HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/854.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-SKY CINEMA 1 HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/858.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-SKY CINEMA CLASSIC HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/859.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-SKY CINEMA FAMILY HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/860.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,IT-SKY CINEMA MAX HD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/861.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,STUDIO UNIVERSAL-IT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/837.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,ANIMUX-FR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/789.m3u8$http-refferer=http://173.212.206.199:25461/
