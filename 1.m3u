@@ -1,1 +1,29 @@
 
+#EXTINF:-1,SP-BEIN SPORTS 2 HD/AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/145.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTVLCOPT:http-user-agent=sammaadsdsss
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="sport HD&SD Streams",Bein Sports 2 HD
+http://live1.livetvindia.co.in:8000/live/mobiletvapp/freeappsal/33.ts
+#EXTVLCOPT:http-user-agent=sammaadsdsss
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 2 HD Backup" tvg-logo="" group-title="sport HD&SD Streams",Bein Sports 2 HD Backup
+http://live1.livetvindia.co.in:8000/live/mobiletvapp/freeappsal/376.ts
+#EXTVLCOPT:http-user-agent=sammaadsdsss
+#EXTINF:-1 tvg-ID="" tvg-name=" Bein Sports 2" tvg-logo="" group-title="sport HD&SD Streams", Bein Sports 2
+http://live1.livetvindia.co.in:8000/live/mobiletvapp/freeappsal/831.ts
+#EXTINF:-1,AR:BEIN_SPORTS_2HD steamfull
+http://176.31.226.149:25461/live/testest/testest/338.ts
+#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
+#EXTINF:-1,SPORT: beiN Sports 2 HD
+http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/662.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTS-2HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-2HD.LOCAL
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/3.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-2HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-2HD.BACKUP
+http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/4.ts
+#EXTVLCOPT:http-user-agent=sammaadsdsss
+#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 2 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 2 AR
+http://live1.livetvindia.co.in:8000/live/mobiletvapp/freeappsal/290.ts
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport2 sd
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
