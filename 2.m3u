@@ -2,8 +2,8 @@
 #EXTINF:-1,SP-BEIN SPORTS 1 HD/AR
 httphost://$http-raw=http://173.212.206.199:25461/1/2/144.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTVLCOPT:http-user-agent=sammaadsdsss
-
-
+#EXTINF:-1,BEIN SPORTS 1
+https://live68.vkuserlive.com/639910/live/BpzdN3RBfmg/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="sport HD&SD Streams",Bein Sports 1 HD
 http://live1.livetvindia.co.in:8000/live/mobiletvapp/freeappsal/32.ts
 #EXTVLCOPT:http-user-agent=sammaadsdsss
