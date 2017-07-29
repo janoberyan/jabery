@@ -2,19 +2,19 @@
 #EXTINF:-1,دقة عالية جدااا
 httphost://$http-raw=http://173.212.206.199:25461/1/2/145.m3u8$http-refferer=http://173.212.206.199:25461/
 #EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTS-2HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",دقة عالية
+#EXTINF:-1,دقة عالية
 http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/3.ts
 #EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-2HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",دقة عالية
+#EXTINF:-1,دقة عالية
 http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/4.ts
 
 #EXTINF:-1,نت متوسط
 xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2Jyby5hZGNhLnN0L3N0cmVhbS5waHA%2FaWQ9MTcwMjMmd2lkdGg9MTAwJmhlaWdodD0xMDAmc3RyZXRjaGluZz11bmlmb3JtJGh0dHAtcmVmZmVyZXI9aHR0cDovL3Nob3dzcG9ydC10di5jb20vZW1iZWRwbGF5ZXIucGhwP2NoPWJlaW4yJnNlcnZlcj0x
 #EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 2 HD Backup" tvg-logo="" group-title="sport HD&SD Streams",دقة عالية
+#EXTINF:-1,دقة عالية
 http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/376.ts
 #EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name=" Bein Sports 2" tvg-logo="" group-title="sport HD&SD Streams", دقة عالية
+#EXTINF:-1,دقة عالية
 http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/831.ts
 #EXTINF:-1,دقة عالية
 http://176.31.226.149:25461/live/testest/testest/338.ts
@@ -23,8 +23,8 @@ httphost://$http-raw=http://163.172.89.151:25461/live/1/2/126.m3u8$http-refferer
 #EXTINF:-1,AR VIP: دقة عالية
 httphost://$http-raw=http://163.172.89.151:25461/live/1/2/169.m3u8$http-refferer=http://localhost
 #EXTVLCOPT:http-user-agent=raisam945@gmail.com
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 2 AR" tvg-logo="" group-title="sport HD&SD Streams",للنت الضعيف
+#EXTINF:-1,للنت الضعيف
 http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/290.ts
 #EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",للنت المتوسط
+#EXTINF:-1,للنت المتوسط
 http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
