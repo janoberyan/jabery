@@ -1,4 +1,13 @@
 
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1,بعض القنوات في بعض الاحيان لا تعمل
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/307.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1,زورونا على صفحتنا الفيس بوك
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/307.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1,تحياتي للجميع.اخوكم جان
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/307.ts
 
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_1_HD" tvg-logo="" group-title="03- beIN MOVIES",AR_Bein_Movies_1_HD
