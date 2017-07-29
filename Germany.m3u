@@ -1,150 +1,222 @@
-#EXTINF:-1,AXN HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/526.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,BOOMERANG-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/527.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,CARTOON NETWORK-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/528.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,DISCOVERY HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/529.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,DISNEY CHANNEL-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/530.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,DISNEY CINEMAGIC-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/531.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,DISNEY JUNIOR-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/532.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,DISNEY XD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/533.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,DMAX-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/534.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,EURO SPORTS 1 HD SP-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/535.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,EURO SPORTS 2 HD SP-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/536.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,FOX HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/537.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,HISTORY HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/538.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,KABEL EINS-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/539.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,KIKA-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/540.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,KINO WELT HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/541.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,NAT GEO CHANNEL HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/543.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,NAT GEO WILD HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/544.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,PRO 7-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/545.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,PRO SIEBEN MAXX HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/546.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,ROMANCE TV-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/547.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,RTL 2 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/548.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,RTL CRIME HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/549.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,RTL HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/550.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,RTL LIVING HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/551.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,RTL NITRO HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/552.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,RTL PASSION HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/553.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,RTL PLUS HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/554.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SAT.1 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/555.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SIXX HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/556.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY ATLANTIC HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/577.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY BUNDESLIGA HD SP-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/558.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY CINEMA 24 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/559.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY CINEMA ACTION HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/557.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY CINEMA COMEDY HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/563.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY CINEMA EMOTION HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/560.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY CINEMA FAMILY HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/561.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY CINEMA HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/562.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY CINEMA HITS HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/565.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,13th STREET HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/564.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY KIRIMI-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/542.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SELECT 1 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/566.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SELECT 2 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/567.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SELECT 3 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/568.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SELECT 4 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/569.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SELECT 5 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/570.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SELECT 6 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/571.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SELECT 7 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/572.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SELECT 8 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/573.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SPORT 1 HD SP-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/574.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SPORT 2 HD SP-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/575.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY SPORTS NEWS HD SP-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/576.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SONY CHANNEL HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/579.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SPIEGEL TV-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/580.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SPORT 1 HD SP-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/581.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SUPER RTL HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/582.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SYFY HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/578.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,TLC HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/583.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,TNT COMEDY HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/584.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,TNT FILM HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/585.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,TNT SERIES HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/586.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,UNIVERSAL CHANNEL HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/587.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,VOX HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/588.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,ZDF HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/589.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,ZEE ONE HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/590.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,DELUX MUSIC-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/788.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,EURO NEWS-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/816.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,N24 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/823.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,NTVHD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/828.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,ORF 2 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/830.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,ORF EINS HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/829.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY 3D-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/852.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY ACTION-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/853.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY BUNDESLIGA 2HD SP-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/856.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SKY CINEMA 1 HD-DE
-httphost://$http-raw=http://173.212.206.199:25461/1/2/857.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1,=======>   Germany   <=======
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/384httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: 13th Street
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/311httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: 3sat
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/310httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: 3SAT HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/309httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: ARD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/312httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Arte
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/308httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: AXN HD Germany
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/313httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Boomerang
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/314httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Bundesliga 1
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/315httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Cartoon Network Germany
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/316httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Classica
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/317httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: DAS ERSTE HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/307httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Deluxe Music HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/318httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Discovery HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/319httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Disney Channel HD Germany
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/320httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Disney Cinemagic HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/321httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Disney Junior
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/322httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Disney XD Deutschland
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/323httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Kabel 1
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/324httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Kabel Eins
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/306httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Kika
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/325httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: MGM HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/326httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: N24
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/327httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: NatGeo Wild HD Germany
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/328httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: National Geographic HD Germany
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/329httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Nickelodeon
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/330httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Orf 1
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/331httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Orf 2
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/332httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: PHOENIX
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/305httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Pro7
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/333httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Pro7 Fun HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/298httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Pro7 Maxx HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/297httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: RTL
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/334httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: RTL NITRO
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/335httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sat 1
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/336httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: sat 1 emotions
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/337httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sat 1 Gold
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/304httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SERVUS TV HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/303httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Action HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/338httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SKY ATLANTIC HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/339httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/340httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/341httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/342httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/343httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/344httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/345httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/346httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/347httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/348httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/349httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Cinema  1 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/350httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SKY CINEMA  24
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/351httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Cinema HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/352httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Comedy HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/353httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Disney HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/354httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky DMAX HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/355httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Emotion HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/356httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Hits HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/357httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SKY SELECT 1
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/358httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SKY SELECT 2
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/359httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SKY SELECT 3
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/360httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SKY SELECT 4
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/361httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SKY SELECT 5
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/362httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SKY SELECT 6
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/363httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Select 7
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/364httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Select 8
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/365httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 1 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/366httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/367httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/368httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 2 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/369httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/370httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/371httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/372httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/373httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/374httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/375httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/376httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Sport News HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/377httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky TNT Serie HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/378httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sky Universal HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/379httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sport 1  HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/79httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sport 1 US
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/80httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: Sport Digital HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/78httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: SUPER RTL HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/380httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: TNT Serie
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/381httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: VIVA
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/302httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: VOX
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/382httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: WDR HD DE
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/301httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: ZDF
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/383httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: ZDF NEO HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/300httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE: ZEE ONE
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/299httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE : sky sport austria
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/76httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE : Sport 1  HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/77httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 10 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/58httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 2 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/59httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 3 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/60httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 4 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/61httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 5 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/62httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 6 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/63httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 7 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/64httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 8 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/65httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 9 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/66httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany Sport 10 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/67httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany Sport 11 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/68httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany Sport 3 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/75httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany Sport 4 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/69httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany Sport 5 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/70httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany Sport 6 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/71httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany Sport 7 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/72httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany Sport 8 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/73httphost://$http-.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DE | Sky Germany Sport 9 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/74httphost://$http-.m3u8$http-refferer=http://localhost
