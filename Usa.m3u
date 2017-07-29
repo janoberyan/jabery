@@ -1,514 +1,346 @@
-#EXTM3U
-#EXTINF:7200,True Movies+1
-http://212.231.80.4:3000/play/015
-#EXTINF:0,True Ent +1
-http://212.231.80.4:3000/play/a00y
-#EXTINF:0,TruTV
-http://212.231.80.4:3000/play/009
-#EXTINF:0,True Movies
-http://212.231.80.4:3000/play/008
-#EXTINF:0,True Ent
-http://212.231.80.4:3000/play/013
-#EXTINF:0,TNT HD
-http://212.231.80.4:4444/play/tnthd
-#EXTINF:0,TNT
-http://212.231.80.4:4444/play/tnt
-#EXTINF:0,NICK JR
-http://212.231.80.4:4444/play/nickjr
-#EXTINF:0,HOLLYWOODHD
-http://212.231.80.4:4444/play/hollywoodhd
-#EXTINF:0, FOX LIFE
-http://212.231.80.4:4444/play/foxlife
-#EXTINF:0, TCM
-http://212.231.80.4:4444/play/tcm
-#EXTINF:0, BABY TV
-http://212.231.80.4:4444/play/baby
-#EXTINF:0, FOX HD
-http://212.231.80.4:4444/play/foxhd
-#EXTINF:0,BBC One HD
-http://185.22.78.73:9001/play/a00d
-#EXTINF:0,BBC One NI HD
-http://185.22.78.73:9001/play/a00c
-#EXTINF:0,CBBC HD
-http://185.22.78.73:9001/play/a00b
-#EXTINF:0,BBC Two HD
-http://185.22.78.73:9001/play/a00e
-#EXTINF:0,Spike + 1
-http://185.22.78.73:9002/play/a008
-#EXTINF:0,Channel 5HD
-http://185.22.78.73:9002/play/a007
-#EXTINF:0,5 USA
-http://185.22.78.73:9002/play/a004
-#EXTINF:0,5STAR
-http://185.22.78.73:9002/play/a005
-#EXTINF:0,Spike
-http://185.22.78.73:9002/play/a002
-#EXTINF:0,5STAR +1
-http://185.22.78.73:9002/play/a009
-#EXTINF:0,5 USA +1
-http://185.22.78.73:9002/play/a00a
-#EXTINF:0,My5
-http://185.22.78.73:9002/play/a006
-#EXTINF:0,Channel 5
-http://185.22.78.73:9002/play/a003
-#EXTINF:0,BBC One Wal HD
-http://185.22.78.73:9003/play/a003
-#EXTINF:0,BBC One ScotHD
-http://185.22.78.73:9003/play/a002
-#EXTINF:0,BBC Four HD
-http://185.22.78.73:9003/play/a007
-#EXTINF:0,CBeebies HD
-http://185.22.78.73:9003/play/a00b
-#EXTINF:0,BBC NEWS HD
-http://185.22.78.73:9003/play/a004
-#EXTINF:0,ITV
-http://185.22.78.73:9004/play/a00a
-#EXTINF:0,ITV Central West
-http://185.22.78.73:9004/play/a008
-#EXTINF:0,ITV4
-http://185.22.78.73:9004/play/a006
-#EXTINF:0,ITV2
-http://185.22.78.73:9004/play/a005
-#EXTINF:0,ITV Granada
-http://185.22.78.73:9004/play/a004
-#EXTINF:0,ITV London
-http://185.22.78.73:9004/play/a002
-#EXTINF:0,ITV4+1
-http://185.22.78.73:9004/play/a00c
-#EXTINF:0,ITVi Stream 44
-http://185.22.78.73:9004/play/a00b
-#EXTINF:0,ITV Anglia East
-http://185.22.78.73:9004/play/a003
-#EXTINF:0,ITVBe
-http://185.22.78.73:9004/play/a009
-#EXTINF:0,ITV London HD
-http://185.22.78.73:9005/play/a006
-#EXTINF:0,ITV Meridian East HD
-http://185.22.78.73:9005/play/a004
-#EXTINF:0,ITV Yorkshire West HD
-http://185.22.78.73:9005/play/a003
-#EXTINF:0,ITV Central West HD
-http://185.22.78.73:9005/play/a005
-#EXTINF:0,Channel 4 HD
-http://185.22.78.73:9006/play/a003
-#EXTINF:0,4seven
-http://185.22.78.73:9006/play/a002
-#EXTINF:3000,movies4men
-http://185.22.78.73:9007/play/a002
-#EXTINF:0,mov4men+1
-http://185.22.78.73:9007/play/a003
-#EXTINF:0,Peace TV Urdu
-http://185.22.78.73:9007/play/a004
-#EXTINF:0,Newstalk
-http://185.22.78.73:9007/play/a008
-#EXTINF:0,More4
-http://185.22.78.73:9008/play/a003
-#EXTINF:0,E4
-http://185.22.78.73:9008/play/a002
-#EXTINF:0,E4+1
-http://185.22.78.73:9008/play/a006
-#EXTINF:0,Channel 4 +1
-http://185.22.78.73:9008/play/a005
-#EXTINF:0,The Vault
-http://185.22.78.73:9009/play/a007
-#EXTINF:0,Starz TV
-http://185.22.78.73:9009/play/a003
-#EXTINF:0,Scuzz
-http://185.22.78.73:9009/play/a008
-#EXTINF:0,True Ent
-http://185.22.78.73:9009/play/a00b
-#EXTINF:0,True Ent +1
-http://185.22.78.73:9009/play/a00e
-#EXTINF:0,Chart Show TV
-http://185.22.78.73:9009/play/a002
-#EXTINF:0,True Movies
-http://185.22.78.73:9009/play/a004
-#EXTINF:0,POP+1
-http://185.22.78.73:9009/play/a00d
-#EXTINF:0,tru TV
-http://185.22.78.73:9009/play/a00c
-#EXTINF:0,Kix
-http://185.22.78.73:9009/play/a00a
-#EXTINF:0,Chartshow Hits
-http://185.22.78.73:9009/play/a009
-#EXTINF:0,POP
-http://185.22.78.73:9009/play/a005
-#EXTINF:0,Tiny Pop
-http://185.22.78.73:9009/play/a006
-#EXTINF:0,CBS Drama
-http://185.22.78.73:9010/play/a002
-#EXTINF:0,horror channel
-http://185.22.78.73:9010/play/a003
-#EXTINF:0,CBS Action
-http://185.22.78.73:9010/play/a006
-#EXTINF:0,High Street TV 2
-http://185.22.78.73:9010/play/a00c
-#EXTINF:0,Psychic Today
-http://185.22.78.73:9010/play/a008
-#EXTINF:0,Babestation Blue
-http://185.22.78.73:9010/play/a004
-#EXTINF:0,CBS Reality
-http://185.22.78.73:9010/play/a005
-#EXTINF:0,CBS Reality+1
-http://185.22.78.73:9010/play/a009
-#EXTINF:0,horror ch+1
-http://185.22.78.73:9010/play/a00a
-#EXTINF:0,Lucky Star
-http://185.22.78.73:9010/play/a00b
-#EXTINF:0,S4C
-http://185.22.78.73:9010/play/a007
-#EXTINF:0,Food Netwrk+1
-http://185.22.78.73:9011/play/a00c
-#EXTINF:0,Food Network
-http://185.22.78.73:9011/play/a005
-#EXTINF:0,Dunya News
-http://185.22.78.73:9011/play/a009
-#EXTINF:0,New Vision +1
-http://185.22.78.73:9011/play/a00d
-#EXTINF:0,Gems TV
-http://185.22.78.73:9011/play/a00a
-#EXTINF:0,True Crime
-http://185.22.78.73:9011/play/a002
-#EXTINF:0,TV5 MONDE
-http://185.22.78.73:9011/play/a003
-#EXTINF:0,Babenation
-http://185.22.78.73:9011/play/a004
-#EXTINF:0,FRANCE Eng
-http://185.22.78.73:9011/play/a006
-#EXTINF:0,PBS America
-http://185.22.78.73:9011/play/a008
-#EXTINF:0,Craft Extra
-http://185.22.78.73:9011/play/a00b
-#EXTINF:0,YourTV
-http://185.22.78.73:9011/play/a007
-#EXTINF:3900,Channel 4 Northern Ireland
-http://185.22.78.73:9012/play/a006
-#EXTINF:0,Channel 4 South & East
-http://185.22.78.73:9012/play/a003
-#EXTINF:0,More4 +1
-http://185.22.78.73:9012/play/a00b
-#EXTINF:0,Channel 4 London
-http://185.22.78.73:9012/play/a002
-#EXTINF:0,4Music
-http://185.22.78.73:9012/play/a009
-#EXTINF:0,Film4 +1
-http://185.22.78.73:9012/play/a00a
-#EXTINF:0,Channel 4 Scotland
-http://185.22.78.73:9012/play/a007
-#EXTINF:0,Channel 4 North
-http://185.22.78.73:9012/play/a005
-#EXTINF:0,Channel 4 Midlands
-http://185.22.78.73:9012/play/a004
-#EXTINF:0,Film4
-http://185.22.78.73:9012/play/a008
-#EXTINF:0,Forces TV
-http://185.22.78.73:9013/play/a003
-#EXTINF:0,Challenge+1
-http://185.22.78.73:9013/play/a005
-#EXTINF:0,Challenge
-http://185.22.78.73:9013/play/a002
-#EXTINF:0,Drama
-http://185.22.78.73:9014/play/a003
-#EXTINF:0,Really
-http://185.22.78.73:9014/play/a004
-#EXTINF:0,YESTERDAY
-http://185.22.78.73:9014/play/a002
-#EXTINF:1800,Pick
-http://185.22.78.73:9015/play/a00i
-#EXTINF:0,Sky News
-http://185.22.78.73:9015/play/a00h
-#EXTINF:0,Box Hits
-http://185.22.78.73:9016/play/a002
-#EXTINF:0,Box Upfront
-http://185.22.78.73:9016/play/a006
-#EXTINF:0,Magic
-http://185.22.78.73:9016/play/a007
-#EXTINF:0,Kerrang!
-http://185.22.78.73:9016/play/a004
-#EXTINF:0,KISS
-http://185.22.78.73:9016/play/a005
-#EXTINF:0,The Box
-http://185.22.78.73:9016/play/a003
-#EXTINF:-1,A&E 
-http://thepk.co:2095/live/husham/isaplayer/672.ts
-#EXTINF:-1,BBC AMERICA 
-http://thepk.co:2095/live/husham/isaplayer/628.ts
-#EXTINF:-1,cbs 
-http://thepk.co:2095/live/husham/isaplayer/669.ts
-#EXTINF:-1,COOKING CHANNEL 
-http://thepk.co:2095/live/husham/isaplayer/627.ts
-#EXTINF:-1,Destination America 
-http://thepk.co:2095/live/husham/isaplayer/621.ts
-#EXTINF:-1,diy 
-http://thepk.co:2095/live/husham/isaplayer/650.ts
-#EXTINF:-1,ESPN2 
-http://thepk.co:2095/live/husham/isaplayer/616.ts
-#EXTINF:-1,FOOD NETWORK 
-http://thepk.co:2095/live/husham/isaplayer/626.ts
-#EXTINF:-1,fox 
-http://thepk.co:2095/live/husham/isaplayer/665.ts
-#EXTINF:-1,FOXSPORT1  
-http://thepk.co:2095/live/husham/isaplayer/625.ts
-#EXTINF:-1,fxx 
-http://thepk.co:2095/live/husham/isaplayer/635.ts
-#EXTINF:-1,fyi 
-http://thepk.co:2095/live/husham/isaplayer/643.ts
-#EXTINF:-1,HBO COMEDY 
-http://thepk.co:2095/live/husham/isaplayer/624.ts
-#EXTINF:-1,HBO FAMILY 
-http://thepk.co:2095/live/husham/isaplayer/623.ts
-#EXTINF:-1,hbo 
-http://thepk.co:2095/live/husham/isaplayer/634.ts
-#EXTINF:-1,HBO SIGNATURE 
-http://thepk.co:2095/live/husham/isaplayer/642.ts
-#EXTINF:-1,lifetime movie network 
-http://thepk.co:2095/live/husham/isaplayer/649.ts
-#EXTINF:-1,MSNBC 
-http://thepk.co:2095/live/husham/isaplayer/640.ts
-#EXTINF:-1,nba tv 
-http://thepk.co:2095/live/husham/isaplayer/639.ts
-#EXTINF:-1,nbc 
-http://thepk.co:2095/live/husham/isaplayer/662.ts
-#EXTINF:-1,showtime 
-http://thepk.co:2095/live/husham/isaplayer/638.ts
-#EXTINF:-1,spike 
-http://thepk.co:2095/live/husham/isaplayer/659.ts
-#EXTINF:-1,STARZ EAST 
-http://thepk.co:2095/live/husham/isaplayer/637.ts
-#EXTINF:-1,trutv 
-http://thepk.co:2095/live/husham/isaplayer/648.ts
-#EXTINF:-1,tv land 
-http://thepk.co:2095/live/husham/isaplayer/654.ts
-#EXTINF:-1, CBC TORONTO
-http://thepk.co:2095/live/husham/isaplayer/804.ts
-#EXTINF:-1, CHCH
-http://thepk.co:2095/live/husham/isaplayer/803.ts
-#EXTINF:-1, COMEDY GOLD
-http://thepk.co:2095/live/husham/isaplayer/801.ts
-#EXTINF:-1, CP24
-http://thepk.co:2095/live/husham/isaplayer/799.ts
-#EXTINF:-1, NICK
-http://thepk.co:2095/live/husham/isaplayer/783.ts
-#EXTINF:-1, SPIKE
-http://thepk.co:2095/live/husham/isaplayer/777.ts
-#EXTINF:-1, SPORTSNET WORLD HD
-http://thepk.co:2095/live/husham/isaplayer/776.ts
-
-
-#EXTINF:0,TVSØries HD
-http://178.192.242.14:9000/play/a00s
-#EXTINF:0,RTP Memðria
-http://178.192.242.14:9000/play/a06v
-#EXTINF:0,Real Madrid TV
-http://178.192.242.14:9000/play/a08j
-#EXTINF:0,A&E
-http://178.192.242.14:9000/play/a019
-#EXTINF:0,Toros TV
-http://178.192.242.14:9000/play/a07w
-#EXTINF:0,France 24
-http://178.192.242.14:9000/play/a01j
-#EXTINF:0,Sport TV 3 HD
-http://178.192.242.14:9000/play/a08b
-#EXTINF:0,SIC K
-http://178.192.242.14:9000/play/a08h
-#EXTINF:0,FOX Crime HD
-http://178.192.242.14:9000/play/a00m
-#EXTINF:0,TV Galicia
-http://178.192.242.14:9000/play/a075
-#EXTINF:0,Sporting TV
-http://178.192.242.14:9000/play/a07y
-#EXTINF:0,SIC Mulher
-http://178.192.242.14:9000/play/a07z
-#EXTINF:0,SKY News
-http://178.192.242.14:9000/play/a081
-#EXTINF:0,VH1
-http://178.192.242.14:9000/play/a01a
-#EXTINF:0,Eurosport 2
-http://178.192.242.14:9000/play/a079
-#EXTINF:0,Biggs
-http://178.192.242.14:9000/play/a01d
-#EXTINF:0,FTV
-http://178.192.242.14:9000/play/a070
-#EXTINF:0,Jim Jam
-http://178.192.242.14:9000/play/a08i
-#EXTINF:0,TLC
-http://178.192.242.14:9000/play/a080
-#EXTINF:0,Travel Channel HD
-http://178.192.242.14:9000/play/a07e
-#EXTINF:0,SPORT TV 5
-http://178.192.242.14:9000/play/a082
-#EXTINF:0,CNN
-http://178.192.242.14:9000/play/a01f
-#EXTINF:0,24 Kitchen HD
-http://178.192.242.14:9000/play/a00l
-#EXTINF:0,Cahttp://178.192.242.14:9000/play/a08l
-#EXTINF:0,SIC Radical
-http://178.192.242.14:9000/play/a06s
-#EXTINF:0,Disney Junior
-http://178.192.242.14:9000/play/a01n
-#EXTINF:0,FOX Comedy
-http://178.192.242.14:9000/play/a06w
-#EXTINF:0,AMC
-http://178.192.242.14:9000/play/a08g
-#EXTINF:0,Playboy TV
-http://178.192.242.14:9000/play/a078
-#EXTINF:0,TVCine 3 HD
-http://178.192.242.14:9000/play/a00r
-#EXTINF:0,Nat Geo Wild
-http://178.192.242.14:9000/play/a06r
-#EXTINF:0,MCM POP
-http://178.192.242.14:9000/play/a07a
-#EXTINF:0,C-Music
-http://178.192.242.14:9000/play/a08k
-#EXTINF:0,Sport TV 2 HD
-http://178.192.242.14:9000/play/a08o
-#EXTINF:0,EuroNews
-http://178.192.242.14:9000/play/a01i
-#EXTINF:0,MCS Lifestyle
-http://178.192.242.14:9000/play/a087
-#EXTINF:0,TVCine 2 HD
-http://178.192.242.14:9000/play/a00t
-#EXTINF:0,RTP .frica
-http://178.192.242.14:9000/play/a071
-#EXTINF:0,BBC World News
-http://178.192.242.14:9000/play/a01h
-#EXTINF:0,Kombat Sport
-http://178.192.242.14:9000/play/a089
-#EXTINF:0,Eurosport HD
-http://178.192.242.14:9000/play/a00p
-#EXTINF:0,HOT
-http://178.192.242.14:9000/play/a083
-
-#EXTINF:-1,bbc two
-http://185.62.86.6:8081/hls/bbctwo.m3u8
-#EXTINF:-1,itv
-http://185.62.86.6:8081/hls/itv.m3u8
-#EXTINF:-1,channel 4
-http://185.62.86.6:8081/hls/channel4.m3u8
-#EXTINF:-1,channel 5
-http://185.62.86.6:8081/hls/channel5.m3u8
-#EXTINF:-1,itv 2
-http://185.62.86.6:8081/hls/itv2.m3u8
-#EXTINF:-1,bbc four
-http://185.62.86.6:8081/hls/bbcfour.m3u8
-#EXTINF:-1,itv 3
-http://185.62.86.6:8081/hls/itv3.m3u8
-#EXTINF:-1,pick
-http://185.62.86.6:8081/hls/pick.m3u8
-#EXTINF:-1,dave
-http://185.62.86.6:8081/hls/dave.m3u8
-#EXTINF:-1,more 4
-http://185.62.86.6:8081/hls/more4.m3u8
-#EXTINF:-1,film 4
-http://185.62.86.6:8081/hls/film4.m3u8
-#EXTINF:-1,really
-http://185.62.86.6:8081/hls/really.m3u8
-#EXTINF:-1,yesterday
-http://185.62.86.6:8081/hls/yesterday.m3u8
-#EXTINF:-1,drama
-http://185.62.86.6:8081/hls/drama.m3u8
-#EXTINF:-1,itv 4
-http://185.62.86.6:8081/hls/itv4.m3u8
-#EXTINF:-1,5usa
-http://185.62.86.6:8081/hls/5usa.m3u8
-#EXTINF:-1,home
-http://185.62.86.6:8081/hls/home.m3u8
-#EXTINF:-1,itv be
-http://185.62.86.6:8081/hls/itvbe.m3u8
-#EXTINF:-1,e4
-http://185.62.86.6:8081/hls/e4.m3u8
-#EXTINF:-1,5star
-http://185.62.86.6:8081/hls/5star.m3u8
-#EXTINF:-1,spike uk
-http://185.62.86.6:8081/hls/spike.m3u8
-#EXTINF:-1,sony
-http://185.62.86.6:8081/hls/sonymoviechannel.m3u8
-#EXTINF:-1,quest
-http://185.62.86.6:8081/hls/quest.m3u8
-#EXTINF:-1,food network
-http://185.62.86.6:8081/hls/foodnetwork.m3u8
-#EXTINF:-1,challenge
-http://185.62.86.6:8081/hls/challenge.m3u8
-#EXTINF:-1,4seven
-http://185.62.86.6:8081/hls/4seven.m3u8
-#EXTINF:-1,movie4men
-http://185.62.86.6:8081/hls/movies4men.m3u8
-#EXTINF:-1,cbsaction
-http://185.62.86.6:8081/hls/cbsaction.m3u8
-#EXTINF:-1,cbsreality
-http://185.62.86.6:8081/hls/cbsreality.m3u8
-#EXTINF:-1,horrorchannel
-http://185.62.86.6:8081/hls/horrorchannel.m3u8
-#EXTINF:-1,yourtv
-http://185.62.86.6:8081/hls/yourtv.m3u8
-#EXTINF:-1,blaze
-http://185.62.86.6:8081/hls/blaze.m3u8
-#EXTINF:-1,4music
-http://185.62.86.6:8081/hls/4music.m3u8
-#EXTINF:-1,travelchannel
-http://185.62.86.6:8081/hls/travelchannel.m3u8
-#EXTINF:-1,cbsdrama
-http://185.62.86.6:8081/hls/cbsdrama.m3u8
-#EXTINF:-1,trytv
-http://185.62.86.6:8081/hls/trutv.m3u8
-#EXTINF:-1,my5
-http://185.62.86.6:8081/hls/my5.m3u8
-#EXTINF:-1,WGN
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/672.ts
-
-
-
-#EXTINF:-1,Nicktoons
-http://208.86.19.13:8080/live/15.stream/index.m3u8
-
-#EXTINF:-1,TNT
-http://208.86.19.13:8080/live/16.stream/index.m3u8
-
-#EXTINF:-1,Discovery
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-
-#EXTINF:-1,BBC America
-http://208.86.19.13:8080/live/34.stream/index.m3u8
-
-#EXTINF:-1,CBS 2
-http://208.86.19.13:8080/live/101.stream/index.m3u8
-
-#EXTINF:-1,NBC 4
-http://208.86.19.123:8080/live/102.stream/index.m3u8
-
-#EXTINF:-1,ABC 7
-http://208.86.19.123:8080/live/104.stream/index.m3u8
-
-#EXTINF:-1,My 9
-http://208.86.19.13:8080/live/105.stream/index.m3u8
-
-#EXTINF:-1,PIX 11
-http://208.86.19.13:8080/live/106.stream/index.m3u8
-
-#EXTINF:-1,PBS THIRTEEN
-http://208.86.19.123:8080/live/107.stream/index.m3u8
-
-#EXTINF:-1,WLIW 21
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-
-#EXTINF:-1,ION
-http://208.86.19.123:8080/live/109.stream/index.m3u8
-
-#EXTINF:-1,PIX2
-http://208.86.19.13:8080/live/106.stream/index.m3u8
-
-#EXTINF:-1,EI
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-
-#EXTINF:-1, CBS NEWS HD
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-
-#EXTINF:-1, H2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
-
-#EXTINF:-1, DISCOVERY CHANNEL HD
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-
-#EXTINF:-1, ANIMAL PLANET HD
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,=======>   USA   <=======
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1121.m3u8$http-refferer=http://localhost
+#EXTINF:-1,UK: 5USA
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1242.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: Bein Sports USA HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/23.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: USA Network HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1118.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : AMC HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/968.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : BYU TV
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/969.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : CARTOON NETWORK
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/970.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : CBSN HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/971.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : CNBC
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/972.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : DISCCOVERY HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/973.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : DW
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/974.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : Fight HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/975.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : Fox HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/965.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : FXX
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/976.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : HBO Comedy
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/977.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : HBO East
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/978.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : HBO HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/979.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : HBO Signature
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/980.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : HBO Zone
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/981.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : NBA SD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/982.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : NBA TV HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/983.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : NFL Network 1080i
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/967.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : NFL REDZONE SD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/966.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : Showtime 2
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/984.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : SHOWTIME HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/985.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : Showtime West
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/986.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : Starz Cinema
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/987.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : Starz Comedy
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/988.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : Starz East
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/989.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : Starz Encore
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/990.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA : Tennis Channel HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/991.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | (SD)NFL: 1
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1014.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | (SD)NFL: 2
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1013.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | (SD)NFL: 3
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1012.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | (SD)NFL: 4
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1011.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | (SD)NFL: 5
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1010.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | (SD)NFL: 6
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1009.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | (SD)NFL: 7
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1008.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | (SD)NFL: 8
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1007.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | (SD)NFL: 9
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1006.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | A&E HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1015.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | Amazing Discoveries HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1016.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | ESPN
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1017.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | Fox Sports 1 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/11.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | Fox Sports 2 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/12.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | NBC XTRA 1 720P
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1018.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | NBC XTRA 2 720P
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1019.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | NBC XTRA 3 720P
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1020.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | NBC XTRA 4 720P
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1021.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | NBC XTRA 5 720P
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1022.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | NBCSN HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/10.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | NFL Network HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1023.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | PAC-12 Arizona
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1024.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | PAC-12 Bay Area
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1025.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | PAC-12 Los Angeles
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1026.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | PAC-12 Oregon
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1027.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | PAC-12 Washington
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1028.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | Poker Central
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1029.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | TLC HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1030.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | Versus HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1031.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA | WWE HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1032.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA ABC HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/992.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA ABC NEWS HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/993.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA BRAVO HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/994.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA CBS
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/995.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA COMEDY CENTRAL HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/996.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA CW HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/997.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA ESPN HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/998.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA FOX NEWS HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/999.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA HISTORY HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1000.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA Investigation Discovery
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1001.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA NBC Golf
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1002.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA Network (US)
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1003.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA SYFY HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1004.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA TNT HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1005.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: ANIMAL PLANET HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1077.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Bloomberg Europe
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1074.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Bloomberg TV
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1054.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: BNN
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1073.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Boomerang
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1072.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: C-Span 1
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1078.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: C-Span 2
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1079.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: C-Span 3
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1080.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: CAPITAL TV
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1052.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Channel 11
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1051.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Church Channel
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1050.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: CINEMAX ACTION HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1081.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Cinemax East HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1071.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Cinemax MoreMax
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1070.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: CNN HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/9.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: CNN US HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1039.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: CW11
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1069.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Discovery HD Showcase
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1068.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: ESPN 2
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1082.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: ESPN News US HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1038.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: ESPN U HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1037.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: FASHION ONE HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1067.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: FIGHT SPORT
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1096.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Fine Living
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1066.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: FIX TV HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1049.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: FOX 43
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1083.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Fox Deportes HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1058.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Fox Soccer Plus HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1057.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Fox SPORTS 506 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1084.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Fox Sports Florida HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1056.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Fox Sports West HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1055.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: FUEL HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1065.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: HGTV HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1064.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: HSN YT LIVE 1080p HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1053.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: ION Television East HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1036.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Lifetime Movie Network HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1035.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: MBL HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1085.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Mello TV
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1048.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: MLB Network
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1086.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: MSG HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1034.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: MSNBC HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1087.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: MTV Rocks
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1063.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: MY9 TV
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1047.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: NBC
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1059.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 1 UHD (16/17SEASON)
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1088.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 2 UHD (16/17SEASON)
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1089.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 3 UHD (16/17SEASON)
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1090.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 4 UHD (16/17SEASON)
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1091.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: NFL Network 1
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1075.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: NHL Network
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/13.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: NICKELODEN HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1076.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1046.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Offical Olympic Channel
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1092.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: OUTDOOR CHANNEL HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1062.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: P.B.S Kids
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1045.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: PAG HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1093.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: SEC Network
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1094.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Smile Of A Child
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1061.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: TBS HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1095.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: THE FLORIDA CHANNEL
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1044.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: VH1 Classic
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1060.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: WEATHERNATION
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1043.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: WGN America HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1033.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: WGN News Chicago
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1042.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: Yes Network
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1041.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA: YTV
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1040.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA:CA | Sportsnet 360 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/14.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA:CA | TSN 1*
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/15.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA:CA | TSN 2
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/16.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA:CA | TSN 3*
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/17.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA:CA | TSN 4 HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/18.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USA:CA | TSN 5*
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/19.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: AFN MOVIE
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1097.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: AFN NEWS
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1098.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: AFN PRIME ATLANTIC
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1099.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: AFN PRIME PACIFIC
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1100.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: AFN PULSE
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1101.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: AFN SPECTRUM
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1102.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: AFN SPORTS
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/20.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: AFN SPORTS 2
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/21.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: AFN SPORTS HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/22.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: Cinemax 5 StarMax
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1103.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: Cinemax ActionMax East
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1104.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: Cinemax East
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1105.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: Discovery Science HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1106.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: DIY Network
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1107.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: Food Network HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1108.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: FOXX HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1109.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: FX HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1110.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: H2
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1111.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: HALLMARK
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1112.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: HIFI
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1113.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: MelloTV
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1119.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: National Geographic
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1114.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: NICKELODEN HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1115.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: SPIKE HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1116.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US: STARZ EDGE HD
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1117.m3u8$http-refferer=http://localhost
+#EXTINF:-1,US:Sports-Net
+httphost://$http-raw=http://163.172.89.151:25461/live/1/2/1120.m3u8$http-refferer=http://localhost
