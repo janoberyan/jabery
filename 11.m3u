@@ -1,3 +1,2 @@
-#EXTVLCOPT:http-user-agent=fd752vdfb@djtyj74
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="sport HD&SD Streams",Bein Sports 1 HD
-http://client.momoiptv.com:8088/live/M.MFaceBookcom/sbdAndroidsbSD/158.ts
+#EXTINF:-1,MBC 1-AR
+httphost://$http-raw=http://173.212.202.101/token021.php$http-refferer=http://95.154.237.59:8081/
