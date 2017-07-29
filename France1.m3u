@@ -259,3 +259,70 @@ http://tv.primatv.club:8899/movie/prima10simo2/freetv2/172.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="VOD_FR_Blame.2017" tvg-logo="http://www.torrent9.top/_pictures/blame-french-webrip-2017.jpg" group-title="22- VOD France",VOD_FR_Blame.2017
 http://tv.primatv.club:8899/movie/prima10simo2/freetv2/174.mkv
 
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Sport_1HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_1HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/486.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Sport_1HD-Fr-B" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_1HD-Fr-B
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/487.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Sport_2HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_2HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/488.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Sport_2HD-Fr-B" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_2HD-Fr-B
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/489.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Sport_3HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_3HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/490.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Sport_3HD-Fr-B" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_3HD-Fr-B
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/491.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Max_04HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_04HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/492.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Max_05HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_05HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/493.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Max_06HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_06HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/494.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Max_07HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_07HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/495.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Max_08HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_08HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/496.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Max_09HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_09HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/497.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_Max_10HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_10HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/498.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SFR-Sport-1-HD-France" tvg-logo="" group-title="02- beIN SPORTS",SFR-Sport-1-HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/483.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SFR-Sport-2-HD-France" tvg-logo="" group-title="02- beIN SPORTS",SFR-Sport-2-HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/484.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SFR-Sport-3-HD-France" tvg-logo="" group-title="02- beIN SPORTS",SFR-Sport-3-HD-France
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/485.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TF1" tvg-logo="" group-title="05- TNT France",FR_TF1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/470.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FR_M6" tvg-logo="" group-title="05- TNT France",FR_M6
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/471.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FR_FRANCE_2" tvg-logo="" group-title="05- TNT France",FR_FRANCE_2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/473.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FR_FRANCE_3" tvg-logo="" group-title="05- TNT France",FR_FRANCE_3
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/474.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FR_FRANCE_4" tvg-logo="" group-title="05- TNT France",FR_FRANCE_4
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/475.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FR_FRANCE_5" tvg-logo="" group-title="05- TNT France",FR_FRANCE_5
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/476.ts
+
