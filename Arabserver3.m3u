@@ -1,6 +1,6 @@
 
 
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/259.ts
+
 #EXTVLCOPT:http-user-agent=PrimaIPTV(v2) LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_1" tvg-logo="" group-title="17- MBC",AR_MBC_1
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/260.ts
