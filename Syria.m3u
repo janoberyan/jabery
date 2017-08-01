@@ -1,26 +1,29 @@
 
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:SYRIA NEWS
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1338.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Sama Syria TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1341.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Ma3akom Syria
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1417.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Syria Drama
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1295.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,AR:SYRIA ALOULA
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1041.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,AR:NABD SYRIA TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1052.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,AR:SYRIA TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1292.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Al Ekhbariya Syria
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/151.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar: Halab Today
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/102.ts
 
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,SYRIA
-http://185.2.83.139:6204/live/ara/ARA/253.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Syria AlEkhbaria
-http://185.2.83.139:6204/live/ara/ARA/271.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Syria Drama
-http://185.2.83.139:6204/live/ara/ARA/217.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Syria1
-http://185.2.83.139:6204/live/ara/ARA/360.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Sama TV
-http://185.2.83.139:6204/live/ara/ARA/218.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,ANN
-http://185.2.83.139:6204/live/ara/ARA/308.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Orient
-http://185.2.83.139:6204/live/ara/ARA/326.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Halab Today
-http://185.2.83.139:6204/live/ara/ARA/205.ts
