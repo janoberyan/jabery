@@ -33,7 +33,23 @@ http://srvt.topiptv.org/live/acc...............................................N
 #EXTINF:-1,Ar:RT Arabic
 http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/387.ts
 #EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:FRANCE 24 Arabic HD
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1021.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 
+#EXTINF:-1,AR: ALAAN TV News
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1012.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,AR:Al-KhabarTV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1020.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 
 #EXTINF:-1,Ar:Rudaw
 http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/286.ts
+
+
+
+
+
+
+
