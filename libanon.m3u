@@ -1,21 +1,23 @@
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,LBC Sat
-http://185.2.83.139:6204/live/ara/ARA/263.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,LDC
-http://185.2.83.139:6204/live/ara/ARA/233.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,MTV Lebanon
-http://185.2.83.139:6204/live/ara/ARA/254.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Lebanon TV
-http://185.2.83.139:6204/live/ara/ARA/209.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,OTV
-http://185.2.83.139:6204/live/ara/ARA/135.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Future TV
-http://185.2.83.139:6204/live/ara/ARA/265.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Alaan TV
-http://185.2.83.139:6204/live/ara/ARA/283.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+
+#EXTINF:-1,Ar:LDC
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/198.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:LBC SAT
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/197.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:MTV Lebanon
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/227.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Lebanon TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1330.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:OTV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/272.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Future TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/177.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,AR: ALAAN TV News
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1012.ts
+
