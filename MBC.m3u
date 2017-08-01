@@ -53,78 +53,75 @@ http://srvt.topiptv.org/live/acc...............................................N
 
 
 
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_1" tvg-logo="" group-title="12- MBC",AR_MBC_1
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/260.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_1_HD" tvg-logo="" group-title="12- MBC",AR_MBC_1_HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/261.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_2." tvg-logo="" group-title="12- MBC",AR_MBC_2.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/282.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_2_HD" tvg-logo="" group-title="12- MBC",AR_MBC_2_HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/262.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_3" tvg-logo="" group-title="12- MBC",AR_MBC_3
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/263.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_3_HD." tvg-logo="" group-title="12- MBC",AR_MBC_3_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/285.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_4" tvg-logo="" group-title="12- MBC",AR_MBC_4
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/264.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_4_HD." tvg-logo="" group-title="12- MBC",AR_MBC_4_HD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/284.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_MASR_1" tvg-logo="" group-title="12- MBC",AR_MBC_MASR_1
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/269.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_MASR_2." tvg-logo="" group-title="12- MBC",AR_MBC_MASR_2.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/283.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_DRAMA" tvg-logo="" group-title="12- MBC",AR_MBC_DRAMA
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/268.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC DRAMA-HD" tvg-logo="" group-title="12- MBC",AR_MBC DRAMA-HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/266.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-VARIETY-HD" tvg-logo="" group-title="12- MBC",AR_MBC-VARIETY-HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/270.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_ACTION" tvg-logo="" group-title="12- MBC",AR_MBC_ACTION
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/265.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_MAX" tvg-logo="" group-title="12- MBC",AR_MBC_MAX
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/267.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_ZEE_Aflam" tvg-logo="" group-title="12- MBC",AR_MBC_ZEE_Aflam
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/272.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_ZEE_Alwan" tvg-logo="" group-title="12- MBC",AR_MBC_ZEE_Alwan
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/271.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_BOLLYWOOD." tvg-logo="" group-title="12- MBC",AR_MBC_BOLLYWOOD.
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/286.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_B4U_AFLAM" tvg-logo="" group-title="12- MBC",AR_MBC_B4U_AFLAM
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/273.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-SPORT-1HD" tvg-logo="" group-title="12- MBC",AR_MBC-SPORT-1HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/276.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-SPORT-3HD" tvg-logo="" group-title="12- MBC",AR_MBC-SPORT-3HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/274.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-SPORT-2HD" tvg-logo="" group-title="12- MBC",AR_MBC-SPORT-2HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/275.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_PRO_SPORT_4_HD" tvg-logo="" group-title="12- MBC",AR_MBC_PRO_SPORT_4_HD
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/277.ts
-
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_1" tvg-logo="" group-title="17- MBC",AR_MBC_1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/260.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_1_HD" tvg-logo="" group-title="17- MBC",AR_MBC_1_HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/261.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_2." tvg-logo="" group-title="17- MBC",AR_MBC_2.
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/282.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_2_HD" tvg-logo="" group-title="17- MBC",AR_MBC_2_HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/262.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_3" tvg-logo="" group-title="17- MBC",AR_MBC_3
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/263.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_3_HD." tvg-logo="" group-title="17- MBC",AR_MBC_3_HD.
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/285.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_4" tvg-logo="" group-title="17- MBC",AR_MBC_4
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/264.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_4_HD." tvg-logo="" group-title="17- MBC",AR_MBC_4_HD.
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/284.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_ACTION" tvg-logo="" group-title="17- MBC",AR_MBC_ACTION
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/265.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_DRAMA" tvg-logo="" group-title="17- MBC",AR_MBC_DRAMA
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/268.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_MAX" tvg-logo="" group-title="17- MBC",AR_MBC_MAX
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/267.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_MASR_1" tvg-logo="" group-title="17- MBC",AR_MBC_MASR_1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/269.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_MASR_2." tvg-logo="" group-title="17- MBC",AR_MBC_MASR_2.
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/283.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_BOLLYWOOD." tvg-logo="" group-title="17- MBC",AR_MBC_BOLLYWOOD.
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/286.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC DRAMA-HD" tvg-logo="" group-title="17- MBC",AR_MBC DRAMA-HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/266.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-VARIETY-HD" tvg-logo="" group-title="17- MBC",AR_MBC-VARIETY-HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/270.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_ZEE_Alwan" tvg-logo="" group-title="17- MBC",AR_MBC_ZEE_Alwan
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/271.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_ZEE_Aflam" tvg-logo="" group-title="17- MBC",AR_MBC_ZEE_Aflam
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/272.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_B4U_AFLAM" tvg-logo="" group-title="17- MBC",AR_MBC_B4U_AFLAM
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/273.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-SPORT-1HD" tvg-logo="" group-title="17- MBC",AR_MBC-SPORT-1HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/276.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-SPORT-2HD" tvg-logo="" group-title="17- MBC",AR_MBC-SPORT-2HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/275.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-SPORT-3HD" tvg-logo="" group-title="17- MBC",AR_MBC-SPORT-3HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/274.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_PRO_SPORT_4_HD" tvg-logo="" group-title="17- MBC",AR_MBC_PRO_SPORT_4_HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/277.ts
 
 
 
