@@ -1,306 +1,139 @@
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,CBC Drama
-http://185.2.83.139:6204/live/ara/ARA/247.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,CBC Extra
-http://185.2.83.139:6204/live/ara/ARA/256.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,CBC Sofra
-http://185.2.83.139:6204/live/ara/ARA/257.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,CBC TV
-http://185.2.83.139:6204/live/ara/ARA/249.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,CBC2
-http://185.2.83.139:6204/live/ara/ARA/248.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Mekameleen
-http://185.2.83.139:6204/live/ara/ARA/65.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Melody Classic
-http://185.2.83.139:6204/live/ara/ARA/49.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Moga Cinema
-http://185.2.83.139:6204/live/ara/ARA/40.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Moga Comedy
-http://185.2.83.139:6204/live/ara/ARA/91.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Alhayat
-http://185.2.83.139:6204/live/ara/ARA/246.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Alhayat Masr
-http://185.2.83.139:6204/live/ara/ARA/394.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlHayat Muslsalat
-http://185.2.83.139:6204/live/ara/ARA/313.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Alhayat we Alnas
-http://185.2.83.139:6204/live/ara/ARA/47.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Alhayat2
-http://185.2.83.139:6204/live/ara/ARA/245.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Nile Cinema
-http://185.2.83.139:6204/live/ara/ARA/243.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Nile Comedy
-http://185.2.83.139:6204/live/ara/ARA/242.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Nile Culture
-http://185.2.83.139:6204/live/ara/ARA/240.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Nile Drama
-http://185.2.83.139:6204/live/ara/ARA/241.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Nile Family
-http://185.2.83.139:6204/live/ara/ARA/71.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Nile Life
-http://185.2.83.139:6204/live/ara/ARA/239.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Nile News
-http://185.2.83.139:6204/live/ara/ARA/70.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Nile Sport
-http://185.2.83.139:6204/live/ara/ARA/69.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Alkahera WAlNas
-http://185.2.83.139:6204/live/ara/ARA/149.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Alkahera WAlNas2
-http://185.2.83.139:6204/live/ara/ARA/144.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Sada ElBalad
-http://185.2.83.139:6204/live/ara/ARA/287.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Sada Elbalad Drama
-http://185.2.83.139:6204/live/ara/ARA/145.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Sada Elbalad Plus
-http://185.2.83.139:6204/live/ara/ARA/148.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Dream2
-http://185.2.83.139:6204/live/ara/ARA/67.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Ten
-http://185.2.83.139:6204/live/ara/ARA/146.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlNahar
-http://185.2.83.139:6204/live/ara/ARA/244.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlnahAlyoum
-http://185.2.83.139:6204/live/ara/ARA/142.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlNahCinema
-http://185.2.83.139:6204/live/ara/ARA/143.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlNahDrama
-http://185.2.83.139:6204/live/ara/ARA/251.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlNahIraq TV
-http://185.2.83.139:6204/live/ara/ARA/393.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlNahNoor
-http://185.2.83.139:6204/live/ara/ARA/310.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlNahOne
-http://185.2.83.139:6204/live/ara/ARA/409.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlNahSport
-http://185.2.83.139:6204/live/ara/ARA/314.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cairo Aflam
-http://185.2.83.139:6204/live/ara/ARA/78.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cairo Cinema
-http://185.2.83.139:6204/live/ara/ARA/250.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cairo Cinema2
-http://185.2.83.139:6204/live/ara/ARA/72.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cairo Comedy
-http://185.2.83.139:6204/live/ara/ARA/76.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cairo Drama
-http://185.2.83.139:6204/live/ara/ARA/290.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cairo Flim
-http://185.2.83.139:6204/live/ara/ARA/33.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cairo Musalsalat
-http://185.2.83.139:6204/live/ara/ARA/75.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cairo One TV
-http://185.2.83.139:6204/live/ara/ARA/300.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cairo Zaman
-http://185.2.83.139:6204/live/ara/ARA/77.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Panorama Drama
-http://185.2.83.139:6204/live/ara/ARA/84.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Panorama Drama2
-http://185.2.83.139:6204/live/ara/ARA/86.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Panorama Film
-http://185.2.83.139:6204/live/ara/ARA/94.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Panorama Food
-http://185.2.83.139:6204/live/ara/ARA/85.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Time Comedy
-http://185.2.83.139:6204/live/ara/ARA/432.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Time Film
-http://185.2.83.139:6204/live/ara/ARA/434.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Time Taxi
-http://185.2.83.139:6204/live/ara/ARA/433.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,TokTok Aflam
-http://185.2.83.139:6204/live/ara/ARA/426.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,TokTok Cima
-http://185.2.83.139:6204/live/ara/ARA/425.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Cima
-http://185.2.83.139:6204/live/ara/ARA/252.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Noursat
-http://185.2.83.139:6204/live/ara/ARA/130.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Aghani Aghani
-http://185.2.83.139:6204/live/ara/ARA/292.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Hayat Tv Christian
-http://185.2.83.139:6204/live/ara/ARA/170.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Heya
-http://185.2.83.139:6204/live/ara/ARA/211.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlKarma
-http://185.2.83.139:6204/live/ara/ARA/354.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlKarma Me Plus
-http://185.2.83.139:6204/live/ara/ARA/364.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Naba TV
-http://185.2.83.139:6204/live/ara/ARA/336.ts
+
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+
+#EXTINF:-1,Ar:CIMA ALIBABA
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/156.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Cima
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/155.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:CBC Sofra
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/154.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:CBC eXtra
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/153.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:CBC Drama
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/152.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:CBC
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/150.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,AR:MEKAMELEEN TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1333.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Melody Classic
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/222.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Moga Comedy
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/226.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:MOGA Cinema
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/225.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Misr El Balad
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/223.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Alhayat Musalsalat
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/145.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Alhayat We Alnas
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/69.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Alhayat Muslsalat
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/68.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Alhayat 2
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/67.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:ALhayat
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/66.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Nile Family
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/74.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Nile TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/235.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Nile Sport
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/234.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Nile Life
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/233.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Nile Drama
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/232.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Nile Comedy
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/231.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Nile Cinema
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/230.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Nile Culture
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1447.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Sada ElBalad Drama
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/288.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Sada El Balad 2
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/405.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Sada El Balad
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/287.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:ENNAHAR TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/244.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Dream
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/165.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:TIME CINEMA
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/300.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:TOP MOVIES
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/299.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:TEN TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/298.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Cairo Drama
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1424.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:CAIRO Cinema
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/142.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:TIME CINEMA
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/300.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:TIME SHA3BEYAT
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/302.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:TIME QURAN
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/303.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Toktok Aflam
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/306.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:TokTok Cima
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1351.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Noursat Alchabab
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/238.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Alhayat Musalsalat
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/145.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Alhayat We Alnas
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/69.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Alhayat Muslsalat
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/68.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Alhayat 2
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/67.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:ALhayat
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/66.ts
 
 
-
-
-
-
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Alhayat_1" tvg-logo="" group-title="16- Egypt",AR_Alhayat_1
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/251.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Alhayat_2" tvg-logo="" group-title="16- Egypt",AR_Alhayat_2
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/252.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Cinema" tvg-logo="" group-title="16- Egypt",AR_Rotana_Cinema
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/232.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Aflam" tvg-logo="" group-title="16- Egypt",AR_Rotana_Aflam
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/233.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Music" tvg-logo="" group-title="16- Egypt",AR_Rotana_Music
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/237.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_classic" tvg-logo="" group-title="16- Egypt",AR_Rotana_classic
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/234.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Massrya" tvg-logo="" group-title="16- Egypt",AR_Rotana_Massrya
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/235.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Khaliji" tvg-logo="" group-title="16- Egypt",AR_Rotana_Khaliji
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/236.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Clip" tvg-logo="" group-title="16- Egypt",AR_Rotana_Clip
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/238.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Drama" tvg-logo="" group-title="16- Egypt",AR_Melody_Drama
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/219.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Hits" tvg-logo="" group-title="16- Egypt",AR_Melody_Hits
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/218.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Aflam" tvg-logo="" group-title="16- Egypt",AR_Melody_Aflam
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/221.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Classic" tvg-logo="" group-title="16- Egypt",AR_Melody_Classic
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/220.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/231.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_Cinema" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_Cinema
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/229.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_Drama" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_Drama
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/228.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_One" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_One
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/227.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_Al_Youm" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_Al_Youm
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/230.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Film" tvg-logo="" group-title="16- Egypt",AR_Panorama_Film
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/239.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Comedy" tvg-logo="" group-title="16- Egypt",AR_Panorama_Comedy
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/242.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Drama" tvg-logo="" group-title="16- Egypt",AR_Panorama_Drama
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/241.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Drama _2" tvg-logo="" group-title="16- Egypt",AR_Panorama_Drama _2
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/240.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Sport" tvg-logo="" group-title="16- Egypt",AR_Nile_Sport
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/243.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_News" tvg-logo="" group-title="16- Egypt",AR_Nile_News
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/244.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Life" tvg-logo="" group-title="16- Egypt",AR_Nile_Life
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/245.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_family" tvg-logo="" group-title="16- Egypt",AR_Nile_family
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/246.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Drama" tvg-logo="" group-title="16- Egypt",AR_Nile_Drama
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/247.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Culture" tvg-logo="" group-title="16- Egypt",AR_Nile_Culture
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/248.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Comedie" tvg-logo="" group-title="16- Egypt",AR_Nile_Comedie
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/249.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Cinema" tvg-logo="" group-title="16- Egypt",AR_Nile_Cinema
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/250.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Dream_1" tvg-logo="" group-title="16- Egypt",AR_Dream_1
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/253.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_Dream_2" tvg-logo="" group-title="16- Egypt",AR_Dream_2
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/254.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC" tvg-logo="" group-title="16- Egypt",AR_CBC
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/226.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_2" tvg-logo="" group-title="16- Egypt",AR_CBC_2
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/225.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Extra" tvg-logo="" group-title="16- Egypt",AR_CBC_Extra
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/223.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Drama" tvg-logo="" group-title="16- Egypt",AR_CBC_Drama
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/224.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Sofra" tvg-logo="" group-title="16- Egypt",AR_CBC_Sofra
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/222.ts
