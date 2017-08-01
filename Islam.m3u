@@ -1,54 +1,37 @@
-
-
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlResalah
-http://185.2.83.139:6204/live/ara/ARA/259.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlMajd3
-http://185.2.83.139:6204/live/ara/ARA/306.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Iqraa
-http://185.2.83.139:6204/live/ara/ARA/255.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Saudi Quraan
-http://185.2.83.139:6204/live/ara/ARA/110.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,MTA International
-http://185.2.83.139:6204/live/ara/ARA/325.ts
-
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Majd" tvg-logo="" group-title="20- Islam",AR_Al_Majd
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/316.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Majd_Quran" tvg-logo="" group-title="20- Islam",AR_Al_Majd_Quran
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/318.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Majd_Hadith" tvg-logo="" group-title="20- Islam",AR_Al_Majd_Hadith
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/317.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alnas" tvg-logo="" group-title="20- Islam",AR_Alnas
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/315.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alrahma" tvg-logo="" group-title="20- Islam",AR_Alrahma
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/314.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alresalah" tvg-logo="" group-title="20- Islam",AR_Alresalah
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/319.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Mekke" tvg-logo="" group-title="20- Islam",AR_Mekke
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/322.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Wesal_1" tvg-logo="" group-title="20- Islam",AR_Wesal_1
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/324.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Roya" tvg-logo="" group-title="20- Islam",AR_Roya
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/323.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_IQRAA" tvg-logo="" group-title="20- Islam",AR_IQRAA
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/320.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_alfajer_tv" tvg-logo="" group-title="20- Islam",AR_alfajer_tv
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/321.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="19" tvg-name="AR_Ahl_Al_Quran" tvg-logo="" group-title="20- Islam",AR_Ahl_Al_Quran
-http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/325.ts
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1388.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Almajd Quran
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1389.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Almajd Hadith
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1390.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Almajd Dal Radio Kids
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1383.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Almajd 01
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1388.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:ALKITAB TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1347.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:ALASSEMA 2
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1401.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Assalamu Alayka Tv
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1356.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:AL RAHMA
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/92.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Al Nas
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/89.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Iqraa TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1457.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Saudi Quran
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/385.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Saudi Sunnah
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/386.ts
