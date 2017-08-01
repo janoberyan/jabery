@@ -1,21 +1,19 @@
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Rotana Clip
-http://185.2.83.139:6204/live/ara/ARA/18.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Rotana Aflam
-http://185.2.83.139:6204/live/ara/ARA/15.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Rotana Cinema
-http://185.2.83.139:6204/live/ara/ARA/16.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Rotana Classic
-http://185.2.83.139:6204/live/ara/ARA/17.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Rotana Khaliji
-http://185.2.83.139:6204/live/ara/ARA/19.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Rotana Masriya
-http://185.2.83.139:6204/live/ara/ARA/20.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Rotana Music
-http://185.2.83.139:6204/live/ara/ARA/21.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Rotana Music
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/285.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Rotana Masriya
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/284.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Rotana Khalijiah
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/283.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Rotana Clip
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/282.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Rotana Classic
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/281.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Rotana Cinema EGY
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/280.ts
+
