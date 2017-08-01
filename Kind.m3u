@@ -31,3 +31,6 @@ http://srvt.topiptv.org/live/acc...............................................N
 #EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 #EXTINF:-1,Ar:SEMSEM Kids
 http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/196.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,AR:AL Resala
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1057.ts
