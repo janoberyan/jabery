@@ -1,22 +1,15 @@
-
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Jordan
-http://185.2.83.139:6204/live/ara/ARA/115.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Jordan Sport
-http://185.2.83.139:6204/live/ara/ARA/117.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Palestine
-http://185.2.83.139:6204/live/ara/ARA/55.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Palestine Live
-http://185.2.83.139:6204/live/ara/ARA/165.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Palestine News
-http://185.2.83.139:6204/live/ara/ARA/401.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Musawa
-http://185.2.83.139:6204/live/ara/ARA/164.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,AlFalastiniah
-http://185.2.83.139:6204/live/ara/ARA/96.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Jordan Sports
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1448.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Jordan
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1420.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,AR: Palestine Today
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1028.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Palestine LIVE
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/278.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Al Falastiniah
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1033.ts
