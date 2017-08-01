@@ -1,24 +1,27 @@
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Abu Dhabi
-http://185.2.83.139:6204/live/ara/ARA/270.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Abu Dhabi Drama
-http://185.2.83.139:6204/live/ara/ARA/269.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Abu Dhabi Elmarat
-http://185.2.83.139:6204/live/ara/ARA/231.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Abu Dhabi Nat Geo
-http://185.2.83.139:6204/live/ara/ARA/230.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Dubai TV
-http://185.2.83.139:6204/live/ara/ARA/268.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Dubai Zaman
-http://185.2.83.139:6204/live/ara/ARA/141.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Sama Dubai
-http://185.2.83.139:6204/live/ara/ARA/26.ts
-#EXTVLCOPT:http-user-agent=true
-#EXTINF:-1,Noor Dubai
-http://185.2.83.139:6204/live/ara/ARA/234.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:AD Nat Geo
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/50.ts#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:AD DRAMA
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/49.ts#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Abu Dhabi tv
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/48.ts#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Abu Dhabi Drama HD
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1421.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Sama Dubai
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1410.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Dubai Zaman
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/169.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,AR:Dubai One
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1037.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:Noor dubai tv
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/237.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:DUBAI TV
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/168.ts
+#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
+#EXTINF:-1,Ar:DUBAI RACING 2
+http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/166.ts
