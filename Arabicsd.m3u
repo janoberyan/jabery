@@ -1,2060 +1,387 @@
+#EXTM3U
 
+#EXTINF:-1,الاخبارية السعودية
+http://38.99.146.42:7777/AlEkhbariya.m3u8?user=sgls10455482&session=a1e662ff26a0197cbd0a5ed80312a43c66b972ef036fb0f83aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
 
-#EXTINF:-1,بعض القنوات لا تعمل
-http://216.66.42.38:7777/MBC1_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%201.jpg" group-title="HD LIST",MBC 1
-http://216.66.42.38:7777/MBC1_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%202.jpg" group-title="HD LIST",MBC 2
-http://216.66.42.38:7777/MBC2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%203.jpg" group-title="HD LIST",MBC 3
-http://216.66.42.38:7777/MBC3_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.mbc.net/ar/corporate/about-us/main/03/imageBinary/556f6f87b49982fce3d8e2741a12d41ce880f8e5/mbc4.jpg" group-title="HD LIST",MBC 4
-http://216.66.42.38:7777/MBC4_HD.m3u8
-#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/-paau9LgEjjo/V13W_oGbAxI/AAAAAAA0SEQ/_cTIN-NtJzw/w50-h50-c/socialfeed.info-mbc-action.jpg" group-title="HD LIST",MBC Action
-http://216.66.42.38:7777/MBCAction_HD.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-PFHezyWmr4I/AAAAAAAAAAI/AAAAAAAAAA4/KHDbSwRWBM8/s46-c-k-no/photo.jpg" group-title="HD LIST",MBC Bollywood
-http://216.66.42.38:7777/MBCBollywood_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20drama.jpg" group-title="HD LIST",MBC Drama
-http://216.66.42.38:7777/MBCDrama_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20masr.jpg" group-title="HD LIST",MBC Masr
-http://216.66.42.38:7777/MBCMaser_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20masr%202.jpg" group-title="HD LIST",MBCMasrPlus2
-http://216.66.42.38:7777/MBCMasrPlus2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.tunisvista.com/medias/mbc-max-tv-live-online-streaming.png" group-title="HD LIST",MBC Max
-http://216.66.42.38:7777/MBCMax_HD.m3u8
-#EXTINF:-1 tvg-logo="http://seevii.selevision.com/stb/item//tv_live1/1121.png" group-title="second list",seevii duc
-http://selevision9888-i.akamaihd.net/hls/live/219304/98887/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.seevii.com/stb/item//tv_live1/1120.png" group-title="second list",seevii shamiya
-http://selevision9895-i.akamaihd.net/hls/live/219372/98955/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.seevii.com/stb/item//tv_live1/1120.png" group-title="second list",seevii aloula
-http://selevision9879-i.akamaihd.net/hls/live/219138/98790/master.m3u8
-#EXTINF:-1 tvg-logo="http://seevii.selevision.com/stb/item//tv_live1/1132.png",seevii drama
-http://selevision9879-i.akamaihd.net/hls/live/219143/98795/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%201.jpg" group-title="second list",mbc1 hd
-https://tiny.cc/mbc1hd 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%201.jpg" group-title="second list",mbc 1
-https://tiny.cc/mbc1sd
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%202.jpg" group-title="second list",mbc 2 hd
-https://tiny.cc/mbc2hd 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%202.jpg" group-title="second list",mbc 2
-https://tiny.cc/mbc2sd 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%203.jpg" group-title="second list",mbc 3 hd
-https://tiny.cc/mbc3hd 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%203.jpg" group-title="second list",mbc 3
-https://tiny.cc/mbc3sd 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%204.jpg" group-title="second list",mbc 4 hd
-https://tiny.cc/mbc4hd
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%204.jpg" group-title="second list",mbc 4
-https://tiny.cc/mbc4sd
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20bollywood.jpg" group-title="second list",mbc bollywood
-http://tiny.cc/mbcbollywood
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20drama.jpg" group-title="second list",mbc drama hd
-http://tiny.cc/mbcdramahd 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20drama.jpg" group-title="second list",mbc drama
-http://selevision9877-i.akamaihd.net/hls/live/219123/98775/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20max.jpg" group-title="second list",mbc max hd
-http://selevision9887-i.akamaihd.net/hls/live/219292/98876/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20max.jpg" group-title="second list",mbc max
-http://selevision9880-i.akamaihd.net/hls/live/219179/98806/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20action.jpg" group-title="second list",mbc action
-http://selevision9880-i.akamaihd.net/hls/live/219177/98804/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20action.jpg" group-title="second list",mbc action hd
-http://selevision9888-i.akamaihd.net/hls/live/219296/98880/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20masr.jpg" group-title="second list",mbc masr
-http://selevision9893-i.akamaihd.net/hls/live/219355/98938/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20masr%202.jpg" group-title="second list",mbc masr 2
-http://selevision9889-i.akamaihd.net/hls/live/219312/98895/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mbc%20drama.jpg" group-title="second list",mbc drama plus
-http://selevision9887-i.akamaihd.net/hls/live/219289/98873/master.m3u8  
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cbc.jpg" group-title="second list",cbc1
-http://selevision9877-i.akamaihd.net/hls/live/219121/98773/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cbc%20drama.jpg" group-title="second list",cbc drama
-http://selevision9883-i.akamaihd.net/hls/live/219205/98831/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cbc%202.jpg" group-title="second list",cbc extra
-http://selevision9891-i.akamaihd.net/hls/live/219328/98911/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cbc%20sofra.jpg" group-title="second list",cbc sofra
-http://selevision9895-i.akamaihd.net/hls/live/219368/98951/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20cinema.jpg" group-title="second list",rotana cinema
-http://selevision9896-i.akamaihd.net/hls/live/219378/98961/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20aflam.jpg" group-title="second list",rotana aflam 
-http://selevision9879-i.akamaihd.net/hls/live/219141/98793/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20classic.jpg" group-title="second list",rotana classic
-http://selevision9879-i.akamaihd.net/hls/live/219144/98796/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20music.jpg" group-title="second list",rotana music
-http://selevision9889-i.akamaihd.net/hls/live/219309/98892/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20clip.jpg" group-title="second list",rotana clip
-http://selevision9888-i.akamaihd.net/hls/live/219301/98884/master.m3u8
-#EXTINF:-1 tvg-logo="http://c.top4top.net/p_333ybacr1.jpg" group-title="second list",music now
-http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20masriya.jpg" group-title="second list",rotana masryia
-http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20khaligi.jpg" group-title="second list",rotana khalijia
-http://selevision9879-i.akamaihd.net/hls/live/219139/98791/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/lbc.jpg" group-title="second list",lbci
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mtv.jpg" group-title="second list",mtv leb
-http://selevision9883-i.akamaihd.net/hls/live/219250/98834/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/future.jpg" group-title="second list",future
-http://selevision9889-i.akamaihd.net/hls/live/219311/98894/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljadeed.jpg" group-title="second list",aljadeed
-http://selevision9886-i.akamaihd.net/hls/live/219282/98866/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ldc.jpg" group-title="second list",ldc
-http://selevision9884-i.akamaihd.net/hls/live/219263/98847/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20nahar.jpg" group-title="second list",alnahar one
-http://selevision9877-i.akamaihd.net/hls/live/219119/98771/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20nahar%20drama.jpg" group-title="second list",alnahar drama
-http://selevision9877-i.akamaihd.net/hls/live/219120/98772/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai.jpg" group-title="second list",dubai
-http://selevision9891-i.akamaihd.net/hls/live/219333/98916/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sama%20dubai.jpg" group-title="second list",sama dubai
-http://selevision9878-i.akamaihd.net/hls/live/219135/98787/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20one.jpg" group-title="second list",dubai one
-http://selevision9878-i.akamaihd.net/hls/live/219131/98783/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Zaman-TV_o.jpg" group-title="second list",dubai zaman
-http://selevision9886-i.akamaihd.net/hls/live/219281/98865/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noor%20dubai.jpg" group-title="second list",noor dubai
-http://selevision9895-i.akamaihd.net/hls/live/219374/98957/master.m3u8
-#EXTINF:-1 tvg-logo="http://egmedya.com/wp-content/uploads/2016/07/city-7-tv-channel-advertising-in-dubai-510x306.jpg" group-title="second list",city7 dubai
-http://selevision9883-i.akamaihd.net/hls/live/219255/98839/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20sport%201.jpg" group-title="second list",dubai sport
-http://selevision9892-i.akamaihd.net/hls/live/219344/98927/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20sport%201.jpg" group-title="second list",dubai sport 3
-http://selevision9885-i.akamaihd.net/hls/live/219275/98859/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20sport%201.jpg" group-title="second list",dubai sport 4
-http://selevision9890-i.akamaihd.net/hls/live/219326/98909/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/emirate_logo.png" group-title="second list",emarat
-http://selevision9876-i.akamaihd.net/hls/live/219114/98766/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/abu%20dhabi%20drama.jpg" group-title="second list",abu dhabi drama
-http://selevision9876-i.akamaihd.net/hls/live/219115/98767/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/abu%20dhabi%20sports%201.jpg" group-title="second list",abu dhabi sport
-http://selevision9887-i.akamaihd.net/hls/live/219287/98871/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/abu%20dhabi%20sports%201.jpg" group-title="second list",abu dhabi sport 2
-http://selevision9887-i.akamaihd.net/hls/live/219288/98872/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nat%20geo%20ad.jpg" group-title="second list",nat geo
-http://selevision9877-i.akamaihd.net/hls/live/219118/98770/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.alraimediagroup.com/MediaGroupAdmin/uploads/images/AlraiTV.jpg" group-title="second list",alrai
-http://selevision9878-i.akamaihd.net/hls/live/219129/98781/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg" group-title="second list",kwait 1
-http://selevision9878-i.akamaihd.net/hls/live/219137/98789/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg" group-title="second list",kwait 2
-http://selevision9892-i.akamaihd.net/hls/live/219338/98921/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/funoon.jpg" group-title="second list",funoon
-http://selevision9883-i.akamaihd.net/hls/live/219206/98832/master.m3u8  
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-3UrCnZu37XM/VJFdMjNhnjI/AAAAAAAAA-A/9fHvjEllmLU/s1600/DWTV-Arabic_o.jpg" group-title="second list",dw arabic
-http://selevision9890-i.akamaihd.net/hls/live/219317/98900/master.m3u8 
-#EXTINF:-1 tvg-logo="http://live.aldafrah.tv/test/2013/Ramadan/images/NEW-LOGO-2012.png" group-title="second list",aldhafra
-http://selevision9882-i.akamaihd.net/hls/live/219194/98821/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/jordan.jpg" group-title="second list",jordan
-http://selevision9884-i.akamaihd.net/hls/live/219256/98840/master.m3u8 
-#EXTINF:-1,cinema toktok
-http://selevision9892-i.akamaihd.net/hls/live/219340/98923/master.m3u8  
-#EXTINF:-1 tvg-logo="http://b.top4top.net/p_333y4wzt1.jpg" group-title="second list",Cima Habisha TV
-http://selevision9892-i.akamaihd.net/hls/live/219343/98926/master.m3u8 
-#EXTINF:-1 tvg-logo="http://b.top4top.net/p_333b9ijh1.jpg" group-title="second list",cinama 1
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/master.m3u8 
-#EXTINF:-1 tvg-logo="http://b.top4top.net/p_333b9ijh1.jpg" group-title="second list",cinama 1
-http://selevision9886-i.akamaihd.net/hls/live/219285/98869/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alhayat%202.jpg" group-title="second list",alhayat 2
-http://selevision9884-i.akamaihd.net/hls/live/219262/98846/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20cinema.jpg" group-title="second list",nile cinma
-http://selevision9883-i.akamaihd.net/hls/live/219204/98830/master.m3u8 
-#EXTINF:-1,zee alwan 
-http://selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8 
-#EXTINF:-1 tvg-logo="http://b4uplus.com/images/no-image.png" group-title="second list",b4u plus
-http://selevision9882-i.akamaihd.net/hls/live/219196/98823/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/b4u%20aflam.jpg" group-title="second list",b4u aflam
-http://selevision9882-i.akamaihd.net/hls/live/219195/98822/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Imagine-Movies_o.jpg" group-title="second list",imagine movies
-http://selevision9890-i.akamaihd.net/hls/live/219325/98908/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/panorama%20drama%202.jpg" group-title="second list",panorama drama 2
-http://selevision9881-i.akamaihd.net/hls/live/219185/98812/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/panorama%20drama.jpg" group-title="second list",panorama drama
-http://selevision9886-i.akamaihd.net/hls/live/219280/98864/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/panorama%20food.jpg" group-title="second list",panorama food
-http://selevision9881-i.akamaihd.net/hls/live/219187/98814/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/france24%20arabic.jpg" group-title="second list",france 24
-http://selevision9877-i.akamaihd.net/hls/live/219124/98776/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20arabia%20hadath.jpg" group-title="second list",alarabia hadath
-http://selevision9881-i.akamaihd.net/hls/live/219184/98811/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.yenicaggazetesi.com.tr/d/news/128293.jpg" group-title="second list",cnn
-http://selevision9883-i.akamaihd.net/hls/live/219254/98838/master.m3u8  
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694449140269518848/57ZmXva0.jpg" group-title="second list",bbc world
-http://selevision9885-i.akamaihd.net/hls/live/219266/98850/master.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" group-title="second list",alan
-http://selevision9884-i.akamaihd.net/hls/live/219265/98849/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alarabiya.jpg" group-title="second list",alarabia
-http://selevision9888-i.akamaihd.net/hls/live/219306/98889/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg" group-title="second list",saudi news
-http://selevision9888-i.akamaihd.net/hls/live/219298/98882/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bbc%20arabic.jpg" group-title="second list",bbc arabic
-http://selevision9889-i.akamaihd.net/hls/live/219315/98898/master.m3u8 
-#EXTINF:-1 tvg-logo="http://yp.theemiratesnetwork.com/images/company/logos/0000024/0000024049.png" group-title="second list",cnbc arabic
-http://selevision9889-i.akamaihd.net/hls/live/219316/98899/master.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="second list",france 24 en
-http://selevision9890-i.akamaihd.net/hls/live/219320/98903/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sky%20news%20ar.jpg" group-title="second list",sky news arabic
-http://selevision9890-i.akamaihd.net/hls/live/219323/98906/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dream%201.jpg" group-title="second list",dream
-http://selevision9883-i.akamaihd.net/hls/live/219253/98837/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20masriyah.jpg" group-title="second list",masriah
-http://selevision9877-i.akamaihd.net/hls/live/219126/98778/master.m3u8 
-#EXTINF:-1 tvg-logo="http://media.cairo360.com/dynamic/venue/647678/venue_standard_647678_20140627_53adef5103ed9.jpg" group-title="second list",kahera w alnas
-http://selevision9877-i.akamaihd.net/hls/live/219125/98777/master.m3u8 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-X0znM3LUZpI/VLbOOoXFivI/AAAAAAAADjY/b3TIXHVWKxg/s1600/AL-Oula-Egypt-Channel-Logo.png" group-title="second list",aloula egypt
-http://selevision9896-i.akamaihd.net/hls/live/219377/98960/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20cinema.jpg" group-title="HD LIST",Nile Cinema
-http://216.66.42.38:7777/NileCinema_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20comedy.jpg" group-title="HD LIST",Nile Comedy
-http://216.66.42.38:7777/NileComedy_HD.m3u8
-#EXTINF:-1 tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/nilefamily-android-2-080508.jpg" group-title="HD LIST", Nile Culture
-http://216.66.42.38:7777/NileCulture_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20drama.jpg" group-title="HD LIST",Nile Drama
-http://216.66.42.38:7777/NileDrama_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20drama.jpg" group-title="HD LIST",Nile Drama 2
-http://216.66.42.38:7777/NileDrama2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/nilefamily-android-2-080508.jpg" group-title="HD LIST",Nile Family
-http://216.66.42.38:7777/NileFamily_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20tv.jpg" group-title="HD LIST",Nile Tv
-http://216.66.42.38:7777/NileInt_HD.m3u8
-#EXTINF:-1 tvg-logo="http://arabtv.tvgoog.com/wp-content/uploads/2016/08/Nile-live-310x165.jpg" group-title="HD LIST",Nile Life
-http://216.66.42.38:7777/NileLife_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20news.jpg" group-title="HD LIST",Nile News
-http://216.66.42.38:7777/NileNews_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20sport.jpg" group-title="HD LIST",Nile Sport
-http://216.66.42.38:7777/NileSport_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.livefreetvstreaming.com/wp-content/uploads/2013/04/4Shbab-TV-Channel-2-Egypt.jpg" group-title="HD LIST",4Shbab
-http://216.66.42.38:7777/4Shbab_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/409588952_295x166.jpg" group-title="HD LIST",7Stars
-http://216.66.42.38:7777/7Stars_HD.m3u8
-#EXTINF:-1,A1 Jordan
-http://216.66.42.38:7777/A1Jordan_HD.m3u8
-#EXTINF:-1,AAAMusic
-http://216.66.42.38:7777/AAAMusic_HD.m3u8
-#EXTINF:-1,ABN
-http://216.66.42.38:7777/ABN_HD.m3u8
-#EXTINF:-1,Abu Dhabi
-http://216.66.42.38:7777/ADAlOula_HD.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://216.66.42.38:7777/ADDrama_HD.m3u8
-#EXTINF:-1,Abu Dhabi Emirates
-http://216.66.42.38:7777/ADEmirates_HD.m3u8
-#EXTINF:-1,Aden
-http://216.66.42.38:7777/Aden_HD.m3u8
-#EXTINF:-1,National Geo Ad
-http://216.66.42.38:7777/ADNatGeo_HD.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1
-http://216.66.42.38:7777/ADSport_HD.m3u8
-#EXTINF:-1,Aghanina
-http://216.66.42.38:7777/Aghanina_HD.m3u8
-#EXTINF:-1,Aghapy
-http://216.66.42.38:7777/Aghapy_HD.m3u8
+#EXTINF:-1,Kuwait
+http://38.99.146.42:7777/KuwaitSpace.m3u8?user=sgls10455482&session=a845da731756a665b4e01da2188c492886de1f2ae37403a73aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
+
+#EXTINF:-1,SaudiArabia1
+http://38.99.146.42:7777/SaudiArabia1.m3u8?user=sgls10455482&session=ca1f8be9e410db88ce2733e85c19b6441799c0b4ac02614eb12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
+#EXTINF:-1,QatarToday
+http://38.99.146.42:7777/QatarToday.m3u8?user=sgls10455482&session=fdd7c570edd93045ee844e50cc0d8fbf8ea82d2e474161b174d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
+
+#EXTINF:-1,AlhurraIraq
+http://38.99.146.40:7777/AlhurraIraq.m3u8?user=sgls10455482&session=8b8b878b8cbe740d22c1409953932c016930b64752f38c313aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
+
+#EXTINF:-1,AlAlam
+http://38.99.146.40:7777/AlAlam.m3u8?user=sgls10455482&session=c93ca0932038a6b6839c01823a1d7653d5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
+
+#EXTINF:-1,AldiyarSat
+http://38.99.146.42:7777/AldiyarSat.m3u8?user=sgls10455482&session=e8070a8795279ef62addf26c7f7938ec346b06c10783bcd774d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
+
+#EXTINF:-1,AjyalTV
+http://38.99.146.40:7777/AjyalTV.m3u8?user=sgls10455482&session=de4bf76aa95deac434cebc5a31614dc7df704a54679abfc2f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
+
+#EXTINF:-1,الثقافية السعودية
+http://38.99.146.42:7777/AlThakafiyah.m3u8?user=sgls10455482&session=c794fdc675f831411261715a86842ba2a1db0de5043143e4b12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
+
+#EXTINF:-1,AlRayyan2
+http://38.99.146.40:7777/AlRayyan2.m3u8?user=sgls10455482&session=57229eae82daebb584220d167d0735fe0ec952efca29dd78410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
+
+#EXTINF:-1,AlRayyan
+http://38.99.146.40:7777/AlRayyan.m3u8?user=sgls10455482&session=f1713a6266707b0585c4a9351c020b17bccc41c61faa0932d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,Beladi
+http://38.99.146.40:7777/Beladi.m3u8?user=sgls10455482&session=2e6ad73ee4a7c4aff9d15985e98f86e3d5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
+
+#EXTINF:-1,SamaDubai
+http://38.99.146.40:7777/SamaDubai.m3u8?user=sgls10455482&session=c4ea5391e8825d234d0f6f10a0900e2b37c00add8382228a410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
+
+#EXTINF:-1,Bahrain
+http://38.99.146.40:7777/Bahrain.m3u8?user=sgls10455482&session=f892e5e5e1ef573afaac1778520ec638e92803756226664bf2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
+
+#EXTINF:-1,Oman Sport
+http://38.99.146.40:7777/OmanSport.m3u8?user=sgls10455482&session=b7a217348ad1e8336b5ff9db2f36e296a0244226ca43ea5c410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
+
+#EXTINF:-1,Oman
+http://38.99.146.40:7777/Oman.m3u8?user=sgls10455482&session=b2b8b329dd8fc24d59e27deeab5e806eb12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
+
+#EXTINF:-1,Al Rafidain
+http://38.99.146.40:7777/AlRafidain.m3u8?user=sgls10455482&session=20ee2173b1c3db95ad86355bbef53c6995855fee99f5b5f374d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
+
+#EXTINF:-1,KTV2 Kuwait
+http://38.99.146.40:7777/KTV2Kuwait.m3u8?user=sgls10455482&session=39dc3f9265eaabaf2a73308bb247221639cdc63402cf856774d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
+
+#EXTINF:-1,KSA2
+http://38.99.146.40:7777/KSA2.m3u8?user=sgls10455482&session=4db1278a0107684e1d676e21f9d9a5ccb12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
+
 #EXTINF:-1,Ajman
-http://216.66.42.38:7777/Ajman_HD.m3u8
-#EXTINF:-1,Ajyal
-http://216.66.42.38:7777/AjyalTV_HD.m3u8
-#EXTINF:-1,Alan
-http://216.66.42.38:7777/AlAan_HD.m3u8
-#EXTINF:-1,Al Adala
-http://216.66.42.38:7777/AlAdala_HD.m3u8
-#EXTINF:-1,AL AHLY
-http://216.66.42.38:7777/AlAhlyTV_HD.m3u8
-#EXTINF:-1,Libya
-http://216.66.42.38:7777/AlAhrar_HD.m3u8
-#EXTINF:-1,Al Amaken Drama
-http://216.66.42.38:7777/AlAmakenDrama_HD.m3u8
-#EXTINF:-1,Al Anwar
-http://216.66.42.38:7777/AlAnwar_HD.m3u8
-#EXTINF:-1,Al oula Maroc
-http://216.66.42.38:7777/AlAoulaEurope_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alarabiya.jpg" group-title="HD LIST",Alarabiya
-http://216.66.42.38:7777/AlArabiya_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20arabia%20hadath.jpg" group-title="HD LIST",Alarabiya Ahdas
-http://216.66.42.38:7777/AlArabiyaHadath_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ennahar%20tv.jpg" group-title="HD LIST",EnnaharTV algerie
-http://216.66.42.38:7777/AlAtlas_HD.m3u8
+http://38.99.146.40:7777/Ajman.m3u8?user=sgls10455482&session=c4438d6581b947c338ba956dcbf164cf7bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20baghdadia.jpg" group-title="HD LIST",Al Baghdadia
-http://216.66.42.38:7777/AlBaghdadia_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20baghdadia.jpg" group-title="HD LIST",Al Baghdadia 2
-http://216.66.42.38:7777/AlBaghdadia2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.fadaeyat.co/up/images/06010737708227702763.jpg" group-title="HD LIST",Albait Baitak Cinema
-http://216.66.42.38:7777/AlbaitBaitakCinema_HD.m3u8
-#EXTINF:-1 tvg-logo="http://i60.tinypic.com/1z2mus5.jpg" group-title="HD LIST",Al Dafra
-http://216.66.42.38:7777/AlDafra_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alkass%20tv.jpg" group-title="HD LIST",alkass
-http://216.66.42.38:7777/AlDawriAlKassSport_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20diyar.jpg" group-title="HD LIST",Aldiyar
-http://216.66.42.38:7777/AldiyarSat_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20ekhbaria.jpg" group-title="HD LIST",Al Ikhbaria
-http://216.66.42.38:7777/AlEkhbariya_HD.m3u8
+#EXTINF:-1,AlIraqia2
+http://38.99.146.40:7777/AlIraqia2.m3u8?user=sgls10455482&session=894626d44eabeb54ea5859a203283d7997da587ecb437488410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
+#EXTINF:-1,Qatar
+http://38.99.146.40:7777/Qatar.m3u8?user=sgls10455482&session=5970d9c7e454cc6eef0305b6962bbda77bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
 
+#EXTINF:-1,Ishtar
+http://38.99.146.40:7777/Ishtar.m3u8?user=sgls10455482&session=7f3fd085f6a564c196120818e55afb98d5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
 
+#EXTINF:-1,AlIraqiya
+http://38.99.146.40:7777/AlIraqiya.m3u8?user=sgls10455482&session=f6131f02097ebfb1509317fe9b1a744a84844ee046c1f3ce410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.gcf.org.sa/PublishingImages/SponsorImages/Aleqtisadeya.jpg" group-title="HD LIST",Al Eqtisadiyah
-http://216.66.42.38:7777/AlEqtisadiyah_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_fayhaa_tv_iraq_arabic_live_online_free_arabic_channel.jpg" group-title="HD LIST",Al Fayhaa
-http://216.66.42.38:7777/AlFayhaa_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20forat.jpg" group-title="HD LIST",Al Forat
-http://216.66.42.38:7777/AlForat_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BemrkwyfC78/hqdefault.jpg" group-title="HD LIST",Al Haqeeqa
-http://216.66.42.38:7777/AlHaqeeqa_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.coptstoday.com/Live/logo-elhayattv.jpg" group-title="HD LIST",AlHayat_Christian
-http://216.66.42.38:7777/ALhayat_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alhayat%202.jpg" group-title="HD LIST",Alhayat2
-http://216.66.42.38:7777/Alhayat2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alhayat%20musalsalat.jpg" group-title="HD LIST",Alhayat-Series
-http://216.66.42.38:7777/AlHayatMousalsalat_HD.m3u8
+#EXTINF:-1,KTV3Plus
+http://38.99.146.40:7777/KTV3Plus.m3u8?user=sgls10455482&session=ff3a4cdb1a2497569ce1c3c06c69624af8a1d304157085cbd1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dPxg8jk3bDg/hqdefault.jpg" group-title="HD LIST",Al Hiwar
-http://216.66.42.38:7777/AlHiwar_HD.m3u8
-#EXTINF:-1,Al Hiwar Ettounsi
-http://216.66.42.38:7777/Tounisa_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20hurra%20iraq.jpg" group-title="HD LIST",Al-hurra Iraq
-http://216.66.42.38:7777/AlhurraIraq_HD.m3u8
+#EXTINF:-1,AlRiyadiah
+http://38.99.146.40:7777/AlRiyadiah.m3u8?user=sgls10455482&session=4f01128b2f404f7bd82c922b3da2310b2d271e1a1a870eea74d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20iraqiya.jpg" group-title="HD LIST",Aliraqia 2
-http://216.66.42.38:7777/AlIraqia2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20iraqiya.jpg" group-title="HD LIST",Aliraqiya
-http://216.66.42.38:7777/AlIraqiya_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljadeed.jpg" group-title="HD LIST",Aljadeed
-http://216.66.42.38:7777/AlJadeed_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljazeera.jpg" group-title="HD LIST", AlJazeera
-http://216.66.42.38:7777/AlJazeera_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljazeera%20doc.jpg" group-title="HD LIST",Aljazeera Doc
-http://216.66.42.38:7777/AlJazeeraDocument_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljazeera.jpg" group-title="HD LIST",Aljazeera En
-http://216.66.42.38:7777/AlJazeeraEnglish_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljazeera.jpg" group-title="HD LIST",Aljazeera US
-http://216.66.42.38:7777/AlJazeeraInt_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljazeera%20children.jpg" group-title="HD LIST",Aljazeera Children
-http://216.66.42.38:7777/AlJazeeraKid_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljazeera%20misr.jpg" group-title="HD LIST",Aljazeera Mubasher
-http://216.66.42.38:7777/AlJazeeraLive_HD.m3u8
+#EXTINF:-1,AlDawri AlKass Sport
+http://38.99.146.40:7777/AlDawriAlKassSport.m3u8?user=sgls10455482&session=4dfb3d2e6977c5d436597323778524e172b34c660cb170fa7c091ca5954f979074d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20kahera%20wal%20nas.jpg" group-title="HD LIST",AlQahera W Elnas
-http://216.66.42.38:7777/AlKaheraWalNas_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20kahera%20wal%20nas.jpg" group-title="HD LIST",AlQahera W Elnas 2
-http://216.66.42.38:7777/AlKaheraWalNas2_HD.m3u8
-#EXTINF:-1,Alkarama_Christian
-http://216.66.42.38:7777/AlKarma_HD.m3u8
-#EXTINF:-1 tvg-logo="http://data.satellitekuwait.com/wp-content/uploads/Alkout-TV-Channel-Frequency.jpg" group-title="HD LIST",Al Kout
-http://216.66.42.38:7777/AlKout_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/lebanon%20tv.jpg" group-title="HD LIST",Al Lubnania
-http://216.66.42.38:7777/AlLubnania_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20maghribia.jpg" group-title="HD LIST",Al Maghribia
-http://216.66.42.38:7777/AlMaghribia_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20majd.jpg" group-title="HD LIST",Al Majd
-http://216.66.42.38:7777/AlmajdSpace_HD.m3u8
+#EXTINF:-1,Bahrain Sport
+http://38.99.146.40:7777/BahrainSport.m3u8?user=sgls10455482&session=bc50e5a0acb774c41f473c8cca543fbe308e61ec0ec09eacb12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20manar.jpg" group-title="HD LIST",Al Manar
-http://216.66.42.38:7777/AlManar_HD.m3u8
+#EXTINF:-1,Yemen
+http://38.99.146.40:7777/Yemen.m3u8?user=sgls10455482&session=65a45a3a665e5c756e748248d7333d117bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2j4808z.jpg" group-title="HD LIST",Al Masar
-http://216.66.42.38:7777/AlMasar_HD.m3u8
-#EXTINF:-1 tvg-logo="http://vb.shbab5.com/photos/2/20141357737751_341.jpg" group-title="HD LIST",AlMasrawia
-http://216.66.42.38:7777/AlMasrawia_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.tunisia-land.com/streamurl/masriya.jpg" group-title="HD LIST",Al Masriyah
-http://216.66.42.38:7777/AlMasriyah_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20mayaden.jpg" group-title="HD LIST",Al mayaden
-http://216.66.42.38:7777/AlMayadeen_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Almukhales-Chaldean-TV_o.jpg" group-title="HD LIST",AlMukhales
-http://216.66.42.38:7777/AlMukhales_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20moustakilla.jpg" group-title="HD LIST",Al Moustakilla
-http://216.66.42.38:7777/AlMustakila_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20nahar.jpg" group-title="HD LIST",Al Nahar
-http://216.66.42.38:7777/AlNahar_HD.m3u8
-#EXTINF:-1,Alnahar Alyoum
-http://216.66.42.38:7777/AlNahar2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20nahar%20drama.jpg" group-title="HD LIST",Al-Nahar Drama
-http://216.66.42.38:7777/AlNaharDrama_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20nahar%20cinema.jpg" group-title="HD LIST",Al Nahar 2
-http://216.66.42.38:7777/AlNaharMovies_HD.m3u8
-#EXTINF:-1 tvg-logo="http://livesport.im/wp-content/uploads/2015/02/Al-nahar-sport.jpg" group-title="HD LIST",Al Nahar Sport
-http://216.66.42.38:7777/AlNaharSport_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.arabicnadwah.com/tv/tv-logo-new.jpg" group-title="HD LIST",Al Ordonia
-http://216.66.42.38:7777/AlOrdoni_HD.m3u8
-#EXTINF:-1,Alqithara
-http://216.66.42.38:7777/AlQithara_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alqudis.jpg" group-title="HD LIST",Alqudis
-http://216.66.42.38:7777/Alquds_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20quran%20al%20karim.jpg" group-title="HD LIST",Quran TV ksa
-http://216.66.42.38:7777/AlQuran_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rafidain.jpg" group-title="HD LIST",Al Rafidain
-http://216.66.42.38:7777/AlRafidain_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.alraimediagroup.com/MediaGroupAdmin/uploads/images/AlraiTV.jpg" group-title="HD LIST",Alrai
-http://216.66.42.38:7777/Alrai_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rasheed.jpg" group-title="HD LIST",Al Rasheed
-http://216.66.42.38:7777/AlRasheed_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20resalah.jpg" group-title="HD LIST",Al-Resalah
-http://216.66.42.38:7777/AlResala_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.ourmedia.ae/upload/partners/42892_saudi_sport_channel_live_online_free_arabic_channel.jpg" group-title="HD LIST",Saudia Sport
-http://216.66.42.38:7777/AlRiyadiah1_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.ourmedia.ae/upload/partners/42892_saudi_sport_channel_live_online_free_arabic_channel.jpg" group-title="HD LIST",Saudia Sport
-http://8.21.48.19:7777/AlRiyadiah1_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Al-Sabah-TV_o.jpg" group-title="HD LIST",Al Sabah
-http://216.66.42.38:7777/AlSabah_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/07/Al-Saeedah-TV.jpg" group-title="HD LIST",alsaeedah
-http://216.66.42.38:7777/AlSaeeda_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Al-Sahraa-TV_o.jpg" group-title="HD LIST",Al sahraa
-http://216.66.42.38:7777/AlSahraa_HD.m3u8
+#EXTINF:-1,Al Masar
+http://38.99.146.40:7777/AlMasar.m3u8?user=sgls10455482&session=607eecf74147cf1623edeb28e17d381f0dde581e4de1a894f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.honabaghdad.tv/wp-content/uploads/2016/06/logo-honabaghdad0.png" group-title="HD LIST",HonaBagdad
-http://216.66.42.38:7777/HonaBagdad_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sharqiya.jpg" group-title="HD LIST",Al Sharqiya
-http://216.66.42.38:7777/AlSharqiya_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sharqia%20news.jpg" group-title="HD LIST",Al Sharqiya News
-http://216.66.42.38:7777/AlsharqiyaNews_HD.m3u8
-#EXTINF:-1 tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/sudan/116-Ashorooq-TV[0].jpg" group-title="HD LIST",Ashorooq
-http://216.66.42.38:7777/AlShrooq_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sumaria.jpg" group-title="HD LIST",Al Sumaria
-http://216.66.42.38:7777/Alsumaria_HD.m3u8
-#EXTINF:-1 tvg-logo="http://roku.afrikastv.com/channels_logo/sunnah_tv.jpg" group-title="HD LIST",sunnah TV
-http://216.66.42.38:7777/AlSunnah_HD.m3u8
-#EXTINF:-1 tvg-logo="http://alaraby.tv/Content/images/logo.png" group-title="HD LIST",Alaraby
-http://216.66.42.38:7777/AlTet_HD.m3u8
-#EXTINF:-1 tvg-logo="http://aljoude.com/assets/base/img/content/client-logos/client2.jpg" group-title="HD LIST",Al Thakafiyah
-http://216.66.42.38:7777/AlThakafiyah_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20thaniya.jpg" group-title="HD LIST",Egypt 2
-http://216.66.42.38:7777/AlThanya_HD.m3u8
-#EXTINF:-1,alwatan
-http://216.66.42.38:7777/Alwatan_HD.m3u8
-#EXTINF:-1,Alwatan Plus
-http://216.66.42.38:7777/AlwatanPlus_HD.m3u8
-#EXTINF:-1,ANB
-http://216.66.42.38:7777/ANB_HD.m3u8
+#EXTINF:-1,Al Quran
+http://38.99.146.40:7777/AlQuran.m3u8?user=sgls10455482&session=a41414cd88baf60d51d1837c21d2bab7e92803756226664bf2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/arabica%20tv.jpg" group-title="HD LIST",Arabica Music
-http://216.66.42.38:7777/ArabicaMusic_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/arrabia.jpg" group-title="HD LIST",Arrabia
-http://216.66.42.38:7777/Arrabiaa_HD.m3u8
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/4e/ca/dc/4ecadcd0b0ed4cf8ce9f994e4dc51e04.jpg" group-title="HD LIST",Alriadia Sport
-http://216.66.42.38:7777/Arryadia_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/assadissa.jpg" group-title="HD LIST",Assadissa
-http://216.66.42.38:7777/Assadissa_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.assyriantv.net/wp-content/uploads/2016/08/logo.png" group-title="HD LIST",AssyrSat
-http://216.66.42.38:7777/AssyrSat_HD.m3u8
-#EXTINF:-1 group-title="arabic382",AfricaTv1
-http://flu10.stariptv.co:8888/13311_AfricaTv1/index.m3u8
-#EXTINF:-1 group-title="arabic382",AfricaTv2
-http://flu10.stariptv.co:8888/13312_AfricaTv2/index.m3u8
-#EXTINF:-1 group-title="arabic382",AfricaTv3
-http://flu10.stariptv.co:8888/13313_AfricaTv3/index.m3u8
-#EXTINF:-1 group-title="arabic382",AfricaTv4
-http://flu10.stariptv.co:8888/13314_AfricaTv4/index.m3u8
-#EXTINF:-1 group-title="arabic382",Blue_NileTv
-http://flu10.stariptv.co:8888/13315_Blue_NileTv/index.m3u8
-#EXTINF:-1 group-title="arabic382",DabangaTv
-http://flu10.stariptv.co:8888/13316_DabangaTv/index.m3u8
-#EXTINF:-1 group-title="arabic382",Neelain_Sport
-http://flu10.stariptv.co:8888/13317_Neelain_Sport/index.m3u8
-#EXTINF:-1 group-title="arabic382",Sudan_Drama
-http://flu10.stariptv.co:8888/13318_Sudan_Drama/index.m3u8
-#EXTINF:-1 group-title="arabic382",Tarteel
-http://flu10.stariptv.co:8888/13321_Tarteel/index.m3u8
-#EXTINF:-1 group-title="arabic382",TaybaTv
-http://flu10.stariptv.co:8888/13322_TaybaTv/index.m3u8
-#EXTINF:-1 group-title="arabic382",AshrooqTv
-http://flu10.stariptv.co:8888/13323_AshrooqTv/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBC1
-http://flu10.stariptv.co:8888/16000_MBC1/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBC2
-http://flu10.stariptv.co:8888/16001_MBC2/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlHayat2
-http://flu10.stariptv.co:8888/16010_AlHayat2/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlArabiya
-http://flu10.stariptv.co:8888/16046_AlArabiya/index.m3u8
-#EXTINF:-1 group-title="arabic382",ADSPORT2
-http://flu10.stariptv.co:8888/16166_ADSPORT2/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlJazeera
-http://flu10.stariptv.co:8888/16169_AlJazeera/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlJazeeraMubasher
-http://flu10.stariptv.co:8888/16170_AlJazeeraMubasher/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlHayat
-http://flu10.stariptv.co:8888/16173_AlHayat/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBC3
-http://plu10.stariptv.co:8888/16002_MBC3/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBC4
-http://plu10.stariptv.co:8888/16003_MBC4/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCAction
-http://plu10.stariptv.co:8888/16004_MBCAction/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCDrama
-http://plu10.stariptv.co:8888/16005_MBCDrama/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCMAX
-http://plu10.stariptv.co:8888/16006_MBCMAX/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCBollywood
-http://plu10.stariptv.co:8888/16007_MBCBollywood/index.m3u8
-#EXTINF:-1 group-title="arabic382",CNN
-http://plu10.stariptv.co:8888/16008_CNN/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCMaser
-http://plu10.stariptv.co:8888/16009_MBCMaser/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlJazeeraEnglish
-http://plu10.stariptv.co:8888/16011_AlJazeeraEnglish/index.m3u8
-#EXTINF:-1 group-title="arabic382",EuroNews
-http://plu10.stariptv.co:8888/16012_EuroNews/index.m3u8
-#EXTINF:-1 group-title="arabic382",RotanaClip
-http://plu10.stariptv.co:8888/16013_RotanaClip/index.m3u8
-#EXTINF:-1 group-title="arabic382",RotanaKhalijia
-http://plu10.stariptv.co:8888/16014_RotanaKhalijia/index.m3u8
-#EXTINF:-1 group-title="arabic382",RotanaClassic
-http://plu10.stariptv.co:8888/16015_RotanaClassic/index.m3u8
-#EXTINF:-1 group-title="arabic382",RotanaMasriya
-http://plu10.stariptv.co:8888/16016_RotanaMasriya/index.m3u8
-#EXTINF:-1 group-title="arabic382",RotanaCinema
-http://plu10.stariptv.co:8888/16017_RotanaCinema/index.m3u8
-#EXTINF:-1 group-title="arabic382",Rotana
-http://plu10.stariptv.co:8888/16018_Rotana/index.m3u8
-#EXTINF:-1 group-title="arabic382",ARTHekayatZaman
-http://plu10.stariptv.co:8888/16019_ARTHekayatZaman/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlHekayat2
-http://plu10.stariptv.co:8888/16020_AlHekayat2/index.m3u8
-#EXTINF:-1 group-title="arabic382",ARTAflam1
-http://plu10.stariptv.co:8888/16021_ARTAflam1/index.m3u8
-#EXTINF:-1 group-title="arabic382",ARTAflam2
-http://plu10.stariptv.co:8888/16022_ARTAflam2/index.m3u8
-#EXTINF:-1 group-title="arabic382",ARTCinema
-http://plu10.stariptv.co:8888/16023_ARTCinema/index.m3u8
-#EXTINF:-1 group-title="arabic382",CBCSofra
-http://plu10.stariptv.co:8888/16024_CBCSofra/index.m3u8
-#EXTINF:-1 group-title="arabic382",CBCExtra
-http://plu10.stariptv.co:8888/16025_CBCExtra/index.m3u8
-#EXTINF:-1 group-title="arabic382",CBCDrama
-http://plu10.stariptv.co:8888/16026_CBCDrama/index.m3u8
-#EXTINF:-1 group-title="arabic382",CBC+2AbuDhabi
-http://plu10.stariptv.co:8888/16027_CBC+2AbuDhabi/index.m3u8
-#EXTINF:-1 group-title="arabic382",Ten
-http://plu10.stariptv.co:8888/16028_Ten/index.m3u8
-#EXTINF:-1 group-title="arabic382",2m
-http://plu10.stariptv.co:8888/16029_2m/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlAOULA
-http://plu10.stariptv.co:8888/16030_AlAOULA/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlMaghribia
-http://plu10.stariptv.co:8888/16031_AlMaghribia/index.m3u8
-#EXTINF:-1 group-title="arabic382",Arrabiaa
-http://plu10.stariptv.co:8888/16032_Arrabiaa/index.m3u8
-#EXTINF:-1 group-title="arabic382",Arriadia
-http://plu10.stariptv.co:8888/16033_Arriadia/index.m3u8
-#EXTINF:-1 group-title="arabic382",CBC
-http://plu10.stariptv.co:8888/16034_CBC/index.m3u8
-#EXTINF:-1 group-title="arabic382",SkyNewsArabia
-http://plu10.stariptv.co:8888/16035_SkyNewsArabia/index.m3u8
-#EXTINF:-1 group-title="arabic382",CinemaPro
-http://plu10.stariptv.co:8888/16036_CinemaPro/index.m3u8
-#EXTINF:-1 group-title="arabic382",TokTokCima
-http://plu10.stariptv.co:8888/16037_TokTokCima/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlNaharAlYoum
-http://plu10.stariptv.co:8888/16038_AlNaharAlYoum/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlNahar2
-http://plu10.stariptv.co:8888/16039_AlNahar2/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlKaheraWalNas2
-http://plu10.stariptv.co:8888/16040_AlKaheraWalNas2/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlKarama
-http://plu10.stariptv.co:8888/16041_AlKarama/index.m3u8
-#EXTINF:-1 group-title="arabic382",CopticTV
-http://plu10.stariptv.co:8888/16042_CopticTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",Dream2
-http://plu10.stariptv.co:8888/16043_Dream2/index.m3u8
-#EXTINF:-1 group-title="arabic382",AGHAPYTV
-http://plu10.stariptv.co:8888/16044_AGHAPYTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",France24
-http://plu10.stariptv.co:8888/16045_France24/index.m3u8
-#EXTINF:-1 group-title="arabic382",PanoramaComedy
-http://plu10.stariptv.co:8888/16047_PanoramaComedy/index.m3u8
-#EXTINF:-1 group-title="arabic382",PanoramaCinema
-http://plu10.stariptv.co:8888/16048_PanoramaCinema/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALKaramaTV
-http://plu10.stariptv.co:8888/16049_ALKaramaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",MOGACinema
-http://plu10.stariptv.co:8888/16050_MOGACinema/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlMalakoot
-http://plu10.stariptv.co:8888/16051_AlMalakoot/index.m3u8
-#EXTINF:-1 group-title="arabic382",CairoAflam
-http://plu10.stariptv.co:8888/16052_CairoAflam/index.m3u8
-#EXTINF:-1 group-title="arabic382",IraqNow
-http://plu10.stariptv.co:8888/16053_IraqNow/index.m3u8
-#EXTINF:-1 group-title="arabic382",Iqraa
-http://plu10.stariptv.co:8888/16054_Iqraa/index.m3u8
-#EXTINF:-1 group-title="arabic382",BAGHDADTV
-http://plu10.stariptv.co:8888/16055_BAGHDADTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",IraqFutureTV
-http://plu10.stariptv.co:8888/16056_IraqFutureTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",sadaMisr
-http://plu10.stariptv.co:8888/16057_sadaMisr/index.m3u8
-#EXTINF:-1 group-title="arabic382",MisrELBald
-http://plu10.stariptv.co:8888/16058_MisrELBald/index.m3u8
-#EXTINF:-1 group-title="arabic382",NileSport
-http://plu10.stariptv.co:8888/16059_NileSport/index.m3u8
-#EXTINF:-1 group-title="arabic382",NileLife
-http://plu10.stariptv.co:8888/16060_NileLife/index.m3u8
-#EXTINF:-1 group-title="arabic382",NileDrama
-http://plu10.stariptv.co:8888/16061_NileDrama/index.m3u8
-#EXTINF:-1 group-title="arabic382",NileCulture
-http://plu10.stariptv.co:8888/16062_NileCulture/index.m3u8
-#EXTINF:-1 group-title="arabic382",NileCinema
-http://plu10.stariptv.co:8888/16063_NileCinema/index.m3u8
-#EXTINF:-1 group-title="arabic382",NILENEWS
-http://plu10.stariptv.co:8888/16064_NILENEWS/index.m3u8
-#EXTINF:-1 group-title="arabic382",NILECOMEDY
-http://plu10.stariptv.co:8888/16065_NILECOMEDY/index.m3u8
-#EXTINF:-1 group-title="arabic382",WANASAH
-http://plu10.stariptv.co:8888/16066_WANASAH/index.m3u8
-#EXTINF:-1 group-title="arabic382",OctoberTV
-http://plu10.stariptv.co:8888/16067_OctoberTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlHorreya
-http://plu10.stariptv.co:8888/16068_AlHorreya/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlFady
-http://plu10.stariptv.co:8888/16069_AlFady/index.m3u8
-#EXTINF:-1 group-title="arabic382",AnwarTV2
-http://plu10.stariptv.co:8888/16070_AnwarTV2/index.m3u8
-#EXTINF:-1 group-title="arabic382",TheWayTV
-http://plu10.stariptv.co:8888/16071_TheWayTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",LogosTV
-http://plu10.stariptv.co:8888/16072_LogosTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",TabahTV
-http://plu10.stariptv.co:8888/16073_TabahTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",TheSavior
-http://plu10.stariptv.co:8888/16074_TheSavior/index.m3u8
-#EXTINF:-1 group-title="arabic382",NourAlSharq
-http://plu10.stariptv.co:8888/16075_NourAlSharq/index.m3u8
-#EXTINF:-1 group-title="arabic382",NourKoddass
-http://plu10.stariptv.co:8888/16076_NourKoddass/index.m3u8
-#EXTINF:-1 group-title="arabic382",SaharaTVAlgeria
-http://plu10.stariptv.co:8888/16077_SaharaTVAlgeria/index.m3u8
-#EXTINF:-1 group-title="arabic382",BZAFTV
-http://plu10.stariptv.co:8888/16078_BZAFTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlArrab
-http://plu10.stariptv.co:8888/16079_AlArrab/index.m3u8
-#EXTINF:-1 group-title="arabic382",TNNTunisia
-http://plu10.stariptv.co:8888/16080_TNNTunisia/index.m3u8
-#EXTINF:-1 group-title="arabic382",OTV
-http://plu10.stariptv.co:8888/16081_OTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ZAYTOONA
-http://plu10.stariptv.co:8888/16082_ZAYTOONA/index.m3u8
-#EXTINF:-1 group-title="arabic382",4SHABABTV1
-http://plu10.stariptv.co:8888/16083_4SHABABTV1/index.m3u8
-#EXTINF:-1 group-title="arabic382",TOYORALJANAH
-http://plu10.stariptv.co:8888/16084_TOYORALJANAH/index.m3u8
-#EXTINF:-1 group-title="arabic382",YASMINETV
-http://plu10.stariptv.co:8888/16085_YASMINETV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ZITOUNAHEDAYA
-http://plu10.stariptv.co:8888/16086_ZITOUNAHEDAYA/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALMASSARALOULA
-http://plu10.stariptv.co:8888/16087_ALMASSARALOULA/index.m3u8
-#EXTINF:-1 group-title="arabic382",SUHAILTV
-http://plu10.stariptv.co:8888/16088_SUHAILTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",zeeaflam
-http://plu10.stariptv.co:8888/16089_zeeaflam/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlNahardrama
-http://plu10.stariptv.co:8888/16090_AlNahardrama/index.m3u8
-#EXTINF:-1 group-title="arabic382",7ALAWETRO7
-http://plu10.stariptv.co:8888/16091_7ALAWETRO7/index.m3u8
-#EXTINF:-1 group-title="arabic382",ABCCINEMA
-http://plu10.stariptv.co:8888/16092_ABCCINEMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",ABLAFAHEETA
-http://plu10.stariptv.co:8888/16093_ABLAFAHEETA/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALBATAL
-http://plu10.stariptv.co:8888/16094_ALBATAL/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALKOFIYA
-http://plu10.stariptv.co:8888/16095_ALKOFIYA/index.m3u8
-#EXTINF:-1 group-title="arabic382",BELODYAFLAM
-http://plu10.stariptv.co:8888/16096_BELODYAFLAM/index.m3u8
-#EXTINF:-1 group-title="arabic382",CAIROONETV
-http://plu10.stariptv.co:8888/16097_CAIROONETV/index.m3u8
-#EXTINF:-1 group-title="arabic382",CINEMA1
-http://plu10.stariptv.co:8888/16098_CINEMA1/index.m3u8
-#EXTINF:-1 group-title="arabic382",CINEMA2
-http://plu10.stariptv.co:8888/16099_CINEMA2/index.m3u8
-#EXTINF:-1 group-title="arabic382",DARBAKACINEMA
-http://plu10.stariptv.co:8888/16100_DARBAKACINEMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",Dzair21PUB
-http://plu10.stariptv.co:8888/16101_Dzair21PUB/index.m3u8
-#EXTINF:-1 group-title="arabic382",LAYALIONS
-http://plu10.stariptv.co:8888/16102_LAYALIONS/index.m3u8
-#EXTINF:-1 group-title="arabic382",MASRALHAYAH
-http://plu10.stariptv.co:8888/16103_MASRALHAYAH/index.m3u8
-#EXTINF:-1 group-title="arabic382",NOURKIDS
-http://plu10.stariptv.co:8888/16104_NOURKIDS/index.m3u8
-#EXTINF:-1 group-title="arabic382",ROJAVATV
-http://plu10.stariptv.co:8888/16105_ROJAVATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",SAMARRATV
-http://plu10.stariptv.co:8888/16106_SAMARRATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",SHAMALTV
-http://plu10.stariptv.co:8888/16107_SHAMALTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",SOUTMASR
-http://plu10.stariptv.co:8888/16108_SOUTMASR/index.m3u8
-#EXTINF:-1 group-title="arabic382",TIMETV
-http://plu10.stariptv.co:8888/16109_TIMETV/index.m3u8
-#EXTINF:-1 group-title="arabic382",NABDSYRIATV
-http://plu10.stariptv.co:8888/16110_NABDSYRIATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",B4UPLUS
-http://plu10.stariptv.co:8888/16111_B4UPLUS/index.m3u8
-#EXTINF:-1 group-title="arabic382",Althanya
-http://plu10.stariptv.co:8888/16112_Althanya/index.m3u8
-#EXTINF:-1 group-title="arabic382",DUBAIONE
-http://plu10.stariptv.co:8888/16113_DUBAIONE/index.m3u8
-#EXTINF:-1 group-title="arabic382",DUBAIRACING
-http://plu10.stariptv.co:8888/16114_DUBAIRACING/index.m3u8
-#EXTINF:-1 group-title="arabic382",ONTV
-http://plu10.stariptv.co:8888/16115_ONTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",niletv
-http://plu10.stariptv.co:8888/16116_niletv/index.m3u8
-#EXTINF:-1 group-title="arabic382",SamiraTV
-http://plu10.stariptv.co:8888/16117_SamiraTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlhayatMuslsalat
-http://plu10.stariptv.co:8888/16118_AlhayatMuslsalat/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCMasr2
-http://plu10.stariptv.co:8888/16119_MBCMasr2/index.m3u8
-#EXTINF:-1 group-title="arabic382",Mehwer
-http://plu10.stariptv.co:8888/16120_Mehwer/index.m3u8
-#EXTINF:-1 group-title="arabic382",SadaElBalad
-http://plu10.stariptv.co:8888/16121_SadaElBalad/index.m3u8
-#EXTINF:-1 group-title="arabic382",Gali_Kurdistan
-http://plu10.stariptv.co:8888/16122_Gali_Kurdistan/index.m3u8
-#EXTINF:-1 group-title="arabic382",Imagine_Movies
-http://plu10.stariptv.co:8888/16123_Imagine_Movies/index.m3u8
-#EXTINF:-1 group-title="arabic382",UNRWA
-http://plu10.stariptv.co:8888/16124_UNRWA/index.m3u8
-#EXTINF:-1 group-title="arabic382",CANARY_TV
-http://plu10.stariptv.co:8888/16125_CANARY_TV/index.m3u8
-#EXTINF:-1 group-title="arabic382",STARCINEMA1
-http://plu10.stariptv.co:8888/16126_STARCINEMA1/index.m3u8
-#EXTINF:-1 group-title="arabic382",STARCINEMA2
-http://plu10.stariptv.co:8888/16127_STARCINEMA2/index.m3u8
-#EXTINF:-1 group-title="arabic382",TIMECOMEDY
-http://plu10.stariptv.co:8888/16128_TIMECOMEDY/index.m3u8
-#EXTINF:-1 group-title="arabic382",TIMETURKI
-http://plu10.stariptv.co:8888/16129_TIMETURKI/index.m3u8
-#EXTINF:-1 group-title="arabic382",LBCSAT
-http://plu10.stariptv.co:8888/16130_LBCSAT/index.m3u8
-#EXTINF:-1 group-title="arabic382",CairoDrama
-http://plu10.stariptv.co:8888/16131_CairoDrama/index.m3u8
-#EXTINF:-1 group-title="arabic382",Cairocinema
-http://plu10.stariptv.co:8888/16132_Cairocinema/index.m3u8
-#EXTINF:-1 group-title="arabic382",SPACETOONARABIC
-http://plu10.stariptv.co:8888/16133_SPACETOONARABIC/index.m3u8
-#EXTINF:-1 group-title="arabic382",SPACETOONARABIC
-http://plu10.stariptv.co:8888/16133_SPACETOONARABIC/index.m3u8
-#EXTINF:-1 group-title="arabic382",PanoramaDrama
-http://plu10.stariptv.co:8888/16134_PanoramaDrama/index.m3u8
-#EXTINF:-1 group-title="arabic382",PanoramaDrama2
-http://plu10.stariptv.co:8888/16135_PanoramaDrama2/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlAhlyTV
-http://plu10.stariptv.co:8888/16136_AlAhlyTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",PanoramaFood
-http://plu10.stariptv.co:8888/16137_PanoramaFood/index.m3u8
-#EXTINF:-1 group-title="arabic382",LDC
-http://plu10.stariptv.co:8888/16138_LDC/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlNaharSport
-http://plu10.stariptv.co:8888/16139_AlNaharSport/index.m3u8
-#EXTINF:-1 group-title="arabic382",MESat
-http://plu10.stariptv.co:8888/16140_MESat/index.m3u8
-#EXTINF:-1 group-title="arabic382",MODYKIDS
-http://plu10.stariptv.co:8888/16141_MODYKIDS/index.m3u8
-#EXTINF:-1 group-title="arabic382",TIMECINEMA
-http://plu10.stariptv.co:8888/16142_TIMECINEMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",TimeSHA3BEYAT
-http://plu10.stariptv.co:8888/16143_TimeSHA3BEYAT/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlNoujaba
-http://plu10.stariptv.co:8888/16144_AlNoujaba/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlNaeemTV
-http://plu10.stariptv.co:8888/16145_AlNaeemTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",JordanSport
-http://plu10.stariptv.co:8888/16146_JordanSport/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALhayat-EGYPT
-http://plu10.stariptv.co:8888/16147_ALhayat-EGYPT/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlhayatWeAlnas
-http://plu10.stariptv.co:8888/16148_AlhayatWeAlnas/index.m3u8
-#EXTINF:-1 group-title="arabic382",BBCArabic
-http://plu10.stariptv.co:8888/16149_BBCArabic/index.m3u8
-#EXTINF:-1 group-title="arabic382",Nessma
-http://plu10.stariptv.co:8888/16150_Nessma/index.m3u8
-#EXTINF:-1 group-title="arabic382",TEN2
-http://plu10.stariptv.co:8888/16151_TEN2/index.m3u8
-#EXTINF:-1 group-title="arabic382",PanoramaFilm
-http://plu10.stariptv.co:8888/16152_PanoramaFilm/index.m3u8
-#EXTINF:-1 group-title="arabic382",IraqiaTVnews
-http://plu10.stariptv.co:8888/16153_IraqiaTVnews/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlSumariaTV
-http://plu10.stariptv.co:8888/16154_AlSumariaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALAnbar
-http://plu10.stariptv.co:8888/16155_ALAnbar/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlRafiden
-http://plu10.stariptv.co:8888/16156_AlRafiden/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALResala
-http://plu10.stariptv.co:8888/16157_ALResala/index.m3u8
-#EXTINF:-1 group-title="arabic382",AbuDhabitv
-http://plu10.stariptv.co:8888/16158_AbuDhabitv/index.m3u8
-#EXTINF:-1 group-title="arabic382",Majan
-http://plu10.stariptv.co:8888/16159_Majan/index.m3u8
-#EXTINF:-1 group-title="arabic382",Azhari
-http://plu10.stariptv.co:8888/16160_Azhari/index.m3u8
-#EXTINF:-1 group-title="arabic382",5STARS
-http://plu10.stariptv.co:8888/16161_5STARS/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALNADATV
-http://plu10.stariptv.co:8888/16162_ALNADATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",Med
-http://plu10.stariptv.co:8888/16163_Med/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALHadath
-http://plu10.stariptv.co:8888/16164_ALHadath/index.m3u8
-#EXTINF:-1 group-title="arabic382",ADSPORT1
-http://plu10.stariptv.co:8888/16165_ADSPORT1/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlJazeeraAmerica
-http://plu10.stariptv.co:8888/16167_AlJazeeraAmerica/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlJazeeraDocumentary
-http://plu10.stariptv.co:8888/16168_AlJazeeraDocumentary/index.m3u8
-#EXTINF:-1 group-title="arabic382",LebanonTV
-http://plu10.stariptv.co:8888/16171_LebanonTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ZeeLiving
-http://plu10.stariptv.co:8888/16172_ZeeLiving/index.m3u8
-#EXTINF:-1 group-title="arabic382",HeyaTV
-http://plu10.stariptv.co:8888/16174_HeyaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALASSEMA
-http://plu10.stariptv.co:8888/16175_ALASSEMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",SamaTV
-http://plu10.stariptv.co:8888/16176_SamaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ATTESSIATV
-http://plu10.stariptv.co:8888/16177_ATTESSIATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",Al-ShahedTV
-http://plu10.stariptv.co:8888/16178_Al-ShahedTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",KirkukTV
-http://plu10.stariptv.co:8888/16179_KirkukTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",HalaTV
-http://plu10.stariptv.co:8888/16180_HalaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",DamaaTV
-http://plu10.stariptv.co:8888/16181_DamaaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",KNN
-http://plu10.stariptv.co:8888/16182_KNN/index.m3u8
-#EXTINF:-1 group-title="arabic382",FIVEFILM
-http://plu10.stariptv.co:8888/16183_FIVEFILM/index.m3u8
-#EXTINF:-1 group-title="arabic382",FIVECINEMA
-http://plu10.stariptv.co:8888/16184_FIVECINEMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",MTA3AlArabiyah
-http://plu10.stariptv.co:8888/16185_MTA3AlArabiyah/index.m3u8
-#EXTINF:-1 group-title="arabic382",ABCTV
-http://plu10.stariptv.co:8888/16186_ABCTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",NOONKIDS
-http://plu10.stariptv.co:8888/16187_NOONKIDS/index.m3u8
-#EXTINF:-1 group-title="arabic382",Abudhabidrama
-http://plu10.stariptv.co:8888/16188_Abudhabidrama/index.m3u8
-#EXTINF:-1 group-title="arabic382",MEKAMELEENTV
-http://plu10.stariptv.co:8888/16189_MEKAMELEENTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",SHADAALHURRIEHTV
-http://plu10.stariptv.co:8888/16190_SHADAALHURRIEHTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",KURDMAX
-http://plu10.stariptv.co:8888/16191_KURDMAX/index.m3u8
-#EXTINF:-1 group-title="arabic382",SaudiAnti-terrorism
-http://plu10.stariptv.co:8888/16192_SaudiAnti-terrorism/index.m3u8
-#EXTINF:-1 group-title="arabic382",SAMACINEMA
-http://plu10.stariptv.co:8888/16193_SAMACINEMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALBAITBAITAKCINEMA
-http://plu10.stariptv.co:8888/16194_ALBAITBAITAKCINEMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",ishtar
-http://plu10.stariptv.co:8888/16195_ishtar/index.m3u8
-#EXTINF:-1 group-title="arabic382",SAFATV
-http://plu10.stariptv.co:8888/16196_SAFATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",BINOTHAIMEEN
-http://plu10.stariptv.co:8888/16197_BINOTHAIMEEN/index.m3u8
-#EXTINF:-1 group-title="arabic382",ktv1
-http://plu10.stariptv.co:8888/16198_ktv1/index.m3u8
-#EXTINF:-1 group-title="arabic382",Boomerang
-http://plu10.stariptv.co:8888/16199_Boomerang/index.m3u8
-#EXTINF:-1 group-title="arabic382",AFLAMTUBE
-http://plu10.stariptv.co:8888/16200_AFLAMTUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",PLUS18
-http://plu10.stariptv.co:8888/16201_PLUS18/index.m3u8
-#EXTINF:-1 group-title="arabic382",CINEMATUBE
-http://plu10.stariptv.co:8888/16202_CINEMATUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",MOSALSALATTUBE
-http://plu10.stariptv.co:8888/16203_MOSALSALATTUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",CIMATUBE
-http://plu10.stariptv.co:8888/16204_CIMATUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",TEATROTUBE
-http://plu10.stariptv.co:8888/16205_TEATROTUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",TATT7
-http://plu10.stariptv.co:8888/16206_TATT7/index.m3u8
-#EXTINF:-1 group-title="arabic382",QURANTV
-http://plu10.stariptv.co:8888/16207_QURANTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",FILMTUBE
-http://plu10.stariptv.co:8888/16208_FILMTUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",KIDSTUBE
-http://plu10.stariptv.co:8888/16209_KIDSTUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",CLASSICTUBE
-http://plu10.stariptv.co:8888/16210_CLASSICTUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",DRAMATUBE
-http://plu10.stariptv.co:8888/16211_DRAMATUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",CIMAFARTAKA
-http://plu10.stariptv.co:8888/16212_CIMAFARTAKA/index.m3u8
-#EXTINF:-1 group-title="arabic382",CINEMA2TUBE
-http://plu10.stariptv.co:8888/16213_CINEMA2TUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",COMEDYTUBE
-http://plu10.stariptv.co:8888/16214_COMEDYTUBE/index.m3u8
-#EXTINF:-1 group-title="arabic382",AFLAMTV
-http://plu10.stariptv.co:8888/16215_AFLAMTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",HAREEMELSULTAN
-http://plu10.stariptv.co:8888/16216_HAREEMELSULTAN/index.m3u8
-#EXTINF:-1 group-title="arabic382",GoodFood1
-http://plu10.stariptv.co:8888/16217_GoodFood1/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCPRO1
-http://plu10.stariptv.co:8888/16218_MBCPRO1/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCPRO2
-http://plu10.stariptv.co:8888/16219_MBCPRO2/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCPRO3
-http://plu10.stariptv.co:8888/16220_MBCPRO3/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCPRO3
-http://plu10.stariptv.co:8888/16220_MBCPRO3/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCPRO4
-http://plu10.stariptv.co:8888/16221_MBCPRO4/index.m3u8
-#EXTINF:-1 group-title="arabic382",MBCPRO4
-http://plu10.stariptv.co:8888/16221_MBCPRO4/index.m3u8
-#EXTINF:-1 group-title="arabic382",Kuwait-TV
-http://plu10.stariptv.co:8888/16222_Kuwait-TV/index.m3u8
-#EXTINF:-1 group-title="arabic382",Kuwait-TV2
-http://plu10.stariptv.co:8888/16223_Kuwait-TV2/index.m3u8
-#EXTINF:-1 group-title="arabic382",Kuwait-TV2
-http://plu10.stariptv.co:8888/16223_Kuwait-TV2/index.m3u8
-#EXTINF:-1 group-title="arabic382",Set-ElBeit
-http://plu10.stariptv.co:8888/16224_Set-ElBeit/index.m3u8
-#EXTINF:-1 group-title="arabic382",Set-ElBeit
-http://plu10.stariptv.co:8888/16224_Set-ElBeit/index.m3u8
-#EXTINF:-1 group-title="arabic382",ISHTAR
-http://plu10.stariptv.co:8888/16225_ISHTAR/index.m3u8
-#EXTINF:-1 group-title="arabic382",ISHTAR
-http://plu10.stariptv.co:8888/16225_ISHTAR/index.m3u8
-#EXTINF:-1 group-title="arabic382",SYRIASATELLITETV
-http://plu10.stariptv.co:8888/16226_SYRIASATELLITETV/index.m3u8
-#EXTINF:-1 group-title="arabic382",SYRIASATELLITETV
-http://plu10.stariptv.co:8888/16226_SYRIASATELLITETV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ZWEINABALADNA
-http://plu10.stariptv.co:8888/16227_ZWEINABALADNA/index.m3u8
-#EXTINF:-1 group-title="arabic382",ZWEINABALADNA
-http://plu10.stariptv.co:8888/16227_ZWEINABALADNA/index.m3u8
-#EXTINF:-1 group-title="arabic382",Jordan
-http://plu10.stariptv.co:8888/16228_Jordan/index.m3u8
-#EXTINF:-1 group-title="arabic382",Jordan
-http://plu10.stariptv.co:8888/16228_Jordan/index.m3u8
-#EXTINF:-1 group-title="arabic382",ROYA
-http://plu10.stariptv.co:8888/16229_ROYA/index.m3u8
-#EXTINF:-1 group-title="arabic382",ROYA
-http://plu10.stariptv.co:8888/16229_ROYA/index.m3u8
-#EXTINF:-1 group-title="arabic382",Hawacom
-http://plu10.stariptv.co:8888/16230_Hawacom/index.m3u8
-#EXTINF:-1 group-title="arabic382",NOURELSHAM
-http://plu10.stariptv.co:8888/16231_NOURELSHAM/index.m3u8
-#EXTINF:-1 group-title="arabic382",SudanTV
-http://plu10.stariptv.co:8888/16232_SudanTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",AshrooqTv
-http://plu10.stariptv.co:8888/16233_AshrooqTv/index.m3u8
-#EXTINF:-1 group-title="arabic382",Al-KhabarTV
-http://plu10.stariptv.co:8888/16234_Al-KhabarTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALMINBAR
-http://plu10.stariptv.co:8888/16235_ALMINBAR/index.m3u8
-#EXTINF:-1 group-title="arabic382",zanoubia
-http://plu10.stariptv.co:8888/16236_zanoubia/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlMawsleya
-http://plu10.stariptv.co:8888/16237_AlMawsleya/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALHadathIraq
-http://plu10.stariptv.co:8888/16238_ALHadathIraq/index.m3u8
-#EXTINF:-1 group-title="arabic382",LANATV
-http://plu10.stariptv.co:8888/16239_LANATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",HonaBaghdad
-http://plu10.stariptv.co:8888/16240_HonaBaghdad/index.m3u8
-#EXTINF:-1 group-title="arabic382",Beladi
-http://plu10.stariptv.co:8888/16241_Beladi/index.m3u8
-#EXTINF:-1 group-title="arabic382",FreeTV
-http://plu10.stariptv.co:8888/16242_FreeTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",TOYORBABY
-http://plu10.stariptv.co:8888/16243_TOYORBABY/index.m3u8
-#EXTINF:-1 group-title="arabic382",EriteriaTV
-http://plu10.stariptv.co:8888/16244_EriteriaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",NogoumFMRadio
-http://plu10.stariptv.co:8888/16245_NogoumFMRadio/index.m3u8
-#EXTINF:-1 group-title="arabic382",Ajial
-http://plu10.stariptv.co:8888/16246_Ajial/index.m3u8
-#EXTINF:-1 group-title="arabic382",JubalandTV
-http://plu10.stariptv.co:8888/16247_JubalandTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",SouthernTV
-http://plu10.stariptv.co:8888/16248_SouthernTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",OromiaTV
-http://plu10.stariptv.co:8888/16249_OromiaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ESTV
-http://plu10.stariptv.co:8888/16250_ESTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ARRAED
-http://plu10.stariptv.co:8888/16251_ARRAED/index.m3u8
-#EXTINF:-1 group-title="arabic382",sawtalarab
-http://plu10.stariptv.co:8888/16252_sawtalarab/index.m3u8
-#EXTINF:-1 group-title="arabic382",LIBYAALWATNYAH
-http://plu10.stariptv.co:8888/16253_LIBYAALWATNYAH/index.m3u8
-#EXTINF:-1 group-title="arabic382",TunisiaNat1
-http://plu10.stariptv.co:8888/16254_TunisiaNat1/index.m3u8
-#EXTINF:-1 group-title="arabic382",BELQEES
-http://plu10.stariptv.co:8888/16255_BELQEES/index.m3u8
-#EXTINF:-1 group-title="arabic382",SAUD
-http://plu10.stariptv.co:8888/16256_SAUD/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALSehaWaljamal
-http://plu10.stariptv.co:8888/16257_ALSehaWaljamal/index.m3u8
-#EXTINF:-1 group-title="arabic382",MUSICSHA3BY
-http://plu10.stariptv.co:8888/16258_MUSICSHA3BY/index.m3u8
-#EXTINF:-1 group-title="arabic382",AmharaTV
-http://plu10.stariptv.co:8888/16259_AmharaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALSHAMALTV
-http://plu10.stariptv.co:8888/16260_ALSHAMALTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",DTVCINEMA
-http://plu10.stariptv.co:8888/16261_DTVCINEMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",LIBYAALKHABAR
-http://plu10.stariptv.co:8888/16262_LIBYAALKHABAR/index.m3u8
-#EXTINF:-1 group-title="arabic382",TADAMON
-http://plu10.stariptv.co:8888/16263_TADAMON/index.m3u8
-#EXTINF:-1 group-title="arabic382",ELSANIORATV
-http://plu10.stariptv.co:8888/16264_ELSANIORATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",BBCONE
-http://plu10.stariptv.co:8888/16265_BBCONE/index.m3u8
-#EXTINF:-1 group-title="arabic382",MogaComedyTV
-http://plu10.stariptv.co:8888/16266_MogaComedyTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlFayhaaTV
-http://plu10.stariptv.co:8888/16267_AlFayhaaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",TIMEFILM
-http://plu10.stariptv.co:8888/16268_TIMEFILM/index.m3u8
-#EXTINF:-1 group-title="arabic382",TIMETAXI
-http://plu10.stariptv.co:8888/16269_TIMETAXI/index.m3u8
-#EXTINF:-1 group-title="arabic382",ONTVEgypt
-http://plu10.stariptv.co:8888/16270_ONTVEgypt/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlitejahTV
-http://plu10.stariptv.co:8888/16271_AlitejahTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlGhadeer
-http://plu10.stariptv.co:8888/16272_AlGhadeer/index.m3u8
-#EXTINF:-1 group-title="arabic382",Al-AqilaT
-http://plu10.stariptv.co:8888/16273_Al-AqilaT/index.m3u8
-#EXTINF:-1 group-title="arabic382",ShababTV
-http://plu10.stariptv.co:8888/16274_ShababTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",Afak
-http://plu10.stariptv.co:8888/16275_Afak/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlAhd
-http://plu10.stariptv.co:8888/16276_AlAhd/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALDiyar
-http://plu10.stariptv.co:8888/16277_ALDiyar/index.m3u8
-#EXTINF:-1 group-title="arabic382",Altaghier
-http://plu10.stariptv.co:8888/16278_Altaghier/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALMADATV
-http://plu10.stariptv.co:8888/16279_ALMADATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALmasriya
-http://plu10.stariptv.co:8888/16280_ALmasriya/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALHurraIraq
-http://plu10.stariptv.co:8888/16281_ALHurraIraq/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlKaheraWalNas
-http://plu10.stariptv.co:8888/16282_AlKaheraWalNas/index.m3u8
-#EXTINF:-1 group-title="arabic382",KOKKYTV
-http://plu10.stariptv.co:8888/16283_KOKKYTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",KARBALATV
-http://plu10.stariptv.co:8888/16284_KARBALATV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ROTANACINEMAKSA
-http://plu10.stariptv.co:8888/16285_ROTANACINEMAKSA/index.m3u8
-#EXTINF:-1 group-title="arabic382",Assadissa
-http://plu10.stariptv.co:8888/16286_Assadissa/index.m3u8
-#EXTINF:-1 group-title="arabic382",DZairTV
-http://plu10.stariptv.co:8888/16287_DZairTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlNahar
-http://plu10.stariptv.co:8888/16288_AlNahar/index.m3u8
-#EXTINF:-1 group-title="arabic382",ELBILADTV
-http://plu10.stariptv.co:8888/16289_ELBILADTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALASRARTV
-http://plu10.stariptv.co:8888/16290_ALASRARTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",Hannibal
-http://plu10.stariptv.co:8888/16291_Hannibal/index.m3u8
-#EXTINF:-1 group-title="arabic382",TunisieTelevsion1
-http://plu10.stariptv.co:8888/16292_TunisieTelevsion1/index.m3u8
-#EXTINF:-1 group-title="arabic382",TunisiaNat2
-http://plu10.stariptv.co:8888/16293_TunisiaNat2/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlInsenTV
-http://plu10.stariptv.co:8888/16294_AlInsenTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALjanoubia
-http://plu10.stariptv.co:8888/16295_ALjanoubia/index.m3u8
-#EXTINF:-1 group-title="arabic382",EttounsiaTV
-http://plu10.stariptv.co:8888/16296_EttounsiaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlYawm
-http://plu10.stariptv.co:8888/16297_AlYawm/index.m3u8
-#EXTINF:-1 group-title="arabic382",DollyCinema
-http://plu10.stariptv.co:8888/16298_DollyCinema/index.m3u8
-#EXTINF:-1 group-title="arabic382",westelbalad
-http://plu10.stariptv.co:8888/16299_westelbalad/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALAnwar
-http://plu10.stariptv.co:8888/16300_ALAnwar/index.m3u8
-#EXTINF:-1 group-title="arabic382",NoursatAlchabab
-http://plu10.stariptv.co:8888/16301_NoursatAlchabab/index.m3u8
-#EXTINF:-1 group-title="arabic382",MTunisia
-http://plu10.stariptv.co:8888/16302_MTunisia/index.m3u8
-#EXTINF:-1 group-title="arabic382",ElhiwarEttounsiTV
-http://plu10.stariptv.co:8888/16303_ElhiwarEttounsiTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",CNA
-http://plu10.stariptv.co:8888/16304_CNA/index.m3u8
-#EXTINF:-1 group-title="arabic382",LibyaAlhrar
-http://plu10.stariptv.co:8888/16305_LibyaAlhrar/index.m3u8
-#EXTINF:-1 group-title="arabic382",HalabaTV
-http://plu10.stariptv.co:8888/16306_HalabaTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlArabyTV
-http://plu10.stariptv.co:8888/16307_AlArabyTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",7BESHA
-http://plu10.stariptv.co:8888/16308_7BESHA/index.m3u8
-#EXTINF:-1 group-title="arabic382",CIMAALIBABA
-http://plu10.stariptv.co:8888/16309_CIMAALIBABA/index.m3u8
-#EXTINF:-1 group-title="arabic382",DARBAKAAFLAM
-http://plu10.stariptv.co:8888/16310_DARBAKAAFLAM/index.m3u8
-#EXTINF:-1 group-title="arabic382",TIMEQURAN
-http://plu10.stariptv.co:8888/16311_TIMEQURAN/index.m3u8
-#EXTINF:-1 group-title="arabic382",TAL2ARO3B
-http://plu10.stariptv.co:8888/16312_TAL2ARO3B/index.m3u8
-#EXTINF:-1 group-title="arabic382",Dzair24
-http://plu10.stariptv.co:8888/16313_Dzair24/index.m3u8
-#EXTINF:-1 group-title="arabic382",Al-Majd3
-http://plu10.stariptv.co:8888/16314_Al-Majd3/index.m3u8
-#EXTINF:-1 group-title="arabic382",ENNAHARTV
-http://plu10.stariptv.co:8888/16315_ENNAHARTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",PlayAflam
-http://plu10.stariptv.co:8888/16316_PlayAflam/index.m3u8
-#EXTINF:-1 group-title="arabic382",B4UAflam
-http://plu10.stariptv.co:8888/16317_B4UAflam/index.m3u8
-#EXTINF:-1 group-title="arabic382",ZeeAlwan
-http://plu10.stariptv.co:8888/16318_ZeeAlwan/index.m3u8
-#EXTINF:-1 group-title="arabic382",EchoroukNews
-http://plu10.stariptv.co:8888/16319_EchoroukNews/index.m3u8
-#EXTINF:-1 group-title="arabic382",ANN
-http://plu10.stariptv.co:8888/16320_ANN/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALRAHMA
-http://plu10.stariptv.co:8888/16321_ALRAHMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",IKIDS
-http://plu10.stariptv.co:8888/16322_IKIDS/index.m3u8
-#EXTINF:-1 group-title="arabic382",SYRIADRAMA
-http://plu10.stariptv.co:8888/16323_SYRIADRAMA/index.m3u8
-#EXTINF:-1 group-title="arabic382",LTC
-http://plu10.stariptv.co:8888/16324_LTC/index.m3u8
-#EXTINF:-1 group-title="arabic382",ELMOLED
-http://plu10.stariptv.co:8888/16325_ELMOLED/index.m3u8
-#EXTINF:-1 group-title="arabic382",MICKEYCHANNEL
-http://plu10.stariptv.co:8888/16326_MICKEYCHANNEL/index.m3u8
-#EXTINF:-1 group-title="arabic382",LIBYAALRASMEYA
-http://plu10.stariptv.co:8888/16327_LIBYAALRASMEYA/index.m3u8
-#EXTINF:-1 group-title="arabic382",KIDZINIA
-http://plu10.stariptv.co:8888/16328_KIDZINIA/index.m3u8
-#EXTINF:-1 group-title="arabic382",IFilmArabic
-http://plu10.stariptv.co:8888/16329_IFilmArabic/index.m3u8
-#EXTINF:-1 group-title="arabic382",SoutElShaab
-http://plu10.stariptv.co:8888/16330_SoutElShaab/index.m3u8
-#EXTINF:-1 group-title="arabic382",AhelAlQuran
-http://plu10.stariptv.co:8888/16331_AhelAlQuran/index.m3u8
-#EXTINF:-1 group-title="arabic382",SyriaMedicalTV
-http://plu10.stariptv.co:8888/16332_SyriaMedicalTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",DabangaSudan
-http://plu10.stariptv.co:8888/16333_DabangaSudan/index.m3u8
-#EXTINF:-1 group-title="arabic382",ELKHABARKBCAlgeria
-http://plu10.stariptv.co:8888/16334_ELKHABARKBCAlgeria/index.m3u8
-#EXTINF:-1 group-title="arabic382",Alnoor
-http://plu10.stariptv.co:8888/16335_Alnoor/index.m3u8
-#EXTINF:-1 group-title="arabic382",NumidiaNewsTV
-http://plu10.stariptv.co:8888/16336_NumidiaNewsTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",SadaElBaladDrama
-http://plu10.stariptv.co:8888/16337_SadaElBaladDrama/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALJADEED
-http://plu10.stariptv.co:8888/16338_ALJADEED/index.m3u8
-#EXTINF:-1 group-title="arabic382",MANAR
-http://plu10.stariptv.co:8888/16339_MANAR/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALMAYADEENTV
-http://plu10.stariptv.co:8888/16340_ALMAYADEENTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALSIRAT
-http://plu10.stariptv.co:8888/16341_ALSIRAT/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALAANTV
-http://plu10.stariptv.co:8888/16342_ALAANTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALIMANTV
-http://plu10.stariptv.co:8888/16343_ALIMANTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",MTVLebanon
-http://plu10.stariptv.co:8888/16344_MTVLebanon/index.m3u8
-#EXTINF:-1 group-title="arabic382",NBN
-http://plu10.stariptv.co:8888/16345_NBN/index.m3u8
-#EXTINF:-1 group-title="arabic382",Noursat
-http://plu10.stariptv.co:8888/16346_Noursat/index.m3u8
-#EXTINF:-1 group-title="arabic382",TAHA
-http://plu10.stariptv.co:8888/16347_TAHA/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALSHARQIYA
-http://plu10.stariptv.co:8888/16348_ALSHARQIYA/index.m3u8
-#EXTINF:-1 group-title="arabic382",AghaniAghani
-http://plu10.stariptv.co:8888/16349_AghaniAghani/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALKAWTHAR
-http://plu10.stariptv.co:8888/16350_ALKAWTHAR/index.m3u8
-#EXTINF:-1 group-title="arabic382",IraqiaSport
-http://plu10.stariptv.co:8888/16351_IraqiaSport/index.m3u8
-#EXTINF:-1 group-title="arabic382",fadak
-http://plu10.stariptv.co:8888/16352_fadak/index.m3u8
-#EXTINF:-1 group-title="arabic382",ADNatGeo
-http://plu10.stariptv.co:8888/16353_ADNatGeo/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALSaha
-http://plu10.stariptv.co:8888/16354_ALSaha/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALSaha2
-http://plu10.stariptv.co:8888/16355_ALSaha2/index.m3u8
-#EXTINF:-1 group-title="arabic382",ALSaha3
-http://plu10.stariptv.co:8888/16356_ALSaha3/index.m3u8
-#EXTINF:-1 group-title="arabic382",Baraem
-http://plu10.stariptv.co:8888/16357_Baraem/index.m3u8
-#EXTINF:-1 group-title="arabic382",JeemSD
-http://plu10.stariptv.co:8888/16358_JeemSD/index.m3u8
-#EXTINF:-1 group-title="arabic382",AlraiTV
-http://plu10.stariptv.co:8888/16359_AlraiTV/index.m3u8
-#EXTINF:-1 group-title="arabic382",FUNoon
-http://plu10.stariptv.co:8888/16360_FUNoon/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/baghdad.jpg" group-title="HD LIST",Baghdad
-http://216.66.42.38:7777/Baghdad_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bahrain.jpg" group-title="HD LIST",Bahrain
-http://216.66.42.38:7777/BahrainInt_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bahrain.jpg" group-title="HD LIST",Bahrain
-http://8.21.48.19:7777/BahrainInt_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bahrain.jpg" group-title="HD LIST",BAHRAIN SPORTS
-http://216.66.42.38:7777/BahrainSport_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/baraem.jpg" group-title="HD LIST",Baraem
-http://216.66.42.38:7777/Baraem_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bbc%20arabic.jpg" group-title="HD LIST",BBC Arabic
-http://216.66.42.38:7777/BBCArabic_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bein%201.jpg" group-title="HD LIST",beINSports
-http://216.66.42.38:7777/beINSports_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bein%201.jpg" group-title="HD LIST",BEIN US
-http://216.66.42.38:7777/beINSportsNews_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.frosat.net/images/logotv/original/Al-Beladi-TV.jpg" group-title="HD LIST",Beladi
-http://216.66.42.38:7777/Beladi_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/blue%20nile.jpg" group-title="HD LIST",Blue Nile
-http://216.66.42.38:7777/BlueNile_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cairo%20cinema.jpg" group-title="HD LIST",Cairo Cinema
-http://216.66.42.38:7777/CairoCinema_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f1BFbDVYn5I/hqdefault.jpg" group-title="HD LIST",Cairo Comedy
-http://216.66.42.38:7777/CairoComedy_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cairo%20drama.jpg" group-title="HD LIST",Cairo Drama
-http://216.66.42.38:7777/CairoDrama_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/algeria.jpg" group-title="HD LIST",AlGeria
-http://216.66.42.38:7777/CanalAlgerie_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cbc.jpg" group-title="HD LIST",CBC
-http://216.66.42.38:7777/CBC_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cbc%202.jpg" group-title="HD LIST",CBC Extra
-http://216.66.42.38:7777/CBC2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cbc%20drama.jpg" group-title="HD LIST",CBC Drama
-http://216.66.42.38:7777/CBCDrama_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cbc%20sofra.jpg" group-title="HD LIST",CBC Sofra
-http://216.66.42.38:7777/CBCSofra_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/cctv_arabic_china.jpg" group-title="HD LIST",CCTV Arabic
-http://216.66.42.38:7777/CCTVArabia_HD.m3u8
-#EXTINF:-1,Chabab
-http://216.66.42.38:7777/Chabab_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cima.jpg" group-title="HD LIST",Cima
-http://216.66.42.38:7777/Cima_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cartoon%20network%20fr.jpg" group-title="HD LIST",Cartoon Network
-http://216.66.42.38:7777/CNArabia_HD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" group-title="HD LIST",Coptic_Christian
-http://216.66.42.38:7777/CTVEgypt_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dijlah%20tv.jpg" group-title="HD LIST",Dejlah
-http://216.66.42.38:7777/Dejlah_HD.m3u8
-#EXTINF:-1,DM
-http://216.66.42.38:7777/DM_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dream%201.jpg" group-title="HD LIST",Dream 1
-http://216.66.42.38:7777/Dream1_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dream%201.jpg" group-title="HD LIST",Dream 2
-http://216.66.42.38:7777/Dream2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai.jpg" group-title="HD LIST",Dubai
-http://216.66.42.38:7777/DubaiEurope_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20one.jpg" group-title="HD LIST",Dubai One
-http://216.66.42.38:7777/DubaiOne_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20sport%201.jpg" group-title="HD LIST",Dubai Sport HD2
-http://216.66.42.38:7777/DubaiSport2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20sport%201.jpg" group-title="HD LIST",Dubai Sport HD2
-http://8.21.48.19:7777/DubaiSport2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20sport%201.jpg" group-title="HD LIST",Dubai Sport 3
-http://216.66.42.38:7777/DubaiSports_HD.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-3UrCnZu37XM/VJFdMjNhnjI/AAAAAAAAA-A/9fHvjEllmLU/s1600/DWTV-Arabic_o.jpg" group-title="HD LIST",DW Arabic
-http://216.66.42.38:7777/DWTVArabia_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20mehwar.jpg" group-title="HD LIST",Mehwar
-http://216.66.42.38:7777/MehwarPlus2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.allebc.com/wp-content/uploads/2016/06/allebc.jpg" group-title="HD LIST",ETV1
-http://216.66.42.38:7777/ETV1_HD.m3u8
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/euronewsar.jpg" group-title="HD LIST",Euro News Arabic
-http://216.66.42.38:7777/EuroNews_HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/france24%20arabic.jpg" group-title="HD LIST",France 24
-http://216.66.42.38:7777/France24Arabic_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/funoon.jpg" group-title="HD LIST",Funoon
-http://216.66.42.38:7777/Funoon_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/future.jpg" group-title="HD LIST",Future TV
-http://216.66.42.38:7777/Future_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/future.jpg" group-title="HD LIST",Future News
-http://216.66.42.38:7777/FutureNews_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/future.jpg" group-title="HD LIST",FutureUSA
-http://216.66.42.38:7777/FutureUSA_HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-3iL4Ik6U7s/maxresdefault.jpg" group-title="HD LIST",Gladiator
-http://216.66.42.38:7777/Gladiator_HD.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/830165462/goansport.jpg" group-title="HD LIST",Goan
-http://216.66.42.38:7777/GoanTV_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/hanibal.jpg" group-title="HD LIST",Hanibal
-http://216.66.42.38:7777/Hannibal_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alhayat.jpg" group-title="HD LIST",Alhayat 1
-http://216.66.42.38:7777/Hayat_HD.m3u8
+#EXTINF:-1,Al Sunnah
+http://38.99.146.40:7777/AlSunnah.m3u8?user=sgls10455482&session=90f0f0fdc40bbe0511ebf34f221b3c4c9cdd0c57ebbf4246d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
 #EXTINF:-1,Huda
-http://216.66.42.38:7777/Huda_HD.m3u8
-#EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/ifilm.png" group-title="HD LIST",iFilm Arabic
-http://216.66.42.38:7777/iFilm_HD.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618675340517380096/kSyHMN2V.jpg" group-title="HD LIST",Imagines Movies
-http://216.66.42.38:7777/ImagineMovies_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/iqra.jpg" group-title="HD LIST",Iqra
-http://216.66.42.38:7777/Iqraa_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ishtar.jpg" group-title="HD LIST",Ishtar
-http://216.66.42.38:7777/Ishtar_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130920045518_channelsbig.jpg" group-title="HD LIST",Jordan Sport
-http://216.66.42.38:7777/JordanSport_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljazeera%20misr.jpg" group-title="HD LIST",Aljazeera Mubasher Masr
-http://216.66.42.38:7777/JSCLiveMisr_HD.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/1907/0273465c775124fa/screen-0.jpg" group-title="HD LIST",Kaifa
-http://216.66.42.38:7777/Kaifa_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/karameesh.jpg" group-title="HD LIST",Karameesh
-http://216.66.42.38:7777/Karameesh_HD.m3u8
-#EXTINF:-1,Koky Kids
-http://216.66.42.38:7777/Koky_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%202.jpg" group-title="HD LIST",KSA 2
-http://216.66.42.38:7777/KSA2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg" group-title="HD LIST",KTV2
-http://216.66.42.38:7777/KTV2Kuwait_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg" group-title="HD LIST",KTV Sport Plus
-http://216.66.42.38:7777/KTV3Plus_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg" group-title="HD LIST",KTV ARABE
-http://216.66.42.38:7777/KTVAlArabi_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg" group-title="HD LIST",Kuwait
-http://216.66.42.38:7777/KuwaitSpace_HD.m3u8
+http://38.99.146.40:7777/Huda.m3u8?user=sgls10455482&session=fe370b7566a186ccd79e567c45c5f581b12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/lbc.jpg" group-title="HD LIST",Lbc Europe
-http://216.66.42.38:7777/LBC_HD.m3u8
+#EXTINF:-1,Al Sabah
+http://38.99.146.40:7777/AlSabah.m3u8?user=sgls10455482&session=fde472a4246786b26b9a084e5065b3ac286c74cc1a1377c5f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ldc.jpg" group-title="HD LIST",LDC
-http://216.66.42.38:7777/LDC_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/libya%20tv.jpg" group-title="HD LIST",Libya 2
-http://216.66.42.38:7777/Libya_HD.m3u8
+#EXTINF:-1,Al ShahedTV
+http://38.99.146.40:7777/AlShahedTV.m3u8?user=sgls10455482&session=ee8711c7c0d47c88e9ff09835ddb7f405b88d02c5dfb1ef574d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
 
+#EXTINF:-1,Al Kout
+http://38.99.146.42:7777/AlKout.m3u8?user=sgls10455482&session=02872f4ca6907dbb84302abf91cc0c0ad5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
 
+#EXTINF:-1,Al Forat
+http://38.99.146.42:7777/AlForat.m3u8?user=sgls10455482&session=26d34bda99fdde4c2b5de799cc9e980411fb9f569a96a49bf2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/2m.jpg" group-title="HD LIST",2M
-http://216.66.42.38:7777/M2Morocco_HD.m3u8
+#EXTINF:-1,SharjahTV
+http://38.99.146.42:7777/SharjahTV.m3u8?user=sgls10455482&session=dc1698e35e85d58bf32d6c36102bd8ed07a7b60916a1f2a5410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
+#EXTINF:-1,Aden
+http://38.99.146.42:7777/Aden.m3u8?user=sgls10455482&session=cd25e7fd82f952f5f17dcb43b148250ab12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/mara7.jpg" group-title="HD LIST",Mara7
-http://216.66.42.38:7777/Mara7_HD.m3u8
+#EXTINF:-1,Al Amaken Drama
+http://38.99.146.42:7777/AlAmakenDrama.m3u8?user=sgls10455482&session=9d1c39cf1e580a4abd991fb740c6ec2f2c0679fde0d3e5da7bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.yallaprograms.com/software/image_1439627860_925.jpg" group-title="HD LIST",Massaya
-http://216.66.42.38:7777/Massaya_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mauritanie.jpg" group-title="HD LIST",Mauritanie
-http://216.66.42.38:7777/MauritaniaTV_HD.m3u8
+#EXTINF:-1,Noor Dubai
+http://38.99.146.42:7777/NoorDubai.m3u8?user=sgls10455482&session=95513904a077422c0e23f4cd6fe4836b37c00add8382228a410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/medi%201%20sat.jpg" group-title="HD LIST",Medi 1 Sat
-http://216.66.42.38:7777/Medi1_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20mehwar.jpg" group-title="HD LIST",Mehwar
-http://8.21.48.19:7777/MehwarPlus2_HD.m3u8
-#EXTINF:-1,Miracle
-http://216.66.42.38:7777/Miracle_HD.m3u8
-#EXTINF:-1 tvg-logo="http://adwar.ps/we/wp-content/uploads/2014/08/new_5-500x330.jpg" group-title="HD LIST",Maannews
-http://216.66.42.38:7777/MixTV_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/moga%20comedy.jpg" group-title="HD LIST",Moga Comedy
-http://216.66.42.38:7777/MogaComedy_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cairo%20cinema.jpg" group-title="HD LIST",Cairo Cinema 2
-http://216.66.42.38:7777/Mosar3_HD.m3u8
+#EXTINF:-1,ScopeTV
+http://38.99.146.42:7777/ScopeTV.m3u8?user=sgls10455482&session=126267f60ebceda3ba2a229229be565bdf704a54679abfc2f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mtv.jpg" group-title="HD LIST",MTV
-http://216.66.42.38:7777/MTVLebanon_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20haneen%20music.jpg" group-title="HD LIST",Al Haneen Music
-http://216.66.42.38:7777/MusicAlhanen_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/music%20plus.jpg" group-title="HD LIST",Music+
-http://216.66.42.38:7777/MusicPlus_HD.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-3l0ABV5ovEE/AAAAAAAAAAI/AAAAAAAAAAA/9Sqy5om531A/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="HD LIST",Nart
-http://216.66.42.38:7777/Nart_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nbn.jpg" group-title="HD LIST",NBN
-http://216.66.42.38:7777/NBNLebanon_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/neelain%20sport.jpg" group-title="HD LIST",Neelain Sport
-http://216.66.42.38:7777/NeelainSport_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nessma.jpg" group-title="HD LIST",Nessma
-http://216.66.42.38:7777/NessmaAlKhadra_HD.m3u8
+#EXTINF:-1,Al Sahraa
+http://38.99.146.42:7777/AlSahraa.m3u8?user=sgls10455482&session=1cda679f30ba3269da7364d9fab54a9705f39a472b6e0952d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
+#EXTINF:-1,Al sharqiya News
+http://38.99.146.42:7777/AlsharqiyaNews.m3u8?user=sgls10455482&session=531a72b2c0ee47f70d79f2d968f1fab9b2ed2c09f066f3fad5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noon%20tv.jpg" group-title="HD LIST",Noon Kids
-http://216.66.42.38:7777/Noon_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noor%20dubai.jpg" group-title="HD LIST",Noor Dubai
-http://216.66.42.38:7777/NoorDubai_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noursat%20alchabab.jpg" group-title="HD LIST",NoursatAlShabab
-http://216.66.42.38:7777/NourAlShabab_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nour%20sham.jpg" group-title="HD LIST",Syria Nour
-http://216.66.42.38:7777/NourElSham_HD.m3u8
-#EXTINF:-1 tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/jordan/113-Nourmina-Sat.jpg" group-title="HD LIST",Nourmina
-http://216.66.42.38:7777/Nourmina_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noursat.jpg" group-title="HD LIST",Noursat
-http://216.66.42.38:7777/Noursat_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/184.jpg" group-title="HD LIST",Oman
-http://216.66.42.38:7777/Oman_HD.m3u8
-#EXTINF:-1 tvg-logo="http://ona-technology.com/wp-content/uploads/2016/05/omdur.jpg" group-title="HD LIST",Om Durman
-http://216.66.42.38:7777/OmDurman_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/on%20tv.jpg" group-title="HD LIST",On TV
-http://216.66.42.38:7777/ONTV_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-_kz-U01-vc/hqdefault.jpg" group-title="HD LIST",ONTV Live
-http://216.66.42.38:7777/ONTVLive_HD.m3u8
-#EXTINF:-1 tvg-logo="http://aboudcar.com/wp-content/uploads/2015/09/orient_news.jpg" group-title="HD LIST",Orient News
-http://216.66.42.38:7777/OrientNews_HD.m3u8
+#EXTINF:-1,Al Rasheed
+http://38.99.146.42:7777/AlRasheed.m3u8?user=sgls10455482&session=da2252d689269f5fa0ae2357bf4b956c937e6e17b5dfa608410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
+#EXTINF:-1,Hona Bagdad
+http://38.99.146.42:7777/HonaBagdad.m3u8?user=sgls10455482&session=84094ac279871aa69d953e90353eba469e9c53f59865c59f74d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/otv%20lebanon.jpg" group-title="HD LIST",OTV Lebanon
-http://216.66.42.38:7777/OTV_HD.m3u8
+#EXTINF:-1,Al Taghier
+http://38.99.146.42:7777/AlTaghier.m3u8?user=sgls10455482&session=0db02d95347a60f071b091d102e47b83337b4f3188c1d123410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
+#EXTINF:-1,Gem Arabia
+http://38.99.146.42:7777/GemArabia.m3u8?user=sgls10455482&session=9cce734f7666afdc30aa142a275dba74086e78923d42de19410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/palestine.jpg" group-title="HD LIST",Palestine
-http://216.66.42.38:7777/Palestinian_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/panorama%20drama.jpg" group-title="HD LIST",Panorama Drama
-http://216.66.42.38:7777/PanoramaDrama_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/panorama%20drama%202.jpg" group-title="HD LIST",Panorama Drama 2
-http://216.66.42.38:7777/PanoramaDrama2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/panorama_film.jpg" group-title="HD LIST",Panorama film
-http://216.66.42.38:7777/PanoramaFilm_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/qatar.jpg" group-title="HD LIST",Qatar
-http://216.66.42.38:7777/Qatar_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.raktv.ae/en/assets/images/logo_dark.png" group-title="HD LIST",RAK
-http://216.66.42.38:7777/RAK_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20aflam.jpg" group-title="HD LIST",Rotana Aflam
-http://216.66.42.38:7777/RotanaAflam_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20cinema.jpg" group-title="HD LIST",Rotana Cinema
-http://216.66.42.38:7777/RotanaCinema_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20clip.jpg" group-title="HD LIST",Rotana Clip
-http://216.66.42.38:7777/RotanaClip_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20khaligi.jpg" group-title="HD LIST",Rotana Khaligi
-http://216.66.42.38:7777/RotanaKhalijiah_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20masriya.jpg" group-title="HD LIST",Rotana Masriya
-http://216.66.42.38:7777/RotanaMasriya_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20music.jpg" group-title="HD LIST",Rotana Music
-http://216.66.42.38:7777/RotanaMusic_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20classic.jpg" group-title="HD LIST",Rotana Classic
-http://216.66.42.38:7777/RotanaZaman_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_EQ_4WVSvk/maxresdefault_live.jpg" group-title="HD LIST",Roya
-http://216.66.42.38:7777/Roya_HD.m3u8
+#EXTINF:-1,Tele Liban
+http://38.99.146.42:7777/TeleLiban.m3u8?user=sgls10455482&session=8b5084a2aae7cb33357a07f99906dfb24e04dee67b12b5dd410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
+#EXTINF:-1,Syria Drama
+http://38.99.146.42:7777/SyriaDrama.m3u8?user=sgls10455482&session=90f02958d4cfa197f482a36ca4e33f9c9025727db2b6221374d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/djibouti.jpg" group-title="HD LIST",Djibouti
-http://216.66.42.38:7777/RTD_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/russia%20alyaum.jpg" group-title="HD LIST",Russia Alyaum
-http://216.66.42.38:7777/RussiyaAlYaum_HD.m3u8
+#EXTINF:-1,Syria Sat
+http://38.99.146.42:7777/SyriaSat.m3u8?user=sgls10455482&session=9c66bdd222abe58357e94b0c168541ac0bae6884a718a407d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sama%20dubai.jpg" group-title="HD LIST",Sama Dubai
-http://216.66.42.38:7777/SamaDubai_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sama%20tv.jpg" group-title="HD LIST",Sama Syria
-http://216.66.42.38:7777/SamaTV_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/samira%20tv.jpg" group-title="HD LIST",Samira TV
-http://216.66.42.38:7777/SamiraTV_HD.m3u8
+#EXTINF:-1,Al Ekhbariya Al Soriyah
+http://38.99.146.42:7777/AlEkhbariyaAlSoriyah.m3u8?user=sgls10455482&session=de0fc99d1d855b6f6ade322d6b931e25125f15303b409fca85b502c64ff8fc4eb12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg" group-title="HD LIST",KSA 1
-http://216.66.42.38:7777/SaudiArabia1_HD.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-uny5PqYjC2E/AAAAAAAAAAI/AAAAAAAAAAA/_vh4-Pjmlrc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="HD LIST",Scope
-http://216.66.42.38:7777/ScopeTV_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.shashaat.com/App_Files/ProgramsImages/635033431535720176.jpg" group-title="HD LIST",SM SM KIDS
-http://216.66.42.38:7777/Semsem_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/183.jpg" group-title="HD LIST",Sharjah
-http://216.66.42.38:7777/SharjahTV_HD.m3u8
+#EXTINF:-1,Al Ordoni
+http://38.99.146.42:7777/AlOrdoni.m3u8?user=sgls10455482&session=6bc76757e6517f0ba8737628a10c3a79a85caa0b66159e29d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.shababeritrea.com/EritreanTvChannels/sky_news_arabic_live.jpg" group-title="HD LIST",SkyNewsArabia
-http://216.66.42.38:7777/SkyNews_HD.m3u8
-#EXTINF:-1 tvg-logo="http://tv-online.im/wp-content/uploads/2013/11/SNTV-live.jpg" group-title="HD LIST",SNTV
-http://216.66.42.38:7777/SNTV_HD.m3u8
+#EXTINF:-1,Al Haqeeqa
+http://38.99.146.42:7777/AlHaqeeqa.m3u8?user=sgls10455482&session=8772ee080dab692e24e505298bbabd074125ca650b630245410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/spacetoon.jpg" group-title="HD LIST",Spacetoon
-http://216.66.42.38:7777/SpaceToonArabic_HD.m3u8
+#EXTINF:-1,Musawa
+http://38.99.146.42:7777/Musawa.m3u8?user=sgls10455482&session=6235af0502ea39a709a280661529e69ed5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Star-Cinema0-Egypt_o.jpg" group-title="HD LIST",Star 1 Cinema
-http://216.66.42.38:7777/StarCinema1_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Star-Cinema-2-Egypt_o.jpg" group-title="HD LIST",Star 2 Cinema
-http://216.66.42.38:7777/StarCinema2_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sudan%20tv.jpg" group-title="HD LIST",Sudan TV
-http://216.66.42.38:7777/Sudan_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/syria%20drama.jpg" group-title="HD LIST",Syria Drama
-http://216.66.42.38:7777/SyriaDrama_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Syrian-Education-Channel_o.jpg" group-title="HD LIST",Syria Sedu
-http://216.66.42.38:7777/SyrianEducation_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/syria.jpg" group-title="HD LIST",Syria
-http://216.66.42.38:7777/SyriaSat_HD.m3u8
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/hUQHeIh-8Es/mqdefault.jpg" group-title="HD LIST",Taha
-http://216.66.42.38:7777/Taha_HD.m3u8
-#EXTINF:-1 tvg-logo="http://i2.wp.com/www.tvtonight.com.au/wp-content/uploads/TEN-logo0.jpg" group-title="HD LIST",Ten
-http://216.66.42.38:7777/Tahrir_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Talaqie-Syria_o.jpg" group-title="HD LIST",Syria Talaqie
-http://216.66.42.38:7777/Talaqi_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/tamazight.jpg" group-title="HD LIST",Tamazigh Maroc
-http://216.66.42.38:7777/Tamazight_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Tayba-TV_o.jpg" group-title="HD LIST",Tayba
-http://216.66.42.38:7777/Tayba_HD.m3u8
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ba/08/22/ba08225e5ce2888fdb77d5576987a9df.jpg" group-title="HD LIST",Tele Liban
-http://216.66.42.38:7777/TeleLiban_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/algeria%203.jpg" group-title="HD LIST",Algeria 3
-http://216.66.42.38:7777/Thalitha_HD.m3u8
+#EXTINF:-1,Palestine Sport
+http://38.99.146.42:7777/PalestineSport.m3u8?user=sgls10455482&session=9e766bdc50f50c8d7e350fddcfdb388c8de5609afaf6d857d5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/toyor%20al%20janah.jpg" group-title="HD LIST",Toyor Al Janah
-http://216.66.42.38:7777/ToyorAlJanah_HD.m3u8
-#EXTINF:-1 tvg-logo="http://news.at.world/assest/img/source/TRT-Arabic-Logo-285x200.jpg" group-title="HD LIST",TRT Arabic
-http://216.66.42.38:7777/TRTArabic_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20tunisia.jpg" group-title="HD LIST",Tounesna
-http://216.66.42.38:7777/Tunisia_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/tunisia%20national%201.jpg" group-title="HD LIST",Tunisia national 1
-http://216.66.42.38:7777/Tunisie7_HD.m3u8
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-3NjFnKr3V-k/UgWMMgO8kJI/AAAAAAAABOk/aXZyhMEBgeM/tv5+monde+live.jpg" group-title="HD LIST",TV 5 MONDE
-http://216.66.42.38:7777/TV5_HD.m3u8
+#EXTINF:-1,Palestinian
+http://38.99.146.42:7777/Palestinian.m3u8?user=sgls10455482&session=4e59cf15a79f25545f4f5d1a18340b4a2dfa0884c97eeaeb3aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/wanasah.jpg" group-title="HD LIST",Wanasah
-http://216.66.42.38:7777/Wanasah_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/yemen.jpg" group-title="HD LIST",Yemen
-http://216.66.42.38:7777/Yemen_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/b4u%20aflam.jpg" group-title="HD LIST",Zee Aflam
-http://216.66.42.38:7777/ZeeAflam_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/zee%20alwan.jpg" group-title="HD LIST",Zee Alwan
-http://216.66.42.38:7777/ZeeAlwan_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130910053259_channelsbig.jpg" group-title="HD LIST",Zweina Bladna
-http://216.66.42.38:7777/ZweinaBaladna_HD.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/arabica%20tv.jpg" group-title="HD LIST",Arabica Music
-http://216.66.42.38:7777/ArabicaMusic_HD.m3u8
+#EXTINF:-1,Alquds
+http://38.99.146.42:7777/Alquds.m3u8?user=sgls10455482&session=71053a89a2bb56dfb283433068c1a3abd5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
 
-#EXTINF:-1,Oscar Drama 2
-http://216.66.42.38:7777/OscarDrama2_HD.m3u8
-#EXTINF:-1,AlKahera
-http://216.66.42.38:7777/AlKahera_HD.m3u8
-#EXTINF:-1,Oyoun Jeddah
-http://216.66.42.38:7777/OyounJeddah_HD.m3u8
-#EXTINF:-1,AlBabeleyia
-http://216.66.42.38:7777/AlBabeleyia_HD.m3u8
-#EXTINF:-1,AlHayat Sport
-http://216.66.42.38:7777/AlHayatSport_HD.m3u8
 #EXTINF:-1,Palestine AlYawm
-http://216.66.42.38:7777/PalestineAlYawm_HD.m3u8
+http://38.99.146.42:7777/PalestineAlYawm.m3u8?user=sgls10455482&session=72f1be19f620b897a1be65a56b206fe0eb5b86c1a9ffdd808a803677fefb35cdf2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
+
+#EXTINF:-1,SamaTV
+http://38.99.146.42:7777/SamaTV.m3u8?user=sgls10455482&session=98af440c2adacdc016d85e06d8ab1a94d5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
+
+#EXTINF:-1,Roya
+http://38.99.146.42:7777/Roya.m3u8?user=sgls10455482&session=c7e158c61f122bc1b2969c821793681ab12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
+
+#EXTINF:-1,Karameesh
+http://38.99.146.42:7777/Karameesh.m3u8?user=sgls10455482&session=985765d2a34b2be888ffe9aac6fadbb8510c5c1debd9626d410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
+
+#EXTINF:-1,Zweina Baladna
+http://38.99.146.42:7777/ZweinaBaladna.m3u8?user=sgls10455482&session=95034a55d39f2a4f406d68af157c65d0f8c17a12939e480b7bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
+
+#EXTINF:-1,Nour AlShabab
+http://38.99.146.42:7777/NourAlShabab.m3u8?user=sgls10455482&session=0e2274a9f670a0e09546449571c3d43def51738ad1df0974b12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
+
+#EXTINF:-1,Nour ElSham
+http://38.99.146.42:7777/NourElSham.m3u8?user=sgls10455482&session=a3e0b6ff9f928f901e77bec164cd9b7105913a22f12bf98274d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
+
+#EXTINF:-1,Syrian Education
+http://38.99.146.42:7777/SyrianEducation.m3u8?user=sgls10455482&session=714b0e1254cb2dbc79a0e64bd5ff70f9c9f4a525189aa46be92803756226664bf2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
+
+#EXTINF:-1,Sem sem
+http://38.99.146.42:7777/Semsem.m3u8?user=sgls10455482&session=5d9350a62aead76e7264e13e481bca9fd5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
+
+#EXTINF:-1,Nart
+http://38.99.146.42:7777/Nart.m3u8?user=sgls10455482&session=e252d83a4887bfad6fbbda08a560f5fbb12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
+
 #EXTINF:-1,Palestine Live
-http://216.66.42.38:7777/PalestineLive_HD.m3u8
-#EXTINF:-1,Sat7 Kid
-http://216.66.42.38:7777/Sat7Kid_HD.m3u8
-#EXTINF:-1,Sheba
-http://216.66.42.38:7777/Sheba_HD.m3u8
-#EXTINF:-1,Al Eman
-http://216.66.42.38:7777/AlEman_HD.m3u8
-#EXTINF:-1,MTV Arabia
-http://216.66.42.38:7777/MTVArabia_HD.m3u8
-#EXTINF:-1,LineSport
-http://216.66.42.38:7777/LineSport_HD.m3u8
-#EXTINF:-1,GearOne
-http://216.66.42.38:7777/GearOne_HD.m3u8
-#EXTINF:-1,LCD AFLAM
-http://216.66.42.38:7777/LcdTurkey_HD.m3u8
-#EXTINF:-1,Atfal wa Mawaheb
-http://216.66.42.38:7777/AtfalwaMawaheb_HD.m3u8
-#EXTINF:-1,Chobra Cima
-http://216.66.42.38:7777/LayaliCinema_HD.m3u8
+http://38.99.146.42:7777/PalestineLive.m3u8?user=sgls10455482&session=1b8822ee06548fd844b4765af301a5a72ec4a96e4658c77a7bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
+
+#EXTINF:-1,Tunisie1
+http://38.99.146.42:7777/Tunisie7.m3u8?user=sgls10455482&session=ba726e2731af222fd3ccf4e6d9edce84c2f80731c995b703d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,Tunisia2
+http://38.99.146.42:7777/Tunisia2TV.m3u8?user=sgls10455482&session=a871cd45884a3f462d309330117fd76fc887f514cf47785f74d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
+
+#EXTINF:-1,Hannibal
+http://38.99.146.42:7777/Hannibal.m3u8?user=sgls10455482&session=541cff40c73abdabac2d96a1b56690e8eef1cdc445fab606d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,AlMaghribia
+http://38.99.146.40:7777/AlMaghribia.m3u8?user=sgls10455482&session=3cb999f1a968d9466ab418ba1bacba6c5f67678cb2e2e2003aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
+
+#EXTINF:-1,Tayba
+http://38.99.146.40:7777/Tayba.m3u8?user=sgls10455482&session=5fb099925cc7218725177340f7dadd047bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
+
+#EXTINF:-1,Sudan24
+http://38.99.146.40:7777/Sudan24.m3u8?user=sgls10455482&session=9fb32d27e842eb0db746061280a01c4ded655bdac91db271f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
+
+#EXTINF:-1,Sudan
+http://38.99.146.40:7777/Sudan.m3u8?user=sgls10455482&session=668a9b7acb333038e164e51dbecfc7cf7bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
 
 
-#EXTINF:-1,Alaqsa
-http://216.66.42.38:7777/AqsaSatCh_HD.m3u8
-#EXTINF:-1,HodHod
-http://216.66.42.38:7777/HodHod_HD.m3u8
+#EXTINF:-1,M2Morocco
+http://38.99.146.40:7777/M2Morocco.m3u8?user=sgls10455482&session=b65c866db1812dda6ab1b0b87c029c89198d2d8ae0350cf5410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
-#EXTINF:-1,Jordan
-http://216.66.42.38:7777/GamarHashimi_HD.m3u8
+#EXTINF:-1,SNTV
+http://38.99.146.40:7777/SNTV.m3u8?user=sgls10455482&session=bc7ba66bbc694a8f543f27563b17f73bb12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
 
+#EXTINF:-1,Medi1
+http://38.99.146.40:7777/Medi1.m3u8?user=sgls10455482&session=95e419f254815bfd83560440a2dab5c07bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
 
-#EXTINF:-1,Fatafeat
-http://216.66.42.38:7777/Fatafeat_HD.m3u8
-#EXTINF:-1,Fx Arabia
-http://216.66.42.38:7777/Fox_HD.m3u8
-#EXTINF:-1,Fox Movies
-http://216.66.42.38:7777/FoxMovies_HD.m3u8
+#EXTINF:-1,AlAssema1
+http://38.99.146.40:7777/AlAssema1.m3u8?user=sgls10455482&session=e485ed3e602d97fc246368eea682b0882859a863968a1f33410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
+#EXTINF:-1,AlAssema2
 
-#EXTINF:-1,Mea
-http://216.66.42.38:7777/MeaTV_HD.m3u8
-#EXTINF:-1,Mahbooba
-http://216.66.42.38:7777/Mahbooba_HD.m3u8
-#EXTINF:-1,LLBN
-http://216.66.42.38:7777/LLBN_HD.m3u8
-#EXTINF:-1,Masrawi Aflam
-http://216.66.42.38:7777/MasrawiAflam_HD.m3u8
+http://38.99.146.40:7777/AlAssema2.m3u8?user=sgls10455482&session=579cfde97e744ad29c932af51c555228fa47fa07d56c9f40410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
 
-#EXTINF:-1,Cine Majesti
-http://216.66.42.38:7777/MajesticCinema_HD.m3u8
-#EXTINF:-1,Libya AlWataniya
-http://216.66.42.38:7777/LibyaAlWataniya_HD.m3u8
-#EXTINF:-1,Libya Sport 1
-http://216.66.42.38:7777/LibyaSportChannel1_HD.m3u8
+#EXTINF:-1,NileSport
+http://38.99.146.40:7777/NileSport.m3u8?user=sgls10455482&session=c209307d378e0dca790760f185bf17d1a0244226ca43ea5c410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
+
+#EXTINF:-1,CTVEgypt
+http://38.99.146.40:7777/CTVEgypt.m3u8?user=sgls10455482&session=2e789c1b5e67be91f900c5d7dcb8e1d2a970e68102255cc0d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,RTD جيبوتي
+http://38.99.146.40:7777/RTD.m3u8?user=sgls10455482&session=64ee1398945104bfdc7b9da6960f09683aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
+
+#EXTINF:-1,Thalitha
+http://38.99.146.40:7777/Thalitha.m3u8?user=sgls10455482&session=263f6e77a0c2ce96dc721cf3e35017aa75f1f148a2ae7b73d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,AlAoulaEurope
+http://38.99.146.40:7777/AlAoulaEurope.m3u8?user=sgls10455482&session=2d9f4101a3317dba71cd04791d95faf832d21c029e61cbf57bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
+
+#EXTINF:-1,AlThanya
+http://38.99.146.40:7777/AlThanya.m3u8?user=sgls10455482&session=142a9b627c401024da96e395f2495b76f1c7bf492bd81556d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,Arrabiaa
+http://38.99.146.40:7777/Arrabiaa.m3u8?user=sgls10455482&session=75ea1e2041766b6b79ae225ff127f04805f39a472b6e0952d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,Assadissa
+http://38.99.146.40:7777/Assadissa.m3u8?user=sgls10455482&session=f3d7e2ee05156c1472c6ba34dda3e6423e8ea592ed9b0adb410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
+
+#EXTINF:-1,AlAhrar ليبيا
+http://38.99.146.40:7777/AlAhrar.m3u8?user=sgls10455482&session=ad715a6a08a596ddfc2f7d0831adb2020dde581e4de1a894f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
+
+#EXTINF:-1,NileNews
+http://38.99.146.40:7777/NileNews.m3u8?user=sgls10455482&session=90b7634f47939a596c0b2e8fe6a3bef3b98fe2491c437c87d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,NileFamily
+http://38.99.146.40:7777/NileFamily.m3u8?user=sgls10455482&session=2ff00775a8f8522751707e95fb732bf724e568b1ec00332574d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
+
+#EXTINF:-1,NileLife
+http://38.99.146.40:7777/NileLife.m3u8?user=sgls10455482&session=3a6da052891448419a71da74c68250ed1378862d6a876e15d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,Tamazight
+http://38.99.146.40:7777/Tamazight.m3u8?user=sgls10455482&session=b596e269c513d9bccf6eb5148b29946a57e5b7741dd1de6a410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
+
+#EXTINF:-1,SoutElShaab
+http://38.99.146.40:7777/SoutElShaab.m3u8?user=sgls10455482&session=9ffa906823337b402ff172754860d2f9dfb88b65ed8b98ba3aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
+
+#EXTINF:-1,Tahrir
+http://38.99.146.42:7777/Tahrir.m3u8?user=sgls10455482&session=05387bba657c55c465c9b17ca220da36d5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
 
 #EXTINF:-1,Nessma
-http://216.66.42.38:7777/Nessma_HD.m3u8
-#EXTINF:-1,Nojoom1
-http://216.66.42.38:7777/Nojoom1_HD.m3u8
-#EXTINF:-1,ORTM
-http://216.66.42.38:7777/ORTM_HD.m3u8
-#EXTINF:-1,Oscar Drama
-http://216.66.42.38:7777/OscarDrama_HD.m3u8
-#EXTINF:-1,AlMalakot
-http://216.66.42.38:7777/AlMalakot_HD.m3u8
-#EXTINF:-1,Royal Albadawiya
-http://216.66.42.38:7777/RoyalAlBadawia_HD.m3u8
-#EXTINF:-1,Space Power
-http://216.66.42.38:7777/SpacePower_HD.m3u8
-#EXTINF:-1,Almas
-http://216.66.42.38:7777/AlMas_HD.m3u8
-#EXTINF:-1,Sada Al Balad
-http://216.66.42.38:7777/SadaAlBalad_HD.m3u8
-#EXTINF:-1,Sada AlBalad Drama
-http://216.66.42.38:7777/SadaAlBaladDrama_HD.m3u8
-#EXTINF:-1,Sama Cinema
-http://216.66.42.38:7777/SamaCinema_HD.m3u8
-#EXTINF:-1,SSTV
-http://216.66.42.38:7777/SSTV_HD.m3u8
-#EXTINF:-1,Royal Edhak
-http://216.66.42.38:7777/RoyalEdhak_HD.m3u8
-#EXTINF:-1,Royal Secret
-http://216.66.42.38:7777/RoyalSecrets_HD.m3u8
-#EXTINF:-1,Al Shaab
-http://216.66.42.38:7777/AlShaab_HD.m3u8
+http://38.99.146.42:7777/Nessma.m3u8?user=sgls10455482&session=3ff863628dcd3efa535703ed69c9d775d5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
 
-#EXTINF:-1,Time Cinema
-http://216.66.42.38:7777/TimeCinema_HD.m3u8
-#EXTINF:-1,Time Drama
-http://216.66.42.38:7777/TimeDrama_HD.m3u8
-#EXTINF:-1,Taxi El Sahra
-http://216.66.42.38:7777/TimeTiatro_HD.m3u8
-#EXTINF:-1,Top Movies
-http://216.66.42.38:7777/TopMovies_HD.m3u8
+#EXTINF:-1,OmDurman
+http://38.99.146.42:7777/OmDurman.m3u8?user=sgls10455482&session=39d00c514572f54fcb86d3a0f353dcb4bccc41c61faa0932d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
-#EXTINF:-1,ANN
-http://216.66.42.38:7777/ANN_HD.m3u8
+#EXTINF:-1,Taha
+http://38.99.146.42:7777/Taha.m3u8?user=sgls10455482&session=07f2a7b37ca895f2b75980c23638015ab12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
 
+#EXTINF:-1,SahourTV
+http://38.99.146.42:7777/SahourTV.m3u8?user=sgls10455482&session=7b13a311e9badb220d943ff9648d06fc122546970a52e7aed1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
-#EXTINF:-1,AlIraqiya Documentary
-http://216.66.42.38:7777/AlIraqAlTarbawiyah_HD.m3u8
+#EXTINF:-1,KhartoumTV
+http://38.99.146.42:7777/KhartoumTV.m3u8?user=sgls10455482&session=21e0864ed8fec0d263bb857a062e42036c7bf7d36ab20d0f74d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
 
-#EXTINF:-1,Al Hiwar Ettounsi
-http://216.66.42.38:7777/Tounisa_HD.m3u8
-#EXTINF:-1,Unrwa
-http://216.66.42.38:7777/Unrwa_HD.m3u8
+#EXTINF:-1,SadaAlBalad
+http://38.99.146.42:7777/SadaAlBalad.m3u8?user=sgls10455482&session=d2226ed4330b4f9a90f384e0ab91918a60de80b1c7de3a8b3aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/2m.jpg" group-title="LOW Quality" ,M2Morocco
-http://216.66.42.38:7777/M2Morocco_Med.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/409588952_295x166.jpg" group-title="LOW Quality" ,7Stars
-http://216.66.42.38:7777/7Stars_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.ethnicmediasales.co.uk/wp-content/uploads/2014/11/abn.jpg" group-title="LOW Quality" ,ABN
-http://216.66.42.38:7777/ABN_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/abu%20dhabi.jpg" group-title="LOW Quality" ,ADAlOula
-http://216.66.42.38:7777/ADAlOula_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/abu%20dhabi%20sports%201.jpg" group-title="LOW Quality" ,ADSport
-http://216.66.42.38:7777/ADSport_Med.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-EUAuR9Ndx0k/UjS0M-hwwwI/AAAAAAAAKTg/ccN7sg5FqL4/s1600/aden_tv_ye.jpg" group-title="LOW Quality" ,Aden
-http://216.66.42.38:7777/Aden_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aghanina.jpg" group-title="LOW Quality" ,Aghanina
-http://216.66.42.38:7777/Aghanina_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/aghapy_tv.jpg" group-title="LOW Quality" ,Aghapy
-http://216.66.42.38:7777/Aghapy_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.ajmantv.com/ar/images/ajman_tvlogo.jpg" group-title="LOW Quality" ,Ajman
-http://216.66.42.38:7777/Ajman_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ajyal.jpg" group-title="LOW Quality" ,AjyalTV
-http://216.66.42.38:7777/AjyalTV_Med.m3u8
-#EXTINF:-1 tvg-logo="http://data.satellitekuwait.com/wp-content/uploads/Frequencies-of-Aladala-TV-Channels.jpg" group-title="LOW Quality" ,AlAdala
-http://216.66.42.38:7777/AlAdala_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20ahly%20tv.jpg" group-title="LOW Quality" ,AlAhlyTV
-http://216.66.42.38:7777/AlAhlyTV_Med.m3u8
-#EXTINF:-1,AlAmakenDrama
-http://216.66.42.38:7777/AlAmakenDrama_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo//Alanwar.jpg" group-title="LOW Quality" ,AlAnwar
-http://216.66.42.38:7777/AlAnwar_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.honabaghdad.tv/wp-content/uploads/2016/06/logo-honabaghdad0.png" group-title="LOW Quality" ,HonaBagdad
-http://216.66.42.38:7777/HonaBagdad_Med.m3u8
-#EXTINF:-1,AqsaSatCh
-http://216.66.42.38:7777/AqsaSatCh_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20baghdadia.jpg" group-title="LOW Quality" ,AlBaghdadia
-http://216.66.42.38:7777/AlBaghdadia_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20diyar.jpg" group-title="LOW Quality" ,AldiyarSat
-http://216.66.42.38:7777/AldiyarSat_Med.m3u8
-#EXTINF:-1,AlEman
-http://216.66.42.38:7777/AlEman_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.gcf.org.sa/PublishingImages/SponsorImages/Aleqtisadeya.jpg" group-title="LOW Quality" ,AlEqtisadiyah
-http://216.66.42.38:7777/AlEqtisadiyah_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_fayhaa_tv_iraq_arabic_live_online_free_arabic_channel.jpg" group-title="LOW Quality" ,Al Fayhaa
-http://216.66.42.38:7777/AlFayhaa_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20forat.jpg" group-title="LOW Quality" ,Al Forat
-http://216.66.42.38:7777/AlForat_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/algeria.jpg" group-title="LOW Quality" ,CanalAlgerie
-http://216.66.42.38:7777/CanalAlgerie_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/algeria%203.jpg" group-title="LOW Quality" ,Thalitha
-http://216.66.42.38:7777/Thalitha_Med.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BemrkwyfC78/hqdefault.jpg" group-title="LOW Quality" ,AlHaqeeqa
-http://216.66.42.38:7777/AlHaqeeqa_Med.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dPxg8jk3bDg/hqdefault.jpg" group-title="LOW Quality" ,AlHiwar
-http://216.66.42.38:7777/AlHiwar_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20hurra%20iraq.jpg" group-title="LOW Quality" ,AlhurraIraq
-http://216.66.42.38:7777/AlhurraIraq_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20ekhbaria.jpg" group-title="LOW Quality" ,AlEkhbariya
-http://216.66.42.38:7777/AlEkhbariya_Med.m3u8
-#EXTINF:-1,AlIraqAlTarbawiyah
-http://216.66.42.38:7777/AlIraqAlTarbawiyah_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20iraqiya.jpg" group-title="LOW Quality" ,AlIraqia2
-http://216.66.42.38:7777/AlIraqia2_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20iraqiya.jpg" group-title="LOW Quality" ,AlIraqiya
-http://216.66.42.38:7777/AlIraqiya_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljadeed.jpg" group-title="LOW Quality" ,AlJadeed
-http://216.66.42.38:7777/AlJadeed_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljazeera.jpg" group-title="LOW Quality" ,AlJazeera
-http://216.66.42.38:7777/AlJazeera_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/aljazeera.jpg" group-title="LOW Quality" ,AlJazeeraEnglish
-http://216.66.42.38:7777/AlJazeeraEnglish_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alkass%20tv.jpg" group-title="LOW Quality" ,AlDawriAlKassSport
-http://216.66.42.38:7777/AlDawriAlKassSport_Med.m3u8
-#EXTINF:-1 tvg-logo="http://data.satellitekuwait.com/wp-content/uploads/Alkout-TV-Channel-Frequency.jpg" group-title="LOW Quality" ,AlKout
-http://216.66.42.38:7777/AlKout_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20maghribia.jpg" group-title="LOW Quality" ,AlMaghribia
-http://216.66.42.38:7777/AlMaghribia_Med.m3u8
-#EXTINF:-1 ,AlMalakot
-http://216.66.42.38:7777/AlMalakot_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20manar.jpg" group-title="LOW Quality" ,AlManar
-http://216.66.42.38:7777/AlManar_Med.m3u8
-#EXTINF:-1 ,AlMas
-http://216.66.42.38:7777/AlMas_Med.m3u8
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2j4808z.jpg" group-title="LOW Quality" ,AlMasar
-http://216.66.42.38:7777/AlMasar_Med.m3u8
-#EXTINF:-1  tvg-logo="http://www.tunisia-land.com/streamurl/masriya.jpg" group-title="LOW Quality" ,AlMasriyah
-http://216.66.42.38:7777/AlMasriyah_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20moustakilla.jpg" group-title="LOW Quality" ,AlMustakila
-http://216.66.42.38:7777/AlMustakila_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.arabicnadwah.com/tv/tv-logo-new.jpg" group-title="LOW Quality" ,AlOrdoni
-http://216.66.42.38:7777/AlOrdoni_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20aoula%20maroc.jpg" group-title="LOW Quality" ,AlAoulaEurope
-http://216.66.42.38:7777/AlAoulaEurope_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/alqudis.jpg" group-title="LOW Quality" ,Alquds
-http://216.66.42.38:7777/Alquds_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rafidain.jpg" group-title="LOW Quality" ,AlRafidain
-http://216.66.42.38:7777/AlRafidain_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rasheed.jpg" group-title="LOW Quality" ,AlRasheed
-http://216.66.42.38:7777/AlRasheed_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20resalah.jpg" group-title="LOW Quality" ,AlResala
-http://216.66.42.38:7777/AlResala_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.ourmedia.ae/upload/partners/42892_saudi_sport_channel_live_online_free_arabic_channel.jpg" group-title="LOW Quality" ,Arryadia
-http://216.66.42.38:7777/Arryadia_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Al-Sabah-TV_o.jpg" group-title="LOW Quality" ,AlSabah
-http://216.66.42.38:7777/AlSabah_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Al-Sahraa-TV_o.jpg" group-title="LOW Quality" ,AlSahraa
-http://216.66.42.38:7777/AlSahraa_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sharqiya.jpg" group-title="LOW Quality" ,AlSharqiya
-http://216.66.42.38:7777/AlSharqiya_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sharqia%20news.jpg" group-title="LOW Quality" ,AlsharqiyaNews
-http://216.66.42.38:7777/AlsharqiyaNews_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sumaria.jpg" group-title="LOW Quality" ,Alsumaria
-http://216.66.42.38:7777/Alsumaria_Med.m3u8
-#EXTINF:-1 tvg-logo="http://roku.afrikastv.com/channels_logo/sunnah_tv.jpg" group-title="LOW Quality" ,AlSunnah
-http://216.66.42.38:7777/AlSunnah_Med.m3u8
-#EXTINF:-1 tvg-logo="http://aljoude.com/assets/base/img/content/client-logos/client2.jpg" group-title="LOW Quality" ,AlThakafiyah
-http://216.66.42.38:7777/AlThakafiyah_Med.m3u8
-#EXTINF:-1,Alwatan
-http://216.66.42.38:7777/Alwatan_Med.m3u8
-#EXTINF:-1,AlwatanPlus
-http://216.66.42.38:7777/AlwatanPlus_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/arabica%20tv.jpg" group-title="LOW Quality" ,ArabicaMusic
-http://216.66.42.38:7777/ArabicaMusic_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/arrabia.jpg" group-title="LOW Quality" ,Arrabiaa
-http://216.66.42.38:7777/Arrabiaa_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/assadissa.jpg" group-title="LOW Quality" ,Assadissa
-http://216.66.42.38:7777/Assadissa_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/baghdad.jpg" group-title="LOW Quality" ,Baghdad
-http://216.66.42.38:7777/Baghdad_Med.m3u8
-#EXTINF:-1,BahrainSport
-http://216.66.42.38:7777/BahrainSport_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bahrain.jpg" group-title="LOW Quality" ,Bahrain
-http://216.66.42.38:7777/Bahrain_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bbc%20arabic.jpg" group-title="LOW Quality" ,BBCArabic
-http://216.66.42.38:7777/BBCArabic_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.frosat.net/images/logotv/original/Al-Beladi-TV.jpg" group-title="LOW Quality" ,Beladi
-http://216.66.42.38:7777/Beladi_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/blue%20nile.jpg" group-title="LOW Quality" ,BlueNile
-http://216.66.42.38:7777/BlueNile_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cairo%20cinema.jpg" group-title="LOW Quality" ,CairoCinema
-http://216.66.42.38:7777/CairoCinema_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/cctv_arabic_china.jpg" group-title="LOW Quality" ,CCTVArabia
-http://216.66.42.38:7777/CCTVArabia_Med.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" group-title="LOW Quality" ,CTVEgypt
-http://216.66.42.38:7777/CTVEgypt_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/djibouti.jpg" group-title="LOW Quality" ,RTD
-http://216.66.42.38:7777/RTD_Med.m3u8
-#EXTINF:-1 ,DM
-http://216.66.42.38:7777/DM_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dream%201.jpg" group-title="LOW Quality" ,Dream1
-http://216.66.42.38:7777/Dream1_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai.jpg" group-title="LOW Quality" ,DubaiEurope
-http://216.66.42.38:7777/DubaiEurope_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/dubai%20sport%201.jpg" group-title="LOW Quality" ,DubaiSports
-http://216.66.42.38:7777/DubaiSports_Med.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-3UrCnZu37XM/VJFdMjNhnjI/AAAAAAAAA-A/9fHvjEllmLU/s1600/DWTV-Arabic_o.jpg" group-title="LOW Quality" ,DWTVArabia
-http://216.66.42.38:7777/DWTVArabia_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20thaniya.jpg" group-title="LOW Quality" ,AlThanya
-http://216.66.42.38:7777/AlThanya_Med.m3u8
-#EXTINF:-1,Fatafeat
-http://216.66.42.38:7777/Fatafeat_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/france24%20arabic.jpg" group-title="LOW Quality" ,France24Arabic
-http://216.66.42.38:7777/France24Arabic_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/funoon.jpg" group-title="LOW Quality" ,Funoon
-http://216.66.42.38:7777/Funoon_Med.m3u8
-#EXTINF:-1,GearOne
-http://216.66.42.38:7777/GearOne_Med.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/830165462/goansport.jpg" group-title="LOW Quality" ,GoanTV
-http://216.66.42.38:7777/GoanTV_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/hanibal.jpg" group-title="LOW Quality" ,Hannibal
-http://216.66.42.38:7777/Hannibal_Med.m3u8
-#EXTINF:-1,HodHod
-http://216.66.42.38:7777/HodHod_Med.m3u8
-#EXTINF:-1,Huda
-http://216.66.42.38:7777/Huda_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/iqra.jpg" group-title="LOW Quality" ,Iqraa
-http://216.66.42.38:7777/Iqraa_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ishtar.jpg" group-title="LOW Quality" ,Ishtar
-http://216.66.42.38:7777/Ishtar_Med.m3u8
-#EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/ifilm.png" group-title="LOW Quality" ,iFilm
-http://216.66.42.38:7777/iFilm_Med.m3u8
-#EXTINF:-1,GamarHashimi
-http://216.66.42.38:7777/GamarHashimi_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/karameesh.jpg" group-title="LOW Quality" ,Karameesh
-http://216.66.42.38:7777/Karameesh_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg" group-title="LOW Quality" ,SaudiArabia1
-http://216.66.42.38:7777/SaudiArabia1_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%202.jpg" group-title="LOW Quality" ,KSA2
-http://216.66.42.38:7777/KSA2_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg" group-title="LOW Quality" ,KTV2Kuwait
-http://216.66.42.38:7777/KTV2Kuwait_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg" group-title="LOW Quality" ,KTV3Plus
-http://216.66.42.38:7777/KTV3Plus_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.censorshiplebanon.org/img/projects/Kuwait-TV-PX.jpg" group-title="LOW Quality" ,KuwaitSpace
-http://216.66.42.38:7777/KuwaitSpace_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/libya%20tv.jpg" group-title="LOW Quality" ,AlAhrar
-http://216.66.42.38:7777/AlAhrar_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/libya%20tv.jpg" group-title="LOW Quality" ,Libya
-http://216.66.42.38:7777/Libya_Med.m3u8
-#EXTINF:-1,LibyaAlWataniya
-http://216.66.42.38:7777/LibyaAlWataniya_Med.m3u8
-#EXTINF:-1,LibyaSportChannel1
-http://216.66.42.38:7777/LibyaSportChannel1_Med.m3u8
-#EXTINF:-1,LLBN
-http://216.66.42.38:7777/LLBN_Med.m3u8
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/mara7.jpg" group-title="LOW Quality" ,Mara7
-http://216.66.42.38:7777/Mara7_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.yallaprograms.com/software/image_1439627860_925.jpg" group-title="LOW Quality" ,Massaya
-http://216.66.42.38:7777/Massaya_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mauritanie.jpg" group-title="LOW Quality" ,MauritaniaTV
-http://216.66.42.38:7777/MauritaniaTV_Med.m3u8
-#EXTINF:-1,MeaTV
-http://216.66.42.38:7777/MeaTV_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/medi%201%20sat.jpg" group-title="LOW Quality" ,media1
-http://216.66.42.38:7777/Medi1_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20mehwar.jpg" group-title="LOW Quality" ,ElMehwar
-http://216.66.42.38:7777/ElMehwar_Med.m3u8
+#EXTINF:-1,SadaAlBalad2
+http://38.99.146.42:7777/SadaAlBalad2.m3u8?user=sgls10455482&session=ef2873516f8511e5564718c332b8be6e7109917b5f4c6a68b12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
+
+#EXTINF:-1,فراعين
+http://38.99.146.42:7777/October.m3u8?user=sgls10455482&session=c6c37c78764588780921755b919640050dde581e4de1a894f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
+
+#EXTINF:-1,PanoramaDrama
+http://38.99.146.42:7777/PanoramaDrama.m3u8?user=sgls10455482&session=21a1740d6f3d5cda2f396814a3da7c7b65e7516e7be94f807bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
+
+#EXTINF:-1,PanoramaDrama2
+http://38.99.146.40:7777/PanoramaDrama2.m3u8?user=sgls10455482&session=c2eb0cfd61709bbbb6bef9f735769a1dbb76d7ebf6777dedd5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
+
+#EXTINF:-1,PanoramaFilm
+http://38.99.146.42:7777/PanoramaFilm.m3u8?user=sgls10455482&session=f76eccc0ef4ec1886766e5ce38756a01851d45ceff5a3b0ab12500cbe57f945a83b50051282e3e5a321dc420dff7615b&group_id=10455482&ios=0
+
+#EXTINF:-1,KokyKids
+http://38.99.146.40:7777/KokyKids.m3u8?user=sgls10455482&session=914926fef33725c375be74000199cd4c99e2ff28b8fb3cfcd1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,ModyKids
+http://38.99.146.40:7777/ModyKids.m3u8?user=sgls10455482&session=7069c3ac74cc69d786ed958895379b5399e2ff28b8fb3cfcd1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,AlKaheraWalNas
+http://38.99.146.40:7777/AlKaheraWalNas.m3u8?user=sgls10455482&session=d0aa90b9576a335afc0def666d270485626b7a837e70af47d5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
+
+#EXTINF:-1,AlKaheraWalNas2
+http://38.99.146.40:7777/AlKaheraWalNas2.m3u8?user=sgls10455482&session=9115c9e2947ebe1720bb9e4f31862ea8626b7a837e70af47c6542ce0f3c74e57f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
+
+#EXTINF:-1,RussiyaAlYaum
+http://38.99.146.40:7777/RussiyaAlYaum.m3u8?user=sgls10455482&session=00c02d8fda3af2dfbd6cd0261e19dc6d57fba37e2e9c86867bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
+
+#EXTINF:-1,BBCArabic
+http://38.99.146.40:7777/BBCArabic.m3u8?user=sgls10455482&session=e6748b271aafa6b1563379a1710a32b59721455a30f94eee410920e0fbbd674bc049ca4a774968f37da4f9ca6fe84c3f&group_id=10455482&ios=0
+
+#EXTINF:-1,France24Arabic
+http://38.99.146.40:7777/France24Arabic.m3u8?user=sgls10455482&session=3b0ba6b9fa49d4e011f08ca3b2320636a1ce45c9b96728ead5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
+
+#EXTINF:-1,CCTVArabia
+http://38.99.146.40:7777/CCTVArabia.m3u8?user=sgls10455482&session=87c66bb384e4921fe5118d3acf06a0616e3eb58d28658bf774d1f44295f88b4843fd81d3260d3482c1186bd56a03b948&group_id=10455482&ios=0
+
+#EXTINF:-1,EuroNews
+http://38.99.146.40:7777/EuroNews.m3u8?user=sgls10455482&session=d4703d5d7d9d9648460e01908b1afb25b98fe2491c437c87d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
+
+#EXTINF:-1,AlMustakila
+http://38.99.146.40:7777/AlMustakila.m3u8?user=sgls10455482&session=08c2e00d8002b54edfa4f64e91210c78d6d09e9718ddeb483aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
+
 #EXTINF:-1,Miracle
-http://216.66.42.38:7777/Miracle_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/mtv.jpg" group-title="LOW Quality" ,MTVLebanon
-http://216.66.42.38:7777/MTVLebanon_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/music%20plus.jpg" group-title="LOW Quality" ,MusicPlus
-http://216.66.42.38:7777/MusicPlus_Med.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-3l0ABV5ovEE/AAAAAAAAAAI/AAAAAAAAAAA/9Sqy5om531A/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LOW Quality" ,Nart
-http://216.66.42.38:7777/Nart_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nbn.jpg" group-title="LOW Quality" ,NBNLebanon
-http://216.66.42.38:7777/NBNLebanon_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/neelain%20sport.jpg" group-title="LOW Quality" ,NeelainSport
-http://216.66.42.38:7777/NeelainSport_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nessma.jpg" group-title="LOW Quality" ,Nessma
-http://216.66.42.38:7777/Nessma_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20cinema.jpg" group-title="LOW Quality" ,NileCinema
-http://216.66.42.38:7777/NileCinema_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20comedy.jpg" group-title="LOW Quality" ,NileCoy
-http://216.66.42.38:7777/NileComedy_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20drama.jpg" group-title="LOW Quality" ,NileDrama
-http://216.66.42.38:7777/NileDrama_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20sport.jpg" group-title="LOW Quality" ,NileSport
-http://216.66.42.38:7777/NileSport_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nile%20tv.jpg" group-title="LOW Quality" ,NileInt
-http://216.66.42.38:7777/NileInt_Med.m3u8
-#EXTINF:-1,Nojoom1
-http://216.66.42.38:7777/Nojoom1_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noor%20dubai.jpg" group-title="LOW Quality" ,NoorDubai
-http://216.66.42.38:7777/NoorDubai_Med.m3u8
-#EXTINF:-1 tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/jordan/113-Nourmina-Sat.jpg" group-title="LOW Quality" ,Nourmina
-http://216.66.42.38:7777/Nourmina_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noursat%20alchabab.jpg" group-title="LOW Quality" ,NourAlShabab
-http://216.66.42.38:7777/NourAlShabab_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/noursat%20alchabab.jpg" group-title="LOW Quality" ,Noursat
-http://216.66.42.38:7777/Noursat_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/184.jpg" group-title="LOW Quality" ,Oman
-http://216.66.42.38:7777/Oman_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/on%20tv.jpg" group-title="LOW Quality" ,ONTV
-http://216.66.42.38:7777/ONTV_Med.m3u8
-#EXTINF:-1,OyounJeddah
-http://216.66.42.38:7777/OyounJeddah_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/palestine.jpg" group-title="LOW Quality" ,Palestinian
-http://216.66.42.38:7777/Palestinian_Med.m3u8
-#EXTINF:-1,PalestineAlYawm
-http://216.66.42.38:7777/PalestineAlYawm_Med.m3u8
-#EXTINF:-1,PalestineLive
-http://216.66.42.38:7777/PalestineLive_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/qatar.jpg" group-title="LOW Quality" ,Qatar
-http://216.66.42.38:7777/Qatar_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20quran%20al%20karim.jpg" group-title="LOW Quality" ,AlQuran
-http://216.66.42.38:7777/AlQuran_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/rotana%20music.jpg" group-title="LOW Quality" ,RotanaMusic
-http://216.66.42.38:7777/RotanaMusic_Med.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_EQ_4WVSvk/maxresdefault_live.jpg" group-title="LOW Quality" ,Roya
-http://216.66.42.38:7777/Roya_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/russia%20alyaum.jpg" group-title="LOW Quality" ,RussiyaAlYaum
-http://216.66.42.38:7777/RussiyaAlYaum_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sama%20dubai.jpg" group-title="LOW Quality" ,SamaDubai
-http://216.66.42.38:7777/SamaDubai_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sama%20tv.jpg" group-title="LOW Quality" ,SamaTV
-http://216.66.42.38:7777/SamaTV_Med.m3u8
+http://38.99.146.40:7777/Miracle.m3u8?user=sgls10455482&session=d62facd37c12dffb4c76e794324cf025010dec3d8c9e3c95f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
+
 #EXTINF:-1,Sat7Kid
-http://216.66.42.38:7777/Sat7Kid_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.ourmedia.ae/upload/partners/42892_saudi_sport_channel_live_online_free_arabic_channel.jpg" group-title="LOW Quality" ,AlRiyadiah
-http://216.66.42.38:7777/AlRiyadiah_Med.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-uny5PqYjC2E/AAAAAAAAAAI/AAAAAAAAAAA/_vh4-Pjmlrc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LOW Quality" ,ScopeTV
-http://216.66.42.38:7777/ScopeTV_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/183.jpg" group-title="LOW Quality" ,SharjahTV
-http://216.66.42.38:7777/SharjahTV_Med.m3u8
-#EXTINF:-1,Sheba
-http://216.66.42.38:7777/Sheba_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.shashaat.com/App_Files/ProgramsImages/635033431535720176.jpg" group-title="LOW Quality" ,Semsem
-http://216.66.42.38:7777/Semsem_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sudan%20tv.jpg" group-title="LOW Quality" ,Sudan
-http://216.66.42.38:7777/Sudan_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/syria.jpg" group-title="LOW Quality" ,SyriaSat
-http://216.66.42.38:7777/SyriaSat_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/syria%20drama.jpg" group-title="LOW Quality" ,SyriaDrama
-http://216.66.42.38:7777/SyriaDrama_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/nour%20sham.jpg" group-title="LOW Quality" ,NourElSham
-http://216.66.42.38:7777/NourElSham_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Syrian-Education-Channel_o.jpg" group-title="LOW Quality" ,SyrianEducation
-http://216.66.42.38:7777/SyrianEducation_Med.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hUQHeIh-8Es/mqdefault.jpg" group-title="LOW Quality" ,Taha
-http://216.66.42.38:7777/Taha_Med.m3u8
-#EXTINF:-1 tvg-logo="http://i2.wp.com/www.tvtonight.com.au/wp-content/uploads/TEN-logo0.jpg" group-title="LOW Quality" ,Tahrir
-http://216.66.42.38:7777/Tahrir_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/tamazight.jpg" group-title="LOW Quality" ,Tamazight
-http://216.66.42.38:7777/Tamazight_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Tayba-TV_o.jpg" group-title="LOW Quality" ,Tayba
-http://216.66.42.38:7777/Tayba_Med.m3u8
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ba/08/22/ba08225e5ce2888fdb77d5576987a9df.jpg" group-title="LOW Quality" ,TeleLiban
-http://216.66.42.38:7777/TeleLiban_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/toyor%20al%20janah.jpg" group-title="LOW Quality" ,ToyorAlJanah
-http://216.66.42.38:7777/ToyorAlJanah_Med.m3u8
-#EXTINF:-1 tvg-logo="http://news.at.world/assest/img/source/TRT-Arabic-Logo-285x200.jpg" group-title="LOW Quality" ,TRTArabic
-http://216.66.42.38:7777/TRTArabic_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/tunisia%20national%201.jpg" group-title="LOW Quality" ,Tunisie7
-http://216.66.42.38:7777/Tunisie7_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/wanasah.jpg" group-title="LOW Quality" ,Wanasah
-http://216.66.42.38:7777/Wanasah_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/yemen.jpg" group-title="LOW Quality" ,Yemen
-http://216.66.42.38:7777/Yemen_Med.m3u8
+http://38.99.146.40:7777/Sat7Kid.m3u8?user=sgls10455482&session=ad14f451dd3307c13e757b171e414dd5decb92709484ea26f2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20ahly%20tv.jpg" group-title="second list",alahly
-http://selevision9885-i.akamaihd.net/hls/live/219273/98857/master.m3u8 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/711455363762151425/5qB3kW3y.jpg" group-title="second list",quest arabia
-http://selevision9885-i.akamaihd.net/hls/live/219270/98854/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img13.jpg" group-title="second list",nile family
-http://selevision9883-i.akamaihd.net/hls/live/219249/98833/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Al-Safwah-Orbit_o.jpg" group-title="second list",alsafwa
-http://selevision9878-i.akamaihd.net/hls/live/219133/98785/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg" group-title="second list",saudi 1
-http://selevision9881-i.akamaihd.net/hls/live/219192/98819/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg" group-title="second list",saudi 2
-http://selevision9896-i.akamaihd.net/hls/live/219380/98963/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg" group-title="second list",saudi thaqafya
-http://selevision9885-i.akamaihd.net/hls/live/219271/98855/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ksa%201.jpg" group-title="second list",saudi sport 1
-http://selevision9885-i.akamaihd.net/hls/live/219269/98853/master.m3u8 
-#EXTINF:-1 tvg-logo="http://pallap.com/up/1421327854.jpg" group-title="second list",alresala
-http://selevision9891-i.akamaihd.net/hls/live/219329/98912/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/iqra.jpg" group-title="second list",iqraa
-http://selevision9890-i.akamaihd.net/hls/live/219321/98904/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bahrain.jpg" group-title="second list",bahrain 1
-http://selevision9888-i.akamaihd.net/hls/live/219299/98883/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ennahar%20tv.jpg" group-title="second list",enahar
-http://selevision9887-i.akamaihd.net/hls/live/219290/98874/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/bahrain.jpg" group-title="second list",bahrain en
-http://selevision9886-i.akamaihd.net/hls/live/219278/98862/master.m3u8 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/584330268321812481/IO-bYsa1.jpg" group-title="second list",scop
-http://selevision9885-i.akamaihd.net/hls/live/219272/98856/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/spacetoon.jpg" group-title="second list",spacetoon
-http://selevision9884-i.akamaihd.net/hls/live/219261/98845/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/cartoon%20network.jpg" group-title="second list",cn network
-http://selevision9882-i.akamaihd.net/hls/live/219197/98824/master.m3u8 
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/ajyal.jpg" group-title="second list",ajyal
-http://selevision9881-i.akamaihd.net/hls/live/219191/98818/master.m3u8
+#EXTINF:-1,AlKarma
+http://38.99.146.40:7777/AlKarma.m3u8?user=sgls10455482&session=83abfbf245211c82c5ebf7c8c9356b295858fb9e5dc4faddf2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
 
+#EXTINF:-1,AlKeraza
+http://38.99.146.40:7777/AlKeraza.m3u8?user=sgls10455482&session=90dc8aed2a31ae2d7d68cd6dfa07670785a595972b699a3dd1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
-#EXTINF:-1,ishtar TV
-http://avenuewtv1.srfms.com:2039/live/ishtar/playlist.m3u8
+#EXTINF:-1,ABN
+http://38.99.146.40:7777/ABN.m3u8?user=sgls10455482&session=56d4c5fe9ca9a68979f620031881de913aa664aaaf58f9615b06aa6418dd7baa15b62f1751590ba4&group_id=10455482&ios=0
 
-#EXTINF:-1,alhura
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,ONSport
+http://38.99.146.40:7777/ONSport.m3u8?user=sgls10455482&session=a4353af427160dbabfa72b5606bb53dc11fb9f569a96a49bf2de231e90b4ca4ecf68f1a4d454f10a909c8f1da4522cac&group_id=10455482&ios=0
 
+#EXTINF:-1,DMCSport
+http://38.99.146.40:7777/DMCSport.m3u8?user=sgls10455482&session=36112a7e02dd0a3e73d7cea0825089a4cda327733eb8b5d0d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
-#EXTINF:-1,Libya news
+#EXTINF:-1,Funoon
+http://38.99.146.40:7777/Funoon.m3u8?user=sgls10455482&session=e2de406da35319e059f4ae8b107e65c2d5e10e2b7156567156151628d4fc38c62eaaaaae833da9d7de2a9a15d4e21705&group_id=10455482&ios=0
 
-http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
+#EXTINF:-1,iFilm
+http://38.99.146.40:7777/iFilm.m3u8?user=sgls10455482&session=0614088e76cd4b01d294f518b2be5ff47bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
 
-#EXTINF:-1,alnabaa
-http://46.101.172.110:8081/alnabaatv_source/nabaatv/playlist.m3u8
+#EXTINF:-1,Arryadia
+http://38.99.146.40:7777/Arryadia.m3u8?user=sgls10455482&session=b5797489cfce58c56710d3073b1ea8728c0fdd82acc62fe3d1231ec1612f1a68f4925ec84de05ccdb3da2b0206be5740&group_id=10455482&ios=0
 
-#EXTINF:-1,altanasuh
-
-http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
-
-
-#EXTINF:-1,Libya 218 tv
-http://91.134.145.75/218tv/218tv/index.m3u8
-
-#EXTINF:-1,tayba
-http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8
-#EXTINF:-1,afriqia4
-http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8
-#EXTINF:-1,afriqia3
-http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:-1,afriqia2
-http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1,afriqia1
-http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1,blue nile
-http://plu10.stariptv.co:8888/13315_Blue_NileTv/index.m3u8
-#EXTINF:-1,blue nile backup
-http://216.66.42.38:7777/BlueNile_Med.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://www.livetvswatch.com/uploads/afaq-tv-live-from-iraq.png" group-title="IRAQ" ,afaqtv
-http://212.18.231.213:1935/afaqtv/afaqtv_source/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qow80muqnGQ/default.jpg" group-title="IRAQ" ,NRT Arabiya
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iraqi-website.com/wp-content/uploads/2016/11/photo-2.jpg" group-title="IRAQ" ,Hadath Iraq TV
-http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.msrawytop.com/wp-content/uploads/2014/09/214.jpg" group-title="IRAQ" ,Anb iraq
-http://185.27.116.54:1935/live/anb.stream_360p/chunklist_w163760174.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20forat.jpg" group-title="IRAQ" ,alforat
-http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sumaria.jpg" group-title="IRAQ" group-title="IRAQ" ,Alsumaria
-http://216.66.42.38:7777/Alsumaria_Med.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.alqurtasnews.com/NewsImages/NB086164036087828264798947.jpg" group-title="IRAQ" ,Hounabaghdad
-https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.alqurtasnews.com/NewsImages/NB086164036087828264798947.jpg" group-title="IRAQ" ,Hounabaghdad backup
-http://216.66.42.38:7777/HonaBagdad_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20iraqiya.jpg" group-title="IRAQ" group-title="IRAQ" ,AlIraqiya
-http://216.66.42.38:7777/AlIraqiya_Med.m3u8
-#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rasheed.jpg" group-title="IRAQ" ,AL Rasheed TV
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qow80muqnGQ/default.jpg" group-title="IRAQ" ,NRT Arabiya
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
-
-
-
-
+#EXTINF:-1,Mara7
+http://38.99.146.40:7777/Mara7.m3u8?user=sgls10455482&session=c6de97d15642b9474003e7a508e4208c7bee2740f77fee1eb20f302b73aa7d482e0d28d1971cc53a&group_id=10455482&ios=0
 
