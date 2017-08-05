@@ -1,4 +1,38 @@
 
+
+
+#EXTINF:-1,Zaytoona
+http://tur.casacam.net/LQ-AR-Zaytoona/index.m3u8
+#EXTINF:-1,Nessma
+http://tur.casacam.net/LQ-AR-Nessma-TV/index.m3u8
+#EXTINF:-1,Hannibal
+http://tur.casacam.net/LQ-AR-Hannibal/index.m3u8
+#EXTINF:-1,tunisia nat 1
+http://tur.casacam.net/LQ-AR-Tunisia-Nat1/index.m3u8
+#EXTINF:-1,tunisia nat 2
+http://tur.casacam.net/LQ-AR-Tunisia-Nat2/index.m3u8
+#EXTINF:-1,Tunisia-Nat1
+http://tur.casacam.net/LQ-AR-Tunisia-Nat1/index.m3u8
+#EXTINF:-1,Tunisia nat 2
+http://tur.casacam.net/LQ-AR-Tunisia-Nat2/index.m3u8
+#EXTINF:-1,zaytoona
+http://tur.casacam.net/LQ-AR-Zaytoona/index.m3u8
+#EXTINF:-1,Hannibal
+http://tur.casacam.net/LQ-AR-Hannibal/index.m3u8
+#EXTINF:-1,Nessma
+http://tur.casacam.net/LQ-AR-Nessma-TV/index.m3u8
+#EXTINF:-1,Tamazight
+http://tur.casacam.net/LQ-AR-Tamazight/index.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Tunesia 1" tvg-logo="" group-title="17- Tunisie",Tunesia 1
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/546.ts
@@ -30,15 +64,3 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/554.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Al-Janoubia" tvg-logo="" group-title="17- Tunisie",Al-Janoubia
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/555.ts
 
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Tunisia Nat 1
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/566.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Hannibal
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/179.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:NESSMA
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/229.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR: EL HIWAR ETTOUNSI
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/411.ts
