@@ -1,30 +1,43 @@
-
-
-#EXTINF:-1,SP-BEIN SPORTS 1 HD/FR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/156.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 2 HD/FR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/157.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 1 HD/AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/144.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 2 HD/AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/145.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 3 HD/AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/146.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 4 HD/AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/147.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 5 HD/AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/148.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 6 HD/AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/149.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 7 HD/AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/150.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 8 HD/AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/151.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 9 HD/AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/152.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 10 HD
-httphost://$http-raw=http://173.212.206.199:25461/1/2/153.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 11 HD
-httphost://$http-raw=http://173.212.206.199:25461/1/2/154.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,SP-BEIN SPORTS 12 HD
-httphost://$http-raw=http://173.212.206.199:25461/1/2/155.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTM3U
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS News" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS News
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/682.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS Global" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS Global
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/683.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 1HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/684.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 2HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/685.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 3HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/686.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 4HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 4HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/687.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 5HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 5HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/688.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 6HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 6HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/689.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 7HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 7HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/690.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 8HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 8HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/691.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 9HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 9HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/692.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 10HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 10HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/693.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 11HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 11HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/694.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS 12HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/695.ts
