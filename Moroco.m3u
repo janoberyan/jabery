@@ -35,46 +35,13 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/588.ts
 
 
 
-
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Arriadia 3
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/368.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Arrabiaa 4
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/369.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:2M NAT
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/159.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Maghribia
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/202.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_Tele-Maroc" tvg-logo="" group-title="11- Maroc",MA_Tele-Maroc
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/384.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_Al-Aoula-Inter" tvg-logo="" group-title="11- Maroc",MA_Al-Aoula-Inter
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/385.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_2M-Monde" tvg-logo="" group-title="11- Maroc",MA_2M-Monde
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/386.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_Al-Maghribia" tvg-logo="" group-title="11- Maroc",MA_Al-Maghribia
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/387.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_Medi-1-TV" tvg-logo="" group-title="11- Maroc",MA_Medi-1-TV
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/388.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_Arriadia" tvg-logo="" group-title="11- Maroc",MA_Arriadia
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/390.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_Arrabia" tvg-logo="" group-title="11- Maroc",MA_Arrabia
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/391.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_Assadisa" tvg-logo="" group-title="11- Maroc",MA_Assadisa
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/392.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_Tamazight" tvg-logo="" group-title="11- Maroc",MA_Tamazight
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/389.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MA_SUD24-TV" tvg-logo="" group-title="11- Maroc",MA_SUD24-TV
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/393.ts
+#EXTINF:-1,Assadissa
+http://tur.casacam.net/LQ-AR-Assadissa/index.m3u8
+#EXTINF:-1,2m maroco
+http://tur.casacam.net/LQ-AR-2M-Maroc/index.m3u8
+#EXTINF:-1,Arriadia
+http://tur.casacam.net/LQ-AR-Arriadia/index.m3u8
+#EXTINF:-1,Arriadia
+http://tur.casacam.net/LQ-AR-Arriadia/index.m3u8
+#EXTINF:-1,Arrabia
+http://tur.casacam.net/LQ-AR-Arrabiaa/index.m3u8
