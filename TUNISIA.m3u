@@ -1,3 +1,35 @@
+
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 1" tvg-logo="" group-title="17- Tunisie",Tunesia 1
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/546.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tunesia 2" tvg-logo="" group-title="17- Tunisie",Tunesia 2
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/547.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Tonesna" tvg-logo="" group-title="17- Tunisie",Tonesna
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/548.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Zitouna" tvg-logo="" group-title="17- Tunisie",Zitouna
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/551.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Telvaza" tvg-logo="" group-title="17- Tunisie",Telvaza
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/549.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Nessma" tvg-logo="" group-title="17- Tunisie",Nessma
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/550.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Hannibal" tvg-logo="" group-title="17- Tunisie",Hannibal
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/552.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="El-HiwEttounsi" tvg-logo="" group-title="17- Tunisie",El-HiwEttounsi
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/553.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Attasiaa" tvg-logo="" group-title="17- Tunisie",Attasiaa
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/554.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Janoubia" tvg-logo="" group-title="17- Tunisie",Al-Janoubia
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/555.ts
+
 #EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 #EXTINF:-1,Ar:Tunisia Nat 1
 http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/566.ts
