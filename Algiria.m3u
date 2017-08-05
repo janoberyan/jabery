@@ -1,4 +1,52 @@
 
+
+
+
+#EXTINF:-1,Echorouk-TV
+http://tur.casacam.net/LQ-AR-Echorouk-TV/index.m3u8
+#EXTINF:-1,Echorouk News
+http://tur.casacam.net/LQ-AR-Echorouk-News/index.m3u8
+#EXTINF:-1,Echorouk benna TV
+http://tur.casacam.net/LQ-AR-Echorouk-Benna-TV/index.m3u8
+#EXTINF:-1,Numidia-News
+http://tur.casacam.net/LQ-AR-Numidia-News/index.m3u8
+#EXTINF:-1,Samira
+http://tur.casacam.net/LQ-AR-Samira-TV/index.m3u8
+#EXTINF:-1,Eldjazairia
+http://tur.casacam.net/LQ-AR-El-Djazairia-TV/index.m3u8
+#EXTINF:-1,Dzair tv
+http://tur.casacam.net/LQ-AR-Dzair-TV/index.m3u8
+#EXTINF:-1,Dzair news
+http://tur.casacam.net/LQ-AR-Dzair-News/index.m3u8
+#EXTINF:-1,Elhaddef
+http://tur.casacam.net/LQ-AR-ElHeddaf-TV/index.m3u8
+#EXTINF:-1,samira tv
+http://tur.casacam.net/LQ-AR-Samira-TV/index.m3u8
+#EXTINF:-1,KBC-Algeria
+http://tur.casacam.net/LQ-AR-KBC-Algeria/index.m3u8
+#EXTINF:-1,Dzair-Jannah
+http://tur.casacam.net/LQ-AR-Dzair-Jannah/index.m3u8
+#EXTINF:-1,AlMaghribia
+http://tur.casacam.net/LQ-AR-AlMaghribia/index.m3u8
+#EXTINF:-1,medil
+http://tur.casacam.net/LQ-AR-Medi1/index.m3u8
+#EXTINF:-1,Canal-Algeria
+http://tur.casacam.net/LQ-AR-Canal-Algeria/index.m3u8
+#EXTINF:-1,TV-A3
+http://tur.casacam.net/LQ-AR-TV-A3/index.m3u8
+#EXTINF:-1,TV4
+http://tur.casacam.net/LQ-AR-TV4/index.m3u8
+#EXTINF:-1,TV5
+http://tur.casacam.net/LQ-AR-TV5/index.m3u8
+#EXTINF:-1,Aljazaaria
+http://tur.casacam.net/LQ-AR-Aljazaaria/index.m3u8
+http://tur.casacam.net/LQ-AR-TV-Tamazight/index.m3u8
+#EXTINF:-1,Beur
+http://tur.casacam.net/LQ-AR-Beur/index.m3u8
+
+
+
+
 #EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Samira-Tv" tvg-logo="http://rmd.primatv.club/picon/arabic/Samira_Tv.jpg" group-title="15- Algerie",Samira-Tv
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/556.ts
@@ -72,33 +120,4 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/578.ts
 
 
 
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR:CANAL ALGERIE
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1026.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR: Algerie 5
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1016.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR: Algerie 4
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1015.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR: Algerie 3
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1014.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Echorouk HD TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/219.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Dzair TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/170.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:DZair 24
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1031.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:KBC Algeria
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/251.ts
 
