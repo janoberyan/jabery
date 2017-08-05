@@ -1,3 +1,29 @@
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_1.jpg" group-title="12- MBC",mbc1
+http://tur.casacam.net/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_2.jpg" group-title="12- MBC",mbc2
+http://tur.casacam.net/LQ-AR-MBC2/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_3.jpg" group-title="12- MBC",mbc3
+http://tur.casacam.net/LQ-AR-MBC3/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_4.jpg" group-title="12- MBC",mbc4
+http://tur.casacam.net/LQ-AR-MBC4/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_ACTION.jpg" group-title="12- MBC",MBC-Action
+http://tur.casacam.net/LQ-AR-MBC-Action/index.m3u8
+#EXTINF:-1,mbc max
+http://tur.casacam.net/LQ-AR-MBC-MAX/index.m3u8
+#EXTINF:-1,mbc drama
+http://asno.gcdn.co/mhd-MBC-Drama/index.m3u8
+#EXTINF:-1,mbc masr
+http://tur.casacam.net/LQ-AR-MBC-MASR/index.m3u8
+#EXTINF:-1,mbc masr 2
+http://tur.casacam.net/LQ-AR-MBC-Masr2/index.m3u8
+#EXTINF:-1,mbc bollywood
+http://tur.casacam.net/LQ-AR-MBC-Bollywood/index.m3u8
+
+
+
 #EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_1.jpg" group-title="12- MBC",MBC 1
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/477.ts
@@ -57,24 +83,3 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/494.ts
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/495.ts
 
 
-
-#EXTINF:-1,mbc1
-http://tur.casacam.net/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,mbc2
-http://tur.casacam.net/LQ-AR-MBC2/index.m3u8
-#EXTINF:-1,mbc3
-http://tur.casacam.net/LQ-AR-MBC3/index.m3u8
-#EXTINF:-1,mbc4
-http://tur.casacam.net/LQ-AR-MBC4/index.m3u8
-#EXTINF:-1,MBC-Action
-http://tur.casacam.net/LQ-AR-MBC-Action/index.m3u8
-#EXTINF:-1,mbc max
-http://tur.casacam.net/LQ-AR-MBC-MAX/index.m3u8
-#EXTINF:-1,mbc drama
-http://asno.gcdn.co/mhd-MBC-Drama/index.m3u8
-#EXTINF:-1,mbc masr
-http://tur.casacam.net/LQ-AR-MBC-MASR/index.m3u8
-#EXTINF:-1,mbc masr 2
-http://tur.casacam.net/LQ-AR-MBC-Masr2/index.m3u8
-#EXTINF:-1,mbc bollywood
-http://tur.casacam.net/LQ-AR-MBC-Bollywood/index.m3u8
