@@ -1,64 +1,115 @@
 
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 
-#EXTINF:-1,Ar:alsharqiya News
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1398.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:ALSHARQIYA
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/183.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AL SHARQIYA
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/99.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Sumaria
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/296.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:ALFORAT
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/64.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:TOYOR Al Iraq
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/374.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:AL Hurra Iraq
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1045.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Iraq Future TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/189.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Iraqia TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/71.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Al Iraqiya News
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/70.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Hona Baghdad
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/243.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Dijlah TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1293.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:BAGHDAD TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/185.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:AL Hurra Iraq
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1045.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:AL ARABY TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/61.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR: ZWEINA BALADNA
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1040.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:AL HAQEQA AL DAWLIAH
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/95.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Al Rasheed
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/94.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:AL RAHMA
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/92.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:AL RAFIDAIN TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/91.ts
-
+#EXTINF:-1,AR-AlSharqiya
+http://tur.casacam.net/LQ-AR-AlSharqiya/index.m3u8
+#EXTINF:-1,AlSharqiya news
+http://tur.casacam.net/LQ-AR-AlSharqiya-News/index.m3u8
+#EXTINF:-1,sumaria
+http://tur.casacam.net/LQ-AR-Sumaria/index.m3u8
+#EXTINF:-1,dijlah
+http://tur.casacam.net/LQ-AR-Dijlah/index.m3u8
+#EXTINF:-1,ANB
+http://tur.casacam.net/LQ-AR-ANB/index.m3u8
+#EXTINF:-1,Iraqia-Education
+http://tur.casacam.net/LQ-AR-Iraqia-Education/index.m3u8
+#EXTINF:-1,alforat
+http://tur.casacam.net/LQ-AR-AlForat/index.m3u8
+#EXTINF:-1,iraqia
+http://tur.casacam.net/LQ-AR-Iraqia/index.m3u8
+#EXTINF:-1,AlRafiden
+http://tur.casacam.net/LQ-AR-AlRafiden/index.m3u8
+#EXTINF:-1,Alrasheed
+http://tur.casacam.net/LQ-AR-AlRasheed/index.m3u8
+#EXTINF:-1,beladi
+http://tur.casacam.net/LQ-AR-Beladi/index.m3u8
+#EXTINF:-1,Hona baghdad
+http://tur.casacam.net/LQ-AR-Hona-Baghdad/index.m3u8
+#EXTINF:-1,Karbala
+http://tur.casacam.net/LQ-AR-Karbala/index.m3u8
+#EXTINF:-1,samaraa
+http://tur.casacam.net/LQ-AR-Samaraa/index.m3u8
+#EXTINF:-1,Iraq future
+http://tur.casacam.net/LQ-AR-Iraq-Future/index.m3u8
+#EXTINF:-1,ALmasalah
+http://tur.casacam.net/LQ-AR-AlMasalah/index.m3u8
+#EXTINF:-1,ALmasar
+http://tur.casacam.net/LQ-AR-AlMasar/index.m3u8
+#EXTINF:-1,Almawsleya
+http://tur.casacam.net/LQ-AR-AlMawsleya/index.m3u8
+#EXTINF:-1,Baghdad
+http://tur.casacam.net/LQ-AR-Baghdad-TV/index.m3u8
+#EXTINF:-1,Karbala
+http://tur.casacam.net/LQ-AR-Karbala/index.m3u8
+#EXTINF:-1,marjyat2
+http://tur.casacam.net/LQ-AR-Marjyat2/index.m3u8
+#EXTINF:-1,ahvaz
+http://tur.casacam.net/LQ-AR-Ahvaz-TV/index.m3u8
+#EXTINF:-1,Alsirat
+http://tur.casacam.net/LQ-AR-AlSirat/index.m3u8
+#EXTINF:-1,alanbar
+http://tur.casacam.net/LQ-AR-Alanbar/index.m3u8
+#EXTINF:-1,Alanwar
+http://tur.casacam.net/LQ-AR-AlAnwar/index.m3u8
+#EXTINF:-1,Anwar2
+http://tur.casacam.net/LQ-AR-Anwar2/index.m3u8
+#EXTINF:-1,Alrafiden
+http://tur.casacam.net/LQ-AR-AlRafiden/index.m3u8
+#EXTINF:-1,TURkManeli
+http://tur.casacam.net/LQ-AR-Turkmeneli/index.m3u8
+#EXTINF:-1,AlTurkmenia
+http://tur.casacam.net/LQ-AR-AlTurkmenia-TV/index.m3u8
+#EXTINF:-1,Manhaj
+http://tur.casacam.net/LQ-AR-Manhaj/index.m3u8
+#EXTINF:-1,Asia
+http://tur.casacam.net/LQ-AR-Asia-TV/index.m3u8
+#EXTINF:-1,Alqamar
+http://tur.casacam.net/LQ-AR-AlQamar/index.m3u8
+#EXTINF:-1,faloja
+http://tur.casacam.net/LQ-AR-AlFalloja/index.m3u8
+#EXTINF:-1,Taleaa
+http://tur.casacam.net/LQ-AR-AlTaleaa-TV/index.m3u8
+#EXTINF:-1,Almadi
+http://tur.casacam.net/LQ-AR-AlMahdi/index.m3u8
+#EXTINF:-1,Alkazimy
+http://tur.casacam.net/LQ-AR-AlKazimy/index.m3u8
+#EXTINF:-1,Alnaujaba
+http://tur.casacam.net/LQ-AR-AlNaujaba/index.m3u8
+#EXTINF:-1,Alnaeem
+http://tur.casacam.net/LQ-AR-AlNaeem/index.m3u8
+#EXTINF:-1,Aletijah
+http://tur.casacam.net/LQ-AR-AlEtejah/index.m3u8
+#EXTINF:-1,Beladi
+http://tur.casacam.net/LQ-AR-Beladi/index.m3u8
+#EXTINF:-1,ANB
+http://tur.casacam.net/LQ-AR-ANB/index.m3u8
+#EXTINF:-1,Alnajef
+http://tur.casacam.net/LQ-AR-AlNajef/index.m3u8
+#EXTINF:-1,Walayah
+http://tur.casacam.net/LQ-AR-AlWalayah/index.m3u8
+#EXTINF:-1,shatharat
+http://tur.casacam.net/LQ-AR-AlShatharat/index.m3u8
+#EXTINF:-1,Naynawa alghad
+http://tur.casacam.net/LQ-AR-Naynawa-Al-Ghad/index.m3u8
+#EXTINF:-1,Alsalam
+http://tur.casacam.net/LQ-AR-Al-Salam-TV/index.m3u8
+#EXTINF:-1,alghadeer
+http://tur.casacam.net/LQ-AR-AlGadeer/index.m3u8
+#EXTINF:-1,Almasirah
+http://tur.casacam.net/LQ-AR-Al-Masirah/index.m3u8
+#EXTINF:-1,Alwalaa
+http://tur.casacam.net/LQ-AR-AlWalaa-TV/index.m3u8
+#EXTINF:-1,Wesal tv
+http://tur.casacam.net/LQ-AR-Wesal-TV/index.m3u8
+#EXTINF:-1,Ishtar
+http://tur.casacam.net/LQ-AR-Ishtar/index.m3u8
+#EXTINF:-1,ANB
+http://tur.casacam.net/LQ-AR-ABN/index.m3u8
+#EXTINF:-1,Anb Assyrian
+http://tur.casacam.net/LQ-AR-ANB-Assyrian/index.m3u8
+#EXTINF:-1,Aqila TV
+http://tur.casacam.net/LQ-AR-Aqila-TV/index.m3u8
+#EXTINF:-1,AlMaaref
+http://tur.casacam.net/LQ-AR-AlMaaref-TV/index.m3u8
+#EXTINF:-1,Kawther
+http://tur.casacam.net/LQ-AR-AlKawthar/index.m3u8
 
