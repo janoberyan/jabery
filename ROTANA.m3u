@@ -1,19 +1,14 @@
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Rotana Music
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/285.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Rotana Masriya
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/284.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Rotana Khalijiah
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/283.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Rotana Clip
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/282.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Rotana Classic
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/281.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Rotana Cinema EGY
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/280.ts
 
+
+#EXTINF:-1,Rotana aflam
+http://tur.casacam.net/LQ-AR-Rotana-Aflam/index.m3u8
+#EXTINF:-1,Rotana cinema
+http://tur.casacam.net/LQ-AR-Rotana-Cinema/index.m3u8
+#EXTINF:-1,Rotana classic
+http://tur.casacam.net/LQ-AR-Rotana-Classic/index.m3u8
+#EXTINF:-1,Rotana-Clip
+http://tur.casacam.net/LQ-AR-Rotana-Clip/index.m3u8
+#EXTINF:-1,rotana masriya
+http://tur.casacam.net/LQ-AR-Rotana-Masriya/index.m3u8
+#EXTINF:-1,Rotana music
+http://tur.casacam.net/LQ-AR-Rotana-Music/index.m3u8
