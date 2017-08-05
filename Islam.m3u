@@ -1,4 +1,32 @@
 
+
+#EXTINF:-1,Time quraan
+http://tur.casacam.net/LQ-AR-Time-Quraan/index.m3u8
+#EXTINF:-1,Makah tv
+http://tur.casacam.net/LQ-AR-Makah-TV/index.m3u8
+#EXTINF:-1,TV-Coran
+http://tur.casacam.net/LQ-AR-TV-Coran/index.m3u8
+#EXTINF:-1,ALResala
+http://tur.casacam.net/LQ-AR-Al-Resalah/index.m3u8
+#EXTINF:-1,iqraa
+http://tur.casacam.net/LQ-AR-Iqraa/index.m3u8
+#EXTINF:-1,Alafasy
+http://tur.casacam.net/LQ-AR-Al-Afasy/index.m3u8
+#EXTINF:-1,Resalah
+http://tur.casacam.net/LQ-AR-Al-Resalah/index.m3u8
+#EXTINF:-1,Iqraa
+http://tur.casacam.net/LQ-AR-Iqraa/index.m3u8
+#EXTINF:-1,Almajd3
+http://tur.casacam.net/LQ-AR-AlMajd3/index.m3u8
+#EXTINF:-1,Tv Quran
+http://tur.casacam.net/LQ-AR-TV-Coran/index.m3u8
+#EXTINF:-1,Saudi-Quran
+http://tur.casacam.net/LQ-AR-Saudi-Quraan/index.m3u8
+
+
+
+
+
 #EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al Majd" tvg-logo="" group-title="20- Islam",Al Majd
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/545.ts
@@ -20,42 +48,3 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/542.ts
 #EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="IQRAA" tvg-logo="" group-title="20- Islam",IQRAA
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/541.ts
-
-
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1388.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Almajd Quran
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1389.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Almajd Hadith
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1390.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Almajd Dal Radio Kids
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1383.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Almajd 01
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1388.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:ALKITAB TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1347.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:ALASSEMA 2
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1401.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Assalamu Alayka Tv
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1356.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:AL RAHMA
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/92.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Al Nas
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/89.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Iqraa TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1457.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Saudi Quran
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/385.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Saudi Sunnah
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/386.ts
