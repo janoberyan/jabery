@@ -59,19 +59,23 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/495.ts
 
 
 
-#EXTINF:-1,MBC 1-AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/703.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,MBC 2-AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/705.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,MBC 4-AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/704.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,MBC ACTION-AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/702.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,MBC BOLLYWOOD-AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/700.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,MBC DRAMA-AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/707.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,MBC MASAR-AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/708.m3u8$http-refferer=http://173.212.206.199:25461/
-#EXTINF:-1,MBC MAX-AR
-httphost://$http-raw=http://173.212.206.199:25461/1/2/706.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc1
+http://tur.casacam.net/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc2
+http://tur.casacam.net/LQ-AR-MBC2/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc3
+http://tur.casacam.net/LQ-AR-MBC3/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc4
+http://tur.casacam.net/LQ-AR-MBC4/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",MBC-Action
+http://tur.casacam.net/LQ-AR-MBC-Action/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc max
+http://tur.casacam.net/LQ-AR-MBC-MAX/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc drama
+http://asno.gcdn.co/mhd-MBC-Drama/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc masr
+http://tur.casacam.net/LQ-AR-MBC-MASR/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc masr 2
+http://tur.casacam.net/LQ-AR-MBC-Masr2/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc bollywood
+http://tur.casacam.net/LQ-AR-MBC-Bollywood/index.m3u8
