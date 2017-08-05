@@ -58,24 +58,23 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/495.ts
 
 
 
-
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc1
+#EXTINF:-1,mbc1
 http://tur.casacam.net/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc2
+#EXTINF:-1,mbc2
 http://tur.casacam.net/LQ-AR-MBC2/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc3
+#EXTINF:-1,mbc3
 http://tur.casacam.net/LQ-AR-MBC3/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc4
+#EXTINF:-1,mbc4
 http://tur.casacam.net/LQ-AR-MBC4/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",MBC-Action
+#EXTINF:-1,MBC-Action
 http://tur.casacam.net/LQ-AR-MBC-Action/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc max
+#EXTINF:-1,mbc max
 http://tur.casacam.net/LQ-AR-MBC-MAX/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc drama
+#EXTINF:-1,mbc drama
 http://asno.gcdn.co/mhd-MBC-Drama/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc masr
+#EXTINF:-1,mbc masr
 http://tur.casacam.net/LQ-AR-MBC-MASR/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc masr 2
+#EXTINF:-1,mbc masr 2
 http://tur.casacam.net/LQ-AR-MBC-Masr2/index.m3u8
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="" tvg-name=""  group-title="mbc",mbc bollywood
+#EXTINF:-1,mbc bollywood
 http://tur.casacam.net/LQ-AR-MBC-Bollywood/index.m3u8
