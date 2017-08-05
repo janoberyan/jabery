@@ -1,3 +1,20 @@
+
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Baraeem" tvg-logo="" group-title="19- Enfant Arabic",Baraeem
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/524.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CN Arabia" tvg-logo="" group-title="19- Enfant Arabic",CN Arabia
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/523.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Space Toon" tvg-logo="" group-title="19- Enfant Arabic",Space Toon
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/527.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Toyour Baby" tvg-logo="" group-title="19- Enfant Arabic",Toyour Baby
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/526.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Toyour ElJannah" tvg-logo="" group-title="19- Enfant Arabic",Toyour ElJannah
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/525.ts
+
 #EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 #EXTINF:-1,Ar:WANASAH
 http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/313.ts
