@@ -1,23 +1,26 @@
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 
-#EXTINF:-1,Ar:LDC
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/198.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:LBC SAT
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/197.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:MTV Lebanon
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/227.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Lebanon TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1330.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:OTV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/272.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Future TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/177.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR: ALAAN TV News
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1012.ts
 
+#EXTINF:-1,aljadeed
+http://tur.casacam.net/LQ-AR-Al-Jadeed/index.m3u8
+#EXTINF:-1,alkarama
+http://tur.casacam.net/LQ-AR-AlKarma/index.m3u8
+#EXTINF:-1,manar
+http://tur.casacam.net/LQ-AR-Manar/index.m3u8
+#EXTINF:-1,Future-TV
+http://tur.casacam.net/LQ-AR-Future-TV/index.m3u8
+#EXTINF:-1,Heya
+http://tur.casacam.net/LQ-AR-Heya/index.m3u8
+#EXTINF:-1,LDC
+http://tur.casacam.net/LQ-AR-LDC/index.m3u8
+#EXTINF:-1,OTV
+http://tur.casacam.net/LQ-AR-OTV/index.m3u8
+#EXTINF:-1,MTV-Lebanon
+http://tur.casacam.net/LQ-AR-MTV-Lebanon/index.m3u8
+#EXTINF:-1,Noursat
+http://tur.casacam.net/LQ-AR-Noursat/index.m3u8
+#EXTINF:-1,Mariam TV
+http://tur.casacam.net/LQ-AR-Mariam-TV/index.m3u8
+#EXTINF:-1,Sat7-Arabic
+http://tur.casacam.net/LQ-AR-Sat7-Arabic/index.m3u8
+#EXTINF:-1,Nour alsharq
+http://tur.casacam.net/LQ-AR-Nour-AlSharq/index.m3u8
