@@ -1,61 +1,24 @@
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:ON Sport
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1487.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Oman Sports HD
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1362.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Kuwait Sports HD
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1425.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Jordan Sports
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1448.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Dubai Sports 1
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1411.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Dubai Sport 3
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1419.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Bahrain Sport 2
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1395.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Bahrain Sport 1
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1394.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,OSN:ALKASS SPORT 2 HD
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/414.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,OSN:ALKASS SPORT 1 HD
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/413.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Saudi Sport
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/289.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Nile Sport
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/234.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:DUBAI Sports 4
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/167.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:DUBAI RACING 2
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/166.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Kuwait Sport
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/140.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Afr:Neelain Sport
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1367.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:on Sports HD
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1321.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,OSN Sports1
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/270.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,OSN Sports 2
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/324.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 
-#EXTINF:-1,Ar:DMC Sports
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1481.ts
+
+#EXTINF:-1,mbc sport1
+http://tur.casacam.net/LQ-AR-MBC-SPORT1/index.m3u8
+#EXTINF:-1,mbc sport2
+http://tur.casacam.net/LQ-AR-MBC-SPORT2/index.m3u8
+#EXTINF:-1,mbc sport3
+http://tur.casacam.net/LQ-AR-MBC-SPORT3/index.m3u8
+#EXTINF:-1,Nile sport
+http://tur.casacam.net/LQ-AR-Nile-Sport/index.m3u8
+#EXTINF:-1,nile sport
+http://tur.casacam.net/LQ-AR-Nile-Sport/index.m3u8
+#EXTINF:-1,alnahar sport
+http://tur.casacam.net/LQ-AR-AlNahar-Sport/index.m3u8
+#EXTINF:-1,iraqyia sport
+http://tur.casacam.net/LQ-AR-Iraqia-Sport/index.m3u8
+#EXTINF:-1,Iraqia sport
+http://tur.casacam.net/LQ-AR-Iraqia-Sport/index.m3u8
+#EXTINF:-1,jordan sport
+http://tur.casacam.net/LQ-AR-Jordan-Sport/index.m3u8
+#EXTINF:-1,Sudan sport
+http://tur.casacam.net/LQ-AR-Sudan-Sport/index.m3u8
+#EXTINF:-1,saudi sport
+http://tur.casacam.net/LQ-AR-Saudi-Sport/index.m3u8
