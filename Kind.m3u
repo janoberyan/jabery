@@ -15,39 +15,63 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/526.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Toyour ElJannah" tvg-logo="" group-title="19- Enfant Arabic",Toyour ElJannah
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/525.ts
 
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:WANASAH
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/313.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:UNRWA
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/312.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:TOYOR AL JANAH
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/307.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:SPACETOON ARABIC
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/290.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:MODY KIDS
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/224.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Majid Kids
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/55.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Bein Baraem HD
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/141.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Cartoon Network ARABIA
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/149.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Ajial Kids
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/365.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Toyor Baby
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1414.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:SEMSEM Kids
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/196.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR:AL Resala
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1057.ts
+
+#EXTINF:-1,ajyal
+http://tur.casacam.net/LQ-AR-Ajyal/index.m3u8
+#EXTINF:-1,baraem
+http://tur.casacam.net/LQ-AR-Baraem-Europe/index.m3u8
+#EXTINF:-1,Jeem europe
+http://tur.casacam.net/LQ-AR-Jeem-Europe/index.m3u8
+#EXTINF:-1,Karameesh
+http://tur.casacam.net/LQ-AR-Karameesh/index.m3u8
+#EXTINF:-1,sat 7 kids
+http://tur.casacam.net/LQ-AR-Sat7-Kids/index.m3u8
+#EXTINF:-1,spacetoon
+http://tur.casacam.net/LQ-AR-Spacetoon/index.m3u8
+#EXTINF:-1,tayba TV
+http://tur.casacam.net/LQ-AR-Tayba-TV/index.m3u8
+#EXTINF:-1,Toyor Aljanah
+http://tur.casacam.net/LQ-AR-Toyor-Al-Janah/index.m3u8
+#EXTINF:-1,Toyor baby
+http://tur.casacam.net/LQ-AR-Toyor-Baby/index.m3u8
+#EXTINF:-1,Toyor aljanah
+http://tur.casacam.net/LQ-AR-Toyor-Al-Janah/index.m3u8
+#EXTINF:-1,Toyor baby
+http://tur.casacam.net/LQ-AR-Toyor-Baby/index.m3u8
+#EXTINF:-1,Toyor aliraq
+http://tur.casacam.net/LQ-AR-Toyor-Al-Iraq/index.m3u8
+#EXTINF:-1,spacetoon
+http://tur.casacam.net/LQ-AR-Spacetoon/index.m3u8
+#EXTINF:-1,Majid kids
+http://tur.casacam.net/LQ-AR-Majid-Kids/index.m3u8
+#EXTINF:-1,Cartoon-Network
+http://tur.casacam.net/LQ-AR-Cartoon-Network/index.m3u8
+#EXTINF:-1,Baraem
+http://tur.casacam.net/LQ-AR-Baraem/index.m3u8
+#EXTINF:-1,baraem europe
+http://tur.casacam.net/LQ-AR-Baraem-Europe/index.m3u8
+#EXTINF:-1,Karamesh
+http://tur.casacam.net/LQ-AR-Karameesh/index.m3u8
+#EXTINF:-1,Taha
+http://tur.casacam.net/LQ-AR-Taha/index.m3u8
+#EXTINF:-1,Atfal
+http://tur.casacam.net/LQ-AR-Atfal-TV/index.m3u8
+#EXTINF:-1,Ajyal
+http://tur.casacam.net/LQ-AR-Ajyal/index.m3u8
+#EXTINF:-1,Jeem Europe
+http://tur.casacam.net/LQ-AR-Jeem-Europe/index.m3u8
+#EXTINF:-1,Hod hod arabic
+http://tur.casacam.net/LQ-AR-HodHod-Arabic/index.m3u8
+#EXTINF:-1,koky kids
+http://tur.casacam.net/LQ-AR-Kokky-Kids/index.m3u8
+#EXTINF:-1,Semsem
+http://tur.casacam.net/LQ-AR-SemSem/index.m3u8
+#EXTINF:-1,Mouja tv
+http://tur.casacam.net/LQ-AR-Mouja-TV/index.m3u8
+#EXTINF:-1,Nour Kids
+http://tur.casacam.net/LQ-AR-Nour-Kids/index.m3u8
+#EXTINF:-1,Taha
+http://tur.casacam.net/LQ-AR-Taha/index.m3u8
+#EXTINF:-1,Toyor-Baby
+http://tur.casacam.net/LQ-AR-Toyor-Baby/index.m3u8
+
