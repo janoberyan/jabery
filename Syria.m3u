@@ -1,29 +1,20 @@
 
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:SYRIA NEWS
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1338.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Sama Syria TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1341.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Ma3akom Syria
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1417.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Syria Drama
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1295.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR:SYRIA ALOULA
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1041.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR:NABD SYRIA TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1052.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR:SYRIA TV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1292.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Al Ekhbariya Syria
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/151.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar: Halab Today
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/102.ts
 
+#EXTINF:-1,Halab-Today
+http://tur.casacam.net/LQ-AR-Halab-Today/index.m3u8
+#EXTINF:-1,Noor alsham
+http://tur.casacam.net/LQ-AR-Nour-Alsham/index.m3u8
+#EXTINF:-1,sama tv
+http://tur.casacam.net/LQ-AR-Sama-TV/index.m3u8
+#EXTINF:-1,Suryoyo-SAT
+http://tur.casacam.net/LQ-AR-Suryoyo-SAT/index.m3u8
+#EXTINF:-1,Syria
+http://tur.casacam.net/LQ-AR-SYRIA/index.m3u8
+#EXTINF:-1,syria drama
+http://tur.casacam.net/LQ-AR-Syria-Drama/index.m3u8
+#EXTINF:-1,syria education
+http://tur.casacam.net/LQ-AR-Syrian-Education/index.m3u8
+#EXTINF:-1,syria medical
+http://tur.casacam.net/LQ-AR-Syria-Medical/index.m3u8
+#EXTINF:-1,Sham FM
+http://tur.casacam.net/LQ-AR-Sham-FM/index.m3u8
