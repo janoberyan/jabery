@@ -1,3 +1,36 @@
+
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Al Ekhbariya" tvg-logo="" group-title="21- News Arab",Al Ekhbariya
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/538.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Alarabiyia" tvg-logo="" group-title="21- News Arab",Alarabiyia
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/533.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Alhadath" tvg-logo="" group-title="21- News Arab",Alhadath
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/532.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="" group-title="21- News Arab",Aljazeera
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/531.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BBC" tvg-logo="" group-title="21- News Arab",BBC
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/536.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Euronews" tvg-logo="" group-title="21- News Arab",Euronews
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/537.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="France 24" tvg-logo="" group-title="21- News Arab",France 24
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/534.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="Skynews" tvg-logo="" group-title="21- News Arab",Skynews
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/535.ts
+
+
+
+
+
+
+
+
 #EXTVLCOPT:http-user-agent=Free-IPTV#V2.
 
 #EXTINF:-1,Ar:Al Jazeera News
