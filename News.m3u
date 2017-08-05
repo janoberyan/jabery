@@ -1,4 +1,64 @@
 
+
+
+#EXTINF:-1,Al-Arabiya
+http://tur.casacam.net/LQ-AR-Al-Arabiya/index.m3u8
+#EXTINF:-1,Al-Jazeera
+http://tur.casacam.net/LQ-AR-Al-Jazeera/index.m3u8
+#EXTINF:-1,alarabiya
+http://tur.casacam.net/LQ-AR-Al-Arabiya/index.m3u8
+#EXTINF:-1,alarabiya hadath
+http://tur.casacam.net/LQ-AR-Al-Arabiya-Hadath/index.m3u8
+#EXTINF:-1,aljazeera
+http://tur.casacam.net/LQ-AR-Al-Jazeera/index.m3u8
+#EXTINF:-1,aljazeera mubasher
+http://tur.casacam.net/LQ-AR-AlJazeera-Mubasher/index.m3u8
+#EXTINF:-1,aljazeera documentry
+http://tur.casacam.net/LQ-AR-AlJazeera-Documentary/index.m3u8
+#EXTINF:-1,alhurra
+http://tur.casacam.net/LQ-AR-Alhurra/index.m3u8
+#EXTINF:-1,alhurra iraq
+http://tur.casacam.net/LQ-AR-Alhurra-Iraq/index.m3u8
+#EXTINF:-1,France 24
+http://tur.casacam.net/LQ-AR-France24/index.m3u8
+#EXTINF:-1,BBc arabic
+http://tur.casacam.net/LQ-AR-BBC-Arabic/index.m3u8
+#EXTINF:-1,I24news
+http://tur.casacam.net/LQ-AR-I24-News/index.m3u8
+#EXTINF:-1,Alaan
+http://tur.casacam.net/LQ-AR-Alaan-Tv/index.m3u8
+#EXTINF:-1,Ann
+http://tur.casacam.net/LQ-AR-ANN/index.m3u8
+#EXTINF:-1,DW arabic
+http://tur.casacam.net/LQ-AR-DW-Arabic/index.m3u8
+#EXTINF:-1,CNBC 
+http://tur.casacam.net/LQ-AR-CNBC-Arabiya/index.m3u8
+#EXTINF:-1,AlAraby news
+http://tur.casacam.net/LQ-AR-AlAraby/index.m3u8
+#EXTINF:-1,bbc arabic
+http://tur.casacam.net/LQ-AR-BBC-Arabic/index.m3u8
+#EXTINF:-1,France24
+http://tur.casacam.net/LQ-AR-France24/index.m3u8
+#EXTINF:-1,Orent news
+http://tur.casacam.net/LQ-AR-Orient/index.m3u8
+#EXTINF:-1,Palestine
+http://tur.casacam.net/LQ-AR-Palestine/index.m3u8
+#EXTINF:-1,alalam
+http://tur.casacam.net/LQ-AR-AlAlam/index.m3u8
+#EXTINF:-1,Palestine-News
+http://tur.casacam.net/LQ-AR-Palestine-News/index.m3u8
+#EXTINF:-1,alalam news
+http://tur.casacam.net/LQ-AR-AlAlam/index.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Al Ekhbariya" tvg-logo="" group-title="21- News Arab",Al Ekhbariya
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/538.ts
@@ -23,66 +83,5 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/534.ts
 #EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Skynews" tvg-logo="" group-title="21- News Arab",Skynews
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/535.ts
-
-
-
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-
-#EXTINF:-1,Ar:Al Jazeera News
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/78.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:AlJazeera Mubasher
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/75.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Aljazeera en
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/73.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Al Jazeera Arabic News  HD
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/17.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Al Arabiya News
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1454.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR: Sky News Arabia
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1055.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:Al ahdath
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1054.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR:BBC Arabia
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1032.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:alsharqiya News
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1398.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:AL ALAM
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1366.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:RT Arabic
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/387.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,Ar:FRANCE 24 Arabic HD
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1021.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-
-#EXTINF:-1,AR: ALAAN TV News
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1012.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-#EXTINF:-1,AR:Al-KhabarTV
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/1020.ts
-#EXTVLCOPT:http-user-agent=Free-IPTV#V2.
-
-#EXTINF:-1,Ar:Rudaw
-http://srvt.topiptv.org/live/acc...............................................New..-Ver........................................................../InOgmz4YAD/286.ts
-
-
-
-
-
 
 
