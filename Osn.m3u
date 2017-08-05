@@ -79,3 +79,37 @@ http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/515.ts
 #EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="Yahala Shabab HD" tvg-logo="http://rmd.primatv.club/picon/arabic/OSN_Yahala_Shabab_HD.jpg" group-title="05- OSN",Yahala Shabab HD
 http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/517.ts
+
+
+
+
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Movies 1HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/672.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 2HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Movies 2HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/673.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 3HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Movies 3HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/674.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 4HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Movies 4HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/675.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN JUNIOR" tvg-logo="" group-title="04- beIN MOVIES",BeIN JUNIOR
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/676.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Jeem_HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Jeem_HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/677.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Baraim_HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Baraim_HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/678.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN GROUMMET" tvg-logo="" group-title="04- beIN MOVIES",BeIN GROUMMET
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/679.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fatafeat" tvg-logo="" group-title="04- beIN MOVIES",BeIN Fatafeat
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/680.ts
+#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Discovery HD" tvg-logo="" group-title="04- beIN MOVIES",BeIN Discovery HD
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/681.ts
