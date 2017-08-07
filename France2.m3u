@@ -1,231 +1,433 @@
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINSPORTS 1HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/653.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINSPORTS 2HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/654.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINSPORTS 3HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/655.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 04HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/656.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 05HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/657.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 06HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/658.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 07HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/659.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 08HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/660.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 09HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/661.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 10HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/662.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 1HD Fr" tvg-logo="" group-title="10- Canal+Sports",SFR Sport 1HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/663.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 2HD Fr" tvg-logo="" group-title="10- Canal+Sports",SFR Sport 2HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/664.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 3HD Fr" tvg-logo="" group-title="10- Canal+Sports",SFR Sport 3HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/665.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="" group-title="06- TNT France",TF1
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/646.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="06- TNT France",M6
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/647.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 2" tvg-logo="" group-title="06- TNT France",FRANCE 2
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/648.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 3" tvg-logo="" group-title="06- TNT France",FRANCE 3
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/649.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 4" tvg-logo="" group-title="06- TNT France",FRANCE 4
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/650.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 5" tvg-logo="" group-title="06- TNT France",FRANCE 5
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/651.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE O" tvg-logo="" group-title="06- TNT France",FRANCE O
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/652.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="" group-title="07- Canal+Cinema",ACTION
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/645.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL" tvg-logo="" group-title="07- Canal+Cinema",CANAL
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/627.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL CINEMA" tvg-logo="" group-title="07- Canal+Cinema",CANAL CINEMA
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/628.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL DECALE" tvg-logo="" group-title="07- Canal+Cinema",CANAL DECALE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/631.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL FAMILY" tvg-logo="" group-title="07- Canal+Cinema",CANAL FAMILY
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/630.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL SERIES" tvg-logo="" group-title="07- Canal+Cinema",CANAL SERIES
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/629.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="COMEDIE" tvg-logo="" group-title="07- Canal+Cinema",COMEDIE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/640.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE CLASSIC" tvg-logo="" group-title="07- Canal+Cinema",CINE CLASSIC
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/639.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE CLUB" tvg-logo="" group-title="07- Canal+Cinema",CINE CLUB
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/638.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE EMOTION" tvg-logo="" group-title="07- Canal+Cinema",CINE EMOTION
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/637.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FAMIZ" tvg-logo="" group-title="07- Canal+Cinema",CINE FAMIZ
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/636.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FRISSON" tvg-logo="" group-title="07- Canal+Cinema",CINE FRISSON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/635.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FX" tvg-logo="" group-title="07- Canal+Cinema",CINE FX
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/634.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE POLAR" tvg-logo="" group-title="07- Canal+Cinema",CINE POLAR
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/633.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE PREMIER" tvg-logo="" group-title="07- Canal+Cinema",CINE PREMIER
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/632.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="OCS CHOC" tvg-logo="" group-title="07- Canal+Cinema",OCS CHOC
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/644.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="OCS CITY" tvg-logo="" group-title="07- Canal+Cinema",OCS CITY
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/643.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="OCS GEANT" tvg-logo="" group-title="07- Canal+Cinema",OCS GEANT
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/642.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="OCS MAX" tvg-logo="" group-title="07- Canal+Cinema",OCS MAX
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/641.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="USHUAIA TV" tvg-logo="" group-title="08- Canal+Culture",USHUAIA TV
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/619.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="SEASON" tvg-logo="" group-title="08- Canal+Culture",SEASON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/620.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL-GEO" tvg-logo="" group-title="08- Canal+Culture",NATIONAL-GEO
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/621.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="NAT-GEO-WILD" tvg-logo="" group-title="08- Canal+Culture",NAT-GEO-WILD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/622.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVRY-SCI" tvg-logo="" group-title="08- Canal+Culture",DISCOVRY-SCI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/623.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVRY" tvg-logo="" group-title="08- Canal+Culture",DISCOVRY
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/624.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CHASSE PECHE" tvg-logo="" group-title="08- Canal+Culture",CHASSE PECHE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/625.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX" tvg-logo="" group-title="08- Canal+Culture",ANIMAUX
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/626.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL SPORT" tvg-logo="" group-title="10- Canal+Sports",CANAL SPORT
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/616.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FOOT 24" tvg-logo="" group-title="10- Canal+Sports",FOOT 24
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/617.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT" tvg-logo="" group-title="10- Canal+Sports",INFOSPORT
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/618.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ITELE" tvg-logo="" group-title="11- Canal+Info",ITELE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/614.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="LCI" tvg-logo="" group-title="11- Canal+Info",LCI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/615.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CARTON NET" tvg-logo="" group-title="09- Canal+Enfants",CARTON NET
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/599.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="" group-title="09- Canal+Enfants",BOOMERANG
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/600.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="PIWI" tvg-logo="" group-title="09- Canal+Enfants",PIWI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/601.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="TELETOON" tvg-logo="" group-title="09- Canal+Enfants",TELETOON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/602.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="TIJI" tvg-logo="" group-title="09- Canal+Enfants",TIJI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/603.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL J" tvg-logo="" group-title="09- Canal+Enfants",CANAL J
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/604.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="" group-title="09- Canal+Enfants",BOING
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/605.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="GULLI" tvg-logo="" group-title="09- Canal+Enfants",GULLI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/606.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MANGAS" tvg-logo="" group-title="09- Canal+Enfants",MANGAS
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/607.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="" group-title="09- Canal+Enfants",DISNEY XD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/608.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="09- Canal+Enfants",DISNEY JUNIOR
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/609.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CINEMA" tvg-logo="" group-title="09- Canal+Enfants",DISNEY CINEMA
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/610.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="09- Canal+Enfants",DISNEY CHANNEL
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/611.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON JUNIOR" tvg-logo="" group-title="09- Canal+Enfants",NICKELODEON JUNIOR
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/612.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="" group-title="09- Canal+Enfants",NICKELODEON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/613.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 1" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_1.jpg" group-title="07- Canal+Cinema",ALACARTE 1
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/589.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 2" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_2.jpg" group-title="07- Canal+Cinema",ALACARTE 2
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/590.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 3" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_3.jpg" group-title="07- Canal+Cinema",ALACARTE 3
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/591.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 4" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_4.jpg" group-title="07- Canal+Cinema",ALACARTE 4
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/592.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 5" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_5.jpg" group-title="07- Canal+Cinema",ALACARTE 5
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/593.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 1" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_1.jpg" group-title="07- Canal+Cinema",CANAL PLAY 1
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/594.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 2" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_2.jpg" group-title="07- Canal+Cinema",CANAL PLAY 2
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/595.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 3" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_3.jpg" group-title="07- Canal+Cinema",CANAL PLAY 3
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/596.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 4" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_4.jpg" group-title="07- Canal+Cinema",CANAL PLAY 4
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/597.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 5" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_5.jpg" group-title="07- Canal+Cinema",CANAL PLAY 5
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/598.ts
+#EXTM3U
+#EXTINF:-1,TF1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7664.ts
+#EXTINF:-1,TF1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4636.ts
+#EXTINF:-1,M6 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7665.ts
+#EXTINF:-1,M6
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4637.ts
+#EXTINF:-1,FRANCE 2 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7666.ts
+#EXTINF:-1,FRANCE 2
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4638.ts
+#EXTINF:-1,FRANCE 3 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7667.ts
+#EXTINF:-1,FRANCE 3
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4639.ts
+#EXTINF:-1,FRANCE 4 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7668.ts
+#EXTINF:-1,FRANCE 4
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2997.ts
+#EXTINF:-1,FRANCE 5 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7739.ts
+#EXTINF:-1,FRANCE 5
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2998.ts
+#EXTINF:-1,FRANCE O
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2999.ts
+#EXTINF:-1,RTS UN HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7674.ts
+#EXTINF:-1,RTS UN
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3517.ts
+#EXTINF:-1,RTS DEUX HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7675.ts
+#EXTINF:-1,RTS DEUX
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3364.ts
+#EXTINF:-1,CSTAR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7740.ts
+#EXTINF:-1,CSTAR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4644.ts
+#EXTINF:-1,CANAL8 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7669.ts
+#EXTINF:-1,CANAL8
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4641.ts
+#EXTINF:-1,NRJ12 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7673.ts
+#EXTINF:-1,NRJ12
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4645.ts
+#EXTINF:-1,6TER HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5472.ts
+#EXTINF:-1,6TER
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6922.ts
+#EXTINF:-1,NUMERO 23 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4646.ts
+#EXTINF:-1,NUMERO 23
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6924.ts
+#EXTINF:-1,HD1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4648.ts
+#EXTINF:-1,HD1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7751.ts
+#EXTINF:-1,CHERIE 25 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4647.ts
+#EXTINF:-1,CHERIE 25
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7752.ts
+#EXTINF:-1,W9 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7672.ts
+#EXTINF:-1,W9
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4643.ts
+#EXTINF:-1,TMC HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7671.ts
+#EXTINF:-1,TMC
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2992.ts
+#EXTINF:-1,NT1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7670.ts
+#EXTINF:-1,NT1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4642.ts
+#EXTINF:-1,RTL9 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2993.ts
+#EXTINF:-1,RTL9
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6923.ts
+#EXTINF:-1,AB1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7780.ts
+#EXTINF:-1,AB1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7782.ts
+#EXTINF:-1,AB3 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9213.ts
+#EXTINF:-1,AB3
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9214.ts
+#EXTINF:-1,TV BREIZH HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4649.ts
+#EXTINF:-1,TV BREIZH
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6921.ts
+#EXTINF:-1,13EME RUE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5464.ts
+#EXTINF:-1,13EME RUE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6875.ts
+#EXTINF:-1,SYFY HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5463.ts
+#EXTINF:-1,SYFY FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6874.ts
+#EXTINF:-1,ELLE GIRL HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5476.ts
+#EXTINF:-1,ELLE GIRL
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6894.ts
+#EXTINF:-1,COMEDIE+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5486.ts
+#EXTINF:-1,COMEDIE+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6893.ts
+#EXTINF:-1,VIVOLTA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9204.ts
+#EXTINF:-1,CANAL+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5378.ts
+#EXTINF:-1,CANAL+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6868.ts
+#EXTINF:-1,CANAL+ FAMILY HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5379.ts
+#EXTINF:-1,CANAL+ FAMILY
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7776.ts
+#EXTINF:-1,CANAL+ DECALE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5380.ts
+#EXTINF:-1,CANAL+ DECALE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6891.ts
+#EXTINF:-1,CANAL+ SERIES HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5377.ts
+#EXTINF:-1,CANAL+ SERIES
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6870.ts
+#EXTINF:-1,CANAL+ CINEMA HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5381.ts
+#EXTINF:-1,CANAL+ CINEMA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7775.ts
+#EXTINF:-1,CANAL+ SPORT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5376.ts
+#EXTINF:-1,CANAL+ SPORT
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6871.ts
+#EXTINF:-1,CINE+ CLUB HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5388.ts
+#EXTINF:-1,CINE+ CLUB
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6880.ts
+#EXTINF:-1,CINE+  PREMIER HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5392.ts
+#EXTINF:-1,CINE+  PREMIER
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6881.ts
+#EXTINF:-1,CINE+ FRISSON HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5467.ts
+#EXTINF:-1,CINE+ FRISSON
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6882.ts
+#EXTINF:-1,CINE+ EMOTION HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3355.ts
+#EXTINF:-1,CINE+ EMOTION
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7781.ts
+#EXTINF:-1,CINE+ FAMIZ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9212.ts
+#EXTINF:-1,CINE+ FAMIZ
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9215.ts
+#EXTINF:-1,CINE+ CLASSIC HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5402.ts
+#EXTINF:-1,CINE+ CLASSIC
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6883.ts
+#EXTINF:-1,CINE FX HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5481.ts
+#EXTINF:-1,CINE FX
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6884.ts
+#EXTINF:-1,CINE POLAR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5482.ts
+#EXTINF:-1,CINE POLAR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6885.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5404.ts
+#EXTINF:-1,PARAMOUNT CHANNE FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7777.ts
+#EXTINF:-1,TCM CINEMA HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5406.ts
+#EXTINF:-1,TCM CINEMA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6920.ts
+#EXTINF:-1,ACTION HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5409.ts
+#EXTINF:-1,ACTION
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6895.ts
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5372.ts
+#EXTINF:-1,E! ENTERTAINMENT FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6896.ts
+#EXTINF:-1,DISCOVERY HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5391.ts
+#EXTINF:-1,DISCOVERY FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6886.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5405.ts
+#EXTINF:-1,DISCOVERY SCIENCE FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6887.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5367.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6876.ts
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5389.ts
+#EXTINF:-1,NATIONAL GEO WILD FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6877.ts
+#EXTINF:-1,PLANETE AE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5415.ts
+#EXTINF:-1,PLANETE AE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6888.ts
+#EXTINF:-1,PLANETE CI HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5485.ts
+#EXTINF:-1,PLANETE CI
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6889.ts
+#EXTINF:-1,CRIME DISTRICT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9282.ts
+#EXTINF:-1,CRIME DISTRICT
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9283.ts
+#EXTINF:-1,SCIENCES & VIE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5417.ts
+#EXTINF:-1,SCIENCES & VIE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6890.ts
+#EXTINF:-1,USHUAIA TV HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5390.ts
+#EXTINF:-1,USHUAIA TV
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6897.ts
+#EXTINF:-1,VOYAGE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5403.ts
+#EXTINF:-1,VOYAGE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7773.ts
+#EXTINF:-1,HISTOIRE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5418.ts
+#EXTINF:-1,HISTOIRE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7772.ts
+#EXTINF:-1,PLANETE+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7785.ts
+#EXTINF:-1,PLANETE+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7788.ts
+#EXTINF:-1,RMC DECOUVERTE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5468.ts
+#EXTINF:-1,RMC DECOUVERTE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6919.ts
+#EXTINF:-1,SEASON HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5419.ts
+#EXTINF:-1,SEASON
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7774.ts
+#EXTINF:-1,TREK HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3150.ts
+#EXTINF:-1,TREK
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7784.ts
+#EXTINF:-1,ANIMAUX HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7779.ts
+#EXTINF:-1,ANIMAUX
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7783.ts
+#EXTINF:-1,BEINSPORT 1 FR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4633.ts
+#EXTINF:-1,BEINSPORT 1 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7753.ts
+#EXTINF:-1,BEINSPORT 2 FR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4634.ts
+#EXTINF:-1,BEINSPORT 2 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7754.ts
+#EXTINF:-1,BEINSPORT 3 FR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4635.ts
+#EXTINF:-1,BEINSPORT 3 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7755.ts
+#EXTINF:-1,BEINSPORT FR MAX 4
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7766.ts
+#EXTINF:-1,BEINSPORT FR MAX 5
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7767.ts
+#EXTINF:-1,BEINSPORT FR MAX 6
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7768.ts
+#EXTINF:-1,BEINSPORT FR MAX 7
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7769.ts
+#EXTINF:-1,SFR SPORT 1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5366.ts
+#EXTINF:-1,SFR SPORT 1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6872.ts
+#EXTINF:-1,SFR SPORT 2 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5365.ts
+#EXTINF:-1,SFR SPORT 2
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6873.ts
+#EXTINF:-1,SFR SPORT 3 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9216.ts
+#EXTINF:-1,SFR SPORT 3
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9218.ts
+#EXTINF:-1,SFR SPORT 5 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9217.ts
+#EXTINF:-1,SFR SPORT 5
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9219.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5371.ts
+#EXTINF:-1,EUROSPORT 1 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6878.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5370.ts
+#EXTINF:-1,EUROSPORT  2 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6879.ts
+#EXTINF:-1,INFOSPORT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5487.ts
+#EXTINF:-1,INFOSPORT
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6892.ts
+#EXTINF:-1,L'EQUIPE 21 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3579.ts
+#EXTINF:-1,L'EQUIPE 21
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7790.ts
+#EXTINF:-1,GOLF+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5469.ts
+#EXTINF:-1,GOLF+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6906.ts
+#EXTINF:-1,GOLF CHANNEL HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5396.ts
+#EXTINF:-1,GOLF CHANNEL
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6907.ts
+#EXTINF:-1,EXTREME SPORTS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5490.ts
+#EXTINF:-1,EQUIDIA LIFE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5466.ts
+#EXTINF:-1,EQUIDIA LIFE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6908.ts
+#EXTINF:-1,EQUIDIA LIVE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5465.ts
+#EXTINF:-1,EQUIDIA LIVE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6909.ts
+#EXTINF:-1,MCM HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5408.ts
+#EXTINF:-1,MCM
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6902.ts
+#EXTINF:-1,MCM TOP HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3153.ts
+#EXTINF:-1,MCM  TOP
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7789.ts
+#EXTINF:-1,RFM TV HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6866.ts
+#EXTINF:-1,RFM TV
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6904.ts
+#EXTINF:-1,MTV FRANCE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5484.ts
+#EXTINF:-1,MTV FRANCE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6905.ts
+#EXTINF:-1,TRACE URBAN HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5470.ts
+#EXTINF:-1,TRACE URBAN
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6903.ts
+#EXTINF:-1,TRACE TROPICAL
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9293.ts
+#EXTINF:-1,MEZZO LIVE HD FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9203.ts
+#EXTINF:-1,MEZZO LIVE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9208.ts
+#EXTINF:-1,MEZZO FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9205.ts
+#EXTINF:-1,DISNEY JUNIOR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5462.ts
+#EXTINF:-1,DISNEY JUNIOR FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6898.ts
+#EXTINF:-1,DISNEY XD HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5461.ts
+#EXTINF:-1,DISNEY XD FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6899.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5393.ts
+#EXTINF:-1,DISNEY CHANNEL FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6900.ts
+#EXTINF:-1,DISNEY CINEMA HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5395.ts
+#EXTINF:-1,DISNEY CINEMA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6901.ts
+#EXTINF:-1,BOOMERANG HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5407.ts
+#EXTINF:-1,BOOMERANG FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6910.ts
+#EXTINF:-1,BOING HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5410.ts
+#EXTINF:-1,BOING FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6911.ts
+#EXTINF:-1,CANAL J HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5416.ts
+#EXTINF:-1,CANAL J
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6912.ts
+#EXTINF:-1,PIWI+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5479.ts
+#EXTINF:-1,PIWI+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6913.ts
+#EXTINF:-1,TELETOON+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5480.ts
+#EXTINF:-1,TELETOON+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6914.ts
+#EXTINF:-1,NICKELODEON HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5477.ts
+#EXTINF:-1,NICKELODEON FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6915.ts
+#EXTINF:-1,NICKELODEON JUNIOR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5478.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3508.ts
+#EXTINF:-1,CARTOON   NETWORK
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7787.ts
+#EXTINF:-1,TIJI HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5488.ts
+#EXTINF:-1,TIJI
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6916.ts
+#EXTINF:-1,GULLI HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3003.ts
+#EXTINF:-1,GULLI
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9202.ts
+#EXTINF:-1,MANGA HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5394.ts
+#EXTINF:-1,MANGA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6917.ts
+#EXTINF:-1,GAME ONE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5483.ts
+#EXTINF:-1,GAME ONE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6918.ts
+#EXTINF:-1,LCI HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5497.ts
+#EXTINF:-1,FRANCE INFO
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9200.ts
+#EXTINF:-1,BFM TV HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7676.ts
+#EXTINF:-1,BFM TV
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9275.ts
+#EXTINF:-1,BFM BUSINESS HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9285.ts
+#EXTINF:-1,BFM BUSINESS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9286.ts
+#EXTINF:-1,CANAL NEWS HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9206.ts
+#EXTINF:-1,CANAL NEWS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9210.ts
+#EXTINF:-1,EURONEWS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9284.ts
+#EXTINF:-1,TV5  MONDE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7770.ts
+#EXTINF:-1,ARTE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7771.ts
+#EXTINF:-1,ARTE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9276.ts
+#EXTINF:-1,FRANCE24
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9288.ts
+#EXTINF:-1,I24 NEWS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9289.ts
