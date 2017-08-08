@@ -32,3 +32,9 @@ http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
 #EXTVLCOPT:http-user-agent=sammaadsdsss
 #EXTINF:-1,للنت الضعيف
 http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/289.ts
+
+
+
+#EXTINF:-1,سيرفر موبي كورة 720p
+http://bl.movcast.tv:1935/icoolkora/bein1_source/playlist.m3u8?wowzatokenendtime=1502282435108&wowzatokenstarttime=0&wowzatokenhash=IzZfkffw14QyXPi7dV9qTdx-WntMtTLWFxlwLKjU92U=
+
