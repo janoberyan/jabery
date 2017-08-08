@@ -37,4 +37,7 @@ http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/289.ts
 
 #EXTINF:-1,سيرفر موبي كورة 720p
 http://bl.movcast.tv:1935/icoolkora/bein1_source/playlist.m3u8?wowzatokenendtime=1502282435108&wowzatokenstarttime=0&wowzatokenhash=IzZfkffw14QyXPi7dV9qTdx-WntMtTLWFxlwLKjU92U=
+#EXTINF:-1,سيرفر موبي كورة 360p
+http://bl.movcast.tv:1935/icoolkora/bein1_360p/playlist.m3u8?wowzatokenendtime=1502282758445&wowzatokenstarttime=0&wowzatokenhash=J3qhTLD9-JcmBdWc-52dcPfQvLGQHlBp0WF_tZVkfkY=
+
 
