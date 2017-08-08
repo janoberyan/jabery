@@ -1,4 +1,26 @@
-
-#EXTINF:-1,متوقف هذا السيرفر حاليا
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/499.ts
-
+#EXTINF:-1,----- BienSport --------
+http://ipsatpro.com:8000/live/294545/294545/185.m3u8
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://ipsatpro.com:8000/live/294545/294545/169.m3u8
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://ipsatpro.com:8000/live/294545/294545/168.m3u8
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://ipsatpro.com:8000/live/294545/294545/167.m3u8
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://ipsatpro.com:8000/live/294545/294545/166.m3u8
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://ipsatpro.com:8000/live/294545/294545/165.m3u8
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://ipsatpro.com:8000/live/294545/294545/164.m3u8
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://ipsatpro.com:8000/live/294545/294545/163.m3u8
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://ipsatpro.com:8000/live/294545/294545/162.m3u8
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://ipsatpro.com:8000/live/294545/294545/161.m3u8
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://ipsatpro.com:8000/live/294545/294545/160.m3u8
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ipsatpro.com:8000/live/294545/294545/159.m3u8
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ipsatpro.com:8000/live/294545/294545/170.m3u8
