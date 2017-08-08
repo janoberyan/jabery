@@ -3,13 +3,13 @@
 
 #EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_1.jpg" group-title="12- MBC",mbc1
 http://tur.casacam.net/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_2.jpg" group-title="12- MBC",mbc2
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_2.jpg" group-title="12- MBC",mbc2
 http://tur.casacam.net/LQ-AR-MBC2/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_3.jpg" group-title="12- MBC",mbc3
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_3.jpg" group-title="12- MBC",mbc3
 http://tur.casacam.net/LQ-AR-MBC3/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_4.jpg" group-title="12- MBC",mbc4
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_4.jpg" group-title="12- MBC",mbc4
 http://tur.casacam.net/LQ-AR-MBC4/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_ACTION.jpg" group-title="12- MBC",MBC-Action
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-Action" tvg-logo="http://rmd.primatv.club/picon/arabic/MBC_ACTION.jpg" group-title="12- MBC",MBC-Action
 http://tur.casacam.net/LQ-AR-MBC-Action/index.m3u8
 #EXTINF:-1,mbc max
 http://tur.casacam.net/LQ-AR-MBC-MAX/index.m3u8
