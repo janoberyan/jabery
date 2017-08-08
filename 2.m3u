@@ -43,3 +43,15 @@ http://bl.movcast.tv:1935/icoolkora/bein1_360p/playlist.m3u8?wowzatokenendtime=1
 http://bl.movcast.tv:1935/icoolkora/bein1_240p/playlist.m3u8?wowzatokenendtime=1502282845814&wowzatokenstarttime=0&wowzatokenhash=z0Vuas-C9ETpcI4ZxHSpk3FY-WiBErG6Lb9GKsL_Cyg=
 
 
+#EXTINF:-1,=====القنوات الاجنبية====
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35548/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,TRT1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8
+#EXTINF:-1,TRT1
+http://www.iptvsaga.com/play/tv3/0030.m3u8
+#EXTINF:-1,antena3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
+
