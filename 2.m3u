@@ -42,8 +42,7 @@ http://bl.movcast.tv:1935/icoolkora/bein1_360p/playlist.m3u8?wowzatokenendtime=1
 #EXTINF:-1,سيرفر موبي كورة 240p
 http://bl.movcast.tv:1935/icoolkora/bein1_240p/playlist.m3u8?wowzatokenendtime=1502282845814&wowzatokenstarttime=0&wowzatokenhash=z0Vuas-C9ETpcI4ZxHSpk3FY-WiBErG6Lb9GKsL_Cyg=
 
-#EXTINF:-1,سيرفر الامبراطورية
-http://93.174.93.84:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgMjowMzowNCBQTSZoYXNoX3ZhbHVlPTRGdmRhTzNTOVV0V05PanhQa05MUHc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS42OS4yMzkmc3RybV9sZW49MTM=
+
 #EXTINF:-1,سيرفر يلا شوت متعدد الجودات
 https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?go=1&keepalive=yes&playlist_type=DVR&playlist_duration=30&ei=IO6JWfqNDcvEVfaAkOAP&key=yt6&sparams=ei,gcr,go,id,ip,ipbits,itag,playlist_type,ratebypass,requiressl,source,expire&ipbits=0&expire=1502233216&dover=8&id=lqr8pyVMiPA.1&ip=41.209.112.49&requiressl=yes&signature=14171FA883AA3240CA9A8D91CA2684D748C7B545.8446770726460877D2A689174E5A808B4C70223A&source=yt_live_broadcast&itag=0&manifest_duration=30&ratebypass=yes&gcr=sd&cpn=NfW_v7zSsNTRVU_R&ibw=1660000&c=MWEB&cver=1.20170803&ptk=youtube_none&pltype=contentugclive
 #EXTINF:-1,سيرفر يلا شوت دقة ضعيفة
