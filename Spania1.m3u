@@ -1,166 +1,345 @@
-#EXTINF:-1,=======>   Spain   <=======
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/712.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: #0 HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/650.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: 24 Horas
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/643.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: 40 TV
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/642.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: A&E
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/651.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: AMC
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/652.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: AXN HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/653.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: BARCA TV
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/641.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: beIN LaLIga 1 (event only)
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/649.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: beIN LaLIga 2 (event only)
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/648.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: beIN LaLIga 3 (event only)
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/647.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Bein Liga HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/654.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Bein Sport HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/655.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Boing
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/656.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Canal  ESTRENOS HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/684.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: CANAL COCINA
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/657.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Canal De Las Estrellas
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/637.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: CANAL DECASA
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/658.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Canal SERIES HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/659.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Caza y pesca
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/660.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Clan Tve
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/661.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/640.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: COSMO HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/662.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Crimen Investigation
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/635.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: DISCOVERY
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/694.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/695.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: DISNEY XD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/697.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: DIVINITY
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/663.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Energy
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/646.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: EUROSPORT 1
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/645.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: EUROSPORT 2
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/644.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: FDF
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/664.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: FOX HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/698.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: GOL Tv
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/665.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: HOLLYWOOD HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/701.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: IBERALIA
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/666.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: LA 2 HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/667.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: La Liga BAR HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/668.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: MEGA
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/704.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: MTV ESPANA
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/634.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: NEOX
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/669.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: NICKELODEON HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/670.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Nonstop People
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/639.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: NOVA
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/671.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: ODISEA HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/672.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: PANDA
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/673.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: Paramount
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/636.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: SYFY
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/674.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES: TNT
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/675.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:ANTENA 3 HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/676.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:AXN WHITE HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/677.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:CALLE 13 HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/678.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:CANAL  ACTION HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/679.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  COMEDIA HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/680.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  DCINE HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/681.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  DEPORTES 2 HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/682.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  DEPORTES HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/683.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  FUTBOL HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/685.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  GOLF HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/686.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  LIGA 2 HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/687.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  LIGA HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/688.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  SERIES XTRA HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/689.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  TOROS HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/690.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:Canal  XTRA HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/691.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:CUATRO HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/692.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:DISCOVERY CHANNEL HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/693.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:DISNEY JUNIOR
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/696.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:FOX LIFE HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/699.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:HISTORIA
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/700.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:LA 1 HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/702.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:LA SEXTA HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/703.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:NAT GEO WILD HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/705.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/706.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:NICK Jr
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/707.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:TCM HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/708.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:TELECINCO HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/709.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:TELEDEPORTE HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/710.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES:VIAJAR HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/711.m3u8$http-refferer=http://localhost
-#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/638.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES : MOVISTAR F1 HD
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/630.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES : MOVISTAR FORMULA 1
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/631.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES : movistar Futbol
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/632.m3u8$http-refferer=http://localhost
-#EXTINF:-1,ES : MOVISTAR MOTOGP
-httphost://$http-raw=http://163.172.89.151:25461/live/1/2/633.m3u8$http-refferer=http://localhost
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.insideworldfootball.com/app/uploads/2011/04/Telecinco_logo.jpg" tvg-name="telecinco"  group-title="SPAIN",telecinco
+http://edga18.vergol.pw/live/telecinco/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Betis TV"  group-title="SPAIN",Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="13 TV"  group-title="SPAIN",13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SEVILLA FC"  group-title="SPAIN",SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Logos tv"  group-title="SPAIN",Logos tv
+http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTV Ceuta"  group-title="SPAIN",RTV Ceuta
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal 3/24"  group-title="SPAIN",Canal 3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ribera TV"  group-title="SPAIN",Ribera TV
+http://orion.comelson.es/ribera/livestream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV3"  group-title="SPAIN",TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b1296000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ribera TV"  group-title="SPAIN",Ribera TV
+http://orion.comelson.es/ribera/livestream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ondamex"  group-title="SPAIN",Ondamex
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTVCE"  group-title="SPAIN",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sevilla FC TV"  group-title="SPAIN",Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="servitarot"  group-title="SPAIN",servitarot
+http://87.106.232.7:1935/live/servitarot/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tac 12 TV"  group-title="SPAIN",Tac 12 TV
+http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="IB3 TV"  group-title="SPAIN",IB3 TV
+https://www.youtube.com/watch?v=vYphzdRAbhA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ceuta TV"  group-title="SPAIN",Ceuta TV
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="canal blau"  group-title="SPAIN",canal blau
+http://cdns724ste1010.shooowit.net/blautvlive/smil:blautv.smil/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="antena3"  group-title="SPAIN",antena3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="25 tv"  group-title="SPAIN",25 tv
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="telemadrid"  group-title="SPAIN",telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="aragon tv"  group-title="SPAIN",aragon tv
+http://cdn.s6.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="A1"  group-title="SPAIN",A1
+http://109.236.91.150:8080/a1skandinavijaHDpro/palylist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RT ESP"  group-title="SPAIN",RT ESP
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Telekanal Noviy Mir"  group-title="SPAIN",Telekanal Noviy Mir
+http://stream.studio360.tv/nw/nw_abr/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Antena 3 Series"  group-title="SPAIN",Antena 3 Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="canal dioc"  group-title="SPAIN",canal dioc
+http://178.32.53.254/rtvd/livestream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Mega TV"  group-title="SPAIN",Mega TV
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Real madrid TV"  group-title="SPAIN",Real madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="El Correo de Andaluc?­a"  group-title="SPAIN",El Correo de Andaluc?­a
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="teletoledo"  group-title="SPAIN",teletoledo
+http://cast.streamingconnect.tv:1935/teletoledo/teletoledo/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Esplugues TV"  group-title="SPAIN",Esplugues TV
+http://cdns724ste1010.shooowit.net/etvlive/smil:live.smil/manifest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CYL TV"  group-title="SPAIN",CYL TV
+http://cdn.s6.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Costa"  group-title="SPAIN",Canal Costa
+http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Extremadura TV"  group-title="SPAIN",Extremadura TV
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Parlamento"  group-title="SPAIN",Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Parlamento"  group-title="SPAIN",Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Terrassa"  group-title="SPAIN",Canal Terrassa
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cetelmon TV"  group-title="SPAIN",Cetelmon TV
+http://84.232.79.194:8090/cetelmontv.flv
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ETB Sat"  group-title="SPAIN",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Galicia TV"  group-title="SPAIN",Galicia TV
+http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Hit TV"  group-title="SPAIN",Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Huesca TV"  group-title="SPAIN",Huesca TV
+rtmp://streaming2.radiohuesca.com/live/huescatv
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="IB3 Global"  group-title="SPAIN",IB3 Global
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Im??s TV"  group-title="SPAIN",Im??s TV
+http://cls.imastv.es/imastv/livestream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="La Sexta"  group-title="SPAIN",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-b.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Lancelot TV"  group-title="SPAIN",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MarTV"  group-title="SPAIN",MarTV
+http://k4.usastreams.com/CableLatino/martv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Marbella TV"  group-title="SPAIN",Marbella TV
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Navarra TV"  group-title="SPAIN",Navarra TV
+http://cdn.s6.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/manifest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Onda Azul TV"  group-title="SPAIN",Onda Azul TV
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ondamex TV"  group-title="SPAIN",Ondamex TV
+rtmp://videos.ondamex.com:1940/live/myStream
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="love world asia"  group-title="SPAIN",love world asia
+http://109.236.91.150:8080/crkva3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="love world mena"  group-title="SPAIN",love world mena
+http://109.236.91.150:8080/crkva2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="a1 balkan tv"  group-title="SPAIN",a1 balkan tv
+http://109.236.91.150:8080/a1balkantvmahirtvyahsat/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="a1 espan"  group-title="SPAIN",a1 espan
+http://109.236.91.150:8080/a1espanmahiryahsattv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="a1 shiptare"  group-title="SPAIN",a1 shiptare
+http://109.236.91.150:8080/a1shiptarealb11/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="a1 internaciona HD"  group-title="SPAIN",a1 internaciona HD
+http://109.236.91.150:8080/a1internacionalHDmahiyahsat/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="a1 islam"  group-title="SPAIN",a1 islam
+http://109.236.91.150:8080/a1islamjedanislam/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="a1 exclusive"  group-title="SPAIN",a1 exclusive
+http://109.236.91.150:8080/a1skandinavijaHDpro/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="a1 sports"  group-title="SPAIN",a1 sports
+http://109.236.91.150:8080/A1Sport/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="cuatro"  group-title="SPAIN",cuatro
+http://edga10.vergol.pw/live/cuatro/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV3 CAT"  group-title="SPAIN",TV3 CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV3 324"  group-title="SPAIN",TV3 324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV3 33"  group-title="SPAIN",TV3 33
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTV Vida"  group-title="SPAIN",RTV Vida
+http://178.32.53.254:1935/radiovida/livestream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV de Girona"  group-title="SPAIN",TV de Girona
+http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV del Bergued? "  group-title="SPAIN",TV del Bergued? 
+http://cdns724ste1010.shooowit.net/berguedatvlive/amlst:live/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tarot Visi?³n TV"  group-title="SPAIN",Tarot Visi?³n TV
+http://cast.streamingconnect.tv:1935/tarotvision/tarotvision/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Taroteame TV"  group-title="SPAIN",Taroteame TV
+http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TeleElx"  group-title="SPAIN",TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Vall?¨s Oriental"  group-title="SPAIN",Vall?¨s Oriental
+http://cdnlive.shooowit.net/votvlive/smil:live.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="telebilbao"  group-title="SPAIN",telebilbao
+http://cls.todostreaming.eu/telebilbao/restricted/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="miamitv"  group-title="SPAIN",miamitv
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Fox HD ESPA?‘A"  group-title="SPAIN",Fox HD ESPA?‘A
+http://edge5204.livesports.pw/live/verfoxespana247756767558f1/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="canal AXN Espa?±a"  group-title="SPAIN",canal AXN Espa?±a
+http://edge5201.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MOVISTAR SERIES XTRA"  group-title="SPAIN",MOVISTAR SERIES XTRA
+http://edge5203.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MOVISTAR SERIES"  group-title="SPAIN",MOVISTAR SERIES
+http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="LA SEXTA HD"  group-title="SPAIN",LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-b.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="canal Cuatro HD"  group-title="SPAIN",canal Cuatro HD
+http://edge5202.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Antena 3"  group-title="SPAIN",Canal Antena 3
+http://edge5203.livesports.pw/live/verantenatress6d026436dd0/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TVE 1 En"  group-title="SPAIN",TVE 1 En
+http://edge5202.livesports.pw/live/verlaunotelefivegb3264628423ff/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Divinity"  group-title="SPAIN",Canal Divinity
+http://edge5204.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Nova"  group-title="SPAIN",Canal Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CANAL TV 2"  group-title="SPAIN",CANAL TV 2
+http://edge5204.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Bein Sport"  group-title="SPAIN",Canal Bein Sport
+http://edge3505.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal A&E"  group-title="SPAIN",Canal A&E
+http://edge5203.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nick"  group-title="SPAIN",Nick
+http://edge3501.livesports.pw/live/vernickelones9a7699e72b5a/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="odisea"  group-title="SPAIN",odisea
+http://edge5201.livesports.pw/live/verodiseatelef121d54573d3192a6/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Caza y Pesca"  group-title="SPAIN",Caza y Pesca
+http://edge5203.livesports.pw/live/vercazaypesca65b3f60d9f53/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BOING"  group-title="SPAIN",BOING
+http://edge3501.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nat Geo Wild esp"  group-title="SPAIN",Nat Geo Wild esp
+http://edge3503.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Mega"  group-title="SPAIN",Canal Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="fox life es"  group-title="SPAIN",fox life es
+http://edge2.telesport.pw/live/foxlife/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="discovery"  group-title="SPAIN",discovery
+http://edge5201.livesports.pw/live/verdiscoverychannelff096b/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="natgeo es"  group-title="SPAIN",natgeo es
+http://edge5201.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="COCINA"  group-title="SPAIN",COCINA
+http://edge5203.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Canal Plus Toros"  group-title="SPAIN",Canal Plus Toros
+http://edge3501.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="canal crimen"  group-title="SPAIN",canal crimen
+http://edge7.telesport.pw/live//index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PLUS  O"  group-title="SPAIN",PLUS  O
+http://edge3505.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MTV Live Espa?±a"  group-title="SPAIN",MTV Live Espa?±a
+http://edge5204.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="canal historia"  group-title="SPAIN",canal historia
+http://edge6.telesport.pw/live/historia/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="La 1"  group-title="SPAIN",La 1
+http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="La 2"  group-title="SPAIN",La 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tdp"  group-title="SPAIN",Tdp
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24h"  group-title="SPAIN",24h
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24h plus"  group-title="SPAIN",24h plus
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="canal plus series"  group-title="SPAIN",canal plus series
+http://edge13.verliga.me/live/plusseries/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="M deportes1"  group-title="SPAIN",M deportes1
+http://edge15.verliga.me/live/plusdeportes/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="M deportes1"  group-title="SPAIN",M deportes1
+http://edge15.verliga.me/live/plusdeportes/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="plus estrenos"  group-title="SPAIN",plus estrenos
+http://edge5.telesport.pw/live/plusestrenos/179.ts
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="plus accion"  group-title="SPAIN",plus accion
+http://edge6.telesport.pw/live/plusaccion/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="d cine"  group-title="SPAIN",d cine
+http://edge1.verliga.club/live/dcine/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="comedia"  group-title="SPAIN",comedia
+http://edge7.verliga.club/live/comedia/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="rcn"  group-title="SPAIN",rcn
+http://edge10.verliga.club/live/rcn/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="winsport"  group-title="SPAIN",winsport
+http://edge9.verliga.pw/live/winsport/index.m3u8
