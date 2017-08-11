@@ -1,43 +1,74 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS News" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS News
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/682.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/756.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS Global" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS Global
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/683.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/684.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/685.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/686.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 4HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 4HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/687.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 5HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 5HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/688.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 6HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 6HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/689.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 7HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 7HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/690.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 8HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 8HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/691.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/755.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 1 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/754.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 1 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/753.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 2 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/752.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 2 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/751.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 3 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/750.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 3 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/749.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 4 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 4 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/748.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 4 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 4 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/747.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 5 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 5 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/746.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 5 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 5 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/745.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 6 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 6 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/744.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 6 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 6 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/743.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 7 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 7 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/742.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 7 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 7 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/741.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 8 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 8 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/740.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 8 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 8 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/739.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 9HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 9HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/692.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 10HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 10HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/693.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 11HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 11HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/694.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS 12HD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/695.ts
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/738.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 9 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 9 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/737.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 10 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 10 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/736.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 10 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 10 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/735.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 11 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 11 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/734.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTS 12 HD" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS 12 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/733.ts
