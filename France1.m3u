@@ -1,231 +1,235 @@
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINSPORTS 1HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/653.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINSPORTS 2HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/654.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINSPORTS 3HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/655.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 04HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/656.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 05HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/657.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 06HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/658.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 07HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/659.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 08HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/660.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 09HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/661.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="10- Canal+Sports",BeINMAX 10HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/662.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 1HD Fr" tvg-logo="" group-title="10- Canal+Sports",SFR Sport 1HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/663.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 2HD Fr" tvg-logo="" group-title="10- Canal+Sports",SFR Sport 2HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/664.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 3HD Fr" tvg-logo="" group-title="10- Canal+Sports",SFR Sport 3HD Fr
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/665.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="" group-title="06- TNT France",TF1
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/646.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="06- TNT France",M6
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/647.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 2" tvg-logo="" group-title="06- TNT France",FRANCE 2
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/648.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 3" tvg-logo="" group-title="06- TNT France",FRANCE 3
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/649.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 4" tvg-logo="" group-title="06- TNT France",FRANCE 4
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/650.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 5" tvg-logo="" group-title="06- TNT France",FRANCE 5
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/651.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE O" tvg-logo="" group-title="06- TNT France",FRANCE O
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/652.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="" group-title="07- Canal+Cinema",ACTION
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/645.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL" tvg-logo="" group-title="07- Canal+Cinema",CANAL
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/627.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL CINEMA" tvg-logo="" group-title="07- Canal+Cinema",CANAL CINEMA
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/628.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL DECALE" tvg-logo="" group-title="07- Canal+Cinema",CANAL DECALE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/631.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL FAMILY" tvg-logo="" group-title="07- Canal+Cinema",CANAL FAMILY
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/630.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL SERIES" tvg-logo="" group-title="07- Canal+Cinema",CANAL SERIES
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/629.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="COMEDIE" tvg-logo="" group-title="07- Canal+Cinema",COMEDIE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/640.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE CLASSIC" tvg-logo="" group-title="07- Canal+Cinema",CINE CLASSIC
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/639.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE CLUB" tvg-logo="" group-title="07- Canal+Cinema",CINE CLUB
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/638.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE EMOTION" tvg-logo="" group-title="07- Canal+Cinema",CINE EMOTION
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/637.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FAMIZ" tvg-logo="" group-title="07- Canal+Cinema",CINE FAMIZ
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/636.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FRISSON" tvg-logo="" group-title="07- Canal+Cinema",CINE FRISSON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/635.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FX" tvg-logo="" group-title="07- Canal+Cinema",CINE FX
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/634.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE POLAR" tvg-logo="" group-title="07- Canal+Cinema",CINE POLAR
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/633.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CINE PREMIER" tvg-logo="" group-title="07- Canal+Cinema",CINE PREMIER
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/632.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="OCS CHOC" tvg-logo="" group-title="07- Canal+Cinema",OCS CHOC
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/644.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="OCS CITY" tvg-logo="" group-title="07- Canal+Cinema",OCS CITY
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/643.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="OCS GEANT" tvg-logo="" group-title="07- Canal+Cinema",OCS GEANT
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/642.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="OCS MAX" tvg-logo="" group-title="07- Canal+Cinema",OCS MAX
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/641.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="USHUAIA TV" tvg-logo="" group-title="08- Canal+Culture",USHUAIA TV
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/619.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="SEASON" tvg-logo="" group-title="08- Canal+Culture",SEASON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/620.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL-GEO" tvg-logo="" group-title="08- Canal+Culture",NATIONAL-GEO
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/621.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="NAT-GEO-WILD" tvg-logo="" group-title="08- Canal+Culture",NAT-GEO-WILD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/622.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVRY-SCI" tvg-logo="" group-title="08- Canal+Culture",DISCOVRY-SCI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/623.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVRY" tvg-logo="" group-title="08- Canal+Culture",DISCOVRY
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/624.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CHASSE PECHE" tvg-logo="" group-title="08- Canal+Culture",CHASSE PECHE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/625.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX" tvg-logo="" group-title="08- Canal+Culture",ANIMAUX
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/626.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL SPORT" tvg-logo="" group-title="10- Canal+Sports",CANAL SPORT
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/616.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="FOOT 24" tvg-logo="" group-title="10- Canal+Sports",FOOT 24
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/617.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT" tvg-logo="" group-title="10- Canal+Sports",INFOSPORT
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/618.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ITELE" tvg-logo="" group-title="11- Canal+Info",ITELE
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/614.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="LCI" tvg-logo="" group-title="11- Canal+Info",LCI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/615.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CARTON NET" tvg-logo="" group-title="09- Canal+Enfants",CARTON NET
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/599.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="" group-title="09- Canal+Enfants",BOOMERANG
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/600.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="PIWI" tvg-logo="" group-title="09- Canal+Enfants",PIWI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/601.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="TELETOON" tvg-logo="" group-title="09- Canal+Enfants",TELETOON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/602.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="TIJI" tvg-logo="" group-title="09- Canal+Enfants",TIJI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/603.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL J" tvg-logo="" group-title="09- Canal+Enfants",CANAL J
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/604.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="" group-title="09- Canal+Enfants",BOING
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/605.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="GULLI" tvg-logo="" group-title="09- Canal+Enfants",GULLI
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/606.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="MANGAS" tvg-logo="" group-title="09- Canal+Enfants",MANGAS
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/607.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="" group-title="09- Canal+Enfants",DISNEY XD
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/608.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="09- Canal+Enfants",DISNEY JUNIOR
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/609.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CINEMA" tvg-logo="" group-title="09- Canal+Enfants",DISNEY CINEMA
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/610.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="09- Canal+Enfants",DISNEY CHANNEL
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/611.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON JUNIOR" tvg-logo="" group-title="09- Canal+Enfants",NICKELODEON JUNIOR
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/612.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="" group-title="09- Canal+Enfants",NICKELODEON
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/613.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 1" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_1.jpg" group-title="07- Canal+Cinema",ALACARTE 1
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/589.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 2" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_2.jpg" group-title="07- Canal+Cinema",ALACARTE 2
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/590.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 3" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_3.jpg" group-title="07- Canal+Cinema",ALACARTE 3
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/591.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 4" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_4.jpg" group-title="07- Canal+Cinema",ALACARTE 4
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/592.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 5" tvg-logo="http://rmd.primatv.club/picon/france/Alacarte_5.jpg" group-title="07- Canal+Cinema",ALACARTE 5
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/593.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 1" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_1.jpg" group-title="07- Canal+Cinema",CANAL PLAY 1
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/594.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 2" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_2.jpg" group-title="07- Canal+Cinema",CANAL PLAY 2
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/595.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 3" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_3.jpg" group-title="07- Canal+Cinema",CANAL PLAY 3
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/596.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 4" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_4.jpg" group-title="07- Canal+Cinema",CANAL PLAY 4
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/597.ts
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 5" tvg-logo="http://rmd.primatv.club/picon/france/Canal_Play_5.jpg" group-title="07- Canal+Cinema",CANAL PLAY 5
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/598.ts
+
+
+
+
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 1HD Fr" tvg-logo="" group-title="09-  Sports France",BeINSPORTS 1HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/704.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="09-  Sports France",BeINSPORTS 2HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/705.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="09-  Sports France",BeINSPORTS 3HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/706.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="09-  Sports France",BeINMAX 04HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/707.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="09-  Sports France",BeINMAX 05HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/708.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="09-  Sports France",BeINMAX 06HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/709.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="09-  Sports France",BeINMAX 07HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/710.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="09-  Sports France",BeINMAX 08HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/711.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="09-  Sports France",BeINMAX 09HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/712.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="09-  Sports France",BeINMAX 10HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/713.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 1HD Fr" tvg-logo="" group-title="09-  Sports France",SFR Sport 1HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/714.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 2HD Fr" tvg-logo="" group-title="09-  Sports France",SFR Sport 2HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/715.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 3HD Fr" tvg-logo="" group-title="09-  Sports France",SFR Sport 3HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/716.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="" group-title="05- TNT France",TF1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/678.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="05- TNT France",M6
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/679.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 2" tvg-logo="" group-title="05- TNT France",FRANCE 2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/680.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 3" tvg-logo="" group-title="05- TNT France",FRANCE 3
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/681.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 4" tvg-logo="" group-title="05- TNT France",FRANCE 4
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/682.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 5" tvg-logo="" group-title="05- TNT France",FRANCE 5
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/683.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE O" tvg-logo="" group-title="05- TNT France",FRANCE O
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/684.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL" tvg-logo="" group-title="06- Canal+Cinema",CANAL
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/685.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL CINEMA" tvg-logo="" group-title="06- Canal+Cinema",CANAL CINEMA
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/686.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL DECALE" tvg-logo="" group-title="06- Canal+Cinema",CANAL DECALE
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/689.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SERIES" tvg-logo="" group-title="06- Canal+Cinema",CANAL SERIES
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/687.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL FAMILY" tvg-logo="" group-title="06- Canal+Cinema",CANAL FAMILY
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/688.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CINE PREMIER" tvg-logo="" group-title="06- Canal+Cinema",CINE PREMIER
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/690.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CINE POLAR" tvg-logo="" group-title="06- Canal+Cinema",CINE POLAR
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/691.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FX" tvg-logo="" group-title="06- Canal+Cinema",CINE FX
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/692.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FRISSON" tvg-logo="" group-title="06- Canal+Cinema",CINE FRISSON
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/693.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FAMIZ" tvg-logo="" group-title="06- Canal+Cinema",CINE FAMIZ
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/694.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CINE EMOTION" tvg-logo="" group-title="06- Canal+Cinema",CINE EMOTION
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/695.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CINE CLUB" tvg-logo="" group-title="06- Canal+Cinema",CINE CLUB
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/696.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CINE CLASSIC" tvg-logo="" group-title="06- Canal+Cinema",CINE CLASSIC
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/697.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="OCS MAX" tvg-logo="" group-title="06- Canal+Cinema",OCS MAX
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/699.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="OCS GEANT" tvg-logo="" group-title="06- Canal+Cinema",OCS GEANT
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/700.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CITY" tvg-logo="" group-title="06- Canal+Cinema",OCS CITY
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/701.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CHOC" tvg-logo="" group-title="06- Canal+Cinema",OCS CHOC
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/702.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="" group-title="06- Canal+Cinema",ACTION
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/703.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDIE" tvg-logo="" group-title="06- Canal+Cinema",COMEDIE
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/698.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX" tvg-logo="" group-title="07- Canal+Culture",ANIMAUX
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/672.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="USHUAIA TV" tvg-logo="" group-title="07- Canal+Culture",USHUAIA TV
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/665.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL-GEO" tvg-logo="" group-title="07- Canal+Culture",NATIONAL-GEO
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/667.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="NAT-GEO-WILD" tvg-logo="" group-title="07- Canal+Culture",NAT-GEO-WILD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/668.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVRY" tvg-logo="" group-title="07- Canal+Culture",DISCOVRY
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/670.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVRY-SCI" tvg-logo="" group-title="07- Canal+Culture",DISCOVRY-SCI
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/669.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CHASSE PECHE" tvg-logo="" group-title="07- Canal+Culture",CHASSE PECHE
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/671.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="SEASON" tvg-logo="" group-title="07- Canal+Culture",SEASON
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/666.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SPORT" tvg-logo="" group-title="09-  Sports France",CANAL SPORT
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/673.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FOOT 24" tvg-logo="" group-title="09-  Sports France",FOOT 24
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/674.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT" tvg-logo="" group-title="09-  Sports France",INFOSPORT
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/675.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="ITELE" tvg-logo="" group-title="10- Canal+Info",ITELE
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/676.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="LCI" tvg-logo="" group-title="10- Canal+Info",LCI
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/677.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CARTON NET" tvg-logo="" group-title="08- Canal+Enfants",CARTON NET
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/650.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="PIWI" tvg-logo="" group-title="08- Canal+Enfants",PIWI
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/652.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="" group-title="08- Canal+Enfants",BOOMERANG
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/651.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="TELETOON" tvg-logo="" group-title="08- Canal+Enfants",TELETOON
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/653.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="TIJI" tvg-logo="" group-title="08- Canal+Enfants",TIJI
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/654.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL J" tvg-logo="" group-title="08- Canal+Enfants",CANAL J
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/655.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="GULLI" tvg-logo="" group-title="08- Canal+Enfants",GULLI
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/657.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="" group-title="08- Canal+Enfants",BOING
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/656.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MANGAS" tvg-logo="" group-title="08- Canal+Enfants",MANGAS
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/658.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON JUNIOR" tvg-logo="" group-title="08- Canal+Enfants",NICKELODEON JUNIOR
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/663.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="" group-title="08- Canal+Enfants",NICKELODEON
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/664.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="" group-title="08- Canal+Enfants",DISNEY XD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/659.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="08- Canal+Enfants",DISNEY JUNIOR
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/660.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CINEMA" tvg-logo="" group-title="08- Canal+Enfants",DISNEY CINEMA
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/661.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="08- Canal+Enfants",DISNEY CHANNEL
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/662.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 1" tvg-logo="" group-title="06- Canal+Cinema",CANAL PLAY 1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/645.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 2" tvg-logo="" group-title="06- Canal+Cinema",CANAL PLAY 2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/646.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 3" tvg-logo="" group-title="06- Canal+Cinema",CANAL PLAY 3
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/647.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 4" tvg-logo="" group-title="06- Canal+Cinema",CANAL PLAY 4
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/648.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 5" tvg-logo="" group-title="06- Canal+Cinema",CANAL PLAY 5
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/649.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 1" tvg-logo="" group-title="06- Canal+Cinema",ALACARTE 1
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/640.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 2" tvg-logo="" group-title="06- Canal+Cinema",ALACARTE 2
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/641.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 3" tvg-logo="" group-title="06- Canal+Cinema",ALACARTE 3
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/642.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 4" tvg-logo="" group-title="06- Canal+Cinema",ALACARTE 4
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/643.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 5" tvg-logo="" group-title="06- Canal+Cinema",ALACARTE 5
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/644.ts
