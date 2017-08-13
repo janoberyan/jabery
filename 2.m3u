@@ -1,4 +1,7 @@
-
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Sport Channels",AD SPORT 1 HD
+http://streamer8715.embratoria.com:9080/hls/mal-ad-sport1HD.m3u8?md5=FgPgLa_tkuLr9wO-R3pBWw&expires=1502885801
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Sport Channels",AD SPORT 2 HD
+http://streamer8715.embratoria.com:9080/hls/mal-ad-sport2HD.m3u8?md5=FgPgLa_tkuLr9wO-R3pBWw&expires=1502885801
 
 
 #EXTINF:-1, ابو ظبي1 متعدد الجودات
