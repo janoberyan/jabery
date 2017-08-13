@@ -1,67 +1,38 @@
 
 
-#EXTINF:-1,  اصدقائي كما تعلمون وقت المبارايات يصبح ضغط رهيب على السيرفرات لذلك انصحكم بسيرفر القوي1 و القوي6 و المتوسط1 
-http://new.primatv.club:8899/live/10rmdtvnew/rmdtv00/119.ts
-http://asno.gcdn.co/mhd-MBC-Drama/index.m3u8
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/684.ts
+
+#EXTINF:-1, ابو ظبي1 متعدد الجودات
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1,ابو ظبي2 متعدد الجودات
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+ابو ظبي1 متعدد الجودات
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+ابو ظبي2 متعدد الجودات
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1,ابو ظبي1 جودة عالية
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/717.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1,ابو ظبي2 جودة عالية
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/718.ts
+
+#EXTINF:-1,On-Sport متعدد الجودات
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
+http://asno.gcdn.co/On-Sport-HD/index.m3u8
 
 
 
-#EXTVLCOPT:http-user-agent=PrimaIPTV(2) LibVLC/3.0.0-git
-#EXTINF:-1,1للنت القوي
-http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/684.ts
 
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1,للنت القوي2
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/830.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1,للنت القوي3
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/32.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1,للنت القوي4
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/375.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1,CANAL SPORT الفرنسية
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/673.ts
+#EXTINF:-1,CANAL+ SPORT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5376.ts
+#EXTINF:-1,CANAL+ SPORT
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6871.ts
 
-#EXTINF:-1,للنت القوي5
-http://176.31.226.149:25461/live/testest/testest/339.ts
-
-#EXTINF:-1,للنت القوي6
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/117.m3u8$http-refferer=http://localhost
-
-
-#EXTINF:-1,للنت المتوسط
-http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
-
-
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1,للنت الضعيف
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/289.ts
-
-
-
-#EXTINF:-1,سيرفر موبي كورة 720p
-http://bl.movcast.tv:1935/icoolkora/bein1_source/playlist.m3u8?wowzatokenendtime=1502282435108&wowzatokenstarttime=0&wowzatokenhash=IzZfkffw14QyXPi7dV9qTdx-WntMtTLWFxlwLKjU92U=
-#EXTINF:-1,سيرفر موبي كورة 360p
-http://bl.movcast.tv:1935/icoolkora/bein1_360p/playlist.m3u8?wowzatokenendtime=1502282758445&wowzatokenstarttime=0&wowzatokenhash=J3qhTLD9-JcmBdWc-52dcPfQvLGQHlBp0WF_tZVkfkY=
-#EXTINF:-1,سيرفر موبي كورة 240p
-http://bl.movcast.tv:1935/icoolkora/bein1_240p/playlist.m3u8?wowzatokenendtime=1502282845814&wowzatokenstarttime=0&wowzatokenhash=z0Vuas-C9ETpcI4ZxHSpk3FY-WiBErG6Lb9GKsL_Cyg=
-
-
-#EXTINF:-1,سيرفر يلا شوت متعدد الجودات
-https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?go=1&keepalive=yes&playlist_type=DVR&playlist_duration=30&ei=IO6JWfqNDcvEVfaAkOAP&key=yt6&sparams=ei,gcr,go,id,ip,ipbits,itag,playlist_type,ratebypass,requiressl,source,expire&ipbits=0&expire=1502233216&dover=8&id=lqr8pyVMiPA.1&ip=41.209.112.49&requiressl=yes&signature=14171FA883AA3240CA9A8D91CA2684D748C7B545.8446770726460877D2A689174E5A808B4C70223A&source=yt_live_broadcast&itag=0&manifest_duration=30&ratebypass=yes&gcr=sd&cpn=NfW_v7zSsNTRVU_R&ibw=1660000&c=MWEB&cver=1.20170803&ptk=youtube_none&pltype=contentugclive
-
-#EXTINF:-1,سيرفر يلا شوت دقة متوسطة
-https://live80.vkuserlive.com/637607/live/kKztodBAf8w/playlist.m3u8
-#EXTINF:-1,سيرفر يلا شوت دقة ضعيفة
-https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?signature=B963DD76ACEBA9CAC298324A11171BD4C3E5F5E5.7D0206FBD685915C7EAEC6A6BC80E709AC38626F&sparams=ei,gcr,go,id,ip,ipbits,itag,playlist_type,ratebypass,requiressl,source,expire&expire=1502232996&dover=8&ipbits=0&ratebypass=yes&gcr=sd&ip=41.209.112.49&go=1&ei=Q-2JWcGeOcm6VYDah9AD&itag=0&key=yt6&source=yt_live_broadcast&keepalive=yes&requiressl=yes&id=mWCeLxUNBqU.0&playlist_type=DVR&cpn=ylN_mABhCSM9aFfU&ibw=1760000&c=MWEB&cver=1.20170803&ptk=youtube_none&pltype=contentugclive
-#EXTINF:-1,=====القنوات الاجنبية====
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35548/master.m3u8?tecnotv.info?iptv.m3u8
-
-#EXTINF:-1,TRT1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8
-#EXTINF:-1,TRT1
-http://www.iptvsaga.com/play/tv3/0030.m3u8
-#EXTINF:-1,antena3
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1,telecinco الاسبانية
+http://edga18.vergol.pw/live/telecinco/index.m3u8
