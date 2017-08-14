@@ -1,0 +1,41 @@
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Sport Channels",AD SPORT 1 HD
+http://streamer8715.embratoria.com:9080/hls/mal-ad-sport1HD.m3u8?md5=FgPgLa_tkuLr9wO-R3pBWw&expires=1502885801
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Sport Channels",AD SPORT 2 HD
+http://streamer8715.embratoria.com:9080/hls/mal-ad-sport2HD.m3u8?md5=FgPgLa_tkuLr9wO-R3pBWw&expires=1502885801
+
+
+#EXTINF:-1, ابو ظبي1 متعدد الجودات
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1,ابو ظبي2 متعدد الجودات
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+ابو ظبي1 متعدد الجودات
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+ابو ظبي2 متعدد الجودات
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1,ابو ظبي1 جودة عالية
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/717.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1,ابو ظبي2 جودة عالية
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/718.ts
+
+#EXTINF:-1,On-Sport متعدد الجودات
+#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
+http://asno.gcdn.co/On-Sport-HD/index.m3u8
+
+
+
+
+#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
+#EXTINF:-1,CANAL SPORT الفرنسية
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/673.ts
+#EXTINF:-1,CANAL+ SPORT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5376.ts
+#EXTINF:-1,CANAL+ SPORT
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6871.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
+#EXTINF:-1,telecinco الاسبانية
+http://edga18.vergol.pw/live/telecinco/index.m3u8
