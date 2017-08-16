@@ -9,6 +9,9 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1,سيرفر يلا شوت متوسط الدقة
 https://live66.vkuserlive.com/639911/live/IQRFEOJDfP4/playlist.m3u8
+#EXTINF:-1,سيرفر يلا شوت متعدد الجودات HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?go=1&signature=472C731EFC22ECA6AC90781F01F6BC1E13592825.C5551B94CA653203DEE3D2042CF71B48F2FE613E&ei=ApiUWbzdKsGbcp2bh-gF&ratebypass=yes&itag=0&keepalive=yes&key=yt6&id=dhq5giBfG-o.0&expire=1502932066&playlist_type=DVR&ipbits=0&sparams=ei,gcr,go,id,ip,ipbits,itag,playlist_type,ratebypass,requiressl,source,expire&gcr=sd&requiressl=yes&ip=41.209.115.200&dover=8&source=yt_live_broadcast&cpn=IfMlx649_p1YVm58&ibw=960000&c=MWEB&cver=1.20170815&ptk=youtube_none&pltype=contentugclive
+
 
 #EXTINF:-1,OSN:  Abu Dhabi Sports 1 HD
 http://osiptv.casacam.net:8000/live/ios/freem3u/1347.m3u8
