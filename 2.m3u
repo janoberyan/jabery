@@ -19,6 +19,25 @@ http://streamer8715.embratoria.com:9080/hls/mal-ad-sport1HD.m3u8?md5=1poW08BsNwL
 
 #EXTINF:-1,سيرفر الامبراطورية
 http://streamer8715.embratoria.com:9080/hls/mal-ad-sport2HD.m3u8?md5=1poW08BsNwLGCNizbK14KQ&expires=1503146027
+#EXTINF:-1, ON SPORTS سيرفر موبي كورة 720
+http://bl.movcast.tv:1935/icoolkora/on-sport_source/playlist.m3u8?wowzatokenendtime=1502998892342&wowzatokenstarttime=0&wowzatokenhash=Y_tVE3b1HTQoubNElC1Hl37_sTfRxRP2dzs_AQBjCao=
+#EXTINF:-1, ON SPORTS سيرفر موبي كورة 360
+http://bl.movcast.tv:1935/icoolkora/on-sport_360p/playlist.m3u8?wowzatokenendtime=1502998972077&wowzatokenstarttime=0&wowzatokenhash=vYuHMW4MFHIE0mc6mJ0RXkK7wupitTlMZYHFHzVv8B8=
+#EXTINF:-1, ON SPORTS سيرفر موبي كورة 240
+http://bl.movcast.tv:1935/icoolkora/on-sport_240p/playlist.m3u8?wowzatokenendtime=1502999026901&wowzatokenstarttime=0&wowzatokenhash=ihMS9gj1sdDZOhvXKRLSw6nADp0tBW7jz33qy8OQ76w=
+#EXTINF:-1, AD SPORTS1 سيرفر موبي كورة 720
+http://bl.movcast.tv:1935/icoolkora/ad1_source/playlist.m3u8?wowzatokenendtime=1502999084426&wowzatokenstarttime=0&wowzatokenhash=ZS-llv66wYvO-lDBtwYDdtGpAQvr7T-qisSHB1h6fC4=
+#EXTINF:-1, AD SPORTS1 سيرفر موبي كورة 360
+http://bl.movcast.tv:1935/icoolkora/ad1_360p/playlist.m3u8?wowzatokenendtime=1502999145438&wowzatokenstarttime=0&wowzatokenhash=rgmppKTTpJ9EBKgkomDgkTx6TUwitJCk8vqOFcUgs6U=
+#EXTINF:-1, AD SPORTS1 سيرفر موبي كورة 240
+http://bl.movcast.tv:1935/icoolkora/ad1_240p/playlist.m3u8?wowzatokenendtime=1502999172575&wowzatokenstarttime=0&wowzatokenhash=lZKi_PvLk67SSgHeL1CKxh1wP2yF7X0FyAdhDLfpu7M=
+
+
+
+
+
+
+
 #EXTINF:-1,AD SPORT1
 http://217.182.16.97:8000/live/93841502906690/93841502906690/40.m3u8
 #EXTINF:-1,AD SPORT2
