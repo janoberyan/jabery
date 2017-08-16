@@ -9,8 +9,8 @@ http://adtv.ercdn.net/adsport2/adsport2.m3u8
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 ابو ظبي2 متعدد الجودات
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-
+#EXTINF:-1,سيرفر يلا شوت
+https://live50.vkuserlive.com/639900/live/5-ip1hhAfwQ/playlist.m3u8
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1,ابو ظبي1 جودة عالية
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/717.ts
