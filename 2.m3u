@@ -16,6 +16,11 @@ http://streamer8715.embratoria.com:9080/hls/mal-ad-sport1HD.m3u8?md5=1poW08BsNwL
 
 #EXTINF:-1,سيرفر الامبراطورية
 http://streamer8715.embratoria.com:9080/hls/mal-ad-sport2HD.m3u8?md5=1poW08BsNwLGCNizbK14KQ&expires=1503146027
+#EXTINF:-1,AD SPORT1
+http://217.182.16.97:8000/live/93841502906690/93841502906690/40.m3u8
+#EXTINF:-1,AD SPORT2
+http://217.182.16.97:8000/live/93841502906690/93841502906690/41.m3u8
+
 
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1,ابو ظبي1 جودة عالية
