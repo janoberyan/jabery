@@ -5,7 +5,7 @@
 #EXTINF:-1,BeINSPORTS News
 http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/682.ts
 #EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1BeINSPORTS Global
+#EXTINF:-1,BeINSPORTS Global
 http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/683.ts
 #EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
 #EXTINF:-1,BeINSPORTS 1HD
