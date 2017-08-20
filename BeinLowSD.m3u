@@ -1,51 +1,21 @@
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 1 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 1 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/289.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 2 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 2 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/290.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 3 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 3 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/291.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 4 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 4 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/292.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 5 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 5 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/293.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 6 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 6 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/294.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 7 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 7 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/295.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 8 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 8 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/296.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 9 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 9 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/297.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 10 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 10 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/298.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 11 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 11 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/299.ts
-#EXTVLCOPT:http-user-agent=sammaadsdsss
-#EXTINF:-1 tvg-ID="" tvg-name="LowSD-Bein Sports 12 AR" tvg-logo="" group-title="sport HD&SD Streams",LowSD-Bein Sports 12 AR
-http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/300.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTM3U
+#EXTINF:-1,bein1
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/100.ts
+#EXTINF:-1,bein2
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/101.ts
+#EXTINF:-1,bein3
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/102.ts
+#EXTINF:-1,bein4
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/103.ts
+#EXTINF:-1,bein5
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/104.ts
+#EXTINF:-1,bein6
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/105.ts
+#EXTINF:-1,bein7
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/106.ts
+#EXTINF:-1,bein8
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/107.ts
+#EXTINF:-1,bein9
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/108.ts
+#EXTINF:-1,bein10
+http://iptv.live-plus.info:9977/live/embratoria/6sB8w46KTP/109.ts
