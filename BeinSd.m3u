@@ -1,36 +1,38 @@
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport1 sd
-http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport2 sd
-http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport3 sd
-http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport4 sd
-http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport5 sd
-http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport6 sd
-http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport7 sd
-http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport8 sd
-http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport9 sd
-http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport10 sd
-http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport11 sd
-http://sstvb1.vdmscdn.com/beinsport-11-sd/index.m3u8
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="bein sd",bein sport12 sd
-http://sstvb1.vdmscdn.com/beinsport-12-sd/index.m3u8
+
+#EXTINF:-1,======BEIN SPORTS Group=======
+http://hdspo.gcdn.co/bn-sp-1-hd/index.m3u8
+#EXTINF:-1,bein sport1 sd
+http://hdspo.gcdn.co/bn-sp-1-hd/index.m3u8
+
+#EXTINF:-1,bein sport2 sd
+http://hdspo.gcdn.co/bn-sp-2-hd/index.m3u8
+
+#EXTINF:-1,bein sport3 sd
+http://hdspo.gcdn.co/bn-sp-3-hd/index.m3u8
+
+#EXTINF:-1,bein sport4 sd
+http://hdspo.gcdn.co/bn-sp-4-hd/index.m3u8
+
+#EXTINF:-1,bein sport5 sd
+http://hdspo.gcdn.co/bn-sp-5-hd/index.m3u8
+
+#EXTINF:-1,bein sport6 sd
+http://hdspo.gcdn.co/bn-sp-6-hd/index.m3u8
+
+#EXTINF:-1,bein sport7 sd
+http://hdspo.gcdn.co/bn-sp-7-hd/index.m3u8
+
+#EXTINF:-1,bein sport8 sd
+http://hdspo.gcdn.co/bn-sp-8-hd/index.m3u8
+
+#EXTINF:-1,bein sport9 sd
+http://hdspo.gcdn.co/bn-sp-9-hd/index.m3u8
+
+#EXTINF:-1,bein sport10 sd
+http://hdspo.gcdn.co/bn-sp-10-hd/index.m3u8
+
+#EXTINF:-1,bein sport11 sd
+http://hdspo.gcdn.co/bn-sp-11-hd/index.m3u8
+
+#EXTINF:-1,bein sport12 sd
+http://hdspo.gcdn.co/bn-sp-12-hd/index.m3u8
