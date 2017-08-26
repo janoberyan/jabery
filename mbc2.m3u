@@ -1,0 +1,32 @@
+#EXTINF:-1 group-title="mbc",MBC1
+http://flutt.freeddns.org:8888/16000_MBC1/index.m3u8
+#EXTINF:-1 group-title="mbc",MBC2
+http://flutt.freeddns.org:8888/16001_MBC2/index.m3u8
+#EXTINF:-1 group-title="mbc",MBC3
+http://flutt.freeddns.org:8888/16002_MBC3/index.m3u8
+#EXTINF:-1 group-title="mbc",MBC4
+http://flutt.freeddns.org:8888/16003_MBC4/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCAction
+http://flutt.freeddns.org:8888/16004_MBCAction/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCDrama
+http://flutt.freeddns.org:8888/16005_MBCDrama/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCMAX
+http://flutt.freeddns.org:8888/16006_MBCMAX/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCBollywood
+http://flutt.freeddns.org:8888/16007_MBCBollywood/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCMaser
+http://flutt.freeddns.org:8888/16009_MBCMaser/index.m3u8
+#EXTINF:-1 group-title="music",MBCMasr2
+http://flutt.freeddns.org:8888/16119_MBCMasr2/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCPRO1
+http://flutt.freeddns.org:8888/16218_MBCPRO1/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCPRO2
+http://flutt.freeddns.org:8888/16219_MBCPRO2/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCPRO3
+http://flutt.freeddns.org:8888/16220_MBCPRO3/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCPRO3
+http://flutt.freeddns.org:8888/16220_MBCPRO3/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCPRO4
+http://flutt.freeddns.org:8888/16221_MBCPRO4/index.m3u8
+#EXTINF:-1 group-title="mbc",MBCPRO4
+http://flutt.freeddns.org:8888/16221_MBCPRO4/index.m3u8
