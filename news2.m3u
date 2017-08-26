@@ -1,31 +1,36 @@
 
+
+#EXTINF:-1,======NEWS Group======
+http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
+
 #EXTINF:-1 group-title="news",AlArabiya
-http://flutt.freeddns.org:8888/16046_AlArabiya/index.m3u8
+http://kingofdns.freeddns.org:8888/16046_AlArabiya/index.m3u8
 #EXTINF:-1 group-title="news",AlJazeera
-http://flutt.freeddns.org:8888/16169_AlJazeera/index.m3u8
+http://kingofdns.freeddns.org:8888/16169_AlJazeera/index.m3u8
 #EXTINF:-1 group-title="news",AlJazeeraMubasher
-http://flutt.freeddns.org:8888/16170_AlJazeeraMubasher/index.m3u8
+http://kingofdns.freeddns.org:8888/16170_AlJazeeraMubasher/index.m3u8
 #EXTINF:-1 group-title="news",CNN
-http://flutt.freeddns.org:8888/16008_CNN/index.m3u8
+http://kingofdns.freeddns.org:8888/16008_CNN/index.m3u8
 #EXTINF:-1 group-title="news",AlJazeeraEnglish
-http://flutt.freeddns.org:8888/16011_AlJazeeraEnglish/index.m3u8
+http://kingofdns.freeddns.org:8888/16011_AlJazeeraEnglish/index.m3u8
 #EXTINF:-1 group-title="news",EuroNews
-http://flutt.freeddns.org:8888/16012_EuroNews/index.m3u8
+http://kingofdns.freeddns.org:8888/16012_EuroNews/index.m3u8
 #EXTINF:-1 group-title="news",ALHadath
-http://flutt.freeddns.org:8888/16164_ALHadath/index.m3u8
+http://kingofdns.freeddns.org:8888/16164_ALHadath/index.m3u8
 #EXTINF:-1 group-title="news",BBCArabic
-http://flutt.freeddns.org:8888/16149_BBCArabic/index.m3u8
+http://kingofdns.freeddns.org:8888/16149_BBCArabic/index.m3u8
 #EXTINF:-1 group-title="news",SkyNewsArabia
-http://flutt.freeddns.org:8888/16035_SkyNewsArabia/index.m3u8
+http://kingofdns.freeddns.org:8888/16035_SkyNewsArabia/index.m3u8
 #EXTINF:-1 group-title="news",Ten
-http://flutt.freeddns.org:8888/16028_Ten/index.m3u8
+http://kingofdns.freeddns.org:8888/16028_Ten/index.m3u8
 #EXTINF:-1 group-title="iraq",IraqiaTVnews
-http://flutt.freeddns.org:8888/16153_IraqiaTVnews/index.m3u8
+http://kingofdns.freeddns.org:8888/16153_IraqiaTVnews/index.m3u8
 #EXTINF:-1 group-title="news",ALMINBAR
-http://flutt.freeddns.org:8888/16235_ALMINBAR/index.m3u8
+http://kingofdns.freeddns.org:8888/16235_ALMINBAR/index.m3u8
 #EXTINF:-1 group-title="news",AlArabyTV
-http://flutt.freeddns.org:8888/16307_AlArabyTV/index.m3u8
+http://kingofdns.freeddns.org:8888/16307_AlArabyTV/index.m3u8
 #EXTINF:-1 group-title="algeria",EchoroukNews
-http://flutt.freeddns.org:8888/16319_EchoroukNews/index.m3u8
+http://kingofdns.freeddns.org:8888/16319_EchoroukNews/index.m3u8
 #EXTINF:-1 group-title="news",ALAANTV
-http://flutt.freeddns.org:8888/16342_ALAANTV/index.m3u8
+http://kingofdns.freeddns.org:8888/16342_ALAANTV/index.m3u8
+
