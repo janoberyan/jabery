@@ -1,34 +1,41 @@
+
+
+#EXTINF:-1,======LEBANON Group======
+http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
 #EXTINF:-1 group-title="lebanon",LDC
-http://flutt.freeddns.org:8888/16138_LDC/index.m3u8
+http://kingofdns.freeddns.org:8888/16138_LDC/index.m3u8
 #EXTINF:-1 group-title="lebanon",LBCSAT
-http://flutt.freeddns.org:8888/16130_LBCSAT/index.m3u8
+http://kingofdns.freeddns.org:8888/16130_LBCSAT/index.m3u8
 #EXTINF:-1 group-title="lebanon",OTV
-http://flutt.freeddns.org:8888/16081_OTV/index.m3u8
+http://kingofdns.freeddns.org:8888/16081_OTV/index.m3u8
 #EXTINF:-1 group-title="lebanon",LebanonTV
-http://flutt.freeddns.org:8888/16171_LebanonTV/index.m3u8
+http://kingofdns.freeddns.org:8888/16171_LebanonTV/index.m3u8
 #EXTINF:-1 group-title="lebanon",HeyaTV
-http://flutt.freeddns.org:8888/16174_HeyaTV/index.m3u8
+http://kingofdns.freeddns.org:8888/16174_HeyaTV/index.m3u8
 #EXTINF:-1 group-title="lebanon",NoursatAlchabab
-http://flutt.freeddns.org:8888/16301_NoursatAlchabab/index.m3u8
+http://kingofdns.freeddns.org:8888/16301_NoursatAlchabab/index.m3u8
 #EXTINF:-1 group-title="lebanon",Alnoor
-http://flutt.freeddns.org:8888/16335_Alnoor/index.m3u8
+http://kingofdns.freeddns.org:8888/16335_Alnoor/index.m3u8
 #EXTINF:-1 group-title="lebanon",ALJADEED
-http://flutt.freeddns.org:8888/16338_ALJADEED/index.m3u8
+http://kingofdns.freeddns.org:8888/16338_ALJADEED/index.m3u8
 #EXTINF:-1 group-title="lebanon",MANAR
-http://flutt.freeddns.org:8888/16339_MANAR/index.m3u8
+http://kingofdns.freeddns.org:8888/16339_MANAR/index.m3u8
 #EXTINF:-1 group-title="lebanon",ALMAYADEENTV
-http://flutt.freeddns.org:8888/16340_ALMAYADEENTV/index.m3u8
+http://kingofdns.freeddns.org:8888/16340_ALMAYADEENTV/index.m3u8
 #EXTINF:-1 group-title="lebanon",ALSIRAT
-http://flutt.freeddns.org:8888/16341_ALSIRAT/index.m3u8
+http://kingofdns.freeddns.org:8888/16341_ALSIRAT/index.m3u8
 #EXTINF:-1 group-title="lebanon",ALIMANTV
-http://flutt.freeddns.org:8888/16343_ALIMANTV/index.m3u8
+http://kingofdns.freeddns.org:8888/16343_ALIMANTV/index.m3u8
 #EXTINF:-1 group-title="lebanon",MTVLebanon
-http://flutt.freeddns.org:8888/16344_MTVLebanon/index.m3u8
+http://kingofdns.freeddns.org:8888/16344_MTVLebanon/index.m3u8
 #EXTINF:-1 group-title="lebanon",NBN
-http://flutt.freeddns.org:8888/16345_NBN/index.m3u8
+http://kingofdns.freeddns.org:8888/16345_NBN/index.m3u8
 #EXTINF:-1 group-title="lebanon",Noursat
-http://flutt.freeddns.org:8888/16346_Noursat/index.m3u8
+http://kingofdns.freeddns.org:8888/16346_Noursat/index.m3u8
 #EXTINF:-1 group-title="lebanon",NourAlSharq
-http://flutt.freeddns.org:8888/16075_NourAlSharq/index.m3u8
+http://kingofdns.freeddns.org:8888/16075_NourAlSharq/index.m3u8
 #EXTINF:-1 group-title="lebanon",NourKoddass
-http://flutt.freeddns.org:8888/16076_NourKoddass/index.m3u8
+http://kingofdns.freeddns.org:8888/16076_NourKoddass/index.m3u8
+
+
+
