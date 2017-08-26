@@ -1,101 +1,110 @@
 
+
+
+#EXTINF:-1,======MOVIES Group======
+http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
 #EXTINF:-1 group-title="movie",RotanaCinema
-http://flutt.freeddns.org:8888/16017_RotanaCinema/index.m3u8
+http://kingofdns.freeddns.org:8888/16017_RotanaCinema/index.m3u8
 #EXTINF:-1 group-title="movie",ARTHekayatZaman
-http://flutt.freeddns.org:8888/16019_ARTHekayatZaman/index.m3u8
+http://kingofdns.freeddns.org:8888/16019_ARTHekayatZaman/index.m3u8
 #EXTINF:-1 group-title="movie",AlHekayat2
-http://flutt.freeddns.org:8888/16020_AlHekayat2/index.m3u8
+http://kingofdns.freeddns.org:8888/16020_AlHekayat2/index.m3u8
 #EXTINF:-1 group-title="movie",ARTAflam1
-http://flutt.freeddns.org:8888/16021_ARTAflam1/index.m3u8
+http://kingofdns.freeddns.org:8888/16021_ARTAflam1/index.m3u8
 #EXTINF:-1 group-title="movie",ARTAflam2
-http://flutt.freeddns.org:8888/16022_ARTAflam2/index.m3u8
+http://kingofdns.freeddns.org:8888/16022_ARTAflam2/index.m3u8
 #EXTINF:-1 group-title="movie",ARTCinema
-http://flutt.freeddns.org:8888/16023_ARTCinema/index.m3u8
+http://kingofdns.freeddns.org:8888/16023_ARTCinema/index.m3u8
 #EXTINF:-1 group-title="movie",CinemaPro
-http://flutt.freeddns.org:8888/16036_CinemaPro/index.m3u8
+http://kingofdns.freeddns.org:8888/16036_CinemaPro/index.m3u8
 #EXTINF:-1 group-title="movie",TokTokCima
-http://flutt.freeddns.org:8888/16037_TokTokCima/index.m3u8
+http://kingofdns.freeddns.org:8888/16037_TokTokCima/index.m3u8
 #EXTINF:-1 group-title="movie",zeeaflam
-http://flutt.freeddns.org:8888/16089_zeeaflam/index.m3u8
+http://kingofdns.freeddns.org:8888/16089_zeeaflam/index.m3u8
 #EXTINF:-1 group-title="movie",BELODYAFLAM
-http://flutt.freeddns.org:8888/16096_BELODYAFLAM/index.m3u8
+http://kingofdns.freeddns.org:8888/16096_BELODYAFLAM/index.m3u8
 #EXTINF:-1 group-title="movie",CINEMA1
-http://flutt.freeddns.org:8888/16098_CINEMA1/index.m3u8
+http://kingofdns.freeddns.org:8888/16098_CINEMA1/index.m3u8
 #EXTINF:-1 group-title="movie",CINEMA2
-http://flutt.freeddns.org:8888/16099_CINEMA2/index.m3u8
+http://kingofdns.freeddns.org:8888/16099_CINEMA2/index.m3u8
 #EXTINF:-1 group-title="movie",DARBAKACINEMA
-http://flutt.freeddns.org:8888/16100_DARBAKACINEMA/index.m3u8
+http://kingofdns.freeddns.org:8888/16100_DARBAKACINEMA/index.m3u8
 #EXTINF:-1 group-title="movie",B4UPLUS
-http://flutt.freeddns.org:8888/16111_B4UPLUS/index.m3u8
+http://kingofdns.freeddns.org:8888/16111_B4UPLUS/index.m3u8
 #EXTINF:-1 group-title="movie",Imagine_Movies
-http://flutt.freeddns.org:8888/16123_Imagine_Movies/index.m3u8
+http://kingofdns.freeddns.org:8888/16123_Imagine_Movies/index.m3u8
 #EXTINF:-1 group-title="movie",STARCINEMA1
-http://flutt.freeddns.org:8888/16126_STARCINEMA1/index.m3u8
+http://kingofdns.freeddns.org:8888/16126_STARCINEMA1/index.m3u8
 #EXTINF:-1 group-title="movie",STARCINEMA2
-http://flutt.freeddns.org:8888/16127_STARCINEMA2/index.m3u8
+http://kingofdns.freeddns.org:8888/16127_STARCINEMA2/index.m3u8
 #EXTINF:-1 group-title="movie",TIMECOMEDY
-http://flutt.freeddns.org:8888/16128_TIMECOMEDY/index.m3u8
+http://kingofdns.freeddns.org:8888/16128_TIMECOMEDY/index.m3u8
 #EXTINF:-1 group-title="movie",TIMECINEMA
-http://flutt.freeddns.org:8888/16142_TIMECINEMA/index.m3u8
+http://kingofdns.freeddns.org:8888/16142_TIMECINEMA/index.m3u8
 #EXTINF:-1 group-title="movie",PanoramaFilm
-http://flutt.freeddns.org:8888/16152_PanoramaFilm/index.m3u8
+http://kingofdns.freeddns.org:8888/16152_PanoramaFilm/index.m3u8
 #EXTINF:-1 group-title="movie",ZeeLiving
-http://flutt.freeddns.org:8888/16172_ZeeLiving/index.m3u8
+http://kingofdns.freeddns.org:8888/16172_ZeeLiving/index.m3u8
 #EXTINF:-1 group-title="movie",SAMACINEMA
-http://flutt.freeddns.org:8888/16193_SAMACINEMA/index.m3u8
+http://kingofdns.freeddns.org:8888/16193_SAMACINEMA/index.m3u8
 #EXTINF:-1 group-title="movie",ALBAITBAITAKCINEMA
-http://flutt.freeddns.org:8888/16194_ALBAITBAITAKCINEMA/index.m3u8
+http://kingofdns.freeddns.org:8888/16194_ALBAITBAITAKCINEMA/index.m3u8
 #EXTINF:-1 group-title="movie",CIMATUBE
-http://flutt.freeddns.org:8888/16204_CIMATUBE/index.m3u8
+http://kingofdns.freeddns.org:8888/16204_CIMATUBE/index.m3u8
 #EXTINF:-1 group-title="movie",TEATROTUBE
-http://flutt.freeddns.org:8888/16205_TEATROTUBE/index.m3u8
+http://kingofdns.freeddns.org:8888/16205_TEATROTUBE/index.m3u8
 #EXTINF:-1 group-title="movie",FILMTUBE
-http://flutt.freeddns.org:8888/16208_FILMTUBE/index.m3u8
+http://kingofdns.freeddns.org:8888/16208_FILMTUBE/index.m3u8
 #EXTINF:-1 group-title="movie",CLASSICTUBE
-http://flutt.freeddns.org:8888/16210_CLASSICTUBE/index.m3u8
+http://kingofdns.freeddns.org:8888/16210_CLASSICTUBE/index.m3u8
 #EXTINF:-1 group-title="movie",CIMAFARTAKA
-http://flutt.freeddns.org:8888/16212_CIMAFARTAKA/index.m3u8
+http://kingofdns.freeddns.org:8888/16212_CIMAFARTAKA/index.m3u8
 #EXTINF:-1 group-title="movie",CINEMA2TUBE
-http://flutt.freeddns.org:8888/16213_CINEMA2TUBE/index.m3u8
+http://kingofdns.freeddns.org:8888/16213_CINEMA2TUBE/index.m3u8
 #EXTINF:-1 group-title="movie",COMEDYTUBE
-http://flutt.freeddns.org:8888/16214_COMEDYTUBE/index.m3u8
+http://kingofdns.freeddns.org:8888/16214_COMEDYTUBE/index.m3u8
 #EXTINF:-1 group-title="movie",AFLAMTV
-http://flutt.freeddns.org:8888/16215_AFLAMTV/index.m3u8
+http://kingofdns.freeddns.org:8888/16215_AFLAMTV/index.m3u8
 #EXTINF:-1 group-title="movie",DTVCINEMA
-http://flutt.freeddns.org:8888/16261_DTVCINEMA/index.m3u8
+http://kingofdns.freeddns.org:8888/16261_DTVCINEMA/index.m3u8
 #EXTINF:-1 group-title="movie",ELSANIORATV
-http://flutt.freeddns.org:8888/16264_ELSANIORATV/index.m3u8
+http://kingofdns.freeddns.org:8888/16264_ELSANIORATV/index.m3u8
 #EXTINF:-1 group-title="movie",TIMEFILM
-http://flutt.freeddns.org:8888/16268_TIMEFILM/index.m3u8
+http://kingofdns.freeddns.org:8888/16268_TIMEFILM/index.m3u8
 #EXTINF:-1 group-title="movie",TIMETAXI
-http://flutt.freeddns.org:8888/16269_TIMETAXI/index.m3u8
+http://kingofdns.freeddns.org:8888/16269_TIMETAXI/index.m3u8
 #EXTINF:-1 group-title="movie",MogaComedyTV
-http://flutt.freeddns.org:8888/16266_MogaComedyTV/index.m3u8
+http://kingofdns.freeddns.org:8888/16266_MogaComedyTV/index.m3u8
 #EXTINF:-1 group-title="movie",ROTANACINEMAKSA
-http://flutt.freeddns.org:8888/16285_ROTANACINEMAKSA/index.m3u8
+http://kingofdns.freeddns.org:8888/16285_ROTANACINEMAKSA/index.m3u8
 #EXTINF:-1 group-title="movie",DollyCinema
-http://flutt.freeddns.org:8888/16298_DollyCinema/index.m3u8
+http://kingofdns.freeddns.org:8888/16298_DollyCinema/index.m3u8
 #EXTINF:-1 group-title="movie",PlayAflam
-http://flutt.freeddns.org:8888/16316_PlayAflam/index.m3u8
+http://kingofdns.freeddns.org:8888/16316_PlayAflam/index.m3u8
 #EXTINF:-1 group-title="movie",B4UAflam
-http://flutt.freeddns.org:8888/16317_B4UAflam/index.m3u8
+http://kingofdns.freeddns.org:8888/16317_B4UAflam/index.m3u8
 #EXTINF:-1 group-title="movie",ZeeAlwan
-http://flutt.freeddns.org:8888/16318_ZeeAlwan/index.m3u8
+http://kingofdns.freeddns.org:8888/16318_ZeeAlwan/index.m3u8
 #EXTINF:-1 group-title="movie",IFilmArabic
-http://flutt.freeddns.org:8888/16329_IFilmArabic/index.m3u8
+http://kingofdns.freeddns.org:8888/16329_IFilmArabic/index.m3u8
 #EXTINF:-1 group-title="movie",7BESHA
-http://flutt.freeddns.org:8888/16308_7BESHA/index.m3u8
+http://kingofdns.freeddns.org:8888/16308_7BESHA/index.m3u8
 #EXTINF:-1 group-title="movie",CIMAALIBABA
-http://flutt.freeddns.org:8888/16309_CIMAALIBABA/index.m3u8
+http://kingofdns.freeddns.org:8888/16309_CIMAALIBABA/index.m3u8
 #EXTINF:-1 group-title="movie",DARBAKAAFLAM
-http://flutt.freeddns.org:8888/16310_DARBAKAAFLAM/index.m3u8
+http://kingofdns.freeddns.org:8888/16310_DARBAKAAFLAM/index.m3u8
 #EXTINF:-1 group-title="movie",AFLAMTUBE
-http://flutt.freeddns.org:8888/16200_AFLAMTUBE/index.m3u8
+http://kingofdns.freeddns.org:8888/16200_AFLAMTUBE/index.m3u8
 #EXTINF:-1 group-title="movie",PLUS18
-http://flutt.freeddns.org:8888/16201_PLUS18/index.m3u8
+http://kingofdns.freeddns.org:8888/16201_PLUS18/index.m3u8
 #EXTINF:-1 group-title="movie",CINEMATUBE
-http://flutt.freeddns.org:8888/16202_CINEMATUBE/index.m3u8
+http://kingofdns.freeddns.org:8888/16202_CINEMATUBE/index.m3u8
 #EXTINF:-1 group-title="cartoon",CairoDrama
-http://flutt.freeddns.org:8888/16131_CairoDrama/index.m3u8
+http://kingofdns.freeddns.org:8888/16131_CairoDrama/index.m3u8
 #EXTINF:-1 group-title="cartoon",Cairocinema
-http://flutt.freeddns.org:8888/16132_Cairocinema/index.m3u8
+http://kingofdns.freeddns.org:8888/16132_Cairocinema/index.m3u8
+
+
+
+
+
