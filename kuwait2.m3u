@@ -1,0 +1,11 @@
+
+#EXTINF:-1 group-title="kuwait",ktv1
+http://flutt.freeddns.org:8888/16198_ktv1/index.m3u8
+#EXTINF:-1 group-title="kuwait",Kuwait-TV
+http://flutt.freeddns.org:8888/16222_Kuwait-TV/index.m3u8
+#EXTINF:-1 group-title="kuwait",Kuwait-TV2
+http://flutt.freeddns.org:8888/16223_Kuwait-TV2/index.m3u8
+#EXTINF:-1 group-title="kuwait",Kuwait-TV2
+http://flutt.freeddns.org:8888/16223_Kuwait-TV2/index.m3u8
+#EXTINF:-1 group-title="kuwait",AlraiTV
+http://flutt.freeddns.org:8888/16359_AlraiTV/index.m3u8
