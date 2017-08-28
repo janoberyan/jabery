@@ -1,30 +1,33 @@
 
+
+
+
 #EXTINF:-1,======MUSIC Group======
 http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
 #EXTINF:-1 group-title="music",RotanaClip
-http://kingofdns.freeddns.org:8888/16013_RotanaClip/index.m3u8
+http://kngofdns.freeddns.org:8888/16013_RotanaClip/index.m3u8
 #EXTINF:-1 group-title="music",RotanaKhalijia
-http://kingofdns.freeddns.org:8888/16014_RotanaKhalijia/index.m3u8
+http://kngofdns.freeddns.org:8888/16014_RotanaKhalijia/index.m3u8
 #EXTINF:-1 group-title="music",RotanaClassic
-http://kingofdns.freeddns.org:8888/16015_RotanaClassic/index.m3u8
+http://kngofdns.freeddns.org:8888/16015_RotanaClassic/index.m3u8
 #EXTINF:-1 group-title="music",Rotana
-http://kingofdns.freeddns.org:8888/16018_Rotana/index.m3u8
+http://kngofdns.freeddns.org:8888/16018_Rotana/index.m3u8
 #EXTINF:-1 group-title="music",WANASAH
-http://kingofdns.freeddns.org:8888/16066_WANASAH/index.m3u8
+http://kngofdns.freeddns.org:8888/16066_WANASAH/index.m3u8
 #EXTINF:-1 group-title="music",TimeSHA3BEYAT
-http://kingofdns.freeddns.org:8888/16143_TimeSHA3BEYAT/index.m3u8
+http://kngofdns.freeddns.org:8888/16143_TimeSHA3BEYAT/index.m3u8
 #EXTINF:-1 group-title="music",5STARS
-http://kingofdns.freeddns.org:8888/16161_5STARS/index.m3u8
+http://kngofdns.freeddns.org:8888/16161_5STARS/index.m3u8
 #EXTINF:-1 group-title="music",Hawacom
-http://kingofdns.freeddns.org:8888/16230_Hawacom/index.m3u8
+http://kngofdns.freeddns.org:8888/16230_Hawacom/index.m3u8
 #EXTINF:-1 group-title="music",FreeTV
-http://kingofdns.freeddns.org:8888/16242_FreeTV/index.m3u8
+http://kngofdns.freeddns.org:8888/16242_FreeTV/index.m3u8
 #EXTINF:-1 group-title="music",NogoumFMRadio
-http://kingofdns.freeddns.org:8888/16245_NogoumFMRadio/index.m3u8
+http://kngofdns.freeddns.org:8888/16245_NogoumFMRadio/index.m3u8
 #EXTINF:-1 group-title="music",MUSICSHA3BY
-http://kingofdns.freeddns.org:8888/16258_MUSICSHA3BY/index.m3u8
+http://kngofdns.freeddns.org:8888/16258_MUSICSHA3BY/index.m3u8
 #EXTINF:-1 group-title="music",ShababTV
-http://kingofdns.freeddns.org:8888/16274_ShababTV/index.m3u8
+http://kngofdns.freeddns.org:8888/16274_ShababTV/index.m3u8
 #EXTINF:-1 group-title="music",AghaniAghani
-http://kingofdns.freeddns.org:8888/16349_AghaniAghani/index.m3u8
+http://kngofdns.freeddns.org:8888/16349_AghaniAghani/index.m3u8
 
