@@ -1,6 +1,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,====OSN=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/547.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Movies HD" tvg-logo="" group-title="04- OSN",Movies HD
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/547.ts
@@ -67,6 +79,10 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/562.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SeeVii Al oula HD" tvg-logo="" group-title="04- OSN",SeeVii Al oula HD
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/561.ts
+
+#EXTINF:-1,====MBC=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/547.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 1" tvg-logo="" group-title="17- MBC",MBC 1
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/528.ts
@@ -124,7 +140,9 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/545.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ZEE Alwan" tvg-logo="" group-title="17- MBC",MBC ZEE Alwan
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/546.ts
+#EXTINF:-1,====beIN MOVIES=======
 
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03- beIN MOVIES",BeIN Movies 1HD
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
@@ -155,6 +173,12 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/731.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Discovery HD" tvg-logo="" group-title="03- beIN MOVIES",BeIN Discovery HD
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/732.ts
+
+
+
+#EXTINF:-1,====Maroc=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Aoula-Inter" tvg-logo="" group-title="11- Maroc",Al-Aoula-Inter
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/630.ts
@@ -185,6 +209,11 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/638.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SUD24-TV" tvg-logo="" group-title="11- Maroc",SUD24-TV
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/639.ts
+
+
+#EXTINF:-1,====Algerie=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Samira-Tv" tvg-logo="" group-title="12- Algerie",Samira-Tv
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/607.ts
@@ -254,6 +283,11 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/628.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Magharibia-2" tvg-logo="" group-title="12- Algerie",Al Magharibia-2
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/629.ts
+
+
+#EXTINF:-1,====Tunisie=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 1" tvg-logo="" group-title="13- Tunisie",Tunesia 1
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/597.ts
@@ -284,6 +318,12 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/600.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Zitouna" tvg-logo="" group-title="13- Tunisie",Zitouna
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/602.ts
+
+
+
+#EXTINF:-1,====Islam=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alresalah" tvg-logo="" group-title="20- Islam",Alresalah
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/593.ts
@@ -305,6 +345,12 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/596.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="IQRAA" tvg-logo="" group-title="20- Islam",IQRAA
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/592.ts
+
+
+
+#EXTINF:-1,====Enfant Arabic=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CN Arabia" tvg-logo="" group-title="19- Enfant Arabic",CN Arabia
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/580.ts
@@ -323,12 +369,20 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/584.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Quest-Arabia" tvg-logo="" group-title="18- Culture Arab",Quest-Arabia
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/577.ts
+
+#EXTINF:-1,====Culture Arab=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="National Geo-Abudhabi" tvg-logo="" group-title="18- Culture Arab",National Geo-Abudhabi
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/579.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera Doc" tvg-logo="" group-title="18- Culture Arab",Aljazeera Doc
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/578.ts
+
+#EXTINF:-1,====News Arab=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera" tvg-logo="" group-title="21- News Arab",Aljazeera
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/569.ts
@@ -353,6 +407,11 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/574.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="" group-title="21- News Arab",Euronews
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/575.ts
+
+
+#EXTINF:-1,====ART=======
+
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aflam 1" tvg-logo="" group-title="16- ART",Aflam 1
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/585.ts
