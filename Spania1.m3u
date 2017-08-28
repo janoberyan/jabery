@@ -1,258 +1,349 @@
+#EXTINF:-1 tvg-logo="http://www.insideworldfootball.com/app/uploads/2011/04/Telecinco_logo.jpg" tvg-name="telecinco"  group-title="spain",telecinco
+http://edga9.vergol.pw/live/telecinco/index.m3u8
 
-#EXTINF:-1,SP LA 1
-http://streamer8715.embratoria.com:9082/SP_LA_1.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
 
-#EXTINF:-1,SP LA 2
-http://streamer8715.embratoria.com:9082/SP_LA_2.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Marbella TV"  group-title="spain",Marbella TV
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
 
-#EXTINF:-1,SP ANTENA 3
-http://streamer8715.embratoria.com:9082/SP_ANTENA_3.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Navarra TV"  group-title="spain",Navarra TV
+http://cdn.s6.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/manifest.m3u8
 
-#EXTINF:-1,SP CUATRO
-http://streamer8715.embratoria.com:9082/SP_CUATRO.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Onda Azul TV"  group-title="spain",Onda Azul TV
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 
-#EXTINF:-1,SP TELECINCO
-http://streamer8715.embratoria.com:9082/SP_TELECINCO.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Ondamex TV"  group-title="spain",Ondamex TV
+rtmp://videos.ondamex.com:1940/live/myStream
 
-#EXTINF:-1,SP LA SEXTA
-http://streamer8715.embratoria.com:9082/SP_LA_SEXTA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="love world asia"  group-title="spain",love world asia
+http://109.236.91.150:8080/crkva3/playlist.m3u8
 
-#EXTINF:-1,SP VIAJAR
-http://streamer8715.embratoria.com:9082/SP_VIAJAR.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="love world mena"  group-title="spain",love world mena
+http://109.236.91.150:8080/crkva2/playlist.m3u8
 
-#EXTINF:-1,SP CLAN TVE
-http://streamer8715.embratoria.com:9082/SP_CLAN_TVE.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="a1 balkan tv"  group-title="spain",a1 balkan tv
+http://109.236.91.150:8080/a1balkantvmahirtvyahsat/playlist.m3u8
 
-#EXTINF:-1,SP TV GALICIA
-http://streamer8715.embratoria.com:9082/SP_TV_GALICIA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="a1 espan"  group-title="spain",a1 espan
+http://109.236.91.150:8080/a1espanmahiryahsattv/playlist.m3u8
 
-#EXTINF:-1,SP FDF
-http://streamer8715.embratoria.com:9082/SP_FDF.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="a1 shiptare"  group-title="spain",a1 shiptare
+http://109.236.91.150:8080/a1shiptarealb11/playlist.m3u8
 
-#EXTINF:-1,SP ENEGERY
-http://streamer8715.embratoria.com:9082/SP_ENEGERY.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="a1 internaciona HD"  group-title="spain",a1 internaciona HD
+http://109.236.91.150:8080/a1internacionalHDmahiyahsat/playlist.m3u8
 
-#EXTINF:-1,SP NOVA
-http://streamer8715.embratoria.com:9082/SP_NOVA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="a1 islam"  group-title="spain",a1 islam
+http://109.236.91.150:8080/a1islamjedanislam/playlist.m3u8
 
-#EXTINF:-1,SP NEOX
-http://streamer8715.embratoria.com:9082/SP_NEOX.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="a1 exclusive"  group-title="spain",a1 exclusive
+http://109.236.91.150:8080/a1skandinavijaHDpro/playlist.m3u8
 
-#EXTINF:-1,SP DIVINITY
-http://streamer8715.embratoria.com:9082/SP_DIVINITY.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="a1 sports"  group-title="spain",a1 sports
+http://109.236.91.150:8080/A1Sport/playlist.m3u8
 
-#EXTINF:-1,SP MEGA
-http://streamer8715.embratoria.com:9082/SP_MEGA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="cuatro"  group-title="spain",cuatro
+http://MSET-PROD-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74.m3u8
 
-#EXTINF:-1,SP CANAL SUR A
-http://streamer8715.embratoria.com:9082/SP_CANAL_SUR_A.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="TV3 CAT"  group-title="spain",TV3 CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
 
-#EXTINF:-1,SP 24 HORAS
-http://streamer8715.embratoria.com:9082/SP_24_HORAS.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="TV3 324"  group-title="spain",TV3 324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 
-#EXTINF:-1,SP FOX NEWS
-http://streamer8715.embratoria.com:9082/SP_FOX_NEWS.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="TV3 33"  group-title="spain",TV3 33
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
 
-#EXTINF:-1,SP NON STOP PEOPLE
-http://streamer8715.embratoria.com:9082/SP_NON_STOP_PEOPLE.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="RTV Vida"  group-title="spain",RTV Vida
+http://178.32.53.254:1935/radiovida/livestream/playlist.m3u8
 
-#EXTINF:-1,SP CANAL DECASA
-http://streamer8715.embratoria.com:9082/SP_CANAL_DECASA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="TV de Girona"  group-title="spain",TV de Girona
+http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
 
-#EXTINF:-1,SP CANAL COCINA
-http://streamer8715.embratoria.com:9082/SP_CANAL_COCINA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="TV del Bergued? "  group-title="spain",TV del Bergued? 
+http://cdns724ste1010.shooowit.net/berguedatvlive/amlst:live/playlist.m3u8
 
-#EXTINF:-1,SP DISCOVERY ESP
-http://streamer8715.embratoria.com:9082/SP_DISCOVERY_ESP.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Tarot Visi?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â³n TV"  group-title="spain",Tarot Visi?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â³n TV
+http://cast.streamingconnect.tv:1935/tarotvision/tarotvision/playlist.m3u8
 
-#EXTINF:-1,SP NATIONAL GEO
-http://streamer8715.embratoria.com:9082/SP_NATIONAL_GEO.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Taroteame TV"  group-title="spain",Taroteame TV
+http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
 
-#EXTINF:-1,SP NATIONAL GEO WILD
-http://streamer8715.embratoria.com:9082/SP_NATIONAL_GEO_WILD.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="TeleElx"  group-title="spain",TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
 
-#EXTINF:-1,SP HISTORIA ESP
-http://streamer8715.embratoria.com:9082/SP_HISTORIA_ESP.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Vall?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¨s Oriental"  group-title="spain",Vall?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¨s Oriental
+http://cdnlive.shooowit.net/votvlive/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,SP CAZA Y PESCA
-http://streamer8715.embratoria.com:9082/SP_CAZA_Y_PESCA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="telebilbao"  group-title="spain",telebilbao
+http://cls.todostreaming.eu/telebilbao/restricted/chunklist.m3u8
 
-#EXTINF:-1,SP CANAL ODISEA
-http://streamer8715.embratoria.com:9082/SP_CANAL_ODISEA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="miamitv"  group-title="spain",miamitv
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
 
-#EXTINF:-1,SP A&E
-http://streamer8715.embratoria.com:9082/SP_A&E.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Fox HD ESPA?ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œA"  group-title="spain",Fox HD ESPA?ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œA
+http://edgoo5.telesport.pw/live/fox/index.m3u8
 
-#EXTINF:-1,SP LTC
-http://streamer8715.embratoria.com:9082/SP_LTC.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="canal AXN Espa?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±a"  group-title="spain",canal AXN Espa?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±a
+http://edgoo7.telesport.pw/live/axn/index.m3u8
 
-#EXTINF:-1,SP CRIMEN+ INVES
-http://streamer8715.embratoria.com:9082/SP_CRIMEN+_INVES.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="MOVISTAR SERIES XTRA"  group-title="spain",MOVISTAR SERIES XTRA
+http://edga16.vergol.pw/live/plusseries/index.m3u8
 
-#EXTINF:-1,SP NICK JUNIOR
-http://streamer8715.embratoria.com:9082/SP_NICK_JUNIOR.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="MOVISTAR SERIES"  group-title="spain",MOVISTAR SERIES
+http://edga14.vergol.pw/live/plusseries/index.m3u8
 
-#EXTINF:-1,SP DISNEY  CHANNEL
-http://streamer8715.embratoria.com:9082/SP_DISNEY__CHANNEL.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="LA SEXTA HD"  group-title="spain",LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-b.m3u8
 
-#EXTINF:-1,SP DISNEY  JUNIOR
-http://streamer8715.embratoria.com:9082/SP_DISNEY__JUNIOR.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="canal Cuatro HD"  group-title="spain",canal Cuatro HD
+http://edga11.vergol.pw/live/cuatro/index.m3u8
 
-#EXTINF:-1,SP DISNEY XD
-http://streamer8715.embratoria.com:9082/SP_DISNEY_XD.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Antena 3"  group-title="spain",Canal Antena 3
+http://edga18.vergol.pw/live/antena3/index.m3u8
 
-#EXTINF:-1,SP CANAL PANDA
-http://streamer8715.embratoria.com:9082/SP_CANAL_PANDA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="TVE 1 En"  group-title="spain",TVE 1 En
+http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8
 
-#EXTINF:-1,SP BOING
-http://streamer8715.embratoria.com:9082/SP_BOING.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Divinity"  group-title="spain",Canal Divinity
+http://edge5204.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
 
-#EXTINF:-1,SP MTV ESPANA
-http://streamer8715.embratoria.com:9082/SP_MTV_ESPANA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Nova"  group-title="spain",Canal Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
-#EXTINF:-1,SP 40 TV
-http://streamer8715.embratoria.com:9082/SP_40_TV.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="CANAL TV 2"  group-title="spain",CANAL TV 2
+http://edge8207.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
 
-#EXTINF:-1,SP MEZZO
-http://streamer8715.embratoria.com:9082/SP_MEZZO.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Bein Sport"  group-title="spain",Canal Bein Sport
+http://edee10.verliga1.pw/live/ligabar/index.m3u8
 
-#EXTINF:-1,SP 0 HD
-http://streamer8715.embratoria.com:9082/SP_0_HD.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal A&E"  group-title="spain",Canal A&E
+http://cdn66.verliga.club/hls/live/ae/index.m3u8
 
-#EXTINF:-1,SP COMEDY CENTRAL
-http://streamer8715.embratoria.com:9082/SP_COMEDY_CENTRAL.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Nick"  group-title="spain",Nick
+http://flus1.sanpedrowifi.com/live/nickelodeon.SD.IRD/mono.m3u8
 
-#EXTINF:-1,SP HOLLYWOOD ESP
-http://streamer8715.embratoria.com:9082/SP_HOLLYWOOD_ESP.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="odisea"  group-title="spain",odisea
+http://edge8205.livesports.pw/live/verodiseatelef121d54573d3192a6/index.m3u8
 
-#EXTINF:-1,SP SUNDANCE
-http://streamer8715.embratoria.com:9082/SP_SUNDANCE.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Caza y Pesca"  group-title="spain",Caza y Pesca
+http://edgoo0.telesport.pw/live/cazaypesca/index.m3u8
 
-#EXTINF:-1,SP PARAMOUNT
-http://streamer8715.embratoria.com:9082/SP_PARAMOUNT_CHANNEL.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="BOING"  group-title="spain",BOING
+http://edge99006.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
 
-#EXTINF:-1,SP TCM
-http://streamer8715.embratoria.com:9082/SP_TCM.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Nat Geo Wild esp"  group-title="spain",Nat Geo Wild esp
+http://edgoo6.telesport.pw/live/nationalwild/index.m3u8
 
-#EXTINF:-1,SP AMC ESP
-http://streamer8715.embratoria.com:9082/SP_AMC_ESP.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Mega"  group-title="spain",Canal Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
-#EXTINF:-1,SP TNT
-http://streamer8715.embratoria.com:9082/SP_TNT.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="fox life es"  group-title="spain",fox life es
+http://edge2.telesport.pw/live/foxlife/index.m3u8
 
-#EXTINF:-1,SP SYFY ESP
-http://streamer8715.embratoria.com:9082/SP_SYFY_ESP.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="discovery"  group-title="spain",discovery
+http://edgoo3.telesport.pw/live/discovery/index.m3u8
 
-#EXTINF:-1,SP FOX
-http://streamer8715.embratoria.com:9082/SP_FOX.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="natgeo es"  group-title="spain",natgeo es
+http://edgoo6.telesport.pw/live/nationalgeo/index.m3u8
 
-#EXTINF:-1,SP FOX LIFE
-http://streamer8715.embratoria.com:9082/SP_FOX_LIFE.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Betis TV"  group-title="spain",Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 
-#EXTINF:-1,SP AXN
-http://streamer8715.embratoria.com:9082/SP_AXN.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="13 TV"  group-title="spain",13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
-#EXTINF:-1,SP AXN WHITE
-http://streamer8715.embratoria.com:9082/SP_AXN_WHITE.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="SEVILLA FC"  group-title="spain",SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
-#EXTINF:-1,SP CALLE 13
-http://streamer8715.embratoria.com:9082/SP_CALLE_13.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Logos tv"  group-title="spain",Logos tv
+http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
 
-#EXTINF:-1,SP COSMO
-http://streamer8715.embratoria.com:9082/SP_COSMO.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="RTV Ceuta"  group-title="spain",RTV Ceuta
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
-#EXTINF:-1,SP CLASSICA
-http://streamer8715.embratoria.com:9082/SP_CLASSICA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal 3/24"  group-title="spain",Canal 3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 
-#EXTINF:-1,SP CANAL ORBE21
-http://streamer8715.embratoria.com:9082/SP_CANAL_ORBE21.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Ribera TV"  group-title="spain",Ribera TV
+http://orion.comelson.es/ribera/livestream/playlist.m3u8
 
-#EXTINF:-1,SP ARAGON TV
-http://streamer8715.embratoria.com:9082/SP_ARAGON_TV.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="TV3"  group-title="spain",TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b1296000.m3u8
 
-#EXTINF:-1,SP GOL TV
-http://streamer8715.embratoria.com:9082/SP_GOL_TV.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Ribera TV"  group-title="spain",Ribera TV
+http://orion.comelson.es/ribera/livestream/playlist.m3u8
 
-#EXTINF:-1,SP IBERALIA TV
-http://streamer8715.embratoria.com:9082/SP_IBERALIA_TV.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Ondamex"  group-title="spain",Ondamex
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 
-#EXTINF:-1,SP M. ACCION
-http://streamer8715.embratoria.com:9082/SP_M._ACCION.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="RTVCE"  group-title="spain",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
-#EXTINF:-1,SP M. DCINE
-http://streamer8715.embratoria.com:9082/SP_M._DCINE.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Sevilla FC TV"  group-title="spain",Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
-#EXTINF:-1,SP M. COMEDIA
-http://streamer8715.embratoria.com:9082/SP_M._COMEDIA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="servitarot"  group-title="spain",servitarot
+http://87.106.232.7:1935/live/servitarot/playlist.m3u8
 
-#EXTINF:-1,SP M. ESTRENOS
-http://streamer8715.embratoria.com:9082/SP_M._ESTRENOS.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Tac 12 TV"  group-title="spain",Tac 12 TV
+http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8
 
-#EXTINF:-1,SP M. SERIES XTRA
-http://streamer8715.embratoria.com:9082/SP_M._SERIES_XTRA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="IB3 TV"  group-title="spain",IB3 TV
+https://www.youtube.com/watch?v=vYphzdRAbhA
 
-#EXTINF:-1,SP M. SERIES
-http://streamer8715.embratoria.com:9082/SP_M._SERIES.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Ceuta TV"  group-title="spain",Ceuta TV
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
-#EXTINF:-1,SP M. XTRA
-http://streamer8715.embratoria.com:9082/SP_M._XTRA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="canal blau"  group-title="spain",canal blau
+http://cdns724ste1010.shooowit.net/blautvlive/smil:blautv.smil/master.m3u8
 
-#EXTINF:-1,SP M. CINE ESPANOL
-http://streamer8715.embratoria.com:9082/SP_M._CINE_ESPANOL.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="antena3"  group-title="spain",antena3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1,SP M. FUTBOL
-http://streamer8715.embratoria.com:9082/SP_M._FUTBOL.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="25 tv"  group-title="spain",25 tv
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
 
-#EXTINF:-1,SP M. PARTIDAZO
-http://streamer8715.embratoria.com:9082/SP_M._PARTIDAZO.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="telemadrid"  group-title="spain",telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
-#EXTINF:-1,SP M. DEPORTES 1
-http://streamer8715.embratoria.com:9082/SP_M._DEPORTES_1.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="aragon tv"  group-title="spain",aragon tv
+http://cdn.s6.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698/playlist.m3u8
 
-#EXTINF:-1,SP M. DEPORTES 2
-http://streamer8715.embratoria.com:9082/SP_M._DEPORTES_2.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="A1"  group-title="spain",A1
+http://109.236.91.150:8080/a1espanmahiryahsattv/playlist.m3u8
 
-#EXTINF:-1,SP M. MOTOGP
-http://streamer8715.embratoria.com:9082/SP_M._MOTOGP.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="RT ESP"  group-title="spain",RT ESP
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 
-#EXTINF:-1,SP M. FORMULA 1 HD
-http://streamer8715.embratoria.com:9082/SP_M._FORMULA_1_HD.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Telekanal Noviy Mir"  group-title="spain",Telekanal Noviy Mir
+http://stream.studio360.tv/nw/nw_abr/playlist.m3u8
 
-#EXTINF:-1,SP M. GOLF
-http://streamer8715.embratoria.com:9082/SP_M._GOLF.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Antena 3 Series"  group-title="spain",Antena 3 Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1,SP BEIN SPORTS HD
-http://streamer8715.embratoria.com:9082/SP_BEIN_SPORTS_HD.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="canal dioc"  group-title="spain",canal dioc
+http://178.32.53.254/rtvd/livestream/playlist.m3u8
 
-#EXTINF:-1,SP BEIN SPORT
-http://streamer8715.embratoria.com:9082/SP_BEIN_SPORT.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Mega TV"  group-title="spain",Mega TV
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
-#EXTINF:-1,SP BEIN LA LIGA HD
-http://streamer8715.embratoria.com:9082/SP_BEIN_LA_LIGA_HD.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Real madrid TV"  group-title="spain",Real madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1,SP BEIN LA LIGA
-http://streamer8715.embratoria.com:9082/SP_BEIN_LA_LIGA.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="El Correo de Andaluc?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­a"  group-title="spain",El Correo de Andaluc?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­a
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
 
-#EXTINF:-1,SP LA LIGA TV HD
-http://streamer8715.embratoria.com:9082/SP_LA_LIGA_TV_HD.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="teletoledo"  group-title="spain",teletoledo
+http://cast.streamingconnect.tv:1935/teletoledo/teletoledo/playlist.m3u8
 
-#EXTINF:-1,SP LA LIGA TV
-http://streamer8715.embratoria.com:9082/SP_LA_LIGA_TV.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Esplugues TV"  group-title="spain",Esplugues TV
+http://cdns724ste1010.shooowit.net/etvlive/smil:live.smil/manifest.m3u8
 
-#EXTINF:-1,SP EUROSPORT  1
-http://streamer8715.embratoria.com:9082/SP_EUROSPORT__1.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="CYL TV"  group-title="spain",CYL TV
+http://cdn.s6.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698/playlist.m3u8
 
-#EXTINF:-1,SP EUROSPORT  2
-http://streamer8715.embratoria.com:9082/SP_EUROSPORT__2.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Costa"  group-title="spain",Canal Costa
+http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
 
-#EXTINF:-1,SP TOROS
-http://streamer8715.embratoria.com:9082/SP_TOROS.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Extremadura TV"  group-title="spain",Extremadura TV
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
-#EXTINF:-1,SP BARCA TV
-http://streamer8715.embratoria.com:9082/SP_BARCA_TV.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Parlamento"  group-title="spain",Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/playlist.m3u8
 
-#EXTINF:-1,SP REAL  MADRID
-http://streamer8715.embratoria.com:9082/SP_REAL__MADRID.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Parlamento"  group-title="spain",Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/playlist.m3u8
 
-#EXTINF:-1,SP TELEDEPORTE
-http://streamer8715.embratoria.com:9082/SP_TELEDEPORTE.m3u8?md5=iWGFchwia3ctLHbi3JYJyQ&expires=1503055458
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Terrassa"  group-title="spain",Canal Terrassa
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Cetelmon TV"  group-title="spain",Cetelmon TV
+http://84.232.79.194:8090/cetelmontv.flv
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="ETB Sat"  group-title="spain",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Galicia TV"  group-title="spain",Galicia TV
+http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Hit TV"  group-title="spain",Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Huesca TV"  group-title="spain",Huesca TV
+rtmp://streaming2.radiohuesca.com/live/huescatv
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="IB3 Global"  group-title="spain",IB3 Global
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Im??s TV"  group-title="spain",Im??s TV
+http://cls.imastv.es/imastv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="La Sexta"  group-title="spain",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Lancelot TV"  group-title="spain",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="MarTV"  group-title="spain",MarTV
+http://k4.usastreams.com/CableLatino/martv/playlist.m3u8
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="COCINA"  group-title="spain",COCINA
+http://edgoo0.telesport.pw/live/cocina/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Canal Plus Toros"  group-title="spain",Canal Plus Toros
+http://edga12.vergol.pw/live/toros1/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="canal crimen"  group-title="spain",canal crimen
+http://edgoo2.telesport.pw/live/canalcrimen/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="PLUS  O"  group-title="spain",PLUS  O
+http://edge3505.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="MTV Live Espa?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±a"  group-title="spain",MTV Live Espa?ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±a
+http://edgoo5.telesport.pw/live/mtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="canal historia"  group-title="spain",canal historia
+http://edgoo1.telesport.pw/live/historia/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="La 1"  group-title="spain",La 1
+http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="La 2"  group-title="spain",La 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="Tdp"  group-title="spain",Tdp
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream2.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="24h"  group-title="spain",24h
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="24h plus"  group-title="spain",24h plus
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="canal plus series"  group-title="spain",canal plus series
+http://edge8207.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="M deportes1"  group-title="spain",M deportes1
+http://edga16.vergol.pw/live/plusdeportes/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="M deportes1"  group-title="spain",M deportes2
+http://edga15.vergol.pw/live/plusdeportes2/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="plus estrenos"  group-title="spain",plus estrenos
+http://edga15.vergol.pw/live/plusdeportes2/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="plus estrenos"  group-title="spain",canal crimen
+http://edgoo4.telesport.pw/live/canalcrimen/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="plus accion"  group-title="spain",plus accion
+http://edgoo1.telesport.pw/live/plusaccion/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="d cine"  group-title="spain",d cine
+http://edgoo7.telesport.pw/live/dcine/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="comedia"  group-title="spain",comedia
+http://edgoo6.telesport.pw/live/comedia/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="rcn"  group-title="spain",rcn
+http://edga17.vergol.pw/live/rcn/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo" tvg-name="winsport"  group-title="spain",winsport
+http://edga12.vergol.pw/live/winsport/index.m3u8
