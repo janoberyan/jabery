@@ -1,45 +1,17 @@
-
-
 #EXTM3U
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS News
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/682.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS Global
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/683.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 1HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/684.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 2HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/685.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 3HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/686.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 4HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/687.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 5HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/688.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 6HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/689.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 7HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/690.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 8HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/691.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 9HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/692.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 10HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/693.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 11HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/694.ts
-#EXTVLCOPT:http-user-agent=vvvvv LibVLC/3.0.0-git
-#EXTINF:-1,beINSPORTS 12HD
-http://glmed.mywire.org:8899/live/tvprima103/primaiptv113/695.ts
+#EXTINF:-1,BEINSPORTS-full1HD
+http://217.182.16.97:8000/live/43691503885542/43691503885542/15.ts
+#EXTINF:-1,BEINSPORTS-full2HD
+http://217.182.16.97:8000/live/43691503885542/43691503885542/16.ts
+#EXTINF:-1,BEINSPORTS-full3HD
+http://217.182.16.97:8000/live/43691503885542/43691503885542/17.ts
+#EXTINF:-1,BEINSPORTS_4_HD
+http://217.182.16.97:8000/live/43691503885542/43691503885542/6.ts
+#EXTINF:-1,BeinSports_5_HD
+http://217.182.16.97:8000/live/43691503885542/43691503885542/5.ts
+#EXTINF:-1,BeinSports_6_HD
+http://217.182.16.97:8000/live/43691503885542/43691503885542/4.ts
+#EXTINF:-1,BeinSports_7_HD
+http://217.182.16.97:8000/live/43691503885542/43691503885542/3.ts
+#EXTINF:-1,BeinSports_8_HD
+http://217.182.16.97:8000/live/43691503885542/43691503885542/2.ts
