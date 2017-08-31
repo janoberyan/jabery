@@ -1,162 +1,75 @@
 
-#EXTINF:-1,======EGYPT Group======
-http://kngofdns.freeddns.org:8888/16112_Althanya/index.m3u8
-#EXTINF:-1 group-title="egypt",Althanya
-http://kngofdns.freeddns.org:8888/16112_Althanya/index.m3u8
-#EXTINF:-1 group-title="egypt",RotanaMasriya
-http://kngofdns.freeddns.org:8888/16016_RotanaMasriya/index.m3u8
-#EXTINF:-1 group-title="egypt",CBCSofra
-http://kngofdns.freeddns.org:8888/16024_CBCSofra/index.m3u8
-#EXTINF:-1 group-title="egypt",CBCExtra
-http://kngofdns.freeddns.org:8888/16025_CBCExtra/index.m3u8
-#EXTINF:-1 group-title="egypt",CBCDrama
-http://kngofdns.freeddns.org:8888/16026_CBCDrama/index.m3u8
-#EXTINF:-1 group-title="egypt",CBC+2AbuDhabi
-http://kngofdns.freeddns.org:8888/16027_CBC+2AbuDhabi/index.m3u8
-#EXTINF:-1 group-title="egypt",CBC
-http://kngofdns.freeddns.org:8888/16034_CBC/index.m3u8
-#EXTINF:-1 group-title="egypt",AlNaharAlYoum
-http://kngofdns.freeddns.org:8888/16038_AlNaharAlYoum/index.m3u8
-#EXTINF:-1 group-title="egypt",AlNahar2
-http://kngofdns.freeddns.org:8888/16039_AlNahar2/index.m3u8
-#EXTINF:-1 group-title="egypt",AlKaheraWalNas2
-http://kngofdns.freeddns.org:8888/16040_AlKaheraWalNas2/index.m3u8
-#EXTINF:-1 group-title="egypt",AlKarama
-http://kngofdns.freeddns.org:8888/16041_AlKarama/index.m3u8
-#EXTINF:-1 group-title="egypt",CopticTV
-http://kngofdns.freeddns.org:8888/16042_CopticTV/index.m3u8
-#EXTINF:-1 group-title="egypt",Dream2
-http://kngofdns.freeddns.org:8888/16043_Dream2/index.m3u8
-#EXTINF:-1 group-title="egypt",AGHAPYTV
-http://kngofdns.freeddns.org:8888/16044_AGHAPYTV/index.m3u8
-#EXTINF:-1 group-title="news",France24
-http://kngofdns.freeddns.org:8888/16045_France24/index.m3u8
-#EXTINF:-1 group-title="egypt",PanoramaComedy
-http://kngofdns.freeddns.org:8888/16047_PanoramaComedy/index.m3u8
-#EXTINF:-1 group-title="egypt",PanoramaCinema
-http://kngofdns.freeddns.org:8888/16048_PanoramaCinema/index.m3u8
-#EXTINF:-1 group-title="egypt",ALKaramaTV
-http://kngofdns.freeddns.org:8888/16049_ALKaramaTV/index.m3u8
-#EXTINF:-1 group-title="egypt",MOGACinema
-http://kngofdns.freeddns.org:8888/16050_MOGACinema/index.m3u8
-#EXTINF:-1 group-title="egypt",AlMalakoot
-http://kngofdns.freeddns.org:8888/16051_AlMalakoot/index.m3u8
-#EXTINF:-1 group-title="egypt",CairoAflam
-http://kngofdns.freeddns.org:8888/16052_CairoAflam/index.m3u8
-#EXTINF:-1 group-title="egypt",sadaMisr
-http://kngofdns.freeddns.org:8888/16057_sadaMisr/index.m3u8
-#EXTINF:-1 group-title="egypt",MisrELBald
-http://kngofdns.freeddns.org:8888/16058_MisrELBald/index.m3u8
-#EXTINF:-1 group-title="egypt",NileSport
-http://kngofdns.freeddns.org:8888/16059_NileSport/index.m3u8
-#EXTINF:-1 group-title="egypt",NileLife
-http://kngofdns.freeddns.org:8888/16060_NileLife/index.m3u8
-#EXTINF:-1 group-title="egypt",NileDrama
-http://kngofdns.freeddns.org:8888/16061_NileDrama/index.m3u8
-#EXTINF:-1 group-title="egypt",NileCulture
-http://kngofdns.freeddns.org:8888/16062_NileCulture/index.m3u8
-#EXTINF:-1 group-title="egypt",NileCinema
-http://kngofdns.freeddns.org:8888/16063_NileCinema/index.m3u8
-#EXTINF:-1 group-title="egypt",NILENEWS
-http://kngofdns.freeddns.org:8888/16064_NILENEWS/index.m3u8
-#EXTINF:-1 group-title="egypt",NILECOMEDY
-http://kngofdns.freeddns.org:8888/16065_NILECOMEDY/index.m3u8
-#EXTINF:-1 group-title="egypt",OctoberTV
-http://kngofdns.freeddns.org:8888/16067_OctoberTV/index.m3u8
-#EXTINF:-1 group-title="egypt",AlHorreya
-http://kngofdns.freeddns.org:8888/16068_AlHorreya/index.m3u8
-#EXTINF:-1 group-title="egypt",AlFady
-http://kngofdns.freeddns.org:8888/16069_AlFady/index.m3u8
-#EXTINF:-1 group-title="egypt",TheWayTV
-http://kngofdns.freeddns.org:8888/16071_TheWayTV/index.m3u8
-#EXTINF:-1 group-title="egypt",LogosTV
-http://kngofdns.freeddns.org:8888/16072_LogosTV/index.m3u8
-#EXTINF:-1 group-title="egypt",TabahTV
-http://kngofdns.freeddns.org:8888/16073_TabahTV/index.m3u8
-#EXTINF:-1 group-title="egypt",TheSavior
-http://kngofdns.freeddns.org:8888/16074_TheSavior/index.m3u8
-#EXTINF:-1 group-title="egypt",AlNahardrama
-http://kngofdns.freeddns.org:8888/16090_AlNahardrama/index.m3u8
-#EXTINF:-1 group-title="egypt",LAYALIONS
-http://kngofdns.freeddns.org:8888/16102_LAYALIONS/index.m3u8
-#EXTINF:-1 group-title="egypt",MASRALHAYAH
-http://kngofdns.freeddns.org:8888/16103_MASRALHAYAH/index.m3u8
-#EXTINF:-1 group-title="egypt",SOUTMASR
-http://kngofdns.freeddns.org:8888/16108_SOUTMASR/index.m3u8
-#EXTINF:-1 group-title="egypt",ONTV
-http://kngofdns.freeddns.org:8888/16115_ONTV/index.m3u8
-#EXTINF:-1 group-title="egypt",niletv
-http://kngofdns.freeddns.org:8888/16116_niletv/index.m3u8
-#EXTINF:-1 group-title="egypt",AlhayatMuslsalat
-http://kngofdns.freeddns.org:8888/16118_AlhayatMuslsalat/index.m3u8
-#EXTINF:-1 group-title="egypt",Mehwer
-http://kngofdns.freeddns.org:8888/16120_Mehwer/index.m3u8
-#EXTINF:-1 group-title="egypt",SadaElBalad
-http://kngofdns.freeddns.org:8888/16121_SadaElBalad/index.m3u8
-#EXTINF:-1 group-title="egypt",PanoramaDrama
-http://kngofdns.freeddns.org:8888/16134_PanoramaDrama/index.m3u8
-#EXTINF:-1 group-title="egypt",PanoramaDrama2
-http://kngofdns.freeddns.org:8888/16135_PanoramaDrama2/index.m3u8
-#EXTINF:-1 group-title="test",AlAhlyTV
-http://kngofdns.freeddns.org:8888/16136_AlAhlyTV/index.m3u8
-#EXTINF:-1 group-title="egypt",PanoramaFood
-http://kngofdns.freeddns.org:8888/16137_PanoramaFood/index.m3u8
-#EXTINF:-1 group-title="egypt",AlNaharSport
-http://kngofdns.freeddns.org:8888/16139_AlNaharSport/index.m3u8
-#EXTINF:-1 group-title="egypt",MESat
-http://kngofdns.freeddns.org:8888/16140_MESat/index.m3u8
-#EXTINF:-1 group-title="egypt",ALhayat-EGYPT
-http://kngofdns.freeddns.org:8888/16147_ALhayat-EGYPT/index.m3u8
-#EXTINF:-1 group-title="egypt",AlhayatWeAlnas
-http://kngofdns.freeddns.org:8888/16148_AlhayatWeAlnas/index.m3u8
-#EXTINF:-1 group-title="egypt",TEN2
-http://kngofdns.freeddns.org:8888/16151_TEN2/index.m3u8
-#EXTINF:-1 group-title="egypt",Azhari
-http://kngofdns.freeddns.org:8888/16160_Azhari/index.m3u8
-#EXTINF:-1 group-title="egypt",ALNADATV
-http://kngofdns.freeddns.org:8888/16162_ALNADATV/index.m3u8
-#EXTINF:-1 group-title="egypt",MEKAMELEENTV
-http://kngofdns.freeddns.org:8888/16189_MEKAMELEENTV/index.m3u8
-#EXTINF:-1 group-title="egypt",MOSALSALATTUBE
-http://kngofdns.freeddns.org:8888/16203_MOSALSALATTUBE/index.m3u8
-#EXTINF:-1 group-title="egypt",HAREEMELSULTAN
-http://kngofdns.freeddns.org:8888/16216_HAREEMELSULTAN/index.m3u8
-#EXTINF:-1 group-title="egypt",GoodFood1
-http://kngofdns.freeddns.org:8888/16217_GoodFood1/index.m3u8
-#EXTINF:-1 group-title="egypt",TATT7
-http://kngofdns.freeddns.org:8888/16206_TATT7/index.m3u8
-#EXTINF:-1 group-title="egypt",Set-ElBeit
-http://kngofdns.freeddns.org:8888/16224_Set-ElBeit/index.m3u8
-#EXTINF:-1 group-title="egypt",Set-ElBeit
-http://kngofdns.freeddns.org:8888/16224_Set-ElBeit/index.m3u8
-#EXTINF:-1 group-title="egypt",ONTVEgypt
-http://kngofdns.freeddns.org:8888/16270_ONTVEgypt/index.m3u8
-#EXTINF:-1 group-title="egypt",ALmasriya
-http://kngofdns.freeddns.org:8888/16280_ALmasriya/index.m3u8
-#EXTINF:-1 group-title="egypt",AlKaheraWalNas
-http://kngofdns.freeddns.org:8888/16282_AlKaheraWalNas/index.m3u8
-#EXTINF:-1 group-title="egypt",AlNahar
-http://kngofdns.freeddns.org:8888/16288_AlNahar/index.m3u8
-#EXTINF:-1 group-title="egypt",ELBILADTV
-http://kngofdns.freeddns.org:8888/16289_ELBILADTV/index.m3u8
-#EXTINF:-1 group-title="egypt",AlYawm
-http://kngofdns.freeddns.org:8888/16297_AlYawm/index.m3u8
-#EXTINF:-1 group-title="egypt",westelbalad
-http://kngofdns.freeddns.org:8888/16299_westelbalad/index.m3u8
-#EXTINF:-1 group-title="egypt",HalabaTV
-http://kngofdns.freeddns.org:8888/16306_HalabaTV/index.m3u8
-#EXTINF:-1 group-title="egypt",TIMEQURAN
-http://kngofdns.freeddns.org:8888/16311_TIMEQURAN/index.m3u8
-#EXTINF:-1 group-title="egypt",TAL2ARO3B
-http://kngofdns.freeddns.org:8888/16312_TAL2ARO3B/index.m3u8
-#EXTINF:-1 group-title="egypt",ALRAHMA
-http://kngofdns.freeddns.org:8888/16321_ALRAHMA/index.m3u8
-#EXTINF:-1 group-title="egypt",LTC
-http://kngofdns.freeddns.org:8888/16324_LTC/index.m3u8
-#EXTINF:-1 group-title="egypt",ELMOLED
-http://kngofdns.freeddns.org:8888/16325_ELMOLED/index.m3u8
-#EXTINF:-1 group-title="egypt",SadaElBaladDrama
-http://kngofdns.freeddns.org:8888/16337_SadaElBaladDrama/index.m3u8
-#EXTINF:-1 group-title="egypt",AlHayat2
-http://kngofdns.freeddns.org:8888/16010_AlHayat2/index.m3u8
-
+#EXTINF:-1,======EGYPT Group=======
+http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,AR-ALHAYAT
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4501.ts
+#EXTINF:-1,AR-ALHAYAT2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4209.ts
+#EXTINF:-1,AR-ALHAYATMOUSALSALET
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4265.ts
+#EXTINF:-1,AR-ALHAYATTV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4048.ts
+#EXTINF:-1,AR-CBC
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4500.ts
+#EXTINF:-1,AR-CBCDRAMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4264.ts
+#EXTINF:-1,AR-CBCEXTRA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4208.ts
+#EXTINF:-1,AR-CBCSOFRA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4315.ts
+#EXTINF:-1,AR-NILATTV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4134.ts
+#EXTINF:-1,AR-NILECINEMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4051.ts
+#EXTINF:-1,AR-NILECOMEDY
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4168.ts
+#EXTINF:-1,AR-NILECULTURE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4052.ts
+#EXTINF:-1,AR-NILEDRAMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4226.ts
+#EXTINF:-1,AR-NILEFAMILY
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4227.ts
+#EXTINF:-1,AR-NILELIFE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4053.ts
+#EXTINF:-1,AR-NILENEWS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4187.ts
+#EXTINF:-1,AR-NILESPORT
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4221.ts
+#EXTINF:-1,AR-NILETV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4169.ts
+#EXTINF:-1,AR-ALNAHAR
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4499.ts
+#EXTINF:-1,AR-ALNAHARDRAMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4314.ts
+#EXTINF:-1,AR-CAIROCINEMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4399.ts
+#EXTINF:-1,AR-CAIRODRAMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4286.ts
+#EXTINF:-1,AR-CAIROUNIVERSITY1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4398.ts
+#EXTINF:-1,AR-CIMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4106.ts
+#EXTINF:-1,AR-CIMAALIBABA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4469.ts
+#EXTINF:-1,AR-CIMAFARTAKA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4330.ts
+#EXTINF:-1,AR-PANORAMAACTIONTV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4560.ts
+#EXTINF:-1,AR-PANORAMADRAMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4397.ts
+#EXTINF:-1,AR-PANORAMADRAMA2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4107.ts
+#EXTINF:-1,AR-PANORAMAFILM
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4331.ts
+#EXTINF:-1,AR-PANOROMAFOOD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4436.ts
+#EXTINF:-1,AR-ALAHLYCLUBTV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4220.ts
+#EXTINF:-1,AR-DMC
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4263.ts
+#EXTINF:-1,AR-DMCDRAMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4087.ts
+#EXTINF:-1,AR-DMCSPORTS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4160.ts
+#EXTINF:-1,AR-HALABATV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4459.ts
