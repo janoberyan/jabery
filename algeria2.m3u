@@ -1,27 +1,33 @@
 
-
-
-#EXTINF:-1,======ALGERIA Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-#EXTINF:-1 group-title="algeria",DZairTV
-http://kngofdns.freeddns.org:8888/16287_DZairTV/index.m3u8
-#EXTINF:-1 group-title="algeria",Dzair24
-http://kngofdns.freeddns.org:8888/16313_Dzair24/index.m3u8
-#EXTINF:-1 group-title="algeria",Dzair21PUB
-http://kngofdns.freeddns.org:8888/16101_Dzair21PUB/index.m3u8
-#EXTINF:-1 group-title="algeria",SaharaTVAlgeria
-http://kngofdns.freeddns.org:8888/16077_SaharaTVAlgeria/index.m3u8
-#EXTINF:-1 group-title="algeria",BZAFTV
-http://kngofdns.freeddns.org:8888/16078_BZAFTV/index.m3u8
-#EXTINF:-1 group-title="algeria",SamiraTV
-http://kngofdns.freeddns.org:8888/16117_SamiraTV/index.m3u8
-#EXTINF:-1 group-title="algeria",CNA
-http://kngofdns.freeddns.org:8888/16304_CNA/index.m3u8
-#EXTINF:-1 group-title="algeria",ENNAHARTV
-http://kngofdns.freeddns.org:8888/16315_ENNAHARTV/index.m3u8
-#EXTINF:-1 group-title="algeria",EchoroukNews
-http://kngofdns.freeddns.org:8888/16319_EchoroukNews/index.m3u8
-#EXTINF:-1 group-title="algeria",ELKHABARKBCAlgeria
-http://kngofdns.freeddns.org:8888/16334_ELKHABARKBCAlgeria/index.m3u8
-#EXTINF:-1 group-title="algeria",NumidiaNewsTV
-http://kngofdns.freeddns.org:8888/16336_NumidiaNewsTV/index.m3u8
+#EXTINF:-1,======ALGEIRIA Group=======
+http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,AR-DZAIERNEWS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4243.ts
+#EXTINF:-1,AR-DZAIR16
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4066.ts
+#EXTINF:-1,AR-DZAIR24
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4296.ts
+#EXTINF:-1,AR-DZAIRTV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4067.ts
+#EXTINF:-1,AR-ECHOUROUKBENNA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4256.ts
+#EXTINF:-1,AR-ECHOUROUKNEWS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4352.ts
+#EXTINF:-1,AR-ECHOUROUKTVHD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4438.ts
+#EXTINF:-1,AR-NUMIDIANEWSTV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4120.ts
+#EXTINF:-1,AR-KBC
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4336.ts
+#EXTINF:-1,AR-SAMIRA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4141.ts
+#EXTINF:-1,AR-MEDI1TV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4479.ts
+#EXTINF:-1,AR-CANALALGERIA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4070.ts
+#EXTINF:-1,AR-TV4
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4068.ts
+#EXTINF:-1,AR-TVCORAN
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4082.ts
+#EXTINF:-1,AR-TVTAMAZIGHT
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4338.ts
