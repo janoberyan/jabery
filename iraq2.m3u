@@ -1,84 +1,66 @@
 
-
-#EXTINF:-1,======IRAQ Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-
-#EXTINF:-1 group-title="iraq",ALSHARQIYA
-http://kngofdns.freeddns.org:8888/16348_ALSHARQIYA/index.m3u8
-#EXTINF:-1 group-title="iraq",ALAnwar
-http://kngofdns.freeddns.org:8888/16300_ALAnwar/index.m3u8
-#EXTINF:-1 group-title="iraq",Afak
-http://kngofdns.freeddns.org:8888/16275_Afak/index.m3u8
-#EXTINF:-1 group-title="iraq",AlAhd
-http://kngofdns.freeddns.org:8888/16276_AlAhd/index.m3u8
-#EXTINF:-1 group-title="iraq",ALDiyar
-http://kngofdns.freeddns.org:8888/16277_ALDiyar/index.m3u8
-#EXTINF:-1 group-title="iraq",Altaghier
-http://kngofdns.freeddns.org:8888/16278_Altaghier/index.m3u8
-#EXTINF:-1 group-title="iraq",ALMADATV
-http://kngofdns.freeddns.org:8888/16279_ALMADATV/index.m3u8
-#EXTINF:-1 group-title="iraq",ALHurraIraq
-http://kngofdns.freeddns.org:8888/16281_ALHurraIraq/index.m3u8
-#EXTINF:-1 group-title="iraq",KARBALATV
-http://kngofdns.freeddns.org:8888/16284_KARBALATV/index.m3u8
-#EXTINF:-1 group-title="iraq",AlFayhaaTV
-http://kngofdns.freeddns.org:8888/16267_AlFayhaaTV/index.m3u8
-#EXTINF:-1 group-title="iraq",AlitejahTV
-http://kngofdns.freeddns.org:8888/16271_AlitejahTV/index.m3u8
-#EXTINF:-1 group-title="iraq",AlGhadeer
-http://kngofdns.freeddns.org:8888/16272_AlGhadeer/index.m3u8
-#EXTINF:-1 group-title="iraq",Al-AqilaT
-http://kngofdns.freeddns.org:8888/16273_Al-AqilaT/index.m3u8
-#EXTINF:-1 group-title="iraq",AlMawsleya
-http://kngofdns.freeddns.org:8888/16237_AlMawsleya/index.m3u8
-#EXTINF:-1 group-title="iraq",ALHadathIraq
-http://kngofdns.freeddns.org:8888/16238_ALHadathIraq/index.m3u8
-#EXTINF:-1 group-title="iraq",LANATV
-http://kngofdns.freeddns.org:8888/16239_LANATV/index.m3u8
-#EXTINF:-1 group-title="iraq",HonaBaghdad
-http://kngofdns.freeddns.org:8888/16240_HonaBaghdad/index.m3u8
-#EXTINF:-1 group-title="iraq",Beladi
-http://kngofdns.freeddns.org:8888/16241_Beladi/index.m3u8
-#EXTINF:-1 group-title="iraq",IraqiaTVnews
-http://kngofdns.freeddns.org:8888/16153_IraqiaTVnews/index.m3u8
-#EXTINF:-1 group-title="iraq",AlSumariaTV
-http://kngofdns.freeddns.org:8888/16154_AlSumariaTV/index.m3u8
-#EXTINF:-1 group-title="iraq",ALAnbar
-http://kngofdns.freeddns.org:8888/16155_ALAnbar/index.m3u8
-#EXTINF:-1 group-title="iraq",AlRafiden
-http://kngofdns.freeddns.org:8888/16156_AlRafiden/index.m3u8
-#EXTINF:-1 group-title="iraq",Gali_Kurdistan
-http://kngofdns.freeddns.org:8888/16122_Gali_Kurdistan/index.m3u8
-#EXTINF:-1 group-title="iraq",AnwarTV2
-http://kngofdns.freeddns.org:8888/16070_AnwarTV2/index.m3u8
-#EXTINF:-1 group-title="iraq",SAMARRATV
-http://kngofdns.freeddns.org:8888/16106_SAMARRATV/index.m3u8
-#EXTINF:-1 group-title="iraq",AlNoujaba
-http://kngofdns.freeddns.org:8888/16144_AlNoujaba/index.m3u8
-#EXTINF:-1 group-title="iraq",Al-ShahedTV
-http://kngofdns.freeddns.org:8888/16178_Al-ShahedTV/index.m3u8
-#EXTINF:-1 group-title="iraq",KirkukTV
-http://kngofdns.freeddns.org:8888/16179_KirkukTV/index.m3u8
-#EXTINF:-1 group-title="iraq",DamaaTV
-http://kngofdns.freeddns.org:8888/16181_DamaaTV/index.m3u8
-#EXTINF:-1 group-title="iraq",KURDMAX
-http://kngofdns.freeddns.org:8888/16191_KURDMAX/index.m3u8
-#EXTINF:-1 group-title="iraq",ishtar
-http://kngofdns.freeddns.org:8888/16195_ishtar/index.m3u8
-#EXTINF:-1 group-title="iraq",ISHTAR
-http://kngofdns.freeddns.org:8888/16225_ISHTAR/index.m3u8
-#EXTINF:-1 group-title="iraq",ISHTAR
-http://kngofdns.freeddns.org:8888/16225_ISHTAR/index.m3u8
-#EXTINF:-1 group-title="iraq",ALKAWTHAR
-http://kngofdns.freeddns.org:8888/16350_ALKAWTHAR/index.m3u8
-#EXTINF:-1 group-title="iraq",IraqiaSport
-http://kngofdns.freeddns.org:8888/16351_IraqiaSport/index.m3u8
-#EXTINF:-1 group-title="iraq",fadak
-http://kngofdns.freeddns.org:8888/16352_fadak/index.m3u8
-#EXTINF:-1 group-title="iraq",IraqNow
-http://kngofdns.freeddns.org:8888/16053_IraqNow/index.m3u8
-#EXTINF:-1 group-title="iraq",BAGHDADTV
-http://kngofdns.freeddns.org:8888/16055_BAGHDADTV/index.m3u8
-#EXTINF:-1 group-title="iraq",IraqFutureTV
-http://kngofdns.freeddns.org:8888/16056_IraqFutureTV/index.m3u8
+#EXTINF:-1,======IRAQ Group=======
+http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,AR-ALSHARQIYA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4148.ts
+#EXTINF:-1,AR-ALSHARQIYANEWS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4300.ts
+#EXTINF:-1,AR-SUMARIA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4445.ts
+#EXTINF:-1,AR-DIJLAH
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4316.ts
+#EXTINF:-1,AR-ANB
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4244.ts
+#EXTINF:-1,AR-IRAQEDU
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4371.ts
+#EXTINF:-1,AR-IRAQFUTURE
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4370.ts
+#EXTINF:-1,AR-IRAQIASPORT
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4388.ts
+#EXTINF:-1,AR-IRAQMEDICAL
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4444.ts
+#EXTINF:-1,AR-ALFORAT
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4332.ts
+#EXTINF:-1,AR-ALRAFIDEN
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4317.ts
+#EXTINF:-1,AR-ALRASHEED
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4057.ts
+#EXTINF:-1,AR-BELADI
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4056.ts
+#EXTINF:-1,AR-ALBAGHDADIANOW
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4288.ts
+#EXTINF:-1,AR-HONABAGHDAD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4473.ts
+#EXTINF:-1,AR-KARBALATV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4304.ts
+#EXTINF:-1,AR-ALANBARTV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4171.ts
+#EXTINF:-1,AR-ALANWAR
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4358.ts
+#EXTINF:-1,AR-ALANWAR2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4196.ts
+#EXTINF:-1,AR-ALHURRAIRAQ
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4486.ts
+#EXTINF:-1,AR-ALIRAQIA1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4372.ts
+#EXTINF:-1,AR-ALIRAQIANEWS
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4125.ts
+#EXTINF:-1,AR-ALQAMAR
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4130.ts
+#EXTINF:-1,AR-BELADI
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4056.ts
+#EXTINF:-1,AR-NAYNAWAALGHAD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4109.ts
+#EXTINF:-1,AR-ALSALAMTV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4285.ts
+#EXTINF:-1,AR-ALGHADEER
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4472.ts
+#EXTINF:-1,AR-ALMASIRAH
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4334.ts
+#EXTINF:-1,AR-ALWALAATV
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4327.ts
+#EXTINF:-1,AR-WESAL
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4361.ts
+#EXTINF:-1,AR-ALMAAREF
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4147.ts
 
