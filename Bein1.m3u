@@ -1,7 +1,10 @@
 
 #EXTINF:-1,======BEIN SPORTS Group=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
-
+#EXTINF:-1,AR-BEINSPORTSNEWSHD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4458.ts
+#EXTINF:-1,AR-BEINSPORTNBAHD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4030.ts
 #EXTINF:-1,AR-BEIN1HD
 http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4014.ts
 #EXTINF:-1,AR-BEIN2HD
