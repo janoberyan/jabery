@@ -1,38 +1,28 @@
 
 #EXTINF:-1,======BEIN SPORTS Group=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
-#EXTINF:-1,bein sport1 sd
-http://hdspo.gcdn.co/bn-sp-1-hd/index.m3u8
 
-#EXTINF:-1,bein sport2
-http://spgss.gcdn.co/bn-sp-2-hd/index.m3u8
-
-#EXTINF:-1,bein sport3
-http://spgss.gcdn.co/bn-sp-3-hd/index.m3u8
-
-#EXTINF:-1,bein sport4 
-http://spgss.gcdn.co/bn-sp-4-hd/index.m3u8
-
-#EXTINF:-1,bein sport5 
-http://spgss.gcdn.co/bn-sp-5-hd/index.m3u8
-
-#EXTINF:-1,bein sport6
-http://spgss.gcdn.co/bn-sp-6-hd/index.m3u8
-
-#EXTINF:-1,bein sport7
-http://spgss.gcdn.co/bn-sp-7-hd/index.m3u8
-
-#EXTINF:-1,bein sport8
-http://spgss.gcdn.co/bn-sp-8-hd/index.m3u8
-
-#EXTINF:-1,bein sport9
-http://spgss.gcdn.co/bn-sp-9-hd/index.m3u8
-
-#EXTINF:-1,bein sport10
-http://spgss.gcdn.co/bn-sp-10-hd/index.m3u8
-
-#EXTINF:-1,bein sport11
-http://spgss.gcdn.co/bn-sp-11-hd/index.m3u8
-
-#EXTINF:-1,bein sport12
-http://spgss.gcdn.co/bn-sp-12-hd/index.m3u8
+#EXTINF:-1,AR-BEIN1HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4014.ts
+#EXTINF:-1,AR-BEIN2HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4537.ts
+#EXTINF:-1,AR-BEIN3HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4033.ts
+#EXTINF:-1,AR-BEIN4HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4536.ts
+#EXTINF:-1,AR-BEIN5HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4559.ts
+#EXTINF:-1,AR-BEIN6HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4000.ts
+#EXTINF:-1,AR-BEIN7SD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/3998.ts
+#EXTINF:-1,AR-BEIN8HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4013.ts
+#EXTINF:-1,AR-BEIN9HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4032.ts
+#EXTINF:-1,AR-BEIN10HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/3999.ts
+#EXTINF:-1,AR-BEIN11HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4558.ts
+#EXTINF:-1,AR-BEIN12HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4012.ts
