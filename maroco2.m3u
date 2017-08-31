@@ -1,18 +1,14 @@
-
-
-
-#EXTINF:-1,======MOROCO Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-
-#EXTINF:-1 group-title="maroco",2m
-http://kngofdns.freeddns.org:8888/16029_2m/index.m3u8
-#EXTINF:-1 group-title="maroco",AlAOULA
-http://kngofdns.freeddns.org:8888/16030_AlAOULA/index.m3u8
-#EXTINF:-1 group-title="maroco",AlMaghribia
-http://kngofdns.freeddns.org:8888/16031_AlMaghribia/index.m3u8
-#EXTINF:-1 group-title="maroco",Arrabiaa
-http://kngofdns.freeddns.org:8888/16032_Arrabiaa/index.m3u8
-#EXTINF:-1 group-title="maroco",Arriadia
-http://kngofdns.freeddns.org:8888/16033_Arriadia/index.m3u8
-#EXTINF:-1 group-title="maroco",Assadissa
-http://kngofdns.freeddns.org:8888/16286_Assadissa/index.m3u8
+#EXTINF:-1,======MOROCO Group=======
+http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,AR-ASSADISSA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4072.ts
+#EXTINF:-1,AR-2MMAROC
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4118.ts
+#EXTINF:-1,AR-ARRIADIA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4278.ts
+#EXTINF:-1,AR-ARRABIAA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4340.ts
+#EXTINF:-1,AR-ALMAGHARIBIA2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4412.ts
+#EXTINF:-1,AR-ALMAGHRIBIA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4234.ts
