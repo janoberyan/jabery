@@ -1,40 +1,36 @@
-
-
-#EXTINF:-1,======MBC Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-
-#EXTINF:-1 group-title="mbc",MBC1
-http://kngofdns.freeddns.org:8888/16000_MBC1/index.m3u8
-#EXTINF:-1 group-title="mbc",MBC2
-http://kngofdns.freeddns.org:8888/16001_MBC2/index.m3u8
-#EXTINF:-1 group-title="mbc",MBC3
-http://kngofdns.freeddns.org:8888/16002_MBC3/index.m3u8
-#EXTINF:-1 group-title="mbc",MBC4
-http://kngofdns.freeddns.org:8888/16003_MBC4/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCAction
-http://kngofdns.freeddns.org:8888/16004_MBCAction/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCDrama
-http://kngofdns.freeddns.org:8888/16005_MBCDrama/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCMAX
-http://kngofdns.freeddns.org:8888/16006_MBCMAX/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCBollywood
-http://kngofdns.freeddns.org:8888/16007_MBCBollywood/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCMaser
-http://kngofdns.freeddns.org:8888/16009_MBCMaser/index.m3u8
-#EXTINF:-1 group-title="music",MBCMasr2
-http://kngofdns.freeddns.org:8888/16119_MBCMasr2/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO1
-http://kngofdns.freeddns.org:8888/16218_MBCPRO1/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO2
-http://kngofdns.freeddns.org:8888/16219_MBCPRO2/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO3
-http://kngofdns.freeddns.org:8888/16220_MBCPRO3/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO3
-http://kngofdns.freeddns.org:8888/16220_MBCPRO3/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO4
-http://kngofdns.freeddns.org:8888/16221_MBCPRO4/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO4
-http://kngofdns.freeddns.org:8888/16221_MBCPRO4/index.m3u8
-
-
-
+#EXTINF:-1,AR-MBC1HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4524.ts
+#EXTINF:-1,AR-MBC2HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4022.ts
+#EXTINF:-1,AR-MBC3HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4569.ts
+#EXTINF:-1,AR-MBC4HD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4568.ts
+#EXTINF:-1,AR-MBCACTIONHD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4006.ts
+#EXTINF:-1,AR-MBCDRAMAHD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4042.ts
+#EXTINF:-1,AR-MBCMAXHD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4043.ts
+#EXTINF:-1,AR-MBCVARIETYHD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4570.ts
+#EXTINF:-1,AR-MBC1
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4384.ts
+#EXTINF:-1,AR-MBC2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4455.ts
+#EXTINF:-1,AR-MBC3
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4324.ts
+#EXTINF:-1,AR-MBC4
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4383.ts
+#EXTINF:-1,AR-MBCACTION
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4382.ts
+#EXTINF:-1,AR-MBCBOLLYWOOD
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4453.ts
+#EXTINF:-1,AR-MBCDRAMA
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4323.ts
+#EXTINF:-1,AR-MBCMASR
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4215.ts
+#EXTINF:-1,AR-MBCMASR2
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4454.ts
+#EXTINF:-1,AR-MBCMAX
+http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4272.ts
