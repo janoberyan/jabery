@@ -1,27 +1,58 @@
-#EXTM3U
-#EXTINF:-1,AR-BEINSPORTSNEWSHD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4458.ts
-#EXTINF:-1,AR-BEINSPORTNBAHD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4030.ts
-#EXTINF:-1,BeinSports_1_HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/9.ts
-#EXTINF:-1,BEINSPORTS-full1HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/15.ts
-#EXTINF:-1,BeinSports_2_HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/8.ts
-#EXTINF:-1,BEINSPORTS-full2HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/16.ts
-#EXTINF:-1,BeinSports_3_HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/7.ts
-#EXTINF:-1,BEINSPORTS-full3HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/17.ts
-#EXTINF:-1,BEINSPORTS_4_HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/6.ts
-#EXTINF:-1,BeinSports_5_HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/5.ts
-#EXTINF:-1,BeinSports_6_HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/4.ts
-#EXTINF:-1,BeinSports_7_HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/3.ts
-#EXTINF:-1,BeinSports_8_HD
-http://217.182.16.97:8000/live/3391504169703/3391504169703/2.ts
+#EXTINF:-1,beIN Sports 1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/117.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 10 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/118.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 11 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/119.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 12 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/120.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 13 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/121.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 14 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/122.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sports 15 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/123.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sports 16 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/124.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sports 17 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/125.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/126.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 3 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/127.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 4 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/128.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 5 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/129.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 6 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/130.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 7 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/131.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 8 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/132.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beIN Sports 9 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/133.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 1 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/173.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 10 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/172.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 11 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/171.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 12 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/170.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 2 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/169.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 3 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/168.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 4 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/167.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 5 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/166.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 6 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/165.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 7 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/164.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 8 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/163.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein Sport 9 HD (Backup)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/162.m3u8$http-refferer=http://localhost
