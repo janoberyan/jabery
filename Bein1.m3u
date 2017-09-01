@@ -1,31 +1,27 @@
 
 #EXTINF:-1,======BEIN SPORTS Group=======
 http://spgss.gcdn.co/bn-sp-1-hd/index.m3u8
-#EXTINF:-1,AR-BEINSPORTSNEWSHD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4458.ts
-#EXTINF:-1,AR-BEINSPORTNBAHD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4030.ts
-#EXTINF:-1,AR-BEIN1HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4014.ts
-#EXTINF:-1,AR-BEIN2HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4537.ts
-#EXTINF:-1,AR-BEIN3HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4033.ts
-#EXTINF:-1,AR-BEIN4HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4536.ts
-#EXTINF:-1,AR-BEIN5HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4559.ts
-#EXTINF:-1,AR-BEIN6HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4000.ts
-#EXTINF:-1,AR-BEIN7SD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/3998.ts
-#EXTINF:-1,AR-BEIN8HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4013.ts
-#EXTINF:-1,AR-BEIN9HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4032.ts
-#EXTINF:-1,AR-BEIN10HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/3999.ts
-#EXTINF:-1,AR-BEIN11HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4558.ts
-#EXTINF:-1,AR-BEIN12HD
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4012.ts
+#EXTINF:-1,BEIN 1 HD
+http://51.255.88.38:8000/live/sam/sam/2142.m3u8
+#EXTINF:-1,BEIN 2 HD
+http://51.255.88.38:8000/live/sam/sam/2143.m3u8
+#EXTINF:-1,BEIN 3 HD
+http://51.255.88.38:8000/live/sam/sam/2144.m3u8
+#EXTINF:-1,BEIN 4 HD
+http://51.255.88.38:8000/live/sam/sam/2145.m3u8
+#EXTINF:-1,BEIN 5 HD
+http://51.255.88.38:8000/live/sam/sam/2146.m3u8
+#EXTINF:-1,BEIN 6 HD
+http://51.255.88.38:8000/live/sam/sam/2147.m3u8
+#EXTINF:-1,BEIN 7 HD
+http://51.255.88.38:8000/live/sam/sam/2148.m3u8
+#EXTINF:-1,BEIN 8 HD
+http://51.255.88.38:8000/live/sam/sam/2149.m3u8
+#EXTINF:-1,BEIN 9 HD
+http://51.255.88.38:8000/live/sam/sam/2150.m3u8
+#EXTINF:-1,BEIN 10 HD
+http://51.255.88.38:8000/live/sam/sam/2151.m3u8
+#EXTINF:-1,BEIN Eleven HD
+http://51.255.88.38:8000/live/sam/sam/2152.m3u8
+#EXTINF:-1,BEIN 12 HD
+http://51.255.88.38:8000/live/sam/sam/2153.m3u8
