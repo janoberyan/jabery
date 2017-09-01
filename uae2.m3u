@@ -1,28 +1,20 @@
 
-#EXTINF:-1,======UAE Group=======
-http://spokus.gcdn.co/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,AR-ABUDHABI
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4319.ts
-#EXTINF:-1,AR-ADALEMARAT
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4269.ts
-#EXTINF:-1,AR-ADDRAMA
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4151.ts
-#EXTINF:-1,AR-ADENTV
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4474.ts
-#EXTINF:-1,AR-ADNATGEO
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4357.ts
-#EXTINF:-1,AR-DUBAIALOULA
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4451.ts
-#EXTINF:-1,AR-DUBAIONE
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4150.ts
-#EXTINF:-1,AR-NOORDUBAI
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4489.ts
-#EXTINF:-1,AR-SAMADUBAI
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4450.ts
-#EXTINF:-1,AR-ALSHARJAH
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4376.ts
-#EXTINF:-1,AR-ALDAFRAH
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4449.ts
-#EXTINF:-1,AR-FUJAIRAHTV
-http://mystreamer105.embratoria.com:7799/live/chzHBZBkSm/rJXtXzwE4n/4318.ts
+
+
+#EXTINF:-1,======UAE Group======
+http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
+#EXTINF:-1 group-title="uae",Abudhabidrama
+http://dontcopythis.freeddns.org:8888/16188_Abudhabidrama/index.m3u8
+#EXTINF:-1 group-title="uae",DUBAIONE
+http://dontcopythis.freeddns.org:8888/16113_DUBAIONE/index.m3u8
+#EXTINF:-1 group-title="uae",DUBAIRACING
+http://dontcopythis.freeddns.org:8888/16114_DUBAIRACING/index.m3u8
+#EXTINF:-1 group-title="uae",AbuDhabitv
+http://dontcopythis.freeddns.org:8888/16158_AbuDhabitv/index.m3u8
+#EXTINF:-1 group-title="uae",ADNatGeo
+http://dontcopythis.freeddns.org:8888/16353_ADNatGeo/index.m3u8
+#EXTINF:-1 group-title="uae",ADSPORT1
+http://dontcopythis.freeddns.org:8888/16165_ADSPORT1/index.m3u8
+#EXTINF:-1 group-title="uae",ADSPORT2
+http://dontcopythis.freeddns.org:8888/16166_ADSPORT2/index.m3u8
 
