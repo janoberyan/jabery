@@ -1,38 +1,40 @@
 
 
 
+
 #EXTINF:-1,======NEWS Group======
 http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
 
 #EXTINF:-1 group-title="news",AlArabiya
-http://kngofdns.freeddns.org:8888/16046_AlArabiya/index.m3u8
+http://dontcopythis.freeddns.org:8888/16046_AlArabiya/index.m3u8
 #EXTINF:-1 group-title="news",AlJazeera
-http://kngofdns.freeddns.org:8888/16169_AlJazeera/index.m3u8
+http://dontcopythis.freeddns.org:8888/16169_AlJazeera/index.m3u8
 #EXTINF:-1 group-title="news",AlJazeeraMubasher
-http://kngofdns.freeddns.org:8888/16170_AlJazeeraMubasher/index.m3u8
+http://dontcopythis.freeddns.org:8888/16170_AlJazeeraMubasher/index.m3u8
 #EXTINF:-1 group-title="news",CNN
-http://kngofdns.freeddns.org:8888/16008_CNN/index.m3u8
+http://dontcopythis.freeddns.org:8888/16008_CNN/index.m3u8
 #EXTINF:-1 group-title="news",AlJazeeraEnglish
-http://kngofdns.freeddns.org:8888/16011_AlJazeeraEnglish/index.m3u8
+http://dontcopythis.freeddns.org:8888/16011_AlJazeeraEnglish/index.m3u8
 #EXTINF:-1 group-title="news",EuroNews
-http://kngofdns.freeddns.org:8888/16012_EuroNews/index.m3u8
+http://dontcopythis.freeddns.org:8888/16012_EuroNews/index.m3u8
 #EXTINF:-1 group-title="news",ALHadath
-http://kngofdns.freeddns.org:8888/16164_ALHadath/index.m3u8
+http://dontcopythis.freeddns.org:8888/16164_ALHadath/index.m3u8
 #EXTINF:-1 group-title="news",BBCArabic
-http://kngofdns.freeddns.org:8888/16149_BBCArabic/index.m3u8
+http://dontcopythis.freeddns.org:8888/16149_BBCArabic/index.m3u8
 #EXTINF:-1 group-title="news",SkyNewsArabia
-http://kngofdns.freeddns.org:8888/16035_SkyNewsArabia/index.m3u8
+http://dontcopythis.freeddns.org:8888/16035_SkyNewsArabia/index.m3u8
 #EXTINF:-1 group-title="news",Ten
-http://kngofdns.freeddns.org:8888/16028_Ten/index.m3u8
+http://dontcopythis.freeddns.org:8888/16028_Ten/index.m3u8
 #EXTINF:-1 group-title="iraq",IraqiaTVnews
-http://kngofdns.freeddns.org:8888/16153_IraqiaTVnews/index.m3u8
+http://dontcopythis.freeddns.org:8888/16153_IraqiaTVnews/index.m3u8
 #EXTINF:-1 group-title="news",ALMINBAR
-http://kngofdns.freeddns.org:8888/16235_ALMINBAR/index.m3u8
+http://dontcopythis.freeddns.org:8888/16235_ALMINBAR/index.m3u8
 #EXTINF:-1 group-title="news",AlArabyTV
-http://kngofdns.freeddns.org:8888/16307_AlArabyTV/index.m3u8
+http://dontcopythis.freeddns.org:8888/16307_AlArabyTV/index.m3u8
 #EXTINF:-1 group-title="algeria",EchoroukNews
-http://kngofdns.freeddns.org:8888/16319_EchoroukNews/index.m3u8
+http://dontcopythis.freeddns.org:8888/16319_EchoroukNews/index.m3u8
 #EXTINF:-1 group-title="news",ALAANTV
-http://kngofdns.freeddns.org:8888/16342_ALAANTV/index.m3u8
+http://dontcopythis.freeddns.org:8888/16342_ALAANTV/index.m3u8
+
 
 
