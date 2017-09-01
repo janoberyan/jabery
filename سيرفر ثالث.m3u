@@ -1,3 +1,190 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/abu_dhabi_drama.jpg", AR-ABU DHABI DARAMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/763.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/abu_dhabi_tv_ae.jpg", AR-ABU DHABI TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/750.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/al_aan_tv.jpg", AR-AL AAN TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/774.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/alakhbariya.jpg", AR-AL AKHBARIA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/745.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/al_arabiya.jpg", AR-AL ARABIYA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/767.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/al_hayat2.jpg", AR-AL HAYAT 2
+httphost://$http-raw=http://173.212.206.199:25461/1/2/743.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/al_jadeed.jpg", AR-AL JADEED
+httphost://$http-raw=http://173.212.206.199:25461/1/2/742.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/logo-jazeera-documentary.jpg", AR-AL JAZEERA DOC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/773.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/al_majd.jpg", AR-AL MAJD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/766.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/al_masriya_eg.jpg", AL MASRIYAH-AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/744.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/sharqiya_news.jpg", AR-AL SHARGIYA NEWS
+httphost://$http-raw=http://173.212.206.199:25461/1/2/772.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/al_nahar_eg_drama.jpg", AR-AL-NAHAR DRAMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/748.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/al_nahar_eg.jpg", AR-Al-NAHAR TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/749.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/aljazeera.jpg", AR-ALJAZEERA ARABIC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/771.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/ann_news.jpg", AR-ANN NEWS
+httphost://$http-raw=http://173.212.206.199:25461/1/2/770.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/b4u_aflam_ae.jpg", AR-B4U AFLAM
+httphost://$http-raw=http://173.212.206.199:25461/1/2/695.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/b4u_plus_ae.jpg", AR-B4U PLUS
+httphost://$http-raw=http://173.212.206.199:25461/1/2/696.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/quran_bahrain.jpg", AR-BAHRAIN QURAN TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/785.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/bahrain_tv.jpg", AR-BAHRAIN TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/787.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/bbc_arabic.jpg", AR-BBC ARABIA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/768.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/bahrain_tv.jpg", AR-BTV CHANNEL 55
+httphost://$http-raw=http://173.212.206.199:25461/1/2/786.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/cairo_drama_eg.jpg", AR-CAIRO DRAMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/715.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/cbc_eg_drama.jpg", AR-CBC DRAMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/713.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/cbc_extra.jpg", AR-CBC EXTRA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/712.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/cbc_eg_sofra.jpg", AR-CBC SOFRA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/714.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/cbc_eg_plus2.jpg", AR-CBC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/711.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/cinema_pro.jpg", AR-CINEMA PRO
+httphost://$http-raw=http://173.212.206.199:25461/1/2/734.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/cnbc_arabiya.jpg", AR-CNBC ARABIA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/747.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/dabanga_sudan.jpg", AR-DABANGA TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/778.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/dubai_one.jpg", AR-DUBAI ONE
+httphost://$http-raw=http://173.212.206.199:25461/1/2/764.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/dubai_ae_tv.jpg", AR-DUBAI OULA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/746.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/dubai_tv.jpg", AR-DUBAI TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/759.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/dubai_ae_zaman.jpg", AR-DUBAI ZAMAN
+httphost://$http-raw=http://173.212.206.199:25461/1/2/765.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/dw.jpg", AR-DW ARABIA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/769.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/france24_arabic.jpg", AR-FRANCE 24 ARABIC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/741.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/funoon_tv_kw.jpg", AR-FUNOON TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/740.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/future_tv.jpg", AR-FUTURE TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/784.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/imagine_movies_ae.jpg", AR-IMAGINE MOVIES
+httphost://$http-raw=http://173.212.206.199:25461/1/2/697.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/jordon_tv.jpg", AR-JORDON TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/783.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="", AR-KAIFA TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/782.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/ktv_1.jpg", AR-KTV 1
+httphost://$http-raw=http://173.212.206.199:25461/1/2/775.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/ktv2.jpg", AR-KTV 2
+httphost://$http-raw=http://173.212.206.199:25461/1/2/776.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/lbc_sat.jpg", AR-LBC SAT
+httphost://$http-raw=http://173.212.206.199:25461/1/2/739.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/mbc_ae_1.jpg", AR-MBC 1
+httphost://$http-raw=http://173.212.206.199:25461/1/2/703.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/mbc_ae_2.jpg", AR-MBC 2
+httphost://$http-raw=http://173.212.206.199:25461/1/2/705.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/mbc_ae_4.jpg", AR-MBC 4
+httphost://$http-raw=http://173.212.206.199:25461/1/2/704.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/mbc_ae_action.jpg", AR-MBC ACTION
+httphost://$http-raw=http://173.212.206.199:25461/1/2/702.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/mbc_ae_bollywood.jpg", AR-MBC BOLLYWOOD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/700.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/mbc_ae_drama.jpg", AR-MBC DRAMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/707.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/mbc_ae_masr.jpg", MBC MASAR-AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/708.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/mbc_ae_max.jpg", AR-MBC MAX
+httphost://$http-raw=http://173.212.206.199:25461/1/2/706.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/melody_aflam.jpg", AR-MELODY AFLAM
+httphost://$http-raw=http://173.212.206.199:25461/1/2/730.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/melody_classic.jpg", AR-MELODY CLASSIC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/729.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/moga_comedy_tv.jpg", AR-MOGA COMEDY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/728.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/mtv_lebanon.jpg", AR-MTV LEBANON
+httphost://$http-raw=http://173.212.206.199:25461/1/2/751.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/nat_geo_us.jpg", AR-NATIONAL GEOGRAPHIC AD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/762.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/nbn_lb.jpg", AR-NBN
+httphost://$http-raw=http://173.212.206.199:25461/1/2/755.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/nile_family_eg.jpg", AR-NILE FAMILY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/738.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/oman_tv.jpg", AR-OMAN TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/781.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/panorama_comedy.jpg", AR-PANORAMA COMEDY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/726.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/panorama_drama_2.jpg", AR-PANORAMA DRAMA 2
+httphost://$http-raw=http://173.212.206.199:25461/1/2/725.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/panorama_drama.jpg", AR-PANORAMA DRAMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/724.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/panorama_food_eg.jpg", AR-PANORAMA FOOD
+httphost://$http-raw=http://173.212.206.199:25461/1/2/727.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/rotana_aflam.jpg", AR-ROTANA AFLAM
+httphost://$http-raw=http://173.212.206.199:25461/1/2/721.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/rotana_cinema.jpg", AR-ROTANA CINEMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/719.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/rotana_classic.jpg", AR-ROTANA CLASSIC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/718.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/rotana_clip.jpg", AR-ROTANA CLIP
+httphost://$http-raw=http://173.212.206.199:25461/1/2/717.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/rotana_khalejia.jpg", AR-ROTANA KHALIJIA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/723.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/rotana_masriya.jpg", AR-ROTANA MASSRIA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/722.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/rotana_music.jpg", AR-ROTANA MUSIC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/720.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/russia_news.jpg", AR-RUSSIA TODAY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/754.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/dubai_ae_sama.jpg", AR-SAMA DUBAI
+httphost://$http-raw=http://173.212.206.199:25461/1/2/737.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/sama_tv.jpg", AR-SAMA SYRIA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/760.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/sat7_arabic.jpg", AR-SAT 7 ARABIC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/780.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/saudi_tv1.jpg", AR-SAUDI TV 1
+httphost://$http-raw=http://173.212.206.199:25461/1/2/752.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/saudi_tv2.jpg", SAUDI TV 2-AR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/753.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/scope_tv_kw.jpg", AR-SCOPE TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/736.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/shada_tv_jo.jpg", AR-SHADA TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/779.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/sharjah_tv.jpg", AR-SHARJAH TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/761.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/sky_uk_news_arabia.jpg", AR-SKY NEWS ARABIC
+httphost://$http-raw=http://173.212.206.199:25461/1/2/735.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/syria_drama.jpg", AR-SYRIA DRAMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/757.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/noor_alsha.jpg", AR-SYRIA NOUR EL SHAM
+httphost://$http-raw=http://173.212.206.199:25461/1/2/756.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/syria_tv.jpg", AR-SYRIA TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/758.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/tayba_tv.jpg", AR-TAYBA TV
+httphost://$http-raw=http://173.212.206.199:25461/1/2/777.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/time_cinema.jpg", AR-TIME CINEMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/732.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/time_comedy.jpg", AR-TIME COMEDY
+httphost://$http-raw=http://173.212.206.199:25461/1/2/731.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/tok_tok_cinema.jpg", AR-TOK TOK CINEMA
+httphost://$http-raw=http://173.212.206.199:25461/1/2/733.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/zee_aflam.jpg", AR-ZEE AFLAM
+httphost://$http-raw=http://173.212.206.199:25461/1/2/698.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/zee_alwan_in.jpg", AR-ZEE ALWAN
+httphost://$http-raw=http://173.212.206.199:25461/1/2/699.m3u8$http-refferer=http://173.212.206.199:25461/
+#EXTINF:-1 tvg-logo="http://logosforapp.ddns.net:25461/images/logo/lemar.jpg", AFG-LEMAR
+httphost://$http-raw=http://173.212.206.199:25461/1/2/3323.m3u8$http-refferer=http://173.212.206.199:25461/
+
+
+
+
+
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.teledunet.com/logo/mbc%201.jpg" tvg-name=""  group-title="hdlist",mbc1 hd
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/master.m3u8
 #EXTINF:-1 tvg-logo="http://seevii.selevision.com/stb/item//tv_live1/1158.png" ,mbc drama plus hd
