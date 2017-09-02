@@ -1,4 +1,32 @@
 
+
+#EXTINF:-1,AR | OSN STAR MOVIES HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3075.ts
+#EXTINF:-1,AR | OSN ON DEMAND 2HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3068.ts
+#EXTINF:-1,AR | OSN ON DEMAND 1HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3067.ts
+#EXTINF:-1,AR | OSN Movies Kids HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3057.ts
+#EXTINF:-1,AR | OSN Movies Festival HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3058.ts
+#EXTINF:-1,AR | OSN Movies Comedy Plus2 HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3060.ts
+#EXTINF:-1,AR | OSN Movies Comedy HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3061.ts
+#EXTINF:-1,AR | OSN Movies Box Office 3HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3073.ts
+#EXTINF:-1,AR | OSN Movies Box Office 2HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3072.ts
+#EXTINF:-1,AR | OSN Movies Box Office 1HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3071.ts
+#EXTINF:-1,AR | OSN Movies Action+2 HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3062.ts
+#EXTINF:-1,AR | OSN Movies Action HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3070.ts
+#EXTINF:-1,AR | OSN MOVIE HD
+http://devcon.red:8080/live/panelpro/1P2a3N4e5L/3063.ts
+
 #EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03- beIN MOVIES",BeIN Movies 1HD
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/723.ts
