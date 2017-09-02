@@ -4,7 +4,7 @@
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/126.m3u8$http-refferer=http://localhost
 
 #EXTINF:-1,زامبيا Vs الجزائر دقة متوسطة
-http://beiniptv.jan-beryan.giize.com/bn-sp-2-hd/index.m3u8
+http://beini1ptv.jan-beryan.giize.com/bn-sp-2-hd/index.m3u8
 
 #EXTINF:-1,زامبيا Vs الجزائر دقة منخفضة
 http://bl.movcast.tv:1935/icoolkora/bein2_360p/chunklist_w673133563.m3u8
