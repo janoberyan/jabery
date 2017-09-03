@@ -23,11 +23,5 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/718.ts
 #EXTINF:-1,AD Sports 3HD
 http://tv.primatv.club:8899/live/ultraiptv/YriZfU3ziE/719.ts
 #EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,AD Sports 4HD
-http://tv.primatv.club:8899/live/ultraiptv/YriZfU3ziE/720.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,AD Sports 5HD
-http://tv.primatv.club:8899/live/ultraiptv/YriZfU3ziE/721.ts
-
 
 
