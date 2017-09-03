@@ -1,4 +1,7 @@
 #EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,SP-BEIN SPORTS 1 HD-AR
+http://173.212.206.199:25461/live/control1/control1/144.ts
+#EXTVLCOPT:http-user-agent=098
 #EXTINF:-1,SP-BEIN SPORTS 2 HD-AR
 http://173.212.206.199:25461/live/control1/control1/145.ts
 #EXTVLCOPT:http-user-agent=098
