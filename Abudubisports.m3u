@@ -31,12 +31,3 @@ http://tv.primatv.club:8899/live/ultraiptv/YriZfU3ziE/721.ts
 
 
 
-#EXTINF:-1,AD Sports 3 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/134.m3u8$http-refferer=http://localhost
-#EXTINF:-1,AD Sports 4 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/135.m3u8$http-refferer=http://localhost
-#EXTINF:-1,AD Sports 5 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/136.m3u8$http-refferer=http://localhost
-#EXTINF:-1,AD Sports 6 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/137.m3u8$http-refferer=http://localhost
-
