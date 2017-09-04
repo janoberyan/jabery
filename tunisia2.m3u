@@ -1,39 +1,28 @@
 
 
 
-
-
-#EXTINF:-1,======TUNISIA Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-#EXTINF:-1 group-title="tunisia",Hannibal
-http://iptv.jan-beryan.giize.com/16291_Hannibal/index.m3u8
-#EXTINF:-1 group-title="tunisia",TunisieTelevsion1
-http://iptv.jan-beryan.giize.com/16292_TunisieTelevsion1/index.m3u8
-#EXTINF:-1 group-title="tunisia",TunisiaNat2
-http://iptv.jan-beryan.giize.com/16293_TunisiaNat2/index.m3u8
-#EXTINF:-1 group-title="tunisia",AlInsenTV
-http://iptv.jan-beryan.giize.com/16294_AlInsenTV/index.m3u8
-#EXTINF:-1 group-title="tunisia",ALjanoubia
-http://iptv.jan-beryan.giize.com/16295_ALjanoubia/index.m3u8
-#EXTINF:-1 group-title="tunisia",EttounsiaTV
-http://iptv.jan-beryan.giize.com/16296_EttounsiaTV/index.m3u8
-#EXTINF:-1 group-title="tunisia",TunisiaNat1
-http://iptv.jan-beryan.giize.com/16254_TunisiaNat1/index.m3u8
-#EXTINF:-1 group-title="tunisia",ATTESSIATV
-http://iptv.jan-beryan.giize.com/16177_ATTESSIATV/index.m3u8
-#EXTINF:-1 group-title="tunisia",Nessma
-http://iptv.jan-beryan.giize.com/16150_Nessma/index.m3u8
-#EXTINF:-1 group-title="tunisia",ALMASSARALOULA
-http://iptv.jan-beryan.giize.com/16087_ALMASSARALOULA/index.m3u8
-#EXTINF:-1 group-title="tunisia",TNNTunisia
-http://iptv.jan-beryan.giize.com/16080_TNNTunisia/index.m3u8
-#EXTINF:-1 group-title="tunisia",ZAYTOONA
-http://iptv.jan-beryan.giize.com/16082_ZAYTOONA/index.m3u8
-#EXTINF:-1 group-title="tunisia",MTunisia
-http://iptv.jan-beryan.giize.com/16302_MTunisia/index.m3u8
-#EXTINF:-1 group-title="tunisia",ElhiwarEttounsiTV
-http://iptv.jan-beryan.giize.com/16303_ElhiwarEttounsiTV/index.m3u8
-
+#EXTINF:-1,======TUNISIA Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Zaytoona
+http://iptv2.jan-beryan.giize.com/LQ-AR-Zaytoona/index.m3u8
+#EXTINF:-1,Nessma
+http://iptv2.jan-beryan.giize.com/LQ-AR-Nessma-TV/index.m3u8
+#EXTINF:-1,Hannibal
+http://iptv2.jan-beryan.giize.com/LQ-AR-Hannibal/index.m3u8
+#EXTINF:-1,tunisia nat 1
+http://iptv2.jan-beryan.giize.com/LQ-AR-Tunisia-Nat1/index.m3u8
+#EXTINF:-1,tunisia nat 2
+http://iptv2.jan-beryan.giize.com/LQ-AR-Tunisia-Nat2/index.m3u8
+#EXTINF:-1,Tunisia-Nat1
+http://iptv2.jan-beryan.giize.com/LQ-AR-Tunisia-Nat1/index.m3u8
+#EXTINF:-1,Tunisia nat 2
+http://iptv2.jan-beryan.giize.com/LQ-AR-Tunisia-Nat2/index.m3u8
+#EXTINF:-1,zaytoona
+http://iptv2.jan-beryan.giize.com/LQ-AR-Zaytoona/index.m3u8
+#EXTINF:-1,Hannibal
+http://iptv2.jan-beryan.giize.com/LQ-AR-Hannibal/index.m3u8
+#EXTINF:-1,Nessma
+http://iptv2.jan-beryan.giize.com/LQ-AR-Nessma-TV/index.m3u8
 
 
 
