@@ -1,30 +1,45 @@
 
 
-
-
-#EXTINF:-1,======ALGERIA Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-#EXTINF:-1 group-title="algeria",DZairTV
-http://iptv.jan-beryan.giize.com/16287_DZairTV/index.m3u8
-#EXTINF:-1 group-title="algeria",Dzair24
-http://iptv.jan-beryan.giize.com/16313_Dzair24/index.m3u8
-#EXTINF:-1 group-title="algeria",Dzair21PUB
-http://iptv.jan-beryan.giize.com/16101_Dzair21PUB/index.m3u8
-#EXTINF:-1 group-title="algeria",SaharaTVAlgeria
-http://iptv.jan-beryan.giize.com/16077_SaharaTVAlgeria/index.m3u8
-#EXTINF:-1 group-title="algeria",BZAFTV
-http://iptv.jan-beryan.giize.com/16078_BZAFTV/index.m3u8
-#EXTINF:-1 group-title="algeria",SamiraTV
-http://iptv.jan-beryan.giize.com/16117_SamiraTV/index.m3u8
-#EXTINF:-1 group-title="algeria",CNA
-http://iptv.jan-beryan.giize.com/16304_CNA/index.m3u8
-#EXTINF:-1 group-title="algeria",ENNAHARTV
-http://iptv.jan-beryan.giize.com/16315_ENNAHARTV/index.m3u8
-#EXTINF:-1 group-title="algeria",EchoroukNews
-http://iptv.jan-beryan.giize.com/16319_EchoroukNews/index.m3u8
-#EXTINF:-1 group-title="algeria",ELKHABARKBCAlgeria
-http://iptv.jan-beryan.giize.com/16334_ELKHABARKBCAlgeria/index.m3u8
-#EXTINF:-1 group-title="algeria",NumidiaNewsTV
-http://iptv.jan-beryan.giize.com/16336_NumidiaNewsTV/index.m3u8
-
-
+#EXTINF:-1,======ALGEIRIA Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Echorouk-TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Echorouk-TV/index.m3u
+#EXTINF:-1,Echorouk News
+http://iptv2.jan-beryan.giize.com/LQ-AR-Echorouk-News/index.m3u8
+#EXTINF:-1,Echorouk benna TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Echorouk-Benna-TV/index.m3u8
+#EXTINF:-1,Numidia-News
+http://iptv2.jan-beryan.giize.com/LQ-AR-Numidia-News/index.m3u8
+#EXTINF:-1,Samira
+http://iptv2.jan-beryan.giize.com/LQ-AR-Samira-TV/index.m3u8
+#EXTINF:-1,Eldjazairia
+http://iptv2.jan-beryan.giize.com/LQ-AR-El-Djazairia-TV/index.m3u8
+#EXTINF:-1,Dzair tv
+http://iptv2.jan-beryan.giize.com/LQ-AR-Dzair-TV/index.m3u8
+#EXTINF:-1,Dzair news
+http://iptv2.jan-beryan.giize.com/LQ-AR-Dzair-News/index.m3u8
+#EXTINF:-1,Elhaddef
+http://iptv2.jan-beryan.giize.com/LQ-AR-ElHeddaf-TV/index.m3u8
+#EXTINF:-1,samira tv
+http://iptv2.jan-beryan.giize.com/LQ-AR-Samira-TV/index.m3u8
+#EXTINF:-1,KBC-Algeria
+http://iptv2.jan-beryan.giize.com/LQ-AR-KBC-Algeria/index.m3u8
+#EXTINF:-1,Dzair-Jannah
+http://iptv2.jan-beryan.giize.com/LQ-AR-Dzair-Jannah/index.m3u8
+#EXTINF:-1,AlMaghribia
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlMaghribia/index.m3u8
+#EXTINF:-1,medil
+http://iptv2.jan-beryan.giize.com/LQ-AR-Medi1/index.m3u8
+#EXTINF:-1,Canal-Algeria
+http://iptv2.jan-beryan.giize.com/LQ-AR-Canal-Algeria/index.m3u8
+#EXTINF:-1,TV-A3
+http://iptv2.jan-beryan.giize.com/LQ-AR-TV-A3/index.m3u8
+#EXTINF:-1,TV4
+http://iptv2.jan-beryan.giize.com/LQ-AR-TV4/index.m3u8
+#EXTINF:-1,TV5
+http://iptv2.jan-beryan.giize.com/LQ-AR-TV5/index.m3u8
+#EXTINF:-1,Aljazaaria
+http://iptv2.jan-beryan.giize.com/LQ-AR-Aljazaaria/index.m3u8
+http://iptv2.jan-beryan.giize.com/LQ-AR-TV-Tamazight/index.m3u8
+#EXTINF:-1,Beur
+http://iptv2.jan-beryan.giize.com/LQ-AR-Beur/index.m3u8
