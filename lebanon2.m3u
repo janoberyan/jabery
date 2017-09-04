@@ -1,41 +1,30 @@
 
 
 
+#EXTINF:-1,======LIBANON Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,aljadeed
+http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Jadeed/index.m3u8
+#EXTINF:-1,alkarama
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlKarma/index.m3u8
+#EXTINF:-1,manar
+http://iptv2.jan-beryan.giize.com/LQ-AR-Manar/index.m3u8
+#EXTINF:-1,Future-TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Future-TV/index.m3u8
+#EXTINF:-1,Heya
+http://iptv2.jan-beryan.giize.com/LQ-AR-Heya/index.m3u8
+#EXTINF:-1,LDC
+http://iptv2.jan-beryan.giize.com/LQ-AR-LDC/index.m3u8
+#EXTINF:-1,OTV
+http://iptv2.jan-beryan.giize.com/LQ-AR-OTV/index.m3u8
+#EXTINF:-1,MTV-Lebanon
+http://iptv2.jan-beryan.giize.com/LQ-AR-MTV-Lebanon/index.m3u8
+#EXTINF:-1,Noursat
+http://iptv2.jan-beryan.giize.com/LQ-AR-Noursat/index.m3u8
+#EXTINF:-1,Mariam TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Mariam-TV/index.m3u8
+#EXTINF:-1,Sat7-Arabic
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sat7-Arabic/index.m3u8
+#EXTINF:-1,Nour alsharq
+http://iptv2.jan-beryan.giize.com/LQ-AR-Nour-AlSharq/index.m3u8
 
-
-#EXTINF:-1,======LEBANON Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-#EXTINF:-1 group-title="lebanon",LDC
-http://iptv.jan-beryan.giize.com/16138_LDC/index.m3u8
-#EXTINF:-1 group-title="lebanon",LBCSAT
-http://iptv.jan-beryan.giize.com/16130_LBCSAT/index.m3u8
-#EXTINF:-1 group-title="lebanon",OTV
-http://iptv.jan-beryan.giize.com/16081_OTV/index.m3u8
-#EXTINF:-1 group-title="lebanon",LebanonTV
-http://iptv.jan-beryan.giize.com/16171_LebanonTV/index.m3u8
-#EXTINF:-1 group-title="lebanon",HeyaTV
-http://iptv.jan-beryan.giize.com/16174_HeyaTV/index.m3u8
-#EXTINF:-1 group-title="lebanon",NoursatAlchabab
-http://iptv.jan-beryan.giize.com/16301_NoursatAlchabab/index.m3u8
-#EXTINF:-1 group-title="lebanon",Alnoor
-http://iptv.jan-beryan.giize.com/16335_Alnoor/index.m3u8
-#EXTINF:-1 group-title="lebanon",ALJADEED
-http://iptv.jan-beryan.giize.com/16338_ALJADEED/index.m3u8
-#EXTINF:-1 group-title="lebanon",MANAR
-http://iptv.jan-beryan.giize.com/16339_MANAR/index.m3u8
-#EXTINF:-1 group-title="lebanon",ALMAYADEENTV
-http://iptv.jan-beryan.giize.com/16340_ALMAYADEENTV/index.m3u8
-#EXTINF:-1 group-title="lebanon",ALSIRAT
-http://iptv.jan-beryan.giize.com/16341_ALSIRAT/index.m3u8
-#EXTINF:-1 group-title="lebanon",ALIMANTV
-http://iptv.jan-beryan.giize.com/16343_ALIMANTV/index.m3u8
-#EXTINF:-1 group-title="lebanon",MTVLebanon
-http://iptv.jan-beryan.giize.com/16344_MTVLebanon/index.m3u8
-#EXTINF:-1 group-title="lebanon",NBN
-http://iptv.jan-beryan.giize.com/16345_NBN/index.m3u8
-#EXTINF:-1 group-title="lebanon",Noursat
-http://iptv.jan-beryan.giize.com/16346_Noursat/index.m3u8
-#EXTINF:-1 group-title="lebanon",NourAlSharq
-http://iptv.jan-beryan.giize.com/16075_NourAlSharq/index.m3u8
-#EXTINF:-1 group-title="lebanon",NourKoddass
-http://iptv.jan-beryan.giize.com/16076_NourKoddass/index.m3u8
