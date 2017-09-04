@@ -1,30 +1,23 @@
 
 
-
-#EXTINF:-1,======SYRIA Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-#EXTINF:-1 group-title="syria",SYRIADRAMA
-http://iptv.jan-beryan.giize.com/16323_SYRIADRAMA/index.m3u8
-#EXTINF:-1 group-title="syria",SamaTV
-http://iptv.jan-beryan.giize.com/16176_SamaTV/index.m3u8
-#EXTINF:-1 group-title="syria",SYRIASATELLITETV
-http://iptv.jan-beryan.giize.com/16226_SYRIASATELLITETV/index.m3u8
-#EXTINF:-1 group-title="syria",SYRIASATELLITETV
-http://iptv.jan-beryan.giize.com/16226_SYRIASATELLITETV/index.m3u8
-#EXTINF:-1 group-title="syria",NOURELSHAM
-http://iptv.jan-beryan.giize.com/16231_NOURELSHAM/index.m3u8
-#EXTINF:-1 group-title="syria",Al-KhabarTV
-http://iptv.jan-beryan.giize.com/16234_Al-KhabarTV/index.m3u8
-#EXTINF:-1 group-title="syria",zanoubia
-http://iptv.jan-beryan.giize.com/16236_zanoubia/index.m3u8
-#EXTINF:-1 group-title="syria",ANN
-http://iptv.jan-beryan.giize.com/16320_ANN/index.m3u8
-#EXTINF:-1 group-title="syria",SyriaMedicalTV
-http://iptv.jan-beryan.giize.com/16332_SyriaMedicalTV/index.m3u8
-#EXTINF:-1 group-title="syria",NABDSYRIATV
-http://iptv.jan-beryan.giize.com/16110_NABDSYRIATV/index.m3u8
-
-
-
-
+#EXTINF:-1,======SYRIA Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Halab-Today
+http://iptv2.jan-beryan.giize.com/LQ-AR-Halab-Today/index.m3u8
+#EXTINF:-1,Noor alsham
+http://iptv2.jan-beryan.giize.com/LQ-AR-Nour-Alsham/index.m3u8
+#EXTINF:-1,sama tv
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sama-TV/index.m3u8
+#EXTINF:-1,Suryoyo-SAT
+http://iptv2.jan-beryan.giize.com/LQ-AR-Suryoyo-SAT/index.m3u8
+#EXTINF:-1,Syria
+http://iptv2.jan-beryan.giize.com/LQ-AR-SYRIA/index.m3u8
+#EXTINF:-1,syria drama
+http://iptv2.jan-beryan.giize.com/LQ-AR-Syria-Drama/index.m3u8
+#EXTINF:-1,syria education
+http://iptv2.jan-beryan.giize.com/LQ-AR-Syrian-Education/index.m3u8
+#EXTINF:-1,syria medical
+http://iptv2.jan-beryan.giize.com/LQ-AR-Syria-Medical/index.m3u8
+#EXTINF:-1,Sham FM
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sham-FM/index.m3u8
 
