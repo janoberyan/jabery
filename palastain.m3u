@@ -1,27 +1,30 @@
 
 
-#EXTINF:-1,======PALASTIN AND JORDAN Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-
-#EXTINF:-1 group-title="palastain",UNRWA
-http://iptv.jan-beryan.giize.com/16124_UNRWA/index.m3u8
-#EXTINF:-1 group-title="palastain",ALKOFIYA
-http://iptv.jan-beryan.giize.com/16095_ALKOFIYA/index.m3u8
-#EXTINF:-1 group-title="jordan",JordanSport
-http://iptv.jan-beryan.giize.com/16146_JordanSport/index.m3u8
-#EXTINF:-1 group-title="jordan",ZWEINABALADNA
-http://iptv.jan-beryan.giize.com/16227_ZWEINABALADNA/index.m3u8
-#EXTINF:-1 group-title="jordan",ZWEINABALADNA
-http://iptv.jan-beryan.giize.com/16227_ZWEINABALADNA/index.m3u8
-#EXTINF:-1 group-title="jordan",Jordan
-http://iptv.jan-beryan.giize.com/16228_Jordan/index.m3u8
-#EXTINF:-1 group-title="jordan",Jordan
-http://iptv.jan-beryan.giize.com/16228_Jordan/index.m3u8
-#EXTINF:-1 group-title="jordan",ROYA
-http://iptv.jan-beryan.giize.com/16229_ROYA/index.m3u8
-#EXTINF:-1 group-title="jordan",ROYA
-http://iptv.jan-beryan.giize.com/16229_ROYA/index.m3u8
-
-
-
-
+#EXTINF:-1,======JORDAN AND PALESTINE Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Roya
+http://iptv2.jan-beryan.giize.com/LQ-AR-Roya/index.m3u8
+#EXTINF:-1,AlEtihad
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlEtihad/index.m3u8
+#EXTINF:-1,Almarqab
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlMarqab/index.m3u8
+#EXTINF:-1,Alfursan tv
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlFursan-TV/index.m3u8
+#EXTINF:-1,Hawas-TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Hawas-TV/index.m3u8
+#EXTINF:-1,Jordan
+http://iptv2.jan-beryan.giize.com/LQ-AR-Jordan/index.m3u8
+#EXTINF:-1,,Palestine
+http://iptv2.jan-beryan.giize.com/LQ-AR-Palestine/index.m3u8
+#EXTINF:-1,,Palestine-Live
+http://iptv2.jan-beryan.giize.com/LQ-AR-Palestine-Live/index.m3u8
+#EXTINF:-1,,Maa TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Maa-TV/index.m3u8
+#EXTINF:-1,,QOU-Edu
+http://iptv2.jan-beryan.giize.com/LQ-AR-QOU-Edu/index.m3u8
+#EXTINF:-1,,AlFalastiniah
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlFalastiniah/index.m3u8
+#EXTINF:-1,,An Najah NBC
+http://iptv2.jan-beryan.giize.com/LQ-AR-An-Najah-NBC/index.m3u8
+#EXTINF:-1,,Nour-Koddass
+http://iptv2.jan-beryan.giize.com/LQ-AR-Nour-Koddass/index.m3u8
