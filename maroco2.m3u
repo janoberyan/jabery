@@ -1,21 +1,14 @@
 
 
-
-#EXTINF:-1,======MOROCO Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-
-#EXTINF:-1 group-title="maroco",2m
-http://iptv.jan-beryan.giize.com/16029_2m/index.m3u8
-#EXTINF:-1 group-title="maroco",AlAOULA
-http://iptv.jan-beryan.giize.com/16030_AlAOULA/index.m3u8
-#EXTINF:-1 group-title="maroco",AlMaghribia
-http://iptv.jan-beryan.giize.com/16031_AlMaghribia/index.m3u8
-#EXTINF:-1 group-title="maroco",Arrabiaa
-http://iptv.jan-beryan.giize.com/16032_Arrabiaa/index.m3u8
-#EXTINF:-1 group-title="maroco",Arriadia
-http://iptv.jan-beryan.giize.com/16033_Arriadia/index.m3u8
-#EXTINF:-1 group-title="maroco",Assadissa
-http://iptv.jan-beryan.giize.com/16286_Assadissa/index.m3u8
-
-
-
+#EXTINF:-1,======MOROCO Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Assadissa
+http://iptv2.jan-beryan.giize.com/LQ-AR-Assadissa/index.m3u8
+#EXTINF:-1,2m maroco
+http://iptv2.jan-beryan.giize.com/LQ-AR-2M-Maroc/index.m3u8
+#EXTINF:-1,Arriadia
+http://iptv2.jan-beryan.giize.com/LQ-AR-Arriadia/index.m3u8
+#EXTINF:-1,Arriadia
+http://iptv2.jan-beryan.giize.com/LQ-AR-Arriadia/index.m3u8
+#EXTINF:-1,Arrabia
+http://iptv2.jan-beryan.giize.com/LQ-AR-Arrabiaa/index.m3u8
