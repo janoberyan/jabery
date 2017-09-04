@@ -1,24 +1,16 @@
 
 
-
-
-#EXTINF:-1,======LIBYA Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-
-#EXTINF:-1 group-title="libya",LIBYAALRASMEYA
-http://iptv.jan-beryan.giize.com/16327_LIBYAALRASMEYA/index.m3u8
-#EXTINF:-1 group-title="libya",LIBYAALWATNYAH
-http://iptv.jan-beryan.giize.com/16253_LIBYAALWATNYAH/index.m3u8
-#EXTINF:-1 group-title="libya",ARRAED
-http://iptv.jan-beryan.giize.com/16251_ARRAED/index.m3u8
-#EXTINF:-1 group-title="libya",SUHAILTV
-http://iptv.jan-beryan.giize.com/16088_SUHAILTV/index.m3u8
-#EXTINF:-1 group-title="libya",AlArrab
-http://iptv.jan-beryan.giize.com/16079_AlArrab/index.m3u8
-#EXTINF:-1 group-title="libya",LIBYAALKHABAR
-http://iptv.jan-beryan.giize.com/16262_LIBYAALKHABAR/index.m3u8
-#EXTINF:-1 group-title="libya",ALASRARTV
-http://iptv.jan-beryan.giize.com/16290_ALASRARTV/index.m3u8
-#EXTINF:-1 group-title="libya",LibyaAlhrar
-http://iptv.jan-beryan.giize.com/16305_LibyaAlhrar/index.m3u8
-
+#EXTINF:-1,======LIBYA Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Libya24
+http://iptv2.jan-beryan.giize.com/LQ-AR-Libya24/index.m3u8
+#EXTINF:-1,Libya One
+http://iptv2.jan-beryan.giize.com/LQ-AR-Libya-One/index.m3u8
+#EXTINF:-1,Libya Rasmia
+http://iptv2.jan-beryan.giize.com/LQ-AR-Libya-Rsmia/index.m3u8
+#EXTINF:-1,Libya 218
+http://iptv2.jan-beryan.giize.com/LQ-AR-Libya218/index.m3u8
+#EXTINF:-1,Libya ALhura
+http://iptv2.jan-beryan.giize.com/LQ-AR-Libya-Alhura/index.m3u8
+#EXTINF:-1,Banghazi24
+http://iptv2.jan-beryan.giize.com/LQ-AR-Benghazi24-TV/index.m3u8
