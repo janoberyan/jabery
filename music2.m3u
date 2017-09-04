@@ -1,37 +1,41 @@
 
 
-
-
-
-#EXTINF:-1,======MUSIC Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-#EXTINF:-1 group-title="music",RotanaClip
-http://iptv.jan-beryan.giize.com/16013_RotanaClip/index.m3u8
-#EXTINF:-1 group-title="music",RotanaKhalijia
-http://iptv.jan-beryan.giize.com/16014_RotanaKhalijia/index.m3u8
-#EXTINF:-1 group-title="music",RotanaClassic
-http://iptv.jan-beryan.giize.com/16015_RotanaClassic/index.m3u8
-#EXTINF:-1 group-title="music",Rotana
-http://iptv.jan-beryan.giize.com/16018_Rotana/index.m3u8
-#EXTINF:-1 group-title="music",WANASAH
-http://iptv.jan-beryan.giize.com/16066_WANASAH/index.m3u8
-#EXTINF:-1 group-title="music",TimeSHA3BEYAT
-http://iptv.jan-beryan.giize.com/16143_TimeSHA3BEYAT/index.m3u8
-#EXTINF:-1 group-title="music",5STARS
-http://iptv.jan-beryan.giize.com/16161_5STARS/index.m3u8
-#EXTINF:-1 group-title="music",Hawacom
-http://iptv.jan-beryan.giize.com/16230_Hawacom/index.m3u8
-#EXTINF:-1 group-title="music",FreeTV
-http://iptv.jan-beryan.giize.com/16242_FreeTV/index.m3u8
-#EXTINF:-1 group-title="music",NogoumFMRadio
-http://iptv.jan-beryan.giize.com/16245_NogoumFMRadio/index.m3u8
-#EXTINF:-1 group-title="music",MUSICSHA3BY
-http://iptv.jan-beryan.giize.com/16258_MUSICSHA3BY/index.m3u8
-#EXTINF:-1 group-title="music",ShababTV
-http://iptv.jan-beryan.giize.com/16274_ShababTV/index.m3u8
-#EXTINF:-1 group-title="music",AghaniAghani
-http://iptv.jan-beryan.giize.com/16349_AghaniAghani/index.m3u8
-
-
-
+#EXTINF:-1,======MUSIC Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,mazzika
+http://iptv2.jan-beryan.giize.com/LQ-AR-Mazzika-TV/index.m3u8
+#EXTINF:-1,Ajman-TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Ajman-TV/index.m3u8
+#EXTINF:-1,Wanasah
+http://iptv2.jan-beryan.giize.com/LQ-AR-Wanasah/index.m3u8
+#EXTINF:-1,Arabica
+http://iptv2.jan-beryan.giize.com/LQ-AR-Arabica-TV/index.m3u8
+#EXTINF:-1,Aghani
+http://iptv2.jan-beryan.giize.com/LQ-AR-Aghani-Aghani/index.m3u8
+#EXTINF:-1,Hawacom
+http://iptv2.jan-beryan.giize.com/LQ-AR-Hawacom/index.m3u8
+#EXTINF:-1,Music Alarab
+http://iptv2.jan-beryan.giize.com/LQ-AR-Music-Alarab/index.m3u8
+#EXTINF:-1,Music Alremas
+http://iptv2.jan-beryan.giize.com/LQ-AR-Music-AlReemas/index.m3u8
+#EXTINF:-1,music alhaneen
+http://iptv2.jan-beryan.giize.com/LQ-AR-Music-Alhanen/index.m3u8
+#EXTINF:-1,Shabab-TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Shabab-TV/index.m3u8
+#EXTINF:-1,Mazazikh-TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Mazazikh-TV/index.m3u8
+#EXTINF:-1,One Music
+http://iptv2.jan-beryan.giize.com/LQ-AR-One-Music-TV/index.m3u8
+#EXTINF:-1,Funoon
+http://iptv2.jan-beryan.giize.com/LQ-AR-Funoon/index.m3u8
+#EXTINF:-1,Sudan music
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sudan-Music/index.m3u8
+#EXTINF:-1,
+http://iptv2.jan-beryan.giize.com/LQ-AR-Melody-Classic/index.m3u8
+#EXTINF:-1,Hawacom
+http://iptv2.jan-beryan.giize.com/LQ-AR-Hawacom/index.m3u8
+#EXTINF:-1,AwdAh
+http://iptv2.jan-beryan.giize.com/LQ-AR-Awdeh-TV/index.m3u8
+#EXTINF:-1,wanasah
+http://iptv2.jan-beryan.giize.com/LQ-AR-Wanasah/index.m3u8
 
