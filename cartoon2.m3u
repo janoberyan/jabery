@@ -1,38 +1,65 @@
 
 
 
-#EXTINF:-1,======CARTOON Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-#EXTINF:-1 group-title="cartoon",Baraem
-http://iptv.jan-beryan.giize.com/16357_Baraem/index.m3u8
-#EXTINF:-1 group-title="cartoon",JeemSD
-http://iptv.jan-beryan.giize.com/16358_JeemSD/index.m3u8
-#EXTINF:-1 group-title="cartoon",TAHA
-http://iptv.jan-beryan.giize.com/16347_TAHA/index.m3u8
-#EXTINF:-1 group-title="cartoon",TOYORBABY
-http://iptv.jan-beryan.giize.com/16243_TOYORBABY/index.m3u8
-#EXTINF:-1 group-title="cartoon",KOKKYTV
-http://iptv.jan-beryan.giize.com/16283_KOKKYTV/index.m3u8
-#EXTINF:-1 group-title="cartoon",TOYORALJANAH
-http://iptv.jan-beryan.giize.com/16084_TOYORALJANAH/index.m3u8
-#EXTINF:-1 group-title="cartoon",NOURKIDS
-http://iptv.jan-beryan.giize.com/16104_NOURKIDS/index.m3u8
-#EXTINF:-1 group-title="cartoon",CANARY_TV
-http://iptv.jan-beryan.giize.com/16125_CANARY_TV/index.m3u8
-#EXTINF:-1 group-title="cartoon",SPACETOONARABIC
-http://iptv.jan-beryan.giize.com/16133_SPACETOONARABIC/index.m3u8
-#EXTINF:-1 group-title="cartoon",SPACETOONARABIC
-http://iptv.jan-beryan.giize.com/16133_SPACETOONARABIC/index.m3u8
-#EXTINF:-1 group-title="cartoon",MODYKIDS
-http://iptv.jan-beryan.giize.com/16141_MODYKIDS/index.m3u8
-#EXTINF:-1 group-title="cartoon",NOONKIDS
-http://iptv.jan-beryan.giize.com/16187_NOONKIDS/index.m3u8
-#EXTINF:-1 group-title="cartoon",KIDSTUBE
-http://iptv.jan-beryan.giize.com/16209_KIDSTUBE/index.m3u8
-#EXTINF:-1 group-title="cartoon",Ajial
-http://iptv.jan-beryan.giize.com/16246_Ajial/index.m3u8
-
-
-
+#EXTINF:-1,======KIDS Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,ajyal
+http://iptv2.jan-beryan.giize.com/LQ-AR-Ajyal/index.m3u8
+#EXTINF:-1,baraem
+http://iptv2.jan-beryan.giize.com/LQ-AR-Baraem-Europe/index.m3u8
+#EXTINF:-1,Jeem europe
+http://iptv2.jan-beryan.giize.com/LQ-AR-Jeem-Europe/index.m3u8
+#EXTINF:-1,Karameesh
+http://iptv2.jan-beryan.giize.com/LQ-AR-Karameesh/index.m3u8
+#EXTINF:-1,sat 7 kids
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sat7-Kids/index.m3u8
+#EXTINF:-1,spacetoon
+http://iptv2.jan-beryan.giize.com/LQ-AR-Spacetoon/index.m3u8
+#EXTINF:-1,tayba TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Tayba-TV/index.m3u8
+#EXTINF:-1,Toyor Aljanah
+http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Al-Janah/index.m3u8
+#EXTINF:-1,Toyor baby
+http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Baby/index.m3u8
+#EXTINF:-1,Toyor aljanah
+http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Al-Janah/index.m3u8
+#EXTINF:-1,Toyor baby
+http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Baby/index.m3u8
+#EXTINF:-1,Toyor aliraq
+http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Al-Iraq/index.m3u8
+#EXTINF:-1,spacetoon
+http://iptv2.jan-beryan.giize.com/LQ-AR-Spacetoon/index.m3u8
+#EXTINF:-1,Majid kids
+http://iptv2.jan-beryan.giize.com/LQ-AR-Majid-Kids/index.m3u8
+#EXTINF:-1,Cartoon-Network
+http://iptv2.jan-beryan.giize.com/LQ-AR-Cartoon-Network/index.m3u8
+#EXTINF:-1,Baraem
+http://iptv2.jan-beryan.giize.com/LQ-AR-Baraem/index.m3u8
+#EXTINF:-1,baraem europe
+http://iptv2.jan-beryan.giize.com/LQ-AR-Baraem-Europe/index.m3u8
+#EXTINF:-1,Karamesh
+http://iptv2.jan-beryan.giize.com/LQ-AR-Karameesh/index.m3u8
+#EXTINF:-1,Taha
+http://iptv2.jan-beryan.giize.com/LQ-AR-Taha/index.m3u8
+#EXTINF:-1,Atfal
+http://iptv2.jan-beryan.giize.com/LQ-AR-Atfal-TV/index.m3u8
+#EXTINF:-1,Ajyal
+http://iptv2.jan-beryan.giize.com/LQ-AR-Ajyal/index.m3u8
+#EXTINF:-1,Jeem Europe
+http://iptv2.jan-beryan.giize.com/LQ-AR-Jeem-Europe/index.m3u8
+#EXTINF:-1,Hod hod arabic
+http://iptv2.jan-beryan.giize.com/LQ-AR-HodHod-Arabic/index.m3u8
+#EXTINF:-1,koky kids
+http://iptv2.jan-beryan.giize.com/LQ-AR-Kokky-Kids/index.m3u8
+#EXTINF:-1,Semsem
+http://iptv2.jan-beryan.giize.com/LQ-AR-SemSem/index.m3u8
+#EXTINF:-1,Mouja tv
+http://iptv2.jan-beryan.giize.com/LQ-AR-Mouja-TV/index.m3u8
+#EXTINF:-1,Nour Kids
+http://iptv2.jan-beryan.giize.com/LQ-AR-Nour-Kids/index.m3u8
+#EXTINF:-1,Taha
+http://iptv2.jan-beryan.giize.com/LQ-AR-Taha/index.m3u8
+#EXTINF:-1,Toyor-Baby
+http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Baby/index.m3u8
 
 
