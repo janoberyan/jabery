@@ -1,40 +1,19 @@
 
-
-
-
-#EXTINF:-1,======KSA Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-#EXTINF:-1 group-title="saudia",AhelAlQuran
-http://iptv.jan-beryan.giize.com/16331_AhelAlQuran/index.m3u8
-#EXTINF:-1 group-title="saudia",Al-Majd3
-http://iptv.jan-beryan.giize.com/16314_Al-Majd3/index.m3u8
-#EXTINF:-1 group-title="saudia",QURANTV
-http://iptv.jan-beryan.giize.com/16207_QURANTV/index.m3u8
-#EXTINF:-1 group-title="saudia",HalaTV
-http://iptv.jan-beryan.giize.com/16180_HalaTV/index.m3u8
-#EXTINF:-1 group-title="saudia",Iqraa
-http://iptv.jan-beryan.giize.com/16054_Iqraa/index.m3u8
-#EXTINF:-1 group-title="saudia",ALResala
-http://iptv.jan-beryan.giize.com/16157_ALResala/index.m3u8
-#EXTINF:-1 group-title="saudia",4SHABABTV1
-http://iptv.jan-beryan.giize.com/16083_4SHABABTV1/index.m3u8
-#EXTINF:-1 group-title="saudia",MTA3AlArabiyah
-http://iptv.jan-beryan.giize.com/16185_MTA3AlArabiyah/index.m3u8
-#EXTINF:-1 group-title="saudia",SHADAALHURRIEHTV
-http://iptv.jan-beryan.giize.com/16190_SHADAALHURRIEHTV/index.m3u8
-#EXTINF:-1 group-title="saudia",SaudiAnti-terrorism
-http://iptv.jan-beryan.giize.com/16192_SaudiAnti-terrorism/index.m3u8
-#EXTINF:-1 group-title="saudia",SAFATV
-http://iptv.jan-beryan.giize.com/16196_SAFATV/index.m3u8
-#EXTINF:-1 group-title="saudia",BINOTHAIMEEN
-http://iptv.jan-beryan.giize.com/16197_BINOTHAIMEEN/index.m3u8
-#EXTINF:-1 group-title="saudia",SAUD
-http://iptv.jan-beryan.giize.com/16256_SAUD/index.m3u8
-#EXTINF:-1 group-title="saudia",ALSaha
-http://iptv.jan-beryan.giize.com/16354_ALSaha/index.m3u8
-#EXTINF:-1 group-title="saudia",FUNoon
-http://iptv.jan-beryan.giize.com/16360_FUNoon/index.m3u8
-
-
-
-
+#EXTINF:-1,======KSA Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Mta International
+http://iptv2.jan-beryan.giize.com/LQ-AR-MTA-International/index.m3u8
+#EXTINF:-1,saudia1
+http://iptv2.jan-beryan.giize.com/LQ-AR-Saudi1/index.m3u8
+#EXTINF:-1,saudia 2
+http://iptv2.jan-beryan.giize.com/LQ-AR-Saudi1/index.m3u8
+#EXTINF:-1,elekbaria ksa
+http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Ekhbaria/index.m3u8
+#EXTINF:-1,Aleqtisadiah
+http://iptv2.jan-beryan.giize.com/LQ-AR-Aleqtisadiah/index.m3u8
+#EXTINF:-1,AlThuqafiah
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlThuqafiah/index.m3u8
+#EXTINF:-1,Qest-Arabiya
+http://iptv2.jan-beryan.giize.com/LQ-AR-Quest-Arabiya/index.m3u8
+#EXTINF:-1,alarby
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlAraby/index.m3u8
