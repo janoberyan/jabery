@@ -1,41 +1,55 @@
 
 
 
+#EXTINF:-1,======NEWS Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
 
-
-
-#EXTINF:-1,======NEWS Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-
-#EXTINF:-1 group-title="news",AlArabiya
-http://iptv.jan-beryan.giize.com/16046_AlArabiya/index.m3u8
-#EXTINF:-1 group-title="news",AlJazeera
-http://iptv.jan-beryan.giize.com/16169_AlJazeera/index.m3u8
-#EXTINF:-1 group-title="news",AlJazeeraMubasher
-http://iptv.jan-beryan.giize.com/16170_AlJazeeraMubasher/index.m3u8
-#EXTINF:-1 group-title="news",CNN
-http://iptv.jan-beryan.giize.com/16008_CNN/index.m3u8
-#EXTINF:-1 group-title="news",AlJazeeraEnglish
-http://iptv.jan-beryan.giize.com/16011_AlJazeeraEnglish/index.m3u8
-#EXTINF:-1 group-title="news",EuroNews
-http://iptv.jan-beryan.giize.com/16012_EuroNews/index.m3u8
-#EXTINF:-1 group-title="news",ALHadath
-http://iptv.jan-beryan.giize.com/16164_ALHadath/index.m3u8
-#EXTINF:-1 group-title="news",BBCArabic
-http://iptv.jan-beryan.giize.com/16149_BBCArabic/index.m3u8
-#EXTINF:-1 group-title="news",SkyNewsArabia
-http://iptv.jan-beryan.giize.com/16035_SkyNewsArabia/index.m3u8
-#EXTINF:-1 group-title="news",Ten
-http://iptv.jan-beryan.giize.com/16028_Ten/index.m3u8
-#EXTINF:-1 group-title="iraq",IraqiaTVnews
-http://iptv.jan-beryan.giize.com/16153_IraqiaTVnews/index.m3u8
-#EXTINF:-1 group-title="news",ALMINBAR
-http://iptv.jan-beryan.giize.com/16235_ALMINBAR/index.m3u8
-#EXTINF:-1 group-title="news",AlArabyTV
-http://iptv.jan-beryan.giize.com/16307_AlArabyTV/index.m3u8
-#EXTINF:-1 group-title="algeria",EchoroukNews
-http://iptv.jan-beryan.giize.com/16319_EchoroukNews/index.m3u8
-#EXTINF:-1 group-title="news",ALAANTV
-http://iptv.jan-beryan.giize.com/16342_ALAANTV/index.m3u8
-
+#EXTINF:-1,Al-Arabiya
+http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya/index.m3u8
+#EXTINF:-1,Al-Jazeera
+http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Jazeera/index.m3u8
+#EXTINF:-1,alarabiya
+http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya/index.m3u8
+#EXTINF:-1,alarabiya hadath
+http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya-Hadath/index.m3u8
+#EXTINF:-1,aljazeera
+http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Jazeera/index.m3u8
+#EXTINF:-1,aljazeera mubasher
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlJazeera-Mubasher/index.m3u8
+#EXTINF:-1,aljazeera documentry
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlJazeera-Documentary/index.m3u8
+#EXTINF:-1,alhurra
+http://iptv2.jan-beryan.giize.com/LQ-AR-Alhurra/index.m3u8
+#EXTINF:-1,alhurra iraq
+http://iptv2.jan-beryan.giize.com/LQ-AR-Alhurra-Iraq/index.m3u8
+#EXTINF:-1,France 24
+http://iptv2.jan-beryan.giize.com/LQ-AR-France24/index.m3u8
+#EXTINF:-1,BBc arabic
+http://iptv2.jan-beryan.giize.com/LQ-AR-BBC-Arabic/index.m3u8
+#EXTINF:-1,I24news
+http://iptv2.jan-beryan.giize.com/LQ-AR-I24-News/index.m3u8
+#EXTINF:-1,Alaan
+http://iptv2.jan-beryan.giize.com/LQ-AR-Alaan-Tv/index.m3u8
+#EXTINF:-1,Ann
+http://iptv2.jan-beryan.giize.com/LQ-AR-ANN/index.m3u8
+#EXTINF:-1,DW arabic
+http://iptv2.jan-beryan.giize.com/LQ-AR-DW-Arabic/index.m3u8
+#EXTINF:-1,CNBC 
+http://iptv2.jan-beryan.giize.com/LQ-AR-CNBC-Arabiya/index.m3u8
+#EXTINF:-1,AlAraby news
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlAraby/index.m3u8
+#EXTINF:-1,bbc arabic
+http://iptv2.jan-beryan.giize.com/LQ-AR-BBC-Arabic/index.m3u8
+#EXTINF:-1,France24
+http://iptv2.jan-beryan.giize.com/LQ-AR-France24/index.m3u8
+#EXTINF:-1,Orent news
+http://iptv2.jan-beryan.giize.com/LQ-AR-Orient/index.m3u8
+#EXTINF:-1,Palestine
+http://iptv2.jan-beryan.giize.com/LQ-AR-Palestine/index.m3u8
+#EXTINF:-1,alalam
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlAlam/index.m3u8
+#EXTINF:-1,Palestine-News
+http://iptv2.jan-beryan.giize.com/LQ-AR-Palestine-News/index.m3u8
+#EXTINF:-1,alalam news
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlAlam/index.m3u8
 
