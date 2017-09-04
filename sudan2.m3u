@@ -1,48 +1,29 @@
 
 
 
-
-#EXTINF:-1,======SUDAN Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-
-#EXTINF:-1 group-title="sudan",AfricaTv1
-http://iptv.jan-beryan.giize.com/13311_AfricaTv1/index.m3u8
-#EXTINF:-1 group-title="sudan",AfricaTv2
-http://iptv.jan-beryan.giize.com/13312_AfricaTv2/index.m3u8
-#EXTINF:-1 group-title="sudan",AfricaTv3
-http://iptv.jan-beryan.giize.com/13313_AfricaTv3/index.m3u8
-#EXTINF:-1 group-title="sudan",AfricaTv4
-http://iptv.jan-beryan.giize.com/13314_AfricaTv4/index.m3u8
-#EXTINF:-1 group-title="sudan",Blue_NileTv
-http://iptv.jan-beryan.giize.com/13315_Blue_NileTv/index.m3u8
-#EXTINF:-1 group-title="sudan",DabangaTv
-http://iptv.jan-beryan.giize.com/13316_DabangaTv/index.m3u8
-#EXTINF:-1 group-title="sudan",Neelain_Sport
-http://iptv.jan-beryan.giize.com/13317_Neelain_Sport/index.m3u8
-#EXTINF:-1 group-title="sudan",Sudan_Drama
-http://iptv.jan-beryan.giize.com/13318_Sudan_Drama/index.m3u8
-#EXTINF:-1 group-title="sudan",Tarteel
-http://iptv.jan-beryan.giize.com/13321_Tarteel/index.m3u8
-#EXTINF:-1 group-title="sudan",TaybaTv
-http://iptv.jan-beryan.giize.com/13322_TaybaTv/index.m3u8
-#EXTINF:-1 group-title="sudan",AshrooqTv
-http://iptv.jan-beryan.giize.com/13323_AshrooqTv/index.m3u8
-#EXTINF:-1 group-title="sudan",DabangaSudan
-http://iptv.jan-beryan.giize.com/16333_DabangaSudan/index.m3u8
-#EXTINF:-1 group-title="sudan",EriteriaTV
-http://iptv.jan-beryan.giize.com/16244_EriteriaTV/index.m3u8
-#EXTINF:-1 group-title="sudan",SudanTV
-http://iptv.jan-beryan.giize.com/16232_SudanTV/index.m3u8
-#EXTINF:-1 group-title="sudan",AshrooqTv
-http://iptv.jan-beryan.giize.com/16233_AshrooqTv/index.m3u8
-#EXTINF:-1 group-title="sudan",JubalandTV
-http://iptv.jan-beryan.giize.com/16247_JubalandTV/index.m3u8
-#EXTINF:-1 group-title="sudan",SouthernTV
-http://iptv.jan-beryan.giize.com/16248_SouthernTV/index.m3u8
-#EXTINF:-1 group-title="sudan",OromiaTV
-http://iptv.jan-beryan.giize.com/16249_OromiaTV/index.m3u8
-#EXTINF:-1 group-title="sudan",ESTV
-http://iptv.jan-beryan.giize.com/16250_ESTV/index.m3u8
-#EXTINF:-1 group-title="sudan",AmharaTV
-http://iptv.jan-beryan.giize.com/16259_AmharaTV/index.m3u8
-
+#EXTINF:-1,======SUDAN Group=======
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,Bntv
+http://iptv2.jan-beryan.giize.com/LQ-AR-BNTV/index.m3u8
+#EXTINF:-1,sudan
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sudan-TV/index.m3u8
+#EXTINF:-1,Khartoum
+http://iptv2.jan-beryan.giize.com/LQ-AR-Khartoum/index.m3u8
+#EXTINF:-1,Sahour Tv
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sahour-TV/index.m3u8
+#EXTINF:-1,BNTV
+http://iptv2.jan-beryan.giize.com/LQ-AR-BNTV/index.m3u8
+#EXTINF:-1,Sudan tv
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sudan-TV/index.m3u8
+#EXTINF:-1,Sudan Knowledge
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sudan-Knowledge/index.m3u8
+#EXTINF:-1,Sudania24
+http://iptv2.jan-beryan.giize.com/LQ-AR-Sudania24/index.m3u8
+#EXTINF:-1,AlGezira
+http://iptv2.jan-beryan.giize.com/LQ-AR-AlGezira/index.m3u8
+#EXTINF:-1,AlManal
+http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Manal/index.m3u8
+#EXTINF:-1,Ashrooq
+http://iptv2.jan-beryan.giize.com/LQ-AR-Ashrooq/index.m3u8
+#EXTINF:-1,Tayba TV
+http://iptv2.jan-beryan.giize.com/LQ-AR-Tayba-TV/index.m3u8
