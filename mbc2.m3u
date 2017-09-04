@@ -1,43 +1,24 @@
 
+#EXTINF:-1,======MBC Group=======
+http://iptv2.jan-beryan.giize.com/MBC1/index.m3u8
 
-
-
-#EXTINF:-1,======MBC Group======
-http://catchmeifyoucan.gcdn.co/MBC1/index.m3u8
-
-#EXTINF:-1 group-title="mbc",MBC1
-http://iptv.jan-beryan.giize.com/16000_MBC1/index.m3u8
-#EXTINF:-1 group-title="mbc",MBC2
-http://iptv.jan-beryan.giize.com/16001_MBC2/index.m3u8
-#EXTINF:-1 group-title="mbc",MBC3
-http://iptv.jan-beryan.giize.com/16002_MBC3/index.m3u8
-#EXTINF:-1 group-title="mbc",MBC4
-http://iptv.jan-beryan.giize.com/16003_MBC4/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCAction
-http://iptv.jan-beryan.giize.com/16004_MBCAction/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCDrama
-http://iptv.jan-beryan.giize.com/16005_MBCDrama/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCMAX
-http://iptv.jan-beryan.giize.com/16006_MBCMAX/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCBollywood
-http://iptv.jan-beryan.giize.com/16007_MBCBollywood/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCMaser
-http://iptv.jan-beryan.giize.com/16009_MBCMaser/index.m3u8
-#EXTINF:-1 group-title="music",MBCMasr2
-http://iptv.jan-beryan.giize.com/16119_MBCMasr2/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO1
-http://iptv.jan-beryan.giize.com/16218_MBCPRO1/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO2
-http://iptv.jan-beryan.giize.com/16219_MBCPRO2/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO3
-http://iptv.jan-beryan.giize.com/16220_MBCPRO3/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO3
-http://iptv.jan-beryan.giize.com/16220_MBCPRO3/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO4
-http://iptv.jan-beryan.giize.com/16221_MBCPRO4/index.m3u8
-#EXTINF:-1 group-title="mbc",MBCPRO4
-http://iptv.jan-beryan.giize.com/16221_MBCPRO4/index.m3u8
-
-
-
-
+#EXTINF:-1,mbc1
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
+#EXTINF:-1,mbc2
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC2/index.m3u8
+#EXTINF:-1,mbc3
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC3/index.m3u8
+#EXTINF:-1,mbc4
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC4/index.m3u8
+#EXTINF:-1,MBC-Action
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-Action/index.m3u8
+#EXTINF:-1,mbc max
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-MAX/index.m3u8
+#EXTINF:-1,mbc drama
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-Drama/index.m3u8
+#EXTINF:-1,mbc masr
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-MASR/index.m3u8
+#EXTINF:-1,mbc masr 2
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-Masr2/index.m3u8
+#EXTINF:-1,mbc bollywood
+http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-Bollywood/index.m3u8
