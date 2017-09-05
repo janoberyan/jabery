@@ -1,74 +1,10 @@
 
-#EXTINF:-1, ابو ظبي1 متعدد الجودات
+#EXTINF:-1,موعد المباراة : 9:00 مساءاً بتوقيت السعودية .8:00 مساءاً بتوقيت مصر .6:00 مساءاً بتوقيت غرينتش GMT .
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,ابو ظبي2 متعدد الجودات
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-ابو ظبي1 متعدد الجودات
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-ابو ظبي2 متعدد الجودات
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,سيرفر يلا شوت متوسط الدقة
-https://live66.vkuserlive.com/639911/live/IQRFEOJDfP4/playlist.m3u8
-#EXTINF:-1,سيرفر يلا شوت متعدد الجودات HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?go=1&signature=472C731EFC22ECA6AC90781F01F6BC1E13592825.C5551B94CA653203DEE3D2042CF71B48F2FE613E&ei=ApiUWbzdKsGbcp2bh-gF&ratebypass=yes&itag=0&keepalive=yes&key=yt6&id=dhq5giBfG-o.0&expire=1502932066&playlist_type=DVR&ipbits=0&sparams=ei,gcr,go,id,ip,ipbits,itag,playlist_type,ratebypass,requiressl,source,expire&gcr=sd&requiressl=yes&ip=41.209.115.200&dover=8&source=yt_live_broadcast&cpn=IfMlx649_p1YVm58&ibw=960000&c=MWEB&cver=1.20170815&ptk=youtube_none&pltype=contentugclive
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,AR-ON SPOR TV دقة عالية
+http://emp.jan-beryan.giize.com/4279.ts
 
-#EXTINF:-1,OSN:  Abu Dhabi Sports 1 HD
-http://osiptv.casacam.net:8000/live/ios/freem3u/1347.m3u8
-#EXTINF:-1,OSN:  Abu Dhabi Sports 2 HD
-http://osiptv.casacam.net:8000/live/ios/freem3u/1346.m3u8
-#EXTINF:-1,سيرفر الامبراطورية
-http://streamer8715.embratoria.com:9080/hls/mal-ad-sport1HD.m3u8?md5=1poW08BsNwLGCNizbK14KQ&expires=1503146027
-
-#EXTINF:-1,سيرفر الامبراطورية
-http://streamer8715.embratoria.com:9080/hls/mal-ad-sport2HD.m3u8?md5=1poW08BsNwLGCNizbK14KQ&expires=1503146027
-#EXTINF:-1, ON SPORTS سيرفر موبي كورة 720
-http://bl.movcast.tv:1935/icoolkora/on-sport_source/playlist.m3u8?wowzatokenendtime=1502998892342&wowzatokenstarttime=0&wowzatokenhash=Y_tVE3b1HTQoubNElC1Hl37_sTfRxRP2dzs_AQBjCao=
-#EXTINF:-1, ON SPORTS سيرفر موبي كورة 360
-http://bl.movcast.tv:1935/icoolkora/on-sport_360p/playlist.m3u8?wowzatokenendtime=1502998972077&wowzatokenstarttime=0&wowzatokenhash=vYuHMW4MFHIE0mc6mJ0RXkK7wupitTlMZYHFHzVv8B8=
-#EXTINF:-1, ON SPORTS سيرفر موبي كورة 240
-http://bl.movcast.tv:1935/icoolkora/on-sport_240p/playlist.m3u8?wowzatokenendtime=1502999026901&wowzatokenstarttime=0&wowzatokenhash=ihMS9gj1sdDZOhvXKRLSw6nADp0tBW7jz33qy8OQ76w=
-#EXTINF:-1, AD SPORTS1 سيرفر موبي كورة 720
-http://bl.movcast.tv:1935/icoolkora/ad1_source/playlist.m3u8?wowzatokenendtime=1502999084426&wowzatokenstarttime=0&wowzatokenhash=ZS-llv66wYvO-lDBtwYDdtGpAQvr7T-qisSHB1h6fC4=
-#EXTINF:-1, AD SPORTS1 سيرفر موبي كورة 360
-http://bl.movcast.tv:1935/icoolkora/ad1_360p/playlist.m3u8?wowzatokenendtime=1502999145438&wowzatokenstarttime=0&wowzatokenhash=rgmppKTTpJ9EBKgkomDgkTx6TUwitJCk8vqOFcUgs6U=
-#EXTINF:-1, AD SPORTS1 سيرفر موبي كورة 240
-http://bl.movcast.tv:1935/icoolkora/ad1_240p/playlist.m3u8?wowzatokenendtime=1502999172575&wowzatokenstarttime=0&wowzatokenhash=lZKi_PvLk67SSgHeL1CKxh1wP2yF7X0FyAdhDLfpu7M=
-
-
-
-
-
-
-
-#EXTINF:-1,AD SPORT1
-http://217.182.16.97:8000/live/93841502906690/93841502906690/40.m3u8
-#EXTINF:-1,AD SPORT2
-http://217.182.16.97:8000/live/93841502906690/93841502906690/41.m3u8
-
-
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1,ابو ظبي1 جودة عالية
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/717.ts
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1,ابو ظبي2 جودة عالية
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/718.ts
-
-#EXTINF:-1,On-Sport متعدد الجودات
-#EXTVLCOPT:http-user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770
-http://asno.gcdn.co/On-Sport-HD/index.m3u8
-
-
-
-
-#EXTVLCOPT:http-user-agent=FreeIPTV LibVLC/3.0.0-git
-#EXTINF:-1,CANAL SPORT الفرنسية
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/673.ts
-#EXTINF:-1,CANAL+ SPORT HD
-http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5376.ts
-#EXTINF:-1,CANAL+ SPORT
-http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6871.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (AndrTV-IPTV) Chrome/59.0.3071.115 Safari/537.3
-#EXTINF:-1,telecinco الاسبانية
-http://edga18.vergol.pw/live/telecinco/index.m3u8
+#EXTINF:-1,سوف يتم اضافة المزيد من السيرفرات قبل بداية المباراة
+http://emp.jan-beryan.giize.com/4279.ts
