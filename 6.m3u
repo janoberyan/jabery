@@ -1,0 +1,20 @@
+
+#EXTINF:-1,موعد المباراة : 8:30 مساءاً بتوقيت السعودية .5:30 مساءاً بتوقيت غرينتش GMT .
+http://173.212.206.199:25461/live/control1/control1/144.ts
+#EXTVLCOPT:http-user-agent=098
+#EXTINF:-1,دقة عالية جدا
+http://173.212.206.199:25461/live/control1/control1/144.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,دقة عالية
+http://emp.jan-beryan.giize.com/4014.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+#EXTINF:-1,دقة متوسطة1
+http://emp.jan-beryan.giize.com/4534.ts
+#EXTINF:-1,دقة متوسطة2
+http://bl.movcast.tv:1935/icoolkora/bein1_source/chunklist_w1609118457.m3u8
+#EXTINF:-1,دقة متوسطة3
+http://bein2.jan-beryan.giize.com//live//bein1_source//playlist.m3u8
+#EXTINF:-1,دقة ضعيفة
+http://bl.movcast.tv:1935/icoolkora/bein1_360p/chunklist_w575856750.m3u8
+#EXTINF:-1,دقة ضعيفة جدا
+http://bl.movcast.tv:1935/icoolkora/bein1_240p/chunklist_w925637422.m3u8
