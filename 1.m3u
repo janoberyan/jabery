@@ -1,7 +1,4 @@
 
-#EXTVLCOPT:http-user-agent=098
-#EXTINF:-1,دقة عالية جدا
-http://173.212.206.199:25461/live/control1/control1/146.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
 #EXTINF:-1,دقة عالية
 http://emp.jan-beryan.giize.com/4033.ts
