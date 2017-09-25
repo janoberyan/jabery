@@ -1,121 +1,81 @@
-
-#EXTINF:-1,AR: OSN YAHALA.
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/607.ts
-#EXTINF:-1,AR: OSN YAHALA.  -2h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/608.ts
-#EXTINF:-1,AR: OSN YAHALA.  -4h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/609.ts
-#EXTINF:-1,AR: OSN YAHALA.  -7h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/610.ts
-#EXTINF:-1,AR: OSN YA_HALA_SHABEB
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/611.ts
-#EXTINF:-1,AR: OSN YA_HALA_SHABEB  -2h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/612.ts
-#EXTINF:-1,AR: OSN HALA_SHABEB    -4h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/613.ts
-#EXTINF:-1,AR: OSN HALA_SHABEB   -7h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/614.ts
-#EXTINF:-1,AR: OSN YA HALA CINEMA HD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/247.ts
-#EXTINF:-1,AR: OSN YA HALA CINEMA HD -2H
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/246.ts
-#EXTINF:-1,AR: OSN YA HALA CINEMA HD -7H
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/245.ts
-#EXTINF:-1,AR: OSN ALYOUM.
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/615.ts
-#EXTINF:-1,AR: OSN ALYOUM.  -2h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/616.ts
-#EXTINF:-1,AR: OSN ALYOUM.  -4h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/617.ts
-#EXTINF:-1,AR: OSN ALYOUM.  -7h
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/618.ts
-#EXTINF:-1,AR: OSN serie HD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/244.ts
-#EXTINF:-1,AR: OSN serie HD -7H
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/241.ts
-#EXTINF:-1,AR: OSN serie 2 HD
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/243.ts
-#EXTINF:-1,AR: OSN serie 2 HD -7H
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/242.ts
-
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Cinema
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/521.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Aflam 1
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/518.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Aflam 2
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/519.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Hekayat 1
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/520.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Hekayat 2
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/522.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Movies HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/496.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Movies 2 HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/497.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Movies Action HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/498.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Movies Action 2 HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/499.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Movies Comedy HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/500.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Movies Premiere
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/501.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Movies Premiere 2
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/502.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Officebox 1HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/503.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Officebox 2HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/504.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Officebox 3HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/505.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Ondemand HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/506.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Ondemend Extra HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/507.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Cine1HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/509.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Cine2HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/508.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,SeeVii-Shamia
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/513.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,SeeVii DraHD.
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/512.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,SeeVii Beelink HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/511.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,SeeVii Al oula HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/510.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Yahala CineHD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/514.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Yahala HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/516.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Yahala DraHD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/515.ts
-#EXTVLCOPT:http-user-agent=/// LibVLC/3.0.0-git
-#EXTINF:-1,Yahala Shabab HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/517.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Officebox 1HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 1HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1297.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Officebox 2HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 2HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1298.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Officebox 3HD" tvg-logo="" group-title="05-OSN [AR]",Officebox 3HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1299.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies HD" tvg-logo="" group-title="05-OSN [AR]",Movies HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1300.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies 2 HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1301.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Premiere" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1304.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Premiere 2" tvg-logo="" group-title="05-OSN [AR]",Movies Premiere 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1305.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Comedy HD" tvg-logo="" group-title="05-OSN [AR]",Movies Comedy HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1306.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Action HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1302.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Movies Action 2 HD" tvg-logo="" group-title="05-OSN [AR]",Movies Action 2 HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1303.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Yahala HD" tvg-logo="" group-title="05-OSN [AR]",Yahala HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1309.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Yahala Shabab HD" tvg-logo="" group-title="05-OSN [AR]",Yahala Shabab HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1311.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Yahala DraHD" tvg-logo="" group-title="05-OSN [AR]",Yahala DraHD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1310.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Yahala CineHD" tvg-logo="" group-title="05-OSN [AR]",Yahala CineHD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1312.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Cine1HD" tvg-logo="" group-title="05-OSN [AR]",Cine1HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1313.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Cine2HD" tvg-logo="" group-title="05-OSN [AR]",Cine2HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1314.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Ondemend Extra HD" tvg-logo="" group-title="05-OSN [AR]",Ondemend Extra HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1308.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Ondemand HD" tvg-logo="" group-title="05-OSN [AR]",Ondemand HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1307.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="SeeVii-Shamia" tvg-logo="" group-title="05-OSN [AR]",SeeVii-Shamia
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1317.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="SeeVii DraHD." tvg-logo="" group-title="05-OSN [AR]",SeeVii DraHD.
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1315.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="SeeVii Beelink HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Beelink HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1318.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="SeeVii Al oula HD" tvg-logo="" group-title="05-OSN [AR]",SeeVii Al oula HD
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1316.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1319.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Aflam 2" tvg-logo="" group-title="06-ART [AR]",Aflam 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1320.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Hekayat 1" tvg-logo="" group-title="06-ART [AR]",Hekayat 1
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1321.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Hekayat 2" tvg-logo="" group-title="06-ART [AR]",Hekayat 2
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1322.ts
+#EXTVLCOPT:http-user-agent=ccbb LibVLC/3.0.0-git
+#EXTINF:-1 tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
+http://163.172.49.213:8899/live/bigRmd/big10rmd/1323.ts
