@@ -1,23 +1,45 @@
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/sat.jpg" tvg-name="syria 1 HD"  group-title="SYRIA",syria 1 HD
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/snews.jpg" tvg-name="Syria news HD"  group-title="SYRIA",Syria news HD
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/drama.jpg" tvg-name="Syria Drama HD"  group-title="SYRIA",Syria Drama HD
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/drama.jpg" tvg-name="Syria Drama HD"  group-title="SYRIA",Syria Drama youtube
+https://www.youtube.com/watch?v=8W80kx1RFQ0
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://shamnatv.com/wp-content/themes/newsbt-v1/images/logot.png"  tvg-name="shamna"  group-title="SYRIA",shamna
+http://live.ditve.tv:1935/shamna/shamna.stream_360hp/playlist.m3u8
 
-
-#EXTINF:-1,======SYRIA Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Halab-Today
-http://iptv2.jan-beryan.giize.com/LQ-AR-Halab-Today/index.m3u8
-#EXTINF:-1,Noor alsham
-http://iptv2.jan-beryan.giize.com/LQ-AR-Nour-Alsham/index.m3u8
-#EXTINF:-1,sama tv
-http://iptv2.jan-beryan.giize.com/LQ-AR-Sama-TV/index.m3u8
-#EXTINF:-1,Suryoyo-SAT
-http://iptv2.jan-beryan.giize.com/LQ-AR-Suryoyo-SAT/index.m3u8
-#EXTINF:-1,Syria
-http://iptv2.jan-beryan.giize.com/LQ-AR-SYRIA/index.m3u8
-#EXTINF:-1,syria drama
-http://iptv2.jan-beryan.giize.com/LQ-AR-Syria-Drama/index.m3u8
-#EXTINF:-1,syria education
-http://iptv2.jan-beryan.giize.com/LQ-AR-Syrian-Education/index.m3u8
-#EXTINF:-1,syria medical
-http://iptv2.jan-beryan.giize.com/LQ-AR-Syria-Medical/index.m3u8
-#EXTINF:-1,Sham FM
-http://iptv2.jan-beryan.giize.com/LQ-AR-Sham-FM/index.m3u8
-
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/nour.jpg" tvg-name="NOOR ALSHAM HD"  group-title="SYRIA",NOOR ALSHAM HD
+http://82.137.248.21:1935/Nour/NourLive3/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/Ugarit.jpg" tvg-name="UGARIT TV HD"  group-title="SYRIA",UGARIT TV HD
+http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/Syriana.jpg" tvg-name="Souryana HD"  group-title="SYRIA",Souryana HD
+http://82.137.248.20:1935/Souryana/SouryanaLive3/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/sedu.jpg" tvg-name="Syria EDU HD"  group-title="SYRIA",Syria EDU HD
+http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://addounia.tv/layout/images/logo.png" tvg-name="Sama tv"  group-title="SYRIA",Sama tv
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://shamfm.fm/assets/v3/images/logo.png" tvg-name="SHAM FM"  group-title="SYRIA",SHAM FM TV 
+http://shamfm.tv:1935/live/shamfm/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://shamfm.fm/assets/v3/images/logo.png" tvg-name="SHAM FM"  group-title="SYRIA",SHAM FM RADIO
+http://shamfm.info:8200/;
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://lambaproduction.com/dev15/wp-content/uploads/2015/06/11412306_1174684615882308_6093562438069862148_n.png" tvg-name="HALAB TODAY"  group-title="SYRIA",HALAB TODAY
+http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.nabdsyria.tv/Media/Default/Images/default-thumb.png" tvg-name="NABD "  group-title="SYRIA",NABD 
+http://streaming.i-sat.tv:1935/live/nabd/chunklist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://caravaneculturellesyrienne.org/wp-content/uploads/2014/12/new-logo.png" tvg-name="ORIENT NEWS"  group-title="SYRIA",ORIENT NEWS
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/gmswf.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/sat.jpg" tvg-name="syria 1 sd"  group-title="SYRIA",syria 1 sd
+http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/snews.jpg" tvg-name="Syria news sd"  group-title="SYRIA",Syria news sd
+http://82.137.248.16:1935/Snews/SnewsLive1/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/drama.jpg" tvg-name="Syria Drama sd"  group-title="SYRIA",Syria Drama sd
+http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/nour.jpg" tvg-name="NOOR ALSHAM sd"  group-title="SYRIA",NOOR ALSHAM sd
+http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/Ugarit.jpg" tvg-name="UGARIT TV sd"  group-title="SYRIA",UGARIT TV sd
+http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/Syriana.jpg" tvg-name="Souryana sd"  group-title="SYRIA",Souryana sd
+http://82.137.248.20:1935/Souryana/SouryanaLive1/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://live.rtv.gov.sy/images/sedu.jpg" tvg-name="Syria EDU SD"  group-title="SYRIA",Syria EDU SD
+http://82.137.248.20:1935/SEdu/SEduLive1/playlist.m3u8
