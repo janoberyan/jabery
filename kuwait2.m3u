@@ -1,10 +1,16 @@
-
-
-#EXTINF:-1,======KWAIT Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1 ,ALAAn
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alaan-TV/index.m3u8
-#EXTINF:-1,alrai
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alrai/index.m3u8
-#EXTINF:-1 ,Alrai
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alrai/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="kuwait",kuwait1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/gmswf.m3u8
+#EXTINF:-1,ktv 2
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/gmswf.m3u8
+#EXTINF:-1,ktvethraalive
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/gmswf.m3u8
+#EXTINF:-1,ktv arabe
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/gmswf.m3u8
+#EXTINF:-1,ktv almajlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/gmswf.m3u8
+#EXTINF:-1,ktv plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/gmswf.m3u8
+#EXTINF:-1,ktv sports plus
+https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
+#EXTINF:-1,ALRAI
+http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8
