@@ -1,81 +1,92 @@
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Officebox 1HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1297.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Officebox 2HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1298.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Officebox 3HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1299.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Movies HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1300.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Movies 2 HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1301.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Movies Premiere
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1304.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Movies Premiere 2
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1305.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Movies Comedy HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1306.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Movies Action HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1302.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Movies Action 2 HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1303.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Yahala HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1309.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Yahala Shabab HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1311.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Yahala DraHD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1310.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Yahala CineHD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1312.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Cine1HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1313.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Cine2HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1314.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Ondemend Extra HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1308.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Ondemand HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1307.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,SeeVii-Shamia
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1317.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,SeeVii DraHD.
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1315.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,SeeVii Beelink HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1318.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,SeeVii Al oula HD
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1316.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Aflam 1
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1319.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Aflam 2
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1320.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Hekayat 1
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1321.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Hekayat 2
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1322.ts
-#EXTVLCOPT:http-user-agent=bbcc LibVLC/3.0.0-git
-#EXTINF:-1,Cinema
-http://163.172.49.213:8899/live/bigRmd/big10rmd/1323.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="osn",
+#EXTINF:1,need Hispeed connection
+http://www.
+
+#EXTINF:1,Nat Geo People HD
+http://sstv1.loseyourip.com/c.php?id=00583&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,ART Aflam 1
+http://sstv1.loseyourip.com/c.php?id=00331&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,ART Aflam 2
+http://sstv1.loseyourip.com/c.php?id=00332&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,ART Cinema
+http://sstv1.loseyourip.com/c.php?id=00333&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,ART Hekayat 1
+http://sstv1.loseyourip.com/c.php?id=00334&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,ART Hekayat 2
+http://sstv1.loseyourip.com/c.php?id=00335&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Al Yawm
+http://sstv1.loseyourip.com/c.php?id=00553&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Al Safwa
+http://sstv1.loseyourip.com/c.php?id=00554&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Yahala
+http://sstv1.loseyourip.com/c.php?id=00557&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Yahala Drama
+http://sstv1.loseyourip.com/c.php?id=00559&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Movies Action
+http://sstv1.loseyourip.com/c.php?id=00560&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Movies HD
+http://sstv1.loseyourip.com/c.php?id=00570&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Movies Premiere
+http://sstv1.loseyourip.com/c.php?id=00561&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Movies Festival
+http://sstv1.loseyourip.com/c.php?id=00562&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Movies Comedy
+http://sstv1.loseyourip.com/c.php?id=00564&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Movies Drama
+http://sstv1.loseyourip.com/c.php?id=00563&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Movies Kids
+http://sstv1.loseyourip.com/c.php?id=00565&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Star World HD
+http://sstv1.loseyourip.com/c.php?id=00574&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Star Movies
+http://sstv1.loseyourip.com/c.php?id=00911&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN First HD
+http://sstv1.loseyourip.com/c.php?id=00566&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN First HBO
+http://sstv1.loseyourip.com/c.php?id=00875&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN First Comedy
+http://sstv1.loseyourip.com/c.php?id=00567&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Bein Movies 1
+http://sstv1.loseyourip.com/c.php?id=05869&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Bein Movies 2
+http://sstv1.loseyourip.com/c.php?id=05870&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Bein Movies 3
+http://sstv1.loseyourip.com/c.php?id=77321&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,BEIN MOVIES 4 HD
+http://sstv1.loseyourip.com/c.php?id=00782&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Nat Geo HD
+http://sstv1.loseyourip.com/c.php?id=00581&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Nat Geo Wild HD
+http://sstv1.loseyourip.com/c.php?id=00582&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Animal Planet
+http://sstv1.loseyourip.com/c.php?id=00580&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,History HD
+http://sstv1.loseyourip.com/c.php?id=00579&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN On Demand
+http://sstv1.loseyourip.com/c.php?id=03916&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Yahala Cinema
+http://sstv1.loseyourip.com/c.php?id=04201&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,History 2 HD
+http://sstv1.loseyourip.com/c.php?id=03960&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OSN_BoxOffice_1
+http://sstv1.loseyourip.com/c.php?id=77317&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OSN_BoxOffice_2
+http://sstv1.loseyourip.com/c.php?id=77318&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OSN_BoxOffice_3
+http://sstv1.loseyourip.com/c.php?id=77319&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OSN ON DEMAND EXTRA
+http://sstv1.loseyourip.com/c.php?id=77322&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Discovery Science
+http://sstv1.loseyourip.com/c.php?id=00577&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Yahala Shabab test
+http://sstv1.loseyourip.com/c.php?id=00558&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OMN Movies Family test
+http://sstv1.loseyourip.com/c.php?id=00569&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Discovery ID test
+http://sstv1.loseyourip.com/c.php?id=00578&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Cinema 1 test
+http://sstv1.loseyourip.com/c.php?id=00571&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,Cinema 2 test
+http://sstv1.loseyourip.com/c.php?id=00572&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
+#EXTINF:1,OSN Syfy test
+http://sstv1.loseyourip.com/c.php?id=04278&user=yaser_wkmKS3&pass=hhPPTddV&mac=12345678
