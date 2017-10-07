@@ -1,14 +1,17 @@
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ytimg.com/vi/caXE8LHBm_4/hqdefault.jpg" tvg-name=" 2monde"  group-title="Morocoo",2M monde
+http://www.elahmad.com/tv/m3u8/elahmad_4trh5.m3u8?id=maroc2
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" tvg-name="aloula"  group-title="Morocoo",aloula
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/laayoune.png" tvg-name="al aoula laayoune"  group-title="Morocoo",al aoula laayoune
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png" tvg-name="arriadia"  group-title="Morocoo",arriadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png" tvg-name="athaqafia 4"  group-title="Morocoo",athaqafia 4
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/almaghribia.png" tvg-name="al maghribia"  group-title="Morocoo",al maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissa.png" tvg-name="assadissa"  group-title="Morocoo",assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/tamazight.png" tvg-name=" tamazight tv8"  group-title="Morocoo", tamazight tv8
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
-
-#EXTINF:-1,======MOROCO Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Assadissa
-http://iptv2.jan-beryan.giize.com/LQ-AR-Assadissa/index.m3u8
-#EXTINF:-1,2m maroco
-http://iptv2.jan-beryan.giize.com/LQ-AR-2M-Maroc/index.m3u8
-#EXTINF:-1,Arriadia
-http://iptv2.jan-beryan.giize.com/LQ-AR-Arriadia/index.m3u8
-#EXTINF:-1,Arriadia
-http://iptv2.jan-beryan.giize.com/LQ-AR-Arriadia/index.m3u8
-#EXTINF:-1,Arrabia
-http://iptv2.jan-beryan.giize.com/LQ-AR-Arrabiaa/index.m3u8
