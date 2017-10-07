@@ -1,28 +1,21 @@
-
-
-
-#EXTINF:-1,======TUNISIA Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Zaytoona
-http://iptv2.jan-beryan.giize.com/LQ-AR-Zaytoona/index.m3u8
-#EXTINF:-1,Nessma
-http://iptv2.jan-beryan.giize.com/LQ-AR-Nessma-TV/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="tunis",
+#EXTINF:-1,Tunisia 1
+http://ss1tv.ddnsgeek.com/hls/channel10/channel10.m3u8
+#EXTINF:-1,Tunisia 2
+http://ss1tv.ddnsgeek.com/hls/channel11/channel11.m3u8
 #EXTINF:-1,Hannibal
-http://iptv2.jan-beryan.giize.com/LQ-AR-Hannibal/index.m3u8
-#EXTINF:-1,tunisia nat 1
-http://iptv2.jan-beryan.giize.com/LQ-AR-Tunisia-Nat1/index.m3u8
-#EXTINF:-1,tunisia nat 2
-http://iptv2.jan-beryan.giize.com/LQ-AR-Tunisia-Nat2/index.m3u8
-#EXTINF:-1,Tunisia-Nat1
-http://iptv2.jan-beryan.giize.com/LQ-AR-Tunisia-Nat1/index.m3u8
-#EXTINF:-1,Tunisia nat 2
-http://iptv2.jan-beryan.giize.com/LQ-AR-Tunisia-Nat2/index.m3u8
-#EXTINF:-1,zaytoona
-http://iptv2.jan-beryan.giize.com/LQ-AR-Zaytoona/index.m3u8
-#EXTINF:-1,Hannibal
-http://iptv2.jan-beryan.giize.com/LQ-AR-Hannibal/index.m3u8
-#EXTINF:-1,Nessma
-http://iptv2.jan-beryan.giize.com/LQ-AR-Nessma-TV/index.m3u8
-
-
-
+http://ss1tv.ddnsgeek.com/hls/channel12/channel12.m3u8
+#EXTINF:-1,AL Ganoubia TV
+http://ss1tv.ddnsgeek.com/hls/channel13/channel13.m3u8
+#EXTINF:-1,tounis9
+http://ss1tv.ddnsgeek.com/hls/channel14/channel14.m3u8
+#EXTINF:-1,M
+http://ss1tv.ddnsgeek.com/hls/channel15/channel15.m3u8
+#EXTINF:-1,Al Tounsiya
+http://ss1tv.ddnsgeek.com/hls/channel16/channel16.m3u8
+#EXTINF:-1,telvaza
+http://ss1tv.ddnsgeek.com/hls/channel17/channel17.m3u8
+#EXTINF:-1,Tounisna
+http://ss1tv.ddnsgeek.com/hls/channel18/channel18.m3u8
+#EXTINF:-1,Nessma tunis
+http://ss1tv.ddnsgeek.com/hls/channel50/channel50.m3u8
