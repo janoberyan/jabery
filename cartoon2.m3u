@@ -1,65 +1,23 @@
-
-
-
-#EXTINF:-1,======KIDS Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,ajyal
-http://iptv2.jan-beryan.giize.com/LQ-AR-Ajyal/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="KIDS",
 #EXTINF:-1,baraem
-http://iptv2.jan-beryan.giize.com/LQ-AR-Baraem-Europe/index.m3u8
-#EXTINF:-1,Jeem europe
-http://iptv2.jan-beryan.giize.com/LQ-AR-Jeem-Europe/index.m3u8
-#EXTINF:-1,Karameesh
-http://iptv2.jan-beryan.giize.com/LQ-AR-Karameesh/index.m3u8
-#EXTINF:-1,sat 7 kids
-http://iptv2.jan-beryan.giize.com/LQ-AR-Sat7-Kids/index.m3u8
+http://cdnlab.gleeze.com/hls/channel19/channel19.m3u8
+#EXTINF:-1,hodhod
+http://cdnlab.gleeze.com/hls/channel20/channel20.m3u8
+#EXTINF:-1,jeem
+http://cdnlab.gleeze.com/hls/channel21/channel21.m3u8
+#EXTINF:-1,ajyal
+http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 #EXTINF:-1,spacetoon
-http://iptv2.jan-beryan.giize.com/LQ-AR-Spacetoon/index.m3u8
-#EXTINF:-1,tayba TV
-http://iptv2.jan-beryan.giize.com/LQ-AR-Tayba-TV/index.m3u8
-#EXTINF:-1,Toyor Aljanah
-http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Al-Janah/index.m3u8
-#EXTINF:-1,Toyor baby
-http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Baby/index.m3u8
-#EXTINF:-1,Toyor aljanah
-http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Al-Janah/index.m3u8
-#EXTINF:-1,Toyor baby
-http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Baby/index.m3u8
-#EXTINF:-1,Toyor aliraq
-http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Al-Iraq/index.m3u8
-#EXTINF:-1,spacetoon
-http://iptv2.jan-beryan.giize.com/LQ-AR-Spacetoon/index.m3u8
-#EXTINF:-1,Majid kids
-http://iptv2.jan-beryan.giize.com/LQ-AR-Majid-Kids/index.m3u8
-#EXTINF:-1,Cartoon-Network
-http://iptv2.jan-beryan.giize.com/LQ-AR-Cartoon-Network/index.m3u8
-#EXTINF:-1,Baraem
-http://iptv2.jan-beryan.giize.com/LQ-AR-Baraem/index.m3u8
-#EXTINF:-1,baraem europe
-http://iptv2.jan-beryan.giize.com/LQ-AR-Baraem-Europe/index.m3u8
-#EXTINF:-1,Karamesh
-http://iptv2.jan-beryan.giize.com/LQ-AR-Karameesh/index.m3u8
-#EXTINF:-1,Taha
-http://iptv2.jan-beryan.giize.com/LQ-AR-Taha/index.m3u8
-#EXTINF:-1,Atfal
-http://iptv2.jan-beryan.giize.com/LQ-AR-Atfal-TV/index.m3u8
-#EXTINF:-1,Ajyal
-http://iptv2.jan-beryan.giize.com/LQ-AR-Ajyal/index.m3u8
-#EXTINF:-1,Jeem Europe
-http://iptv2.jan-beryan.giize.com/LQ-AR-Jeem-Europe/index.m3u8
-#EXTINF:-1,Hod hod arabic
-http://iptv2.jan-beryan.giize.com/LQ-AR-HodHod-Arabic/index.m3u8
-#EXTINF:-1,koky kids
-http://iptv2.jan-beryan.giize.com/LQ-AR-Kokky-Kids/index.m3u8
-#EXTINF:-1,Semsem
-http://iptv2.jan-beryan.giize.com/LQ-AR-SemSem/index.m3u8
-#EXTINF:-1,Mouja tv
-http://iptv2.jan-beryan.giize.com/LQ-AR-Mouja-TV/index.m3u8
-#EXTINF:-1,Nour Kids
-http://iptv2.jan-beryan.giize.com/LQ-AR-Nour-Kids/index.m3u8
-#EXTINF:-1,Taha
-http://iptv2.jan-beryan.giize.com/LQ-AR-Taha/index.m3u8
-#EXTINF:-1,Toyor-Baby
-http://iptv2.jan-beryan.giize.com/LQ-AR-Toyor-Baby/index.m3u8
-
-
+http://edns.casacam.net:1935/live/spacetoon/playlist.m3u8
+#EXTINF:-1,majed kids
+http://adtv.ercdn.net/adsport7/adsport7.m3u8
+#EXTINF:-1,semsem
+http://edns.casacam.net:1935/live/semsem/playlist.m3u8
+#EXTINF:-1,sat7kids
+http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/playlist.m3u8
+#EXTINF:-1,toyor aljanah 
+https://www.youtube.com/watch?v=PrerHSj4jDg
+#EXTINF:-1,taha
+rtmp://93.95.207.36:9200/livepkgr/livestream2
+#EXTINF:-1,nour kids
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
