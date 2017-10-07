@@ -1,14 +1,14 @@
-#EXTINF:-6 tvg-logo="http://www.teledunet.com/logo/al%20sumaria.jpg" group-title="IRAQ" ,Sumaria
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sumaria.jpg" group-title="IRAQ" ,Sumaria
 http://youness-export.com/tv/sumaria
-#EXTINF:-6 tvg-logo="http://www.teledunet.com/logo/al%20sharqiya.jpg" group-title="IRAQ" ,AlSharqiya
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20sharqiya.jpg" group-title="IRAQ" ,AlSharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-7 tvg-logo="http://www.teledunet.com/logo/sharqia%20news.jpg" group-title="IRAQ" ,AlsharqiyaNews
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/sharqia%20news.jpg" group-title="IRAQ" ,AlsharqiyaNews
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
-#EXTINF:-4 tvg-logo="http://www.alqurtasnews.com/NewsImages/NB-186164-636087828264798947.jpg" group-title="IRAQ" ,Hounabaghdad
+#EXTINF:-1 tvg-logo="http://www.alqurtasnews.com/NewsImages/NB-186164-636087828264798947.jpg" group-title="IRAQ" ,Hounabaghdad
 https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 
-#EXTINF:-5 tvg-logo="http://www.dijlah.tv/templates/defaultNew/images/logo-sticky@2x.png" group-title="IRAQ" ,Dejlah
+#EXTINF:-1 tvg-logo="http://www.dijlah.tv/templates/defaultNew/images/logo-sticky@2x.png" group-title="IRAQ" ,Dejlah
 http://91.134.145.75/Dijlah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rasheed.jpg" group-title="IRAQ" ,AL Rasheed TV
@@ -18,7 +18,7 @@ http://212.18.231.213:1935/baghdad/ngrp:baghdad_all/gmswf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qow80muqnGQ/default.jpg" group-title="IRAQ" ,NRT Arabiya
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream/playlist.m3u8
-#EXTINF:-5 tvg-logo="https://yt3.ggpht.com/-sSWMDncpXjo/AAAAAAAAAAI/AAAAAAAAAAA/9cs5oMO3hMI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="IRAQ" ,Asia TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-sSWMDncpXjo/AAAAAAAAAAI/AAAAAAAAAAA/9cs5oMO3hMI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="IRAQ" ,Asia TV
 http://178.63.55.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.livetvswatch.com/uploads/afaq-tv-live-from-iraq.png" group-title="IRAQ" ,afaqtv
 http://212.18.231.213:1935/afaqtv/afaqtv_source/playlist.m3u8
