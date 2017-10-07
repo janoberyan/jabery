@@ -1,24 +1,15 @@
-
-#EXTINF:-1,======MBC Group=======
-http://iptv2.jan-beryan.giize.com/MBC1/index.m3u8
-
-#EXTINF:-1,mbc1
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,mbc2
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC2/index.m3u8
-#EXTINF:-1,mbc3
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC3/index.m3u8
-#EXTINF:-1,mbc4
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC4/index.m3u8
-#EXTINF:-1,MBC-Action
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-Action/index.m3u8
-#EXTINF:-1,mbc max
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-MAX/index.m3u8
-#EXTINF:-1,mbc drama
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-Drama/index.m3u8
-#EXTINF:-1,mbc masr
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-MASR/index.m3u8
-#EXTINF:-1,mbc masr 2
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-Masr2/index.m3u8
-#EXTINF:-1,mbc bollywood
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC-Bollywood/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="mbc",
+#EXTINF:-1,MBC1
+http://ss1tv.ddnsgeek.com/hls/channel20/channel20.m3u8
+#EXTINF:-1,MbC 3
+http://ss1tv.ddnsgeek.com/hls/channel22/channel22.m3u8
+#EXTINF:-1,MBC Action
+http://ss1tv.ddnsgeek.com/hls/channel23/channel23.m3u8
+#EXTINF:-1,MBC 2
+http://ss1tv.ddnsgeek.com/hls/channel24/channel24.m3u8
+#EXTINF:-1,MBC Max
+http://ss1tv.ddnsgeek.com/hls/channel25/channel25.m3u8
+#EXTINF:-1,MBC Bollywood
+http://ss1tv.ddnsgeek.com/hls/channel26/channel26.m3u8
+#EXTINF:-1,MBC Drama
+http://ss1tv.ddnsgeek.com/hls/channel27/channel27.m3u8
