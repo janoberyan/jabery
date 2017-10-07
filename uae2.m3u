@@ -1,29 +1,35 @@
-
-
-
-#EXTINF:-1,======UAE Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,Abu Dhabi
-http://iptv2.jan-beryan.giize.com/LQ-AR-Abu-Dhabi/index.m3u8
-#EXTINF:-1,dubai
-http://iptv2.jan-beryan.giize.com/LQ-AR-Dubai-TV/index.m3u8
-#EXTINF:-1, Dubai-Zaman
-http://iptv2.jan-beryan.giize.com/LQ-AR-Dubai-Zaman/index.m3u8
-#EXTINF:-1,dubai
-http://iptv2.jan-beryan.giize.com/LQ-AR-Dubai/index.m3u8
-#EXTINF:-1,Dubai-One
-http://iptv2.jan-beryan.giize.com/LQ-AR-Dubai-One/index.m3u8
-#EXTINF:-1,ALSHARJAH
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlSharjah/index.m3u8
-#EXTINF:-1,Dubai racing
-http://iptv2.jan-beryan.giize.com/LQ-AR-Dubai-Racing/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="UAE",UAE
+#EXTINF:-1,Dubai TV
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b750000.m3u8
+#EXTINF:-1,Dubai Drama
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.smil/chunklist_b750000.m3u8
+#EXTINF:-1,Dubai one
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b750000.m3u8
+#EXTINF:-1,sama Dubai
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b750000.m3u8
+#EXTINF:-1,Dubai zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b840000.m3u8
 #EXTINF:-1,noor dubai
-http://iptv2.jan-beryan.giize.com/LQ-AR-Noor-Dubai/index.m3u8
-#EXTINF:-1,samadubai
-http://iptv2.jan-beryan.giize.com/LQ-AR-Sama-Dubai/index.m3u8
-#EXTINF:-1,Alsharjah
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlSharjah/index.m3u8
-#EXTINF:-1,Aldafra
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlDafra/index.m3u8
-#EXTINF:-1,Fujairah
-http://iptv2.jan-beryan.giize.com/LQ-AR-Fujairah-TV/index.m3u8
+http://dmiftvll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b480000.m3u8
+#EXTINF:-1,alan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
+#EXTINF:-1,aldhafra
+http://91.74.179.172:1935/live/myStream2/gmswf.m3u8
+#EXTINF:-1,abudhabi
+http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
+#EXTINF:-1,abudhabi emarat
+http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
+#EXTINF:-1,abudhabi drama
+http://adtv.ercdn.net/addrama/addrama_480p.m3u8
+#EXTINF:-1,Natgeo abudhabi
+http://adtv.ercdn.net/adnatgeo/adnatgeo_480p.m3u8
+#EXTINF:-1,alsharqa
+https://svs.itworkscdn.net/smc1live/smc1.smil/gmswf.m3u8
+#EXTINF:-1,alsharqiya from kalba
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/gmswf.m3u8
+#EXTINF:-1,sharqa sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/gmswf.m3u8
+#EXTINF:-1,alfujera
+http://ccfz.dyndns.org:8282/hls-live/fujtv/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,alwoustatv
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/gmswf.m3u8
