@@ -1,117 +1,40 @@
+#EXTINF:-6 tvg-logo="http://www.teledunet.com/logo/al%20sumaria.jpg" group-title="IRAQ" ,Sumaria
+http://youness-export.com/tv/sumaria
+#EXTINF:-6 tvg-logo="http://www.teledunet.com/logo/al%20sharqiya.jpg" group-title="IRAQ" ,AlSharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-7 tvg-logo="http://www.teledunet.com/logo/sharqia%20news.jpg" group-title="IRAQ" ,AlsharqiyaNews
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
+#EXTINF:-4 tvg-logo="http://www.alqurtasnews.com/NewsImages/NB-186164-636087828264798947.jpg" group-title="IRAQ" ,Hounabaghdad
+https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 
+#EXTINF:-5 tvg-logo="http://www.dijlah.tv/templates/defaultNew/images/logo-sticky@2x.png" group-title="IRAQ" ,Dejlah
+http://91.134.145.75/Dijlah/playlist.m3u8
 
-#EXTINF:-1,======IRAQ Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-#EXTINF:-1,AR-AlSharqiya
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlSharqiya/index.m3u8
-#EXTINF:-1,AlSharqiya news
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlSharqiya-News/index.m3u8
-#EXTINF:-1,sumaria
-http://iptv2.jan-beryan.giize.com/LQ-AR-Sumaria/index.m3u8
-#EXTINF:-1,dijlah
-http://iptv2.jan-beryan.giize.com/LQ-AR-Dijlah/index.m3u8
-#EXTINF:-1,ANB
-http://iptv2.jan-beryan.giize.com/LQ-AR-ANB/index.m3u8
-#EXTINF:-1,Iraqia-Education
-http://iptv2.jan-beryan.giize.com/LQ-AR-Iraqia-Education/index.m3u8
-#EXTINF:-1,alforat
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlForat/index.m3u8
-#EXTINF:-1,iraqia
-http://iptv2.jan-beryan.giize.com/LQ-AR-Iraqia/index.m3u8
-#EXTINF:-1,AlRafiden
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlRafiden/index.m3u8
-#EXTINF:-1,Alrasheed
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlRasheed/index.m3u8
-#EXTINF:-1,beladi
-http://iptv2.jan-beryan.giize.com/LQ-AR-Beladi/index.m3u8
-#EXTINF:-1,Hona baghdad
-http://iptv2.jan-beryan.giize.com/LQ-AR-Hona-Baghdad/index.m3u8
-#EXTINF:-1,Karbala
-http://iptv2.jan-beryan.giize.com/LQ-AR-Karbala/index.m3u8
-#EXTINF:-1,samaraa
-http://iptv2.jan-beryan.giize.com/LQ-AR-Samaraa/index.m3u8
-#EXTINF:-1,Iraq future
-http://iptv2.jan-beryan.giize.com/LQ-AR-Iraq-Future/index.m3u8
-#EXTINF:-1,ALmasalah
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlMasalah/index.m3u8
-#EXTINF:-1,ALmasar
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlMasar/index.m3u8
-#EXTINF:-1,Almawsleya
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlMawsleya/index.m3u8
-#EXTINF:-1,Baghdad
-http://iptv2.jan-beryan.giize.com/LQ-AR-Baghdad-TV/index.m3u8
-#EXTINF:-1,Karbala
-http://iptv2.jan-beryan.giize.com/LQ-AR-Karbala/index.m3u8
-#EXTINF:-1,marjyat2
-http://iptv2.jan-beryan.giize.com/LQ-AR-Marjyat2/index.m3u8
-#EXTINF:-1,ahvaz
-http://iptv2.jan-beryan.giize.com/LQ-AR-Ahvaz-TV/index.m3u8
-#EXTINF:-1,Alsirat
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlSirat/index.m3u8
-#EXTINF:-1,alanbar
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alanbar/index.m3u8
-#EXTINF:-1,Alanwar
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlAnwar/index.m3u8
-#EXTINF:-1,Anwar2
-http://iptv2.jan-beryan.giize.com/LQ-AR-Anwar2/index.m3u8
-#EXTINF:-1,Alrafiden
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlRafiden/index.m3u8
-#EXTINF:-1,TURkManeli
-http://iptv2.jan-beryan.giize.com/LQ-AR-Turkmeneli/index.m3u8
-#EXTINF:-1,AlTurkmenia
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlTurkmenia-TV/index.m3u8
-#EXTINF:-1,Manhaj
-http://iptv2.jan-beryan.giize.com/LQ-AR-Manhaj/index.m3u8
-#EXTINF:-1,Asia
-http://iptv2.jan-beryan.giize.com/LQ-AR-Asia-TV/index.m3u8
-#EXTINF:-1,Alqamar
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlQamar/index.m3u8
-#EXTINF:-1,faloja
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlFalloja/index.m3u8
-#EXTINF:-1,Taleaa
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlTaleaa-TV/index.m3u8
-#EXTINF:-1,Almadi
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlMahdi/index.m3u8
-#EXTINF:-1,Alkazimy
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlKazimy/index.m3u8
-#EXTINF:-1,Alnaujaba
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlNaujaba/index.m3u8
-#EXTINF:-1,Alnaeem
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlNaeem/index.m3u8
-#EXTINF:-1,Aletijah
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlEtejah/index.m3u8
-#EXTINF:-1,Beladi
-http://iptv2.jan-beryan.giize.com/LQ-AR-Beladi/index.m3u8
-#EXTINF:-1,ANB
-http://iptv2.jan-beryan.giize.com/LQ-AR-ANB/index.m3u8
-#EXTINF:-1,Alnajef
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlNajef/index.m3u8
-#EXTINF:-1,Walayah
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlWalayah/index.m3u8
-#EXTINF:-1,shatharat
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlShatharat/index.m3u8
-#EXTINF:-1,Naynawa alghad
-http://iptv2.jan-beryan.giize.com/LQ-AR-Naynawa-Al-Ghad/index.m3u8
-#EXTINF:-1,Alsalam
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Salam-TV/index.m3u8
-#EXTINF:-1,alghadeer
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlGadeer/index.m3u8
-#EXTINF:-1,Almasirah
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Masirah/index.m3u8
-#EXTINF:-1,Alwalaa
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlWalaa-TV/index.m3u8
-#EXTINF:-1,Wesal tv
-http://iptv2.jan-beryan.giize.com/LQ-AR-Wesal-TV/index.m3u8
-#EXTINF:-1,Ishtar
-http://iptv2.jan-beryan.giize.com/LQ-AR-Ishtar/index.m3u8
-#EXTINF:-1,ANB
-http://iptv2.jan-beryan.giize.com/LQ-AR-ABN/index.m3u8
-#EXTINF:-1,Anb Assyrian
-http://iptv2.jan-beryan.giize.com/LQ-AR-ANB-Assyrian/index.m3u8
-#EXTINF:-1,Aqila TV
-http://iptv2.jan-beryan.giize.com/LQ-AR-Aqila-TV/index.m3u8
-#EXTINF:-1,AlMaaref
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlMaaref-TV/index.m3u8
-#EXTINF:-1,Kawther
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlKawthar/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20rasheed.jpg" group-title="IRAQ" ,AL Rasheed TV
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.arabi21.com/Content/Upload/large/5201543135.jpg" ,baghdad
+http://212.18.231.213:1935/baghdad/ngrp:baghdad_all/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qow80muqnGQ/default.jpg" group-title="IRAQ" ,NRT Arabiya
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream/playlist.m3u8
+#EXTINF:-5 tvg-logo="https://yt3.ggpht.com/-sSWMDncpXjo/AAAAAAAAAAI/AAAAAAAAAAA/9cs5oMO3hMI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="IRAQ" ,Asia TV
+http://178.63.55.18:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.livetvswatch.com/uploads/afaq-tv-live-from-iraq.png" group-title="IRAQ" ,afaqtv
+http://212.18.231.213:1935/afaqtv/afaqtv_source/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qow80muqnGQ/default.jpg" group-title="IRAQ" ,NRT Arabiya
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://iraqi-website.com/wp-content/uploads/2016/11/photo-2.jpg" group-title="IRAQ" ,Hadath Iraq TV
+http://streamer11.elementssys.com:8080/demo/Hadath/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.msrawytop.com/wp-content/uploads/2014/09/214.jpg" group-title="IRAQ" ,Anb iraq
+http://185.27.116.54:1935/live/anb.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.alahad.tv.iq/images/sitelogo.png" group-title="IRAQ" ,Alahad
+http://176.241.91.122/hls-live/livepkgr/_definst_/myliveevent/alahad.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20forat.jpg" group-title="IRAQ" ,alforat
+http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.altkiasat.com/wp-content/uploads/2015/09/%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1.png" group-title="IRAQ" ,ishtar TV
+http://avenuewtv1.srfms.com:2039/live/ishtar/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.assyriantv.net/wp-content/uploads/2016/08/logo.png" group-title="IRAQ" ,Assyria TV
+mms://66.242.170.200/AssyriaSat
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/al%20hurra%20iraq.jpg" group-title="IRAQ" ,alhura
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
