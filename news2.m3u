@@ -1,55 +1,18 @@
-
-
-
-#EXTINF:-1,======NEWS Group=======
-http://iptv2.jan-beryan.giize.com/LQ-AR-MBC1/index.m3u8
-
-#EXTINF:-1,Al-Arabiya
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya/index.m3u8
-#EXTINF:-1,Al-Jazeera
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Jazeera/index.m3u8
-#EXTINF:-1,alarabiya
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya/index.m3u8
-#EXTINF:-1,alarabiya hadath
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Arabiya-Hadath/index.m3u8
-#EXTINF:-1,aljazeera
-http://iptv2.jan-beryan.giize.com/LQ-AR-Al-Jazeera/index.m3u8
-#EXTINF:-1,aljazeera mubasher
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlJazeera-Mubasher/index.m3u8
-#EXTINF:-1,aljazeera documentry
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlJazeera-Documentary/index.m3u8
-#EXTINF:-1,alhurra
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alhurra/index.m3u8
-#EXTINF:-1,alhurra iraq
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alhurra-Iraq/index.m3u8
-#EXTINF:-1,France 24
-http://iptv2.jan-beryan.giize.com/LQ-AR-France24/index.m3u8
-#EXTINF:-1,BBc arabic
-http://iptv2.jan-beryan.giize.com/LQ-AR-BBC-Arabic/index.m3u8
-#EXTINF:-1,I24news
-http://iptv2.jan-beryan.giize.com/LQ-AR-I24-News/index.m3u8
-#EXTINF:-1,Alaan
-http://iptv2.jan-beryan.giize.com/LQ-AR-Alaan-Tv/index.m3u8
-#EXTINF:-1,Ann
-http://iptv2.jan-beryan.giize.com/LQ-AR-ANN/index.m3u8
-#EXTINF:-1,DW arabic
-http://iptv2.jan-beryan.giize.com/LQ-AR-DW-Arabic/index.m3u8
-#EXTINF:-1,CNBC 
-http://iptv2.jan-beryan.giize.com/LQ-AR-CNBC-Arabiya/index.m3u8
-#EXTINF:-1,AlAraby news
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlAraby/index.m3u8
-#EXTINF:-1,bbc arabic
-http://iptv2.jan-beryan.giize.com/LQ-AR-BBC-Arabic/index.m3u8
-#EXTINF:-1,France24
-http://iptv2.jan-beryan.giize.com/LQ-AR-France24/index.m3u8
-#EXTINF:-1,Orent news
-http://iptv2.jan-beryan.giize.com/LQ-AR-Orient/index.m3u8
-#EXTINF:-1,Palestine
-http://iptv2.jan-beryan.giize.com/LQ-AR-Palestine/index.m3u8
-#EXTINF:-1,alalam
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlAlam/index.m3u8
-#EXTINF:-1,Palestine-News
-http://iptv2.jan-beryan.giize.com/LQ-AR-Palestine-News/index.m3u8
-#EXTINF:-1,alalam news
-http://iptv2.jan-beryan.giize.com/LQ-AR-AlAlam/index.m3u8
-
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/8edd67af-f66b-4eaf-9702-840a060869aa/8edd67af-f66b-4eaf-9702-840a060869aa_16x9_600x338.jpg" tvg-name="alarabiya"  group-title="News",alarabiya
+https://live.alarabiya.net/alarabiya/myStream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.tunisvista.com/medias/AL-ARABIYA-AL-HADATH-LIVE.jpg" tvg-name="Alarabiya Alhadath"  group-title="News",Alarabiya Alhadath
+https://live.alhadath.net/hadath/myStream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.aljazeera.net/Views/Shared/shared/images/liveDefultImage.png" tvg-name="aljazeera News"  group-title="News",aljazeera News
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://arabic.rt.com/static/blocks/logo/logo-og.png" tvg-name="RT Arabic"  group-title="News",RT Arabic
+https://secure-streams.akamaized.net/rt-arab/index.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_11063/arabic_1024x576.png" tvg-name="BBC ARABIC"  group-title="News",BBC ARABIC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg" tvg-name="sky news arabia"  group-title="News",sky news arabia
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.cnbcarabia.com/img/logo.png" tvg-name="cnbc arabia"  group-title="News",cnbc arabia
+https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/ann_news_syria_channel_live_online_free_arabic_channel.jpg" tvg-name="ann"  group-title="News",ann
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="http://www.twsool.com/wp-content/uploads/2016/09/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.png" tvg-name="alaraby"  group-title="News",alaraby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
